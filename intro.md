@@ -2,7 +2,7 @@
 
 # Introduction
 
-This web site is meant to provide a gentle introduction to the science of sensation and perception. 
+This web site is meant to provide a gentle introduction to the science of sensation and perception, with references provided for deeper self-study. 
 
 # What is this all about?
 
