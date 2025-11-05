@@ -1,0 +1,5 @@
+# from: https://jupyterbook.org/stable/get-started/init/
+
+pip install "jupyter-book>=2.0.0a0"
+
+jupyter book init
