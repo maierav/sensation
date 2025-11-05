@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 8bb213a1-f8d5-46a0-9b4f-86a0b71e925d
+  # title: Sensation and Perception
+  # description: online textbook for PSY1200
+  # keywords: neuroscience
+  # authors: Alexander Maier
+  github: https://github.com/maierav/sensation
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
