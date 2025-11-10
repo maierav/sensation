@@ -1,30 +1,127 @@
-# SENSATION AND PERCEPTION - A PRIMER #
+# SENSATION AND PERCEPTION
 
 This web site is meant to provide a gentle introduction to the science of sensation and perception, with references provided for deeper self-study. 
+
+:::{tip}
+:class: dropdown
+:open: true
+Stop your reading each time you hit a box like this one. Sometimes these will be questions. Think about them for a moment and ask yourself how you would answer them before you continue reading. Sometimes these boxes will provide definitions. Ask yourself if you agree with them, and if not, how you would define the concept instead. If the box provides online links, check them out to see if they provide additional information that is new to you.
+:::
+
+
+## A Teaser
+
+Imagine what it would look like inside a giant room that is uniformly filled with very thick (dense) fog and uniformly illuminated with ambient red light. All we can see all around us is red fog.
+
+% AI render of dense red fog
+:::{figure} images/red_haze.png
+:label: fig:red_haze
+:alt: Thick, uniform red haze
+:width: 100%
+
+Imagine you are deep inside thick, red fog.
+:::
+
+In this (hypothetical) situation, it seems like we can just perceive "redness" all around us without also seeing a distinct shape. Let us consider that for a moment. What do we actually perceive here? What is that - "red"? Can we be more precise in describing what that is the "redness of red" that makes up virtually all of our visual perception in this scenario? 
+
+:::{admonition} ❓ Question
+:class: dropdown
+:open: true
+:icon: false
+How would you explain what "red" looks like to someone who was born blind?
+:::
+
+At first, we may think that there are indeed ways to describe red. After all, we use "red" in many other contexts other than when we describe the color (e.g., in calling anger "seeing red").
+
+:::{hint}
+:class: dropdown
+Is it helpful to describe red using associated concepts, such as "warm", "heat", or "love"? 
+
+Are these associations helpful for someone to understand what redness looks like if that person has never seen fire, or a heart symbol (such as this: ❤️)?
+:::
+
+Deeper reflection makes clear that there seems to be an interesting problem about the simple perception of red. If someone, for some reason, would see what we see as "green" whenever we see "red", it seems virtually impossible to find a way to find that out. Whenever we try to see if our perception, of say, a ripe tomato is the _same_ red, that person (who actually sees it as what we see as green) would agree with us that this is "red". After all, anything else that we call "red", they have called "red" their whole lives as well. How could they know that we see that color differently? 
+
+This thought experiment has fascinated people since centuries, and it has been termed the **inverted spectrum problem** [^1]. 
+
+[^1]: If you are interested to learn more, check out this free, [scholarly overview](https://plato.stanford.edu/entries/qualia-inverted/).
 
 ## Definitions
 
 _Sensation_ is the process our bodies undergo when acquiring information from our environment, such as when a touch sensor in our skin gets depressed. We are not aware of these processes, and many of them occur even when we are in dreamless sleep, coma, or general anesthesia. Sensation is an unconscious process.
 
-:::{note}
-Our _senses_ detect and quantify changes in our *physical* environment. 
+:::{note}✍️ Note
+:icon: false
+Our _senses_ detect and quantify _changes_ in our *physical* environment. 
 :::
 
 _Perception_ is what we *experience* following the process of sensation. That is perception is conscious (arguably the biggest part, or even all of our conscious experience). Note that perception also happens in isolation, fully discoupled from the real world, such as when we hallucinate or dream.
 
 _Science_ is the practice of applying logical reasoning and observations to answering questions about the world. 
 
-DO YOU AGREE WITH THESE DEFINITIONS? HOW WOULD YOU DEFINE THESE TERMS?
+:::{caution}
+:class: dropdown
+Do you agree with these definitions? How would you define these terms?
+:::
 
-## Naive Realism
+## Why Science?
 
+There has been an enormous amount of scientific research on sensation and perception. And, just like most science, the outcome of this collective effort has proven _productive_, _effective_, and _beneficial_ - and arguably more so than any other approach to studying sensation and perception. That is, thanks to the *science* of perception, we have become able to successfully help people that we had not been able to help before, such as using cochlear implants to allow people who were born deaf to become able to hear. It is success of this kind that lends strong support to science being worth doing and studying.
+
+:::{attention}
+Can you think of other arguments for doing and learning about science?
+:::
+
+But what is that - science? Somewhat surprisingly, this is not easy to answer definitely. There is wide general agreement on what we mean by "science", but debate sometimes errupts on where to exactly draw the line. Put simply, we have not managed to find both the _neccessary_ and _sufficient_ criteria that allow us to tell science from non-science. 
+
+:::{important}
+Finding the exact criteria that differentiate science from non-science is called the "demarcation problem". Many older textbooks of science suggest that such a criterion has been found by Karl Popper in demonstrating that science can never prove anything, but disprove erroneous assumptions ("faslification"). However, this is not a sufficient criterion since not everything that can be falsified is science. For example, the statement: "Tomorrow you will be the only human alive." can be falsified - you just wait until tomorrow and see if there still are other people alive. However, this does not seem to qualify as science. Another problem is that scientists also seem to struggle to falsify statements. In fact, it may be impossible to falsify statements based on empirical data. New data can always force scientists to revisit what they thought to be the case - including when they thought they had falsified something. Scientists long thought that the view that the "sun goes around the earth" had been falsified and that "the earth goes around the sun" instead. However, Einstein;s theory of relativity demonstrated that neither statement is false. In relativity, both statements are correct, depending on the chosen reference frame - the two views are mathematically equivalent.
+:::
+
+But the fact that there may be a bit of gray area at the margins does not take away from the large body of work that most people agree is science. This agreement has a few common denominators:
+
+:::{admonition} WHAT IS SCIENCE?
+**Science is a method**: Science is a _principled_ approach to understand the world.
+
+**Science starts with (and ends in) doubt**: The cornerstone of science is that _anything can be (and in fact, should be) doubted_. That is, the starting point of science is to not take any statement about the world for granted. Science assumes that _we know nothing for sure_. In other words, science assumes that _everything we know_ is just an assumption. At the same time, science assumes
+that _not all assumptions are valid_. Science does not assume that _we know nothing_, or that _we will never know anything_. Instead, science assumes that:
+    1. There is one reality, and hence absolute (objective, mind-independent) truth, a completely matching, accurate description, about what this reality is like.
+    2. We can gain insight into some assumptions about this reality being _more likely_ than others. In other words, we can make progress in finding assunmption about the world that are very unlikely to be correct, or true.
+
+**Science leverages reason (logic) and observations (empirical/experimental data)**: The scientific method, at its core, consists of a constant interplay, or iteration, between reasoning (theorizing) about the world, and testing consequences (predictions) that arise from these theoretical assumptions. New observations (data) can require theories to be adjusted to the answer that nature provides to our interrogations. And, on the flip side, theories ought to provide new suggestions for empirical tests to probe the theories for their predictive and explanatory power. _This process does not have a defined end point_. Science does not claim that it can ever find truth. All it claims is that we can progress on detecting wrong assumptions of ours, and use that realization to hone and improve on our theoretical assumptions. As the Scientist-Poet said:
+    The idea behind science is that **we err. But less and less and less.**
+:::
+
+However, we will not just discuss the science of perception. In fact, nothing we have discussed so far is science (yet). What we have done so far is reasoning that *precedes* science, or meta-science. In other words, we are in the realm of philosophy. 
+
+And there is a bit more philosophy that we need to discuss before we start with the science of perception proper. A lot about what we learn about the science of perception will make more sense after that. In fact, you might want to come back here again often as you progress in learning about the science of perception in order to reevaluate your thoughts on the overarching philosophical questions that we will discuss next.
+
+## Why is there a difference between Sensation and Perception?
+
+### Perception is not Reality
+
+:::{admonition} DEFINITION
 *Naive Realism* is the view that the world is your perception. That is, the world is exactly how you experience it. You feel, see, hear, smell, and taste things exactly as they are. We call this idea "naive" since it seems to reflect the way that children think about the world before they learn why this idea does not seem to work.
+:::
 
-IS NAIVE REALISM CORRECT OR WRONG? WHY?
+:::{admonition} QUESTION
+What do you think? Is naive realism correct or wrong? What arguments do you have to defend your view? 
+:::
 
 In fact, the starting point of the science of perception is the realization that what we feel, see, hear, smell, or taste is not to be confused with what the world is _actually_ like.
 
-This realization can esily be demonstrated with visual illusions, where we understand that what we _see_ is "wrong" in that our perception deviates from reality of the physical stimulus.
+This realization can esily be demonstrated with visual illusions, where we understand that what we _see_ is "wrong" in that our perception deviates from reality of the physical stimulus (see below):
+
+% Lilac Chaser Illusion
+:::{figure} images/lilac_chaser.gif
+:label: fig:relilac_chaser
+:alt: The Lilac Chaser illusion
+:width: 80%
+
+The Lilac Chaser illusion[^2]: Keep looking at the center cross and watch the animation changing.
+:::
+
+[^2]: https://en.wikipedia.org/wiki/Lilac_chaser
 
 One interesting fact about visual illusions is that they often persist even when exactly understand in what aspects they differ from the actual physical stimulus. In other words, even knowing *that* and *how* our perception differs from the real world does not help - our perception does not correct and adjust to what we know to be really the case.
 
@@ -38,16 +135,20 @@ There are many corrolaries from that view, many of which raise deep questions th
 
 ## Beyond Naive Realism
 
-### HOW INDIVIDUAL IS PERCEPTION? 
+### Do we all perceive the world differently? 
 If our perception is different from the world (i.e., what and how we perceive things is not the same as the physical reality of these things), the question arises if each of us perceives the world _differently_. 
 
-ASK YOURSELF - DO YOU THINK THAT WHAT I CALL "RED" MIGHT IN FACT BE WHAT YOU CALL "GREEN"? WOULD WE EVER ABLE TO FIND OUT? HOW?
+:::{admonition} QUESTION
+Ask yourself: Is it possible that what I call "red" in fact might look to me like what you call "green"? If I would see green where you see red, would we ever be able to find that out? How? 
+:::
 
 As we will see, the answer is a bit mixed. There are, of course, individual differences in, say, how we perceive color since some of us are what we colloquially call "color blind" (we will see why this is a misleading term). However, as we go along, we will see that we generally seem to perceive very much alike. 
 
-IS THAT SURPISING? WHY OR WHY NOT?
+:::{admonition} QUESTION
+Is it surprising that most of us seem to perceive colors similarly? Why does that or does that not surprise you?
+:::
 
-### WHAT AND HOW CAN WE KNOW ANYTHING ABOUT THE WORLD IF OUR PERCEPTION CAN BE WRONG?
+### If our perception can be misleading, how can we know what the world is actually like?
 Another puzzle that arises from our realization that we can fall pray to perceptual illusions is that this seems to put into question how we can _know_ that to be the case. DO we only know the world only from our perception? How else can we learn about the world? Can we know for certain that there really _is_ a world "outside" our perception?
 
 This line of questioning may seem ludicruous at first. We all seem to agree that there is a "real world out there". How could this be questioned? And, at first, there does not seem to be a problem to know what that world _is like_. Is that not what physics and other sciences do - tell us what the world "really is", even if different and independent of our own perception?
@@ -99,6 +200,8 @@ Another possible solution is that there really are two different things: a world
 
 There are many more ideas on that problem, some of which cannot neatly placed within the taxonomy above. However, these cateogories provide a somewhat of a sufficient survey of the field since most ideas come close to, or combine, these distinct schools of thought. To give you an example, some scholars will state that they are "_REDUCTIONIST PHYSICALIST_", for example. A popular version of this view is that "there is only the physical universe" and that perception "emerges" from some physical system in a way that can be explained by physical laws. Note, how this notion comes close to our option of _ASPECT DUALISM_.
 
+:::{admonition} QUESTION
 WHICH OF THESE IDEAS BEST DESCRIBE YOUR OWN VIEW? WHY DO YOU DISMISS THE OTHER VIEWS?
+:::
 
 For the purpose of this course, we will adopt a somewhat neutral dualistic stance. That is, we will base our knowledge about the world on the atural sciences such as physics, chemistry, and biology. At the same time, we will treat perception as a real phenomenon that goes beyond its behavioral or functional corrolaries. At the end of the semester, we will re-examine this view, and discuss how what we learned can also be applied to other views. As we will see, the scientific knowledge that we will gain will end up as largely compatible with _most_, if not all, of these views. At the same time, you will have learned new facts and logical insights that pose challenges to each of these views, thus making it even more interesting to ponder about their validity.
