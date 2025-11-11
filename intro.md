@@ -9,7 +9,7 @@ Stop your reading each time you hit a box like this one. Sometimes these will be
 :::
 
 
-## A Teaser
+## (How) can there be a science of perception?
 
 Imagine what it would look like inside a giant room that is uniformly filled with very thick (dense) fog and uniformly illuminated with ambient red light. All we can see all around us is red fog.
 
