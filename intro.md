@@ -9,7 +9,7 @@ Stop your reading each time you hit a box like this one. Sometimes these will be
 :::
 
 
-## (How) can there be a science of perception?
+## Perception poses a unique problem (that you might have never though about)
 
 Imagine what it would look like inside a giant room that is uniformly filled with very thick (dense) fog and uniformly illuminated with ambient red light. All we can see all around us is red fog.
 
@@ -55,7 +55,13 @@ _Sensation_ is the process our bodies undergo when acquiring information from ou
 Our _senses_ detect and quantify _changes_ in our *physical* environment. 
 :::
 
-_Perception_ is what we *experience* following the process of sensation. That is perception is conscious (arguably the biggest part, or even all of our conscious experience). Note that perception also happens in isolation, fully discoupled from the real world, such as when we hallucinate or dream.
+_Perception_ is what we *experience*. The most common notion of perception is the experience following the process of sensation. That is perception is conscious (arguably the biggest part, or even all of our conscious experience). Let's call that **perception in a narrow sense**. 
+
+Note, however, that a very similar state of perception can also happens without sensation, fully discoupled from the real world, such as when we hallucinate or dream. You can see a face either being looking at a physical stimulus, such as another person or photograph. But you can also see a face in dream sleep, with your eyes closed in darkness. 
+
+In this light, it could be argued that we should broaden what we mean by perception. And we might be left with (conscious) experience. Stretching this definition to the limit, we could even include beliefs, desires, and other seemingly non-sensory experiences as **perception in a broad sense**. 
+
+The lines definitely are blurry. Desire, for example, could be seen as the perception of the sensory process of certain chemicals (hormonones) within our blood. Belief, on the other hand, seems closer to seeing something in a dream in that there are no sensory counter parts. What belief and dreaminf have in common, though, is that they are _experienced_.
 
 _Science_ is the practice of applying logical reasoning and observations to answering questions about the world. 
 
@@ -64,7 +70,7 @@ _Science_ is the practice of applying logical reasoning and observations to answ
 Do you agree with these definitions? How would you define these terms?
 :::
 
-## Why Science?
+## Why Science? And what is that, actually?
 
 There has been an enormous amount of scientific research on sensation and perception. And, just like most science, the outcome of this collective effort has proven _productive_, _effective_, and _beneficial_ - and arguably more so than any other approach to studying sensation and perception. That is, thanks to the *science* of perception, we have become able to successfully help people that we had not been able to help before, such as using cochlear implants to allow people who were born deaf to become able to hear. It is success of this kind that lends strong support to science being worth doing and studying.
 
@@ -81,7 +87,17 @@ Finding the exact criteria that differentiate science from non-science is called
 But the fact that there may be a bit of gray area at the margins does not take away from the large body of work that most people agree is science. This agreement has a few common denominators:
 
 :::{admonition} WHAT IS SCIENCE?
-**Science is a method**: Science is a _principled_ approach to understand the world.
+**Science is a method**: Science is a _principled_ approach to understand the world. Exactly what constitues this method is frequently debated. Yet, there is broad consensus that science as a method starts with a _skeptical_ stance (see next section) in that it aims to find _sound_ answers to questions by sticking to a non-arbitrary, lawful (rigorous), precise and validated (fact-based) approach. If we strip the details, many have suggested, what we find at the heart of science is a constant, perhaps never ending, interplay of rational (logical) reasoning about questions and an attempt of arbitrating between the ideas that arise from this reasoning via empirical observation. That is, science produces ideas (conceptual theories) and then proceeds to match (test) the _consequences_ of these theories (i.e. predictions about what we can observe that arise from these theories) by leaving the armchair and collect data about the world - ideally in well-controlled experiments, and even better using quantitative rather than qualitative predictions and measurements. 
+
+Following observation, we may either gain or lose confidence in our theories given how well their predictions match what we find using these observations. Losing confidence may prompty us to refine our theories, or even abandon them altogether in lieu of new theories that we can then test again observationally. However, even if we gain confidence in our theories, we need to be prepared that additional (future) observations may prompt us to lose confidence at a later point in time. 
+
+Using this bare bones, overly simplistic description of science, we end up with a loop - a constant interplay between theory and observation. However, we are not going in circles. Each time we go around the loop, we seemingly progress in that we can detect flaws in our theories (if they fail to provide a good match between prediction and observation), and thereby arrive at new theories that might allow for better predictions and thus a closer match with what we observe.
+
+% Bare bones model of the scientific method
+:::{figure} images/scientific_method_simplistic.png
+:label: fig:simplistic_science_model
+:alt: An overly simplistic, bare bones model of the scientific method.
+:width: 100%
 
 **Science starts with (and ends in) doubt**: The cornerstone of science is that _anything can be (and in fact, should be) doubted_. That is, the starting point of science is to not take any statement about the world for granted. Science assumes that _we know nothing for sure_. In other words, science assumes that _everything we know_ is just an assumption. At the same time, science assumes
 that _not all assumptions are valid_. Science does not assume that _we know nothing_, or that _we will never know anything_. Instead, science assumes that:
