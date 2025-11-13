@@ -9,9 +9,9 @@ Stop your reading each time you hit a box like this one. Sometimes these will be
 :::
 
 
-## Perception poses a unique problem (that you might have never though about)
+## Perception: A Mystery
 
-Imagine what it would look like inside a giant room that is uniformly filled with very thick (dense) fog and uniformly illuminated with ambient red light. All we can see all around us is red fog.
+Imagine what it would look like inside a giant room that is uniformly filled with very thick (dense) fog and uniformly illuminated with ambient red light. All we can see all around us is red fog (Figure 1).
 
 % AI render of dense red fog
 :::{figure} images/red_haze.png
@@ -46,7 +46,49 @@ This thought experiment has fascinated people since centuries, and it has been t
 
 [^1]: If you are interested to learn more, check out this free, [scholarly overview](https://plato.stanford.edu/entries/qualia-inverted/).
 
-## Definitions
+## Foundations
+
+Now that we had to acknowledge that there is something about perception that seems puzzling, we may ask ourselves how we got there. 
+
+You may be burning to start learning about the science of perception. After all, the brain is very interesting, and there is indeed a lot of fascinating material to learn there. However, as you will see, the puzzle of perception **will remain**. 
+
+We thus might do best to first spend a bit more time ensuring that the house of knowledge that we are about to build has solid foundations. Otherwise, you might feel later on, that we already went wrong somewhere early on. On the flip side, if we carefully establish our starting point first and then carefully build up from there, we may find that the puzzle of perception cannot simply be explained away because we launched into neuroscience too hastily.
+
+### Agrippa's Trilemma
+
+Kids sometimes go through a phase where they keep asking "But why?". Something interesting happens in these situations: They seem justified in keep asking "But why?". 
+
+Imagine a parent tells a kid that is time to go to sleep. The kid asks "But why?" 
+
+The parent might reply "Because it is late and you are tired."
+
+"But why?"
+
+"Because our bodies have a need to sleep - that is why you feel tired."
+
+"But why?"
+
+At this point, a parent might have to admit that we do not actually know why animals periodically go into rest periods. Or perhaps the parent might go on and explain that there are some ideas why we have a need to sleep. But the kid can go on asking "But why?". Usually, the parent will at some point just end this line of inquiry by saying something like "Because it is so." However, both the parent and the kid will understand that this is not satisfying.
+
+Thinkers have long realized that this is interesting. These thinkers have come to the conclusion that there seemingly are only three ways that a consistent chain of asking "But why?" leads to one of three outcomes:
+
+(1) We end the inquiry by stating something that can no further be questioned (such as: "all animals need sleep"). We might call these unquestionable assumptioms "dogma", or "axioms". Either way, these are foundational - yet unfounded (unsupported) - beliefs for which can no further ago. Accordingly this starting point to knowledge from which we can build up answers to "why?" questions is called **Foundationalism**.
+
+(2) We end up going around in circles. That is, we embrace circular logic. We might end up saying that at the end of "But why?" questions we find two statements that support each other (such as: "all animals sleep" and that is because "without sleep animals cannot stay awake"). Supporting this outcome is called **Coherentism**. 
+
+(3) We could also opt for just keeping the "But why?" inquiry going on forever (such as going on about why we think that animals sleep and why we think that this tells us what is the case and why we believe that things are the case and so on). This solution to the problem of seemingly ending "But why?" questions is to counter them with never ending answers. This stance is called **Infinite Regress**. This may seem satisfying at first sight, but there is a certain absurdity that comes with the assumption that there is no starting point to knowledge. the psychologist William James explains this with a joke: 
+
+“The old lady said that the world rests on a big turtle.
+The scientist asked what the turtle rested on.
+‘Another turtle.’
+‘And what does that turtle rest on?’
+‘You can’t fool me, young man—it’s turtles all the way down!’ ”
+
+It is important to note that all three of these potential outcomes are on equal footing: There is no way to logically argue why one of them is preferable over the others. This realization is known as **Agrippa's Trilemma** (also called the Munchhausen Trilemma). It is a dilemma, or more accurately - a trilemma, because none of these three options seem satisfying. Neither for kids, mnor for adults.
+
+As we will see, mathematics seems to choose Foundationalism over the other two possibilities. And as we will see, mathematics is _indispensable_ for science. We hence will aim to start with a foundationalist stance. That is, we will start with a few statements that are hopefully agreeable as non-questionable starting points. We will earmark them as "preliminary", however. That is, once we arrived at deeper insight we might want to come back to these foundational beliefs and examine whether we still agree with the assumptions that we started from.
+
+### Preliminary Definitions
 
 _Sensation_ is the process our bodies undergo when acquiring information from our environment, such as when a touch sensor in our skin gets depressed. We are not aware of these processes, and many of them occur even when we are in dreamless sleep, coma, or general anesthesia. Sensation is an unconscious process.
 
@@ -70,7 +112,7 @@ _Science_ is the practice of applying logical reasoning and observations to answ
 Do you agree with these definitions? How would you define these terms?
 :::
 
-## Why Science? And what is that, actually?
+## Why Science? And what is that exactly?
 
 There has been an enormous amount of scientific research on sensation and perception. And, just like most science, the outcome of this collective effort has proven _productive_, _effective_, and _beneficial_ - and arguably more so than any other approach to studying sensation and perception. That is, thanks to the *science* of perception, we have become able to successfully help people that we had not been able to help before, such as using cochlear implants to allow people who were born deaf to become able to hear. It is success of this kind that lends strong support to science being worth doing and studying.
 
@@ -91,13 +133,7 @@ But the fact that there may be a bit of gray area at the margins does not take a
 
 Following observation, we may either gain or lose confidence in our theories given how well their predictions match what we find using these observations. Losing confidence may prompty us to refine our theories, or even abandon them altogether in lieu of new theories that we can then test again observationally. However, even if we gain confidence in our theories, we need to be prepared that additional (future) observations may prompt us to lose confidence at a later point in time. 
 
-Using this bare bones, overly simplistic description of science, we end up with a loop - a constant interplay between theory and observation. However, we are not going in circles. Each time we go around the loop, we seemingly progress in that we can detect flaws in our theories (if they fail to provide a good match between prediction and observation), and thereby arrive at new theories that might allow for better predictions and thus a closer match with what we observe.
-
-% Bare bones model of the scientific method
-:::{figure} images/scientific_method_simplistic.png
-:label: fig:simplistic_science_model
-:alt: An overly simplistic, bare bones model of the scientific method.
-:width: 100%
+Using this bare bones, overly simplistic description of science, we end up with a loop - a constant interplay between theory and observation. However, we are not going in circles. Each time we go around the loop, we seemingly progress in that we can detect flaws in our theories (if they fail to provide a good match between prediction and observation), and thereby arrive at new theories that might allow for better predictions and thus a closer match with what we observe (Figure 2).
 
 **Science starts with (and ends in) doubt**: The cornerstone of science is that _anything can be (and in fact, should be) doubted_. That is, the starting point of science is to not take any statement about the world for granted. Science assumes that _we know nothing for sure_. In other words, science assumes that _everything we know_ is just an assumption. At the same time, science assumes
 that _not all assumptions are valid_. Science does not assume that _we know nothing_, or that _we will never know anything_. Instead, science assumes that:
@@ -108,11 +144,20 @@ that _not all assumptions are valid_. Science does not assume that _we know noth
     The idea behind science is that **we err. But less and less and less.**
 :::
 
+% Bare bones model of the scientific method
+:::{figure} images/scientific_method_simplistic.png
+:label: fig:simplistic_science_model
+:alt: An overly simplistic, bare bones model of the scientific method.
+:width: 50%
+
+Figure 2: An overly simplistic, bare bones model of the scientific method.
+:::
+
 However, we will not just discuss the science of perception. In fact, nothing we have discussed so far is science (yet). What we have done so far is reasoning that *precedes* science, or meta-science. In other words, we are in the realm of philosophy. 
 
 And there is a bit more philosophy that we need to discuss before we start with the science of perception proper. A lot about what we learn about the science of perception will make more sense after that. In fact, you might want to come back here again often as you progress in learning about the science of perception in order to reevaluate your thoughts on the overarching philosophical questions that we will discuss next.
 
-## Why is there a difference between Sensation and Perception?
+## What is the difference between Sensation and Perception?
 
 ### Perception is not Reality
 
@@ -126,7 +171,7 @@ What do you think? Is naive realism correct or wrong? What arguments do you have
 
 In fact, the starting point of the science of perception is the realization that what we feel, see, hear, smell, or taste is not to be confused with what the world is _actually_ like.
 
-This realization can esily be demonstrated with visual illusions, where we understand that what we _see_ is "wrong" in that our perception deviates from reality of the physical stimulus (see below):
+This realization can esily be demonstrated with visual illusions, where we understand that what we _see_ is "wrong" in that our perception deviates from reality of the physical stimulus (Figure 3):
 
 % Lilac Chaser Illusion
 :::{figure} images/lilac_chaser.gif
