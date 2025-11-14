@@ -1,6 +1,8 @@
 # SENSATION AND PERCEPTION
 
-This web site is meant to provide a gentle introduction to the science of sensation and perception, with references provided for deeper self-study. 
+This web site is meant to provide a gentle introduction to the science of sensation and perception, with a few select scholarly references provided for deeper self-study. 
+
+We will start with an interesting observation about perception that seems to counter our intuitions and ponder its basic philosophical implications. We then will try to work our way from the philosophical insights (i.e., the deepest foundations we can find) to modern science. This exercise will involve taking on a bit of formal logic and mathematics before investigating if these tools of science can be applied to perception. We then will review the psychology and neuroscience of sensation and perception, which provides the bulk of our modern knowledge about perception. Much of this work is focused on vision (seeing), but we will also review our other modalities (senses). Lastly, we will return to mathematics and explore whether everything we have learned can be synthesized into a coherent view that merges the philosophy, psychology, and neuroscience of perception. Interested? Then, let us get started!
 
 :::{tip}
 :class: dropdown
