@@ -9,7 +9,7 @@ Stop your reading each time you hit a box like this one. Sometimes these will be
 :::
 
 
-## Perception: A Mystery
+## MOTIVATION
 
 Imagine what it would look like inside a giant room that is uniformly filled with very thick (dense) fog and uniformly illuminated with ambient red light. All we can see all around us is red fog (Figure 1).
 
@@ -55,7 +55,7 @@ This thought experiment has fascinated people since centuries, and it has been t
 The Inverted Spectrum Problem. If there were people among us who see red as green and green as red, it seems like they and us would never be able to find out.
 :::
 
-## Foundations
+## FOUNDATIONS
 
 Now that we had to acknowledge that there is something about perception that seems puzzling, we may ask ourselves how we got there. 
 
@@ -63,7 +63,9 @@ You may be burning to start learning about the science of perception. After all,
 
 We thus might do best to first spend a bit more time ensuring that the house of knowledge that we are about to build has solid foundations. Otherwise, you might feel later on, that we already went wrong somewhere early on. On the flip side, if we carefully establish our starting point first and then carefully build up from there, we may find that the puzzle of perception cannot simply be explained away because we launched into neuroscience too hastily.
 
-### Agrippa's Trilemma
+### Epistemology
+
+#### Agrippa's Trilemma
 
 Kids sometimes go through a phase where they keep asking "But why?". Something interesting happens in these situations: They seem justified in keep asking "But why?". 
 
@@ -97,7 +99,7 @@ It is important to note that all three of these potential outcomes are on equal 
 
 As we will see, mathematics seems to choose Foundationalism over the other two possibilities. And as we will see, mathematics is _indispensable_ for science. We hence will aim to start with a foundationalist stance. That is, we will start with a few statements that are hopefully agreeable as non-questionable starting points. We will earmark them as "preliminary", however. That is, once we arrived at deeper insight we might want to come back to these foundational beliefs and examine whether we still agree with the assumptions that we started from.
 
-### Preliminary Definitions
+#### Preliminary Definitions
 
 _Sensation_ is the process our bodies undergo when acquiring information from our environment, such as when a touch sensor in our skin gets depressed. We are not aware of these processes, and many of them occur even when we are in dreamless sleep, coma, or general anesthesia. Sensation is an unconscious process.
 
@@ -121,7 +123,7 @@ _Science_ is the practice of applying logical reasoning and observations to answ
 Do you agree with these definitions? How would you define these terms?
 :::
 
-## Why Science? And what is that exactly?
+## SCIENCE
 
 There has been an enormous amount of scientific research on sensation and perception. And, just like most science, the outcome of this collective effort has proven _productive_, _effective_, and _beneficial_ - and arguably more so than any other approach to studying sensation and perception. That is, thanks to the *science* of perception, we have become able to successfully help people that we had not been able to help before, such as using cochlear implants to allow people who were born deaf to become able to hear. It is success of this kind that lends strong support to science being worth doing and studying.
 
@@ -166,9 +168,9 @@ However, we will not just discuss the science of perception. In fact, nothing we
 
 And there is a bit more philosophy that we need to discuss before we start with the science of perception proper. A lot about what we learn about the science of perception will make more sense after that. In fact, you might want to come back here again often as you progress in learning about the science of perception in order to reevaluate your thoughts on the overarching philosophical questions that we will discuss next.
 
-## What is the difference between Sensation and Perception?
+### Sensation vs. Perception
 
-### Perception is not Reality
+#### Perception vs. Reality
 
 :::{admonition} DEFINITION
 *Naive Realism* is the view that the world is your perception. That is, the world is exactly how you experience it. You feel, see, hear, smell, and taste things exactly as they are. We call this idea "naive" since it seems to reflect the way that children think about the world before they learn why this idea does not seem to work.
@@ -203,9 +205,19 @@ The consequence of this insight is that there seem to be two different things, o
 
 There are many corrolaries from that view, many of which raise deep questions that humanity has not found satisfying answers for yet. 
 
-## Beyond Naive Realism
+### Ontology
 
-### Do we all perceive the world differently? 
+% The scientific worldview
+:::{figure} images/scientific_view.png
+:label: fig:scientific_view
+:alt: The scientific worldview
+:width: 90%
+
+Figure: The scientific worldview. Rather than equating our perception with the world, scientists see the world as a complex dynamic system following mathematical laws, much of which is not directly perceived, and some of it not perceivable at all. The challenge then becomes to _explain_ how the world of our perception relates and comes about from the physical world. 
+:::
+
+
+#### Do we all perceive the world differently? 
 If our perception is different from the world (i.e., what and how we perceive things is not the same as the physical reality of these things), the question arises if each of us perceives the world _differently_. 
 
 :::{admonition} QUESTION
@@ -218,14 +230,14 @@ As we will see, the answer is a bit mixed. There are, of course, individual diff
 Is it surprising that most of us seem to perceive colors similarly? Why does that or does that not surprise you?
 :::
 
-### If our perception can be misleading, how can we know what the world is actually like?
+#### If our perception can be misleading, how can we know what the world is actually like?
 Another puzzle that arises from our realization that we can fall pray to perceptual illusions is that this seems to put into question how we can _know_ that to be the case. DO we only know the world only from our perception? How else can we learn about the world? Can we know for certain that there really _is_ a world "outside" our perception?
 
 This line of questioning may seem ludicruous at first. We all seem to agree that there is a "real world out there". How could this be questioned? And, at first, there does not seem to be a problem to know what that world _is like_. Is that not what physics and other sciences do - tell us what the world "really is", even if different and independent of our own perception?
 
 But deeper reflection makes clear that this is not, in fact, so easy. Let us unpack that.
 
-#### PLATO'S CAVE
+##### PLATO'S CAVE
 You might have heard about Plato's allegory of the cave. In this ancient ficticious story, a group of people is held hostage inside a cave. They grew up there and never were able to step outside. In fact, these people do not even know that there is an outside. Since they grew up inside that cave, they have no reason to believe that the world is much more than that one place - the only place - that they know Plato wants us to imagine what things would be like for these people. 
 
 Plato goes on that we should imagine that these people are chained to a wall so that they cannot turn around and see what is behind them. Again, he asks us to just imagine the scenario and put ourselves into the shoes of these people to make an interesting point.
@@ -245,10 +257,10 @@ Finding out what the real world, that is responsible for the "shadows" of our pe
 
 This may still sound a bit confusing at this point. After all, we have not talked about what role our brains play in all of that (and since brains are obviously also part of that world that we perceive). We all share to some degree the notion that our brains are linked to our feelings, our ability to see, hear, smell, or taste. But what we will learn soon is _how closely_ linked the actions of our brain are to what we perceive. For now, it is only important to follow the logic of Plato's allegory: _If_ our direct acquintance with the world is our perception, and that perception can be unreliable (as in the sxistence of illusions), the problem arises that we have to find additional ways other than our perception to learn about the world.
 
-#### PERCEPTION vs. WORLD
+##### PERCEPTION vs. WORLD
 Many thinkers that followed Plato have thought deeply about this issue. However, they failed to all settle on the same solution. Instead, these scholars have endowed us with a variety of ways to think about that problem, each arguing for their favorite idea. Let us briefly (and superficially) examine the various proposed answers. The academic field that studies these ideas is called _PHILOSOPHY OF MIND_, and there are thousands of academic works on this subject. Here we will attempt at the most minimal possible overview of major "schoolf of thought" within this field:
 
-##### MONISM
+###### MONISM
 One possible solution is that there really is only one thing. That is, the assumption that we had that there is a world and our perception of the world is wrong. This leaves only two options: All is the world (i.e., there is no perception), or all is perception (there is no world).
 
 The actual ideas are a bit more complex, but they do not deviate far from the sentence above. The technical terms we use for these ideas are:
@@ -261,7 +273,7 @@ The actual ideas are a bit more complex, but they do not deviate far from the se
 
     **PANPSYCHISM**: Everything is perception. This view grants that there is "a world out there", but it assumes that that which exists outside our own perception is even more perception - a grand ocean of perception, if you will. Proponents of this view suggest that something keeps our own perception separate from the rest of perception out there.
 
-##### DUALISM
+###### DUALISM
 Another possible solution is that there really are two different things: a world and our perception. But there are some disagreements on what exactly makes them different.
 
 **SUBSTANCE DUALISM**: This view, often credited to René Descartes, even though it can be found in many (older) cultures around the world is that your perception is real, yet "immaterial". And that the world is "material", or physical. Proponents of this view try to explain why and how these two domains are linked, such as how (material) brain damage or intoxication can alter (immaterial) perception. On this view, (immaterial) perception might also be able to affect the (material) world.
@@ -275,3 +287,5 @@ WHICH OF THESE IDEAS BEST DESCRIBE YOUR OWN VIEW? WHY DO YOU DISMISS THE OTHER V
 :::
 
 For the purpose of this course, we will adopt a somewhat neutral dualistic stance. That is, we will base our knowledge about the world on the atural sciences such as physics, chemistry, and biology. At the same time, we will treat perception as a real phenomenon that goes beyond its behavioral or functional corrolaries. At the end of the semester, we will re-examine this view, and discuss how what we learned can also be applied to other views. As we will see, the scientific knowledge that we will gain will end up as largely compatible with _most_, if not all, of these views. At the same time, you will have learned new facts and logical insights that pose challenges to each of these views, thus making it even more interesting to ponder about their validity.
+
+## MATHEMATICS 
