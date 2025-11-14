@@ -317,8 +317,8 @@ Another possible solution is that there really are two different things: a world
 There are many more ideas on that problem, some of which cannot neatly placed within the taxonomy above. However, these cateogories provide a somewhat of a sufficient survey of the field since most ideas come close to, or combine, these distinct schools of thought. To give you an example, some scholars will state that they are "_REDUCTIONIST PHYSICALIST_", for example. A popular version of this view is that "there is only the physical universe" and that perception "emerges" from some physical system in a way that can be explained by physical laws. Note, how this notion comes close to our option of _ASPECT DUALISM_.
 
 % A Graveyard of Isms
-:::{figure} graveyard_of_isms.png
-:label: fig:wiki_physic
+:::{figure} images/graveyard_of_isms.png
+:label: fig:Isms
 :alt: Isms
 :width: 80%
 
@@ -338,7 +338,7 @@ When we think about science, including biology, geology, chemistry, and especial
 
 % Math and Physics
 :::{figure} images/wiki_physics.png
-:label: fig:wiki_physic
+:label: fig:wiki_physics
 :alt: Math and Physics
 :width: 70%
 
