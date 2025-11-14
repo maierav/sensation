@@ -316,6 +316,16 @@ Another possible solution is that there really are two different things: a world
 
 There are many more ideas on that problem, some of which cannot neatly placed within the taxonomy above. However, these cateogories provide a somewhat of a sufficient survey of the field since most ideas come close to, or combine, these distinct schools of thought. To give you an example, some scholars will state that they are "_REDUCTIONIST PHYSICALIST_", for example. A popular version of this view is that "there is only the physical universe" and that perception "emerges" from some physical system in a way that can be explained by physical laws. Note, how this notion comes close to our option of _ASPECT DUALISM_.
 
+% A Graveyard of Isms
+:::{figure} graveyard_of_isms.png
+:label: fig:wiki_physic
+:alt: Isms
+:width: 80%
+
+A simplified logical space of possible views regarding conscious perception and the material (physical) world. Note that not every Philosopher of Science would agree with this taxonomy and that there are many more suggested solutions. However, when thinking about the problem in broad-strokes, disallowing for nuance, excemptions, and complications, there is a limited set of possibilities regarding if one or both exists, and how they may relate causally.
+:::
+
+
 :::{admonition} QUESTION
 WHICH OF THESE IDEAS BEST DESCRIBE YOUR OWN VIEW? WHY DO YOU DISMISS THE OTHER VIEWS?
 :::
