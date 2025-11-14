@@ -2,6 +2,15 @@
 
 This web site is meant to provide a gentle introduction to the science of sensation and perception, with a few select scholarly references provided for deeper self-study. 
 
+% Perception
+:::{figure} images/Mach.png
+:label: fig:perception
+:alt: Perception
+:width: 60%
+
+Sketch of Ernst Mach of visual perception with the right eye closed.
+:::
+
 We will start with an interesting observation about perception that seems to counter our intuitions and ponder its basic philosophical implications. We then will try to work our way from the philosophical insights (i.e., the deepest foundations we can find) to modern science. This exercise will involve taking on a bit of formal logic and mathematics before investigating if these tools of science can be applied to perception. We then will review the psychology and neuroscience of sensation and perception, which provides the bulk of our modern knowledge about perception. Much of this work is focused on vision (seeing), but we will also review our other modalities (senses). Lastly, we will return to mathematics and explore whether everything we have learned can be synthesized into a coherent view that merges the philosophy, psychology, and neuroscience of perception. Interested? Then, let us get started!
 
 :::{tip}
@@ -66,6 +75,23 @@ You may be burning to start learning about the science of perception. After all,
 We thus might do best to first spend a bit more time ensuring that the house of knowledge that we are about to build has solid foundations. Otherwise, you might feel later on, that we already went wrong somewhere early on. On the flip side, if we carefully establish our starting point first and then carefully build up from there, we may find that the puzzle of perception cannot simply be explained away because we launched into neuroscience too hastily.
 
 ### Epistemology
+
+Epistemology is the philsosophical discipline that is interested in finding out if and how we can know anything. That seems like a good start when embarking on a journey of gaining greater knowledge. We first should ask ourselves if we can know anything in the first place, and then clarify how we can know anything, and where the limits of knowability might lie.
+
+To make that a bit more tangible, let us do a quick thought experiment:
+
+:::{admonition} ❓ Question
+:class: dropdown
+:open: true
+:icon: false
+Can you be certain that you are awake right now and not dreaming?
+
+Can you be certain that you are not living inside a VR simulation (like in the matrix movies)?
+
+Can you be certain that you were not just coming into existence with the rest of the world a minute ago, with everyone who also came into existence at this point and yourself coming into existence with the memories of "a time before"?
+
+How can all these be ruled out?
+:::
 
 #### Agrippa's Trilemma
 
@@ -163,7 +189,7 @@ that _not all assumptions are valid_. Science does not assume that _we know noth
 :alt: An overly simplistic, bare bones model of the scientific method.
 :width: 50%
 
-Figure 2: An overly simplistic, bare bones model of the scientific method.
+An overly simplistic, bare bones model of the scientific method.
 :::
 
 However, we will not just discuss the science of perception. In fact, nothing we have discussed so far is science (yet). What we have done so far is reasoning that *precedes* science, or meta-science. In other words, we are in the realm of philosophy. 
@@ -209,13 +235,19 @@ There are many corrolaries from that view, many of which raise deep questions th
 
 ### Ontology
 
+We talked already about how philosophers call thinking about the limits of what we can know _epistemology_. Thinking about that what  exists is called _ontology_. Together, these two types of thinking form an interplay of that which exists (the ontic) and what we can know about it (the epistemic). Our perception seems to be neither - it is not knowledge and it does not seem to be what really exists, so we call thinking about our perception _phenomenology_.
+
+Naive realism, in a way, is a simple epistemology where phenomenology is equated with ontology, Realizing that we do not perceive the world as it is leads to a more sophisticated epistemology that differentiates between our phenomenology and ontology. But what can we know about ontology? Metaphorically speaking, if our phenomenology is akin to the shadows seen by the prisoner's in Plato's Cave, how can we find out what is actually going on outside the cave?
+
+If naive realism is problematic, which other worldviews are there that might be more convincing? You might immediately think about science, especially since we argued for its strength above. And, indeed, the scientific worldview differs widely from naive realism. However, as we will see, there actually are a large variety of very different worldviews that all claim to be compatible with science. And many of these diverging worldviews that base themselves off science differ in how they think about perception!
+
 % The scientific worldview
 :::{figure} images/scientific_view.png
 :label: fig:scientific_view
 :alt: The scientific worldview
 :width: 90%
 
-Figure: The scientific worldview. Rather than equating our perception with the world, scientists see the world as a complex dynamic system following mathematical laws, much of which is not directly perceived, and some of it not perceivable at all. The challenge then becomes to _explain_ how the world of our perception relates and comes about from the physical world. 
+The scientific worldview. Rather than equating our perception with the world, scientists see the world as a complex dynamic system following mathematical laws, much of which is not directly perceived, and some of it not perceivable at all. The challenge then becomes to _explain_ how the world of our perception relates and comes about from the physical world. 
 :::
 
 
@@ -291,3 +323,14 @@ WHICH OF THESE IDEAS BEST DESCRIBE YOUR OWN VIEW? WHY DO YOU DISMISS THE OTHER V
 For the purpose of this course, we will adopt a somewhat neutral dualistic stance. That is, we will base our knowledge about the world on the atural sciences such as physics, chemistry, and biology. At the same time, we will treat perception as a real phenomenon that goes beyond its behavioral or functional corrolaries. At the end of the semester, we will re-examine this view, and discuss how what we learned can also be applied to other views. As we will see, the scientific knowledge that we will gain will end up as largely compatible with _most_, if not all, of these views. At the same time, you will have learned new facts and logical insights that pose challenges to each of these views, thus making it even more interesting to ponder about their validity.
 
 ## MATHEMATICS 
+
+When we think about science, including biology, geology, chemistry, and especially physics, we tend to also think about mathematics. In fact, we seem to be rarely taken aback when we encounter physics in a lecture or a textbook and _most_ of what we are confronted with is mathematics. 
+
+% Math and Physics
+:::{figure} images/wiki_physics.png
+:label: fig:wiki_physic
+:alt: Math and Physics
+:width: 70%
+
+The _wikipedia_ entry on "Physics" shows a mathematical diagram under "Scopes and Aims".
+:::
