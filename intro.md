@@ -46,6 +46,15 @@ This thought experiment has fascinated people since centuries, and it has been t
 
 [^1]: If you are interested to learn more, check out this free, [scholarly overview](https://plato.stanford.edu/entries/qualia-inverted/).
 
+% Inverted Spectrum Problem
+:::{figure} images/inverted_spectrum.png
+:label: fig: inverted_spectrum
+:alt: Inverted Spectrum Problem
+:width: 80%
+
+The Inverted Spectrum Problem. If there were people among us who see red as green and green as red, it seems like they and us would never be able to find out.
+:::
+
 ## Foundations
 
 Now that we had to acknowledge that there is something about perception that seems puzzling, we may ask ourselves how we got there. 
