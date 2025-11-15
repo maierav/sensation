@@ -11,5 +11,4 @@ project:
 site:
   template: book-theme
   # options:
-     favicon: logo.svg
-     logo: logo.svg
+
