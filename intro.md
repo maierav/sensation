@@ -123,7 +123,9 @@ The scientist asked what the turtle rested on.
 ‘And what does that turtle rest on?’
 ‘You can’t fool me, young man—it’s turtles all the way down!’ ”
 
-It is important to note that all three of these potential outcomes are on equal footing: There is no way to logically argue why one of them is preferable over the others. This realization is known as **Agrippa's Trilemma** (also called the Munchhausen Trilemma). It is a dilemma, or more accurately - a trilemma, because none of these three options seem satisfying. Neither for kids, mnor for adults.
+It is important to note that all three of these potential outcomes are on equal footing: There is no way to logically argue why one of them is preferable over the others. This realization is known as **Agrippa's Trilemma** (also called the Munchhausen Trilemma)[^2]. It is a dilemma, or more accurately - a trilemma, because none of these three options seem satisfying. Neither for kids, mnor for adults.
+
+[^2]: Another option to escape Agrippa's Trilemma is to abandon logical coherency altogether. At that point nothing can be argued anymore. Who and how would then decide arguments?
 
 As we will see, mathematics seems to choose Foundationalism over the other two possibilities. And as we will see, mathematics is _indispensable_ for science. We hence will aim to start with a foundationalist stance. That is, we will start with a few statements that are hopefully agreeable as non-questionable starting points. We will earmark them as "preliminary", however. That is, once we arrived at deeper insight we might want to come back to these foundational beliefs and examine whether we still agree with the assumptions that we started from.
 
@@ -152,6 +154,30 @@ Do you agree with these definitions? How would you define these terms?
 :::
 
 ## SCIENCE
+
+Why science? And what is science, exactly? Let us examine this before reviewing the science of perception. You might wonder whether that is worth doing. The answer is that it seems generally wise to question what you know and how you know it. Ridding yourself of misconceptions or misunderstandings is helpful in succeeding in whatever you want to accomplish. Trying to accomplish something in the world while having an incorrect idea about the world is likely to result in failure. In order to invent flying cars, we first need to understand gravity, of course. But there is a deeper reason why we need to wait a bit longer before discussing the science of perception. The problem, as we will see, is that perception seems to be challenging to place inside science - or so it may seem. Only by pondering for a moment why and how science has become a leading explanation of the world, we can understand why perception seemingly poses a problem for science - and how it could be overcome.
+
+### Radical Doubt
+
+Why should we spend time learning about science? is there a reason to put more trust in science than in other explanations of the world? Let's go to the extreme and apply these questions to _everything_. Let us first take on a stance of radical distrust, or doubt. 
+
+This is an interesting exercise, really. If we apply doubt to everything we know - when we question: "How do I know that really? Can I be really sure of that?", we find that there is good reason to doubt almost everything we believe.
+
+It seems extremely challenging to rule out, for example, that we live inside a computer simulation (as shown in the "Matrix" movies). In that case, our entire reality may not be "real". 
+
+Does that mean that such radical doubt leaves us with zero certainty? Is everything we believe potentially completely wrong?
+
+Thinkers across the millenia have struggled with this issue. One of them, René Descartes, proposes an interesting answer: No matter how much you doubt, you cannot doubt away that there is _something_. This something is your perception (technically, Descartes argued that there is thought - but we made the case above that us having a thought could be seen as us perceiving that thought). You can doubt that your perception is accurate (it could be part of a computer simulation after all). But the fact that _there is_ perception as you doubt seems immune to all doubt.
+
+Here we see why perception is an interesting phenomenon. The existence of perception - the colors that you see right now seem indubitable - while everything else (including what your perception is about) seems to be questionable.
+
+Let us take a moment and appreciate this argument. Descartes tells us that radical doubt - doubting _everything_ - does not result in us finding out that "we know that we do not know anything". Instead, we seem to find _something_ (argubaly perception itself) that survives this radical intellectual exercise. This seems like good news.
+
+But where do we go from there?
+
+Talking in broad strokes, the next step is _science_. In fact, we already are engaging in science. We are observing (the something, or perception, that seems to survive doubt) and we are thinking - theorizing - about that. This interplay between observing and theorizing now just needs to be expanded about all else, and we seemingly found a rope that we can use to climb out of the abyss of all-encompassing doubt that we climbed into.
+
+### Explanatory Success of Science
 
 There has been an enormous amount of scientific research on sensation and perception. And, just like most science, the outcome of this collective effort has proven _productive_, _effective_, and _beneficial_ - and arguably more so than any other approach to studying sensation and perception. That is, thanks to the *science* of perception, we have become able to successfully help people that we had not been able to help before, such as using cochlear implants to allow people who were born deaf to become able to hear. It is success of this kind that lends strong support to science being worth doing and studying.
 
@@ -192,13 +218,41 @@ that _not all assumptions are valid_. Science does not assume that _we know noth
 An overly simplistic, bare bones model of the scientific method.
 :::
 
-However, we will not just discuss the science of perception. In fact, nothing we have discussed so far is science (yet). What we have done so far is reasoning that *precedes* science, or meta-science. In other words, we are in the realm of philosophy. 
+### Bayes
+
+Let us take a moment to recap. We started by doubting everything, and found something that cannot be doubted. We then proceeded to extend what this lead to - trusting our observation and thinking logically about it - and expanded it to find out more about the world. This is how we established science, as a method, from a starting point of radical skepticism. However, we had to acknowledge that this process does not lead to _certainty_. Science does not allow us to prove that something, anything, is true or correct. In fact, science struggles to even prove that something is incorrect. Instead, we came to see that science means that we "err - just less and less and less". But how so? 
+
+If we can never find truth or falsehood with certainty in science, why do it? 
+
+The answer is that we do not need to be 100% certain about things and still make progress in our understanding. You are not 100% certain that you will survive the night rather than have a surprise stroek or heart attack. And yet, it makes little sense to live as if this were your last day on earth today. Knowing that there is an extremely high likelihood that you will be alive tomorrow seems well and sufficient.
+
+And that is what science really does: It provides us with varying degrees of certainty about what seems correct or wrong. Finding little empirical evidence for unicorns does not imply that we know with 100% certainty that there are no unicorns. Perhaps some crazy amateur scientists created them using genetic engineering in their garage. But we can put a much greater _likelihood_ over there not being unicorns over the likelihood of the alternative being true. 
+
+This ration of likelihoods between alternative theories is called the Bayes' factor, and it can be calculated.
+
+The resulting view that science yields us _likelihoods_ of correctness or incorrectness rather than absolutely ruling out or confirming assumptions about the world is called **Bayesian Epistemology**. Not everyone who has thought about science, or who conducts science concurs with this intellectual stance of intellectual _humility_ (the acknowledgment that even the outcomes of science are valid subjects to doubt). We hence will adopt it here.
+
+However, nothing we have discussed so far is science (yet). What we have done so far is reasoning that *precedes* science, or meta-science. In other words, we are in the realm of philosophy. 
 
 And there is a bit more philosophy that we need to discuss before we start with the science of perception proper. A lot about what we learn about the science of perception will make more sense after that. In fact, you might want to come back here again often as you progress in learning about the science of perception in order to reevaluate your thoughts on the overarching philosophical questions that we will discuss next.
 
-### Sensation vs. Perception
+### Interpersonal Coherence
 
-#### Perception vs. Reality
+Another thought we need to take a moment reflecting on is the role of people _working together_ in science. This fact adds complications when we evaluate science, such as politics and sociology playing a role in how science is done _in practice_. 
+
+As a result of these added complexities that arise from science being performed not just by you, but other people, is reflected in the histroy of science. Specifically, we find that in the history of science large groups of scientists often were collectively wrong, often for prolonged periods of time. Famous examples that might come to your mind is how Galileo Galilei got critized by fellow scientists. Or how the theory that a bacterium (*E. coli*) can cause stomach ulcers. An even more interesting case is for how long scientists believed - and taught - the incorrect number of chromosomes of the human genome. All of these are cases where using the stance that we should trust what the "majority of scientists" believe prevents us from problems. Obviously, even a majority can be misled. Scientists are aware of this problem, and they counter the criticism that can arise from that by pointing out that as time progressed, eventually these issues were resolved. The adage is that "science is self-correcting" in that over time even large groups of scientists are able and willing to change their minds; it just sometimes takes longer than what might seem reasonable. 
+
+However, this problem is not a problem of _science_ in the sense we defined the scientific method above. It is an added problem that arises when more than one person conducts science. This is not to diminish this problem, just to point out that this is not a problem of science itself but a problem of extending science to a collective exercise.
+
+There is no reason, however, for science to require more than one person. If we imagine that for some reason there is a still human being surviving a global apocalyptic event, this person seemingly can still perform science all by themselves. This is just a (perhaps silly-seeming) hypothetical, but it demonstates that what science _is_, and why and how it works, is _independent_ of the practice of doing science _in groups_.
+
+Thus, our main point remains: If we start with radical doubt, the scientific method promises us to find a way of _complete ignorance_ towards justified beliefs about the world. Using science, we can find for ourselves, that some ideas about the world are more _likely_ to be correct since they withstand rational scrutiny as well as empirical observations.
+
+There is a final open question remaining: If we ponder science in a social context, how come it _still_ works so well? Why does it garner such wide agreement? This is the problem of _interpersonal coherence_ or _intersubjective coherence_ and it poses a serious problem for those who assume that "everything is a matter of perspective". Mathematics and science seem to survive the shift of perspectives that occurs between people. As we will see, this is why discussing the basis of science in the context of perception is unique. After all, one solution to why so many people seem to agree on science could hint at the fact that our perception, and hence our perspectives, are not that different after all.
+
+### Sensation is not Perception
+
+#### Perception is not Reality
 
 :::{admonition} DEFINITION
 *Naive Realism* is the view that the world is your perception. That is, the world is exactly how you experience it. You feel, see, hear, smell, and taste things exactly as they are. We call this idea "naive" since it seems to reflect the way that children think about the world before they learn why this idea does not seem to work.
@@ -218,10 +272,10 @@ This realization can esily be demonstrated with visual illusions, where we under
 :alt: The Lilac Chaser illusion
 :width: 80%
 
-The Lilac Chaser illusion[^2]: Keep looking at the center cross and watch the animation changing.
+The Lilac Chaser illusion[^3]: Keep looking at the center cross and watch the animation changing.
 :::
 
-[^2]: https://en.wikipedia.org/wiki/Lilac_chaser
+[^3]: https://en.wikipedia.org/wiki/Lilac_chaser
 
 One interesting fact about visual illusions is that they often persist even when exactly understand in what aspects they differ from the actual physical stimulus. In other words, even knowing *that* and *how* our perception differs from the real world does not help - our perception does not correct and adjust to what we know to be really the case.
 
