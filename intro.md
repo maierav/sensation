@@ -1,6 +1,6 @@
 # SENSATION AND PERCEPTION
 
-This web site is meant to provide an opinionated[^1], broadstrokes introduction to the science of sensation and perception, with a few select scholarly references provided for deeper self-study. 
+This web site is meant to provide an opinionated[^1], broadstrokes introduction to the science of sensation and perception, with a few select scholarly references provided for deeper self-study.  
 
 [^1]: Rather than presenting all views on various subjects with equal weight, we will mention dissenting views in passing, wherever applicable. The overarching didactic goal is to lay out a _coherent_ narrative rather than a taxonomy of viewpoints in order to minimize disjointed knowledge and confusion.
 
@@ -21,7 +21,6 @@ We will start with an interesting observation about perception that seems to cou
 Stop your reading each time you hit a box like this one. Sometimes these will be questions. Think about them for a moment and ask yourself how you would answer them before you continue reading. Sometimes these boxes will provide definitions. Ask yourself if you agree with them, and if not, how you would define the concept instead. If the box provides online links, check them out to see if they provide additional information that is new to you.
 :::
 
-
 ## MOTIVATION
 
 Imagine what it would look like inside a giant room that is uniformly filled with very thick (dense) fog and uniformly illuminated with ambient red light. All we can see all around us is red fog (Figure 1).
@@ -35,7 +34,7 @@ Imagine what it would look like inside a giant room that is uniformly filled wit
 Imagine you are deep inside thick, red fog.
 :::
 
-In this (hypothetical) situation, it seems like we can just perceive "redness" all around us without also seeing a distinct shape. Let us consider that for a moment. What do we actually perceive here? What is that - "red"? Can we be more precise in describing what that is the "redness of red" that makes up virtually all of our visual perception in this scenario? 
+In this (hypothetical) situation, it seems like we can just perceive "redness" all around us without also seeing a distinct shape. Let us consider that for a moment. What do we actually perceive here? What is that - "red"? Can we be more precise in describing what that is the "redness of red" that makes up virtually all of our visual perception in this scenario?  
 
 :::{admonition} ❓ Question
 :class: dropdown
@@ -48,14 +47,14 @@ At first, we may think that there are indeed ways to describe red. After all, we
 
 :::{hint}
 :class: dropdown
-Is it helpful to describe red using associated concepts, such as "warm", "heat", or "love"? 
+Is it helpful to describe red using associated concepts, such as "warm", "heat", or "love"?  
 
 Are these associations helpful for someone to understand what redness looks like if that person has never seen fire, or a heart symbol (such as this: ❤️)?
 :::
 
-Deeper reflection makes clear that there seems to be an interesting problem about the simple perception of red. If someone, for some reason, would see what we see as "green" whenever we see "red", it seems virtually impossible to find a way to find that out. Whenever we try to see if our perception, of say, a ripe tomato is the _same_ red, that person (who actually sees it as what we see as green) would agree with us that this is "red". After all, anything else that we call "red", they have called "red" their whole lives as well. How could they know that we see that color differently? 
+Deeper reflection makes clear that there seems to be an interesting problem about the simple perception of red. If someone, for some reason, would see what we see as "green" whenever we see "red", it seems virtually impossible to find a way to find that out. Whenever we try to see if our perception, of say, a ripe tomato is the _same_ red, that person (who actually sees it as what we see as green) would agree with us that this is "red". After all, anything else that we call "red", they have called "red" their whole lives as well. How could they know that we see that color differently?  
 
-This thought experiment has fascinated people since centuries, and it has been termed the **inverted spectrum problem** [^2]. 
+This thought experiment has fascinated people since centuries, and it has been termed the **inverted spectrum problem** [^2].  
 
 [^2]: If you are interested to learn more, check out this free, [scholarly overview](https://plato.stanford.edu/entries/qualia-inverted/).
 
@@ -70,9 +69,9 @@ The Inverted Spectrum Problem. If there were people among us who see red as gree
 
 ## FOUNDATIONS
 
-Now that we had to acknowledge that there is something about perception that seems puzzling, we may ask ourselves how we got there. 
+Now that we had to acknowledge that there is something about perception that seems puzzling, we may ask ourselves how we got there.  
 
-You may be burning to start learning about the science of perception. After all, the brain is very interesting, and there is indeed a lot of fascinating material to learn there. However, as you will see, the puzzle of perception **will remain**. 
+You may be burning to start learning about the science of perception. After all, the brain is very interesting, and there is indeed a lot of fascinating material to learn there. However, as you will see, the puzzle of perception **will remain**.  
 
 We thus might do best to first spend a bit more time ensuring that the house of knowledge that we are about to build has solid foundations. Otherwise, you might feel later on, that we already went wrong somewhere early on. On the flip side, if we carefully establish our starting point first and then carefully build up from there, we may find that the puzzle of perception cannot simply be explained away because we launched into neuroscience too hastily.
 
@@ -97,9 +96,9 @@ How can all these be ruled out?
 
 #### Agrippa's Trilemma
 
-Kids sometimes go through a phase where they keep asking "But why?". Something interesting happens in these situations: They seem justified in keep asking "But why?". 
+Kids sometimes go through a phase where they keep asking "But why?". Something interesting happens in these situations: They seem justified in keep asking "But why?".  
 
-Imagine a parent tells a kid that is time to go to sleep. The kid asks "But why?" 
+Imagine a parent tells a kid that is time to go to sleep. The kid asks "But why?"  
 
 The parent might reply "Because it is late and you are tired."
 
@@ -115,9 +114,9 @@ Thinkers have long realized that this is interesting. These thinkers have come t
 
 (1) We end the inquiry by stating something that can no further be questioned (such as: "all animals need sleep"). We might call these unquestionable assumptioms "dogma", or "axioms". Either way, these are foundational - yet unfounded (unsupported) - beliefs for which can no further ago. Accordingly this starting point to knowledge from which we can build up answers to "why?" questions is called **Foundationalism**.
 
-(2) We end up going around in circles. That is, we embrace circular logic. We might end up saying that at the end of "But why?" questions we find two statements that support each other (such as: "all animals sleep" and that is because "without sleep animals cannot stay awake"). Supporting this outcome is called **Coherentism**. 
+(2) We end up going around in circles. That is, we embrace circular logic. We might end up saying that at the end of "But why?" questions we find two statements that support each other (such as: "all animals sleep" and that is because "without sleep animals cannot stay awake"). Supporting this outcome is called **Coherentism**.  
 
-(3) We could also opt for just keeping the "But why?" inquiry going on forever (such as going on about why we think that animals sleep and why we think that this tells us what is the case and why we believe that things are the case and so on). This solution to the problem of seemingly ending "But why?" questions is to counter them with never ending answers. This stance is called **Infinite Regress**. This may seem satisfying at first sight, but there is a certain absurdity that comes with the assumption that there is no starting point to knowledge. the psychologist William James explains this with a joke: 
+(3) We could also opt for just keeping the "But why?" inquiry going on forever (such as going on about why we think that animals sleep and why we think that this tells us what is the case and why we believe that things are the case and so on). This solution to the problem of seemingly ending "But why?" questions is to counter them with never ending answers. This stance is called **Infinite Regress**. This may seem satisfying at first sight, but there is a certain absurdity that comes with the assumption that there is no starting point to knowledge. the psychologist William James explains this with a joke:  
 
 “The old lady said that the world rests on a big turtle.
 The scientist asked what the turtle rested on.
@@ -339,29 +338,31 @@ Here comes the kicker: Plato now describes that the people inside the cave can s
 Plato's story goes on, but the key insight can already be made here. Plato makes clear that the people inside the cave could be fooled, for example, by people on the outside purposefully walking cut-outs made of paper or would along the gap behind the people inside the cave and create a "shadow theater" for the people inside, like we sometimes do for young kids. There is no way to know for the people inside the cave that the shadows they see are just artificially created by people outside - since they do not know that what a shadow is, that there is an outside, let alone people that are outside.
 
 What does any of that have to do with perception? Well, one corollary of us establishing that
+
 1) There is a real world "outside" our perception
 2) Our perception seems to be more like a reflection, or "shadow" of that world
-is that we are in a similar position as these people inside the cave: We only know the "shadows", a reflection, of the world and not the world itself. Our skulls, our brains, seem to be similar to that cave in that our perception arises from "inside" these structures. 
+
+is that we are in a similar position as these people inside the cave: We only know the "shadows", a reflection, of the world and not the world itself. Our skulls, our brains, seem to be similar to that cave in that our perception arises from "inside" these structures.  
 
 Finding out what the real world, that is responsible for the "shadows" of our perception, is actually like then seems to become challenging: We have to _reason_ about what this world might be like since we cannot go by our perception alone.
 
 This may still sound a bit confusing at this point. After all, we have not talked about what role our brains play in all of that (and since brains are obviously also part of that world that we perceive). We all share to some degree the notion that our brains are linked to our feelings, our ability to see, hear, smell, or taste. But what we will learn soon is _how closely_ linked the actions of our brain are to what we perceive. For now, it is only important to follow the logic of Plato's allegory: _If_ our direct acquintance with the world is our perception, and that perception can be unreliable (as in the sxistence of illusions), the problem arises that we have to find additional ways other than our perception to learn about the world.
 
 ##### PERCEPTION vs. WORLD
+
 Many thinkers that followed Plato have thought deeply about this issue. However, they failed to all settle on the same solution. Instead, these scholars have endowed us with a variety of ways to think about that problem, each arguing for their favorite idea. Let us briefly (and superficially) examine the various proposed answers. The academic field that studies these ideas is called _PHILOSOPHY OF MIND_, and there are thousands of academic works on this subject. Here we will attempt at the most minimal possible overview of major "schoolf of thought" within this field:
 
 ###### MONISM
+
 One possible solution is that there really is only one thing. That is, the assumption that we had that there is a world and our perception of the world is wrong. This leaves only two options: All is the world (i.e., there is no perception), or all is perception (there is no world).
 
 The actual ideas are a bit more complex, but they do not deviate far from the sentence above. The technical terms we use for these ideas are:
 
-*MATERIALISM*: There is only the world. There is no perception. If you think that you perceive something, what really happens is that you _behave_ or _function_ according to what you call a perception (which is why this view is sometimes also called **BEHAVIORISM** or **FUNCTIONALISM**). You thinking that you perceive things beyond behaving and functioning according to physics, is _illusory_. You _believe_ you perceive, say the color "red", but that is a false belief. You just act as if you do. Some proponents of this view prefer the term "physicalism" to demonstrate that they agree with modern physics in that "matter" is not a substance (modern physics describes matter as "an interaction" between the Higgs field and other quantum fields, but you do not need to worry that you need to know about all of this).
+>*MATERIALISM*: There is only the world. There is no perception. If you think that you perceive something, what really happens is that you _behave_ or _function_ according to what you call a perception (which is why this view is related to *FUNCTIONALISM*). You thinking that you perceive things beyond behaving and functioning according to physics, is _illusory_. You _believe_ you perceive, say the color "red", but that is a false belief. You just act as if you do. Some proponents of this view prefer the term "physicalism" to demonstrate that they agree with modern physics in that "matter" is not a substance (modern physics describes matter as "an interaction" between the Higgs field and other quantum fields, but you do not need to worry that you need to know about all of this).
 
-*IDEALISM*: There is no physical world. All is perception (again, technically, proponents of this view would use broader terms like "mind", or "consciousness" - but it is debatable how much these concepts do or do not overlap). There are two options on this view:
-
-**SOLIPSISM**: Your perception is all that exists. Nothing else is real. You are all alone. Everything is just an illusion, except your perception. This view is difficult to argue with rationally. At the same time, view people are convinced by this view, let alone prefer this view since it resembles a horrifying reality.
-
- **PANPSYCHISM**: Everything is perception. This view grants that there is "a world out there", but it assumes that that which exists outside our own perception is even more perception - a grand ocean of perception, if you will. Proponents of this view suggest that something keeps our own perception separate from the rest of perception out there.
+>*IDEALISM*: There is no physical world. All is perception (again, technically, proponents of this view would use broader terms like "mind", or "consciousness" - but it is debatable how much these concepts do or do not overlap). There are two options on this view:
+>>SOLIPSISM: Your perception is all that exists. Nothing else is real. You are all alone. Everything is just an illusion, except your perception. This view is difficult to argue with rationally. At the same time, view people are convinced by this view, let alone prefer this view since it resembles a horrifying reality.\
+>> PANPSYCHISM: Everything is perception. This view grants that there is "a world out there", but it assumes that that which exists outside our own perception is even more perception - a grand ocean of perception, if you will. Proponents of this view suggest that something keeps our own perception separate from the rest of perception out there.
 
 ###### DUALISM
 Another possible solution is that there really are two different things: a world and our perception. But there are some disagreements on what exactly makes them different.
