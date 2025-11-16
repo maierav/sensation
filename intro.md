@@ -136,18 +136,18 @@ _Sensation_ is the process our bodies undergo when acquiring information from ou
 
 :::{note}✍️ Note
 :icon: false
-Our _senses_ detect and quantify _changes_ in our *physical* environment. 
+Our _senses_ detect and quantify _changes_ in our _physical_ environment.  
 :::
 
-_Perception_ is what we *experience*. The most common notion of perception is the experience following the process of sensation. That is perception is conscious (arguably the biggest part, or even all of our conscious experience). Let's call that **perception in a narrow sense**. 
+_Perception_ is what we _experience_. The most common notion of perception is the experience following the process of sensation. That is perception is conscious (arguably the biggest part, or even all of our conscious experience). Let's call that **perception in a narrow sense**.  
 
-Note, however, that a very similar state of perception can also happens without sensation, fully discoupled from the real world, such as when we hallucinate or dream. You can see a face either being looking at a physical stimulus, such as another person or photograph. But you can also see a face in dream sleep, with your eyes closed in darkness. 
+Note, however, that a very similar state of perception can also happens without sensation, fully discoupled from the real world, such as when we hallucinate or dream. You can see a face either being looking at a physical stimulus, such as another person or photograph. But you can also see a face in dream sleep, with your eyes closed in darkness.  
 
-In this light, it could be argued that we should broaden what we mean by perception. And we might be left with (conscious) experience. Stretching this definition to the limit, we could even include beliefs, desires, and other seemingly non-sensory experiences as **perception in a broad sense**. 
+In this light, it could be argued that we should broaden what we mean by perception. And we might be left with (conscious) experience. Stretching this definition to the limit, we could even include beliefs, desires, and other seemingly non-sensory experiences as **perception in a broad sense**.  
 
 The lines definitely are blurry. Desire, for example, could be seen as the perception of the sensory process of certain chemicals (hormonones) within our blood. Belief, on the other hand, seems closer to seeing something in a dream in that there are no sensory counter parts. What belief and dreaminf have in common, though, is that they are _experienced_.
 
-_Science_ is the practice of applying logical reasoning and observations to answering questions about the world. 
+_Science_ is the practice of applying logical reasoning and observations to answering questions about the world.  
 
 :::{caution}
 :class: dropdown
@@ -160,11 +160,11 @@ Why science? And what is science, exactly? Let us examine this before reviewing 
 
 ### Radical Doubt
 
-Why should we spend time learning about science? is there a reason to put more trust in science than in other explanations of the world? Let's go to the extreme and apply these questions to _everything_. Let us first take on a stance of radical distrust, or doubt. 
+Why should we spend time learning about science? is there a reason to put more trust in science than in other explanations of the world? Let's go to the extreme and apply these questions to _everything_. Let us first take on a stance of radical distrust, or doubt.  
 
 This is an interesting exercise, really. If we apply doubt to everything we know - when we question: "How do I know that really? Can I be really sure of that?", we find that there is good reason to doubt almost everything we believe.
 
-It seems extremely challenging to rule out, for example, that we live inside a computer simulation (as shown in the "Matrix" movies). In that case, our entire reality may not be "real". 
+It seems extremely challenging to rule out, for example, that we live inside a computer simulation (as shown in the "Matrix" movies). In that case, our entire reality may not be "real".  
 
 Does that mean that such radical doubt leaves us with zero certainty? Is everything we believe potentially completely wrong?
 
@@ -180,13 +180,13 @@ Talking in broad strokes, the next step is _science_. In fact, we already are en
 
 ### Explanatory Success of Science
 
-There has been an enormous amount of scientific research on sensation and perception. And, just like most science, the outcome of this collective effort has proven _productive_, _effective_, and _beneficial_ - and arguably more so than any other approach to studying sensation and perception. That is, thanks to the *science* of perception, we have become able to successfully help people that we had not been able to help before, such as using cochlear implants to allow people who were born deaf to become able to hear. It is success of this kind that lends strong support to science being worth doing and studying.
+There has been an enormous amount of scientific research on sensation and perception. And, just like most science, the outcome of this collective effort has proven _productive_, _effective_, and _beneficial_ - and arguably more so than any other approach to studying sensation and perception. That is, thanks to the _science_ of perception, we have become able to successfully help people that we had not been able to help before, such as using cochlear implants to allow people who were born deaf to become able to hear. It is success of this kind that lends strong support to science being worth doing and studying.
 
 :::{attention}
 Can you think of other arguments for doing and learning about science?
 :::
 
-But what is that - science? Somewhat surprisingly, this is not easy to answer definitely. There is wide general agreement on what we mean by "science", but debate sometimes errupts on where to exactly draw the line. Put simply, we have not managed to find both the _neccessary_ and _sufficient_ criteria that allow us to tell science from non-science. 
+But what is that - science? Somewhat surprisingly, this is not easy to answer definitely. There is wide general agreement on what we mean by "science", but debate sometimes errupts on where to exactly draw the line. Put simply, we have not managed to find both the _neccessary_ and _sufficient_ criteria that allow us to tell science from non-science.  
 
 :::{important}
 Finding the exact criteria that differentiate science from non-science is called the "demarcation problem". Many older textbooks of science suggest that such a criterion has been found by Karl Popper in demonstrating that science can never prove anything, but disprove erroneous assumptions ("faslification"). However, this is not a sufficient criterion since not everything that can be falsified is science. For example, the statement: "Tomorrow you will be the only human alive." can be falsified - you just wait until tomorrow and see if there still are other people alive. However, this does not seem to qualify as science. Another problem is that scientists also seem to struggle to falsify statements. In fact, it may be impossible to falsify statements based on empirical data. New data can always force scientists to revisit what they thought to be the case - including when they thought they had falsified something. Scientists long thought that the view that the "sun goes around the earth" had been falsified and that "the earth goes around the sun" instead. However, Einstein;s theory of relativity demonstrated that neither statement is false. In relativity, both statements are correct, depending on the chosen reference frame - the two views are mathematically equivalent.
@@ -195,9 +195,9 @@ Finding the exact criteria that differentiate science from non-science is called
 But the fact that there may be a bit of gray area at the margins does not take away from the large body of work that most people agree is science. This agreement has a few common denominators:
 
 :::{admonition} WHAT IS SCIENCE?
-**Science is a method**: Science is a _principled_ approach to understand the world. Exactly what constitues this method is frequently debated. Yet, there is broad consensus that science as a method starts with a _skeptical_ stance (see next section) in that it aims to find _sound_ answers to questions by sticking to a non-arbitrary, lawful (rigorous), precise and validated (fact-based) approach. If we strip the details, many have suggested, what we find at the heart of science is a constant, perhaps never ending, interplay of rational (logical) reasoning about questions and an attempt of arbitrating between the ideas that arise from this reasoning via empirical observation. That is, science produces ideas (conceptual theories) and then proceeds to match (test) the _consequences_ of these theories (i.e. predictions about what we can observe that arise from these theories) by leaving the armchair and collect data about the world - ideally in well-controlled experiments, and even better using quantitative rather than qualitative predictions and measurements. 
+**Science is a method**: Science is a _principled_ approach to understand the world. Exactly what constitues this method is frequently debated. Yet, there is broad consensus that science as a method starts with a _skeptical_ stance (see next section) in that it aims to find _sound_ answers to questions by sticking to a non-arbitrary, lawful (rigorous), precise and validated (fact-based) approach. If we strip the details, many have suggested, what we find at the heart of science is a constant, perhaps never ending, interplay of rational (logical) reasoning about questions and an attempt of arbitrating between the ideas that arise from this reasoning via empirical observation. That is, science produces ideas (conceptual theories) and then proceeds to match (test) the _consequences_ of these theories (i.e. predictions about what we can observe that arise from these theories) by leaving the armchair and collect data about the world - ideally in well-controlled experiments, and even better using quantitative rather than qualitative predictions and measurements.  
 
-Following observation, we may either gain or lose confidence in our theories given how well their predictions match what we find using these observations. Losing confidence may prompty us to refine our theories, or even abandon them altogether in lieu of new theories that we can then test again observationally. However, even if we gain confidence in our theories, we need to be prepared that additional (future) observations may prompt us to lose confidence at a later point in time. 
+Following observation, we may either gain or lose confidence in our theories given how well their predictions match what we find using these observations. Losing confidence may prompty us to refine our theories, or even abandon them altogether in lieu of new theories that we can then test again observationally. However, even if we gain confidence in our theories, we need to be prepared that additional (future) observations may prompt us to lose confidence at a later point in time.  
 
 Using this bare bones, overly simplistic description of science, we end up with a loop - a constant interplay between theory and observation. However, we are not going in circles. Each time we go around the loop, we seemingly progress in that we can detect flaws in our theories (if they fail to provide a good match between prediction and observation), and thereby arrive at new theories that might allow for better predictions and thus a closer match with what we observe (Figure 2).
 
@@ -221,27 +221,27 @@ An overly simplistic, bare bones model of the scientific method.
 
 ### Bayes
 
-Let us take a moment to recap. We started by doubting everything, and found something that cannot be doubted. We then proceeded to extend what this lead to - trusting our observation and thinking logically about it - and expanded it to find out more about the world. This is how we established science, as a method, from a starting point of radical skepticism. However, we had to acknowledge that this process does not lead to _certainty_. Science does not allow us to prove that something, anything, is true or correct. In fact, science struggles to even prove that something is incorrect. Instead, we came to see that science means that we "err - just less and less and less". But how so? 
+Let us take a moment to recap. We started by doubting everything, and found something that cannot be doubted. We then proceeded to extend what this lead to - trusting our observation and thinking logically about it - and expanded it to find out more about the world. This is how we established science, as a method, from a starting point of radical skepticism. However, we had to acknowledge that this process does not lead to _certainty_. Science does not allow us to prove that something, anything, is true or correct. In fact, science struggles to even prove that something is incorrect. Instead, we came to see that science means that we "err - just less and less and less". But how so?  
 
-If we can never find truth or falsehood with certainty in science, why do it? 
+If we can never find truth or falsehood with certainty in science, why do it?  
 
 The answer is that we do not need to be 100% certain about things and still make progress in our understanding. You are not 100% certain that you will survive the night rather than have a surprise stroek or heart attack. And yet, it makes little sense to live as if this were your last day on earth today. Knowing that there is an extremely high likelihood that you will be alive tomorrow seems well and sufficient.
 
-And that is what science really does: It provides us with varying degrees of certainty about what seems correct or wrong. Finding little empirical evidence for unicorns does not imply that we know with 100% certainty that there are no unicorns. Perhaps some crazy amateur scientists created them using genetic engineering in their garage. But we can put a much greater _likelihood_ over there not being unicorns over the likelihood of the alternative being true. 
+And that is what science really does: It provides us with varying degrees of certainty about what seems correct or wrong. Finding little empirical evidence for unicorns does not imply that we know with 100% certainty that there are no unicorns. Perhaps some crazy amateur scientists created them using genetic engineering in their garage. But we can put a much greater _likelihood_ over there not being unicorns over the likelihood of the alternative being true.  
 
 This ration of likelihoods between alternative theories is called the Bayes' factor, and it can be calculated.
 
 The resulting view that science yields us _likelihoods_ of correctness or incorrectness rather than absolutely ruling out or confirming assumptions about the world is called **Bayesian Epistemology**. Not everyone who has thought about science, or who conducts science concurs with this intellectual stance of intellectual _humility_ (the acknowledgment that even the outcomes of science are valid subjects to doubt). We hence will adopt it here.
 
-However, nothing we have discussed so far is science (yet). What we have done so far is reasoning that *precedes* science, or meta-science. In other words, we are in the realm of philosophy. 
+However, nothing we have discussed so far is science (yet). What we have done so far is reasoning that _precedes_ science, or meta-science. In other words, we are in the realm of philosophy.  
 
 And there is a bit more philosophy that we need to discuss before we start with the science of perception proper. A lot about what we learn about the science of perception will make more sense after that. In fact, you might want to come back here again often as you progress in learning about the science of perception in order to reevaluate your thoughts on the overarching philosophical questions that we will discuss next.
 
 ### Interpersonal Coherence
 
-Another thought we need to take a moment reflecting on is the role of people _working together_ in science. This fact adds complications when we evaluate science, such as politics and sociology playing a role in how science is done _in practice_. 
+Another thought we need to take a moment reflecting on is the role of people _working together_ in science. This fact adds complications when we evaluate science, such as politics and sociology playing a role in how science is done _in practice_.  
 
-As a result of these added complexities that arise from science being performed not just by you, but other people, is reflected in the histroy of science. Specifically, we find that in the history of science large groups of scientists often were collectively wrong, often for prolonged periods of time. Famous examples that might come to your mind is how Galileo Galilei got critized by fellow scientists. Or how the theory that a bacterium (*E. coli*) can cause stomach ulcers. An even more interesting case is for how long scientists believed - and taught - the incorrect number of chromosomes of the human genome. All of these are cases where using the stance that we should trust what the "majority of scientists" believe prevents us from problems. Obviously, even a majority can be misled. Scientists are aware of this problem, and they counter the criticism that can arise from that by pointing out that as time progressed, eventually these issues were resolved. The adage is that "science is self-correcting" in that over time even large groups of scientists are able and willing to change their minds; it just sometimes takes longer than what might seem reasonable. 
+As a result of these added complexities that arise from science being performed not just by you, but other people, is reflected in the histroy of science. Specifically, we find that in the history of science large groups of scientists often were collectively wrong, often for prolonged periods of time. Famous examples that might come to your mind is how Galileo Galilei got critized by fellow scientists. Or how the theory that a bacterium (_E. coli_) can cause stomach ulcers. An even more interesting case is for how long scientists believed - and taught - the incorrect number of chromosomes of the human genome. All of these are cases where using the stance that we should trust what the "majority of scientists" believe prevents us from problems. Obviously, even a majority can be misled. Scientists are aware of this problem, and they counter the criticism that can arise from that by pointing out that as time progressed, eventually these issues were resolved. The adage is that "science is self-correcting" in that over time even large groups of scientists are able and willing to change their minds; it just sometimes takes longer than what might seem reasonable.  
 
 However, this problem is not a problem of _science_ in the sense we defined the scientific method above. It is an added problem that arises when more than one person conducts science. This is not to diminish this problem, just to point out that this is not a problem of science itself but a problem of extending science to a collective exercise.
 
@@ -256,11 +256,11 @@ There is a final open question remaining: If we ponder science in a social conte
 #### Perception is not Reality
 
 :::{admonition} DEFINITION
-*Naive Realism* is the view that the world is your perception. That is, the world is exactly how you experience it. You feel, see, hear, smell, and taste things exactly as they are. We call this idea "naive" since it seems to reflect the way that children think about the world before they learn why this idea does not seem to work.
+_Naive Realism_ is the view that the world is your perception. That is, the world is exactly how you experience it. You feel, see, hear, smell, and taste things exactly as they are. We call this idea "naive" since it seems to reflect the way that children think about the world before they learn why this idea does not seem to work.
 :::
 
 :::{admonition} QUESTION
-What do you think? Is naive realism correct or wrong? What arguments do you have to defend your view? 
+What do you think? Is naive realism correct or wrong? What arguments do you have to defend your view?  
 :::
 
 In fact, the starting point of the science of perception is the realization that what we feel, see, hear, smell, or taste is not to be confused with what the world is _actually_ like.
@@ -276,17 +276,17 @@ This realization can esily be demonstrated with visual illusions, where we under
 The Lilac Chaser illusion[^4]: Keep looking at the center cross and watch the animation changing.
 :::
 
-[^4]: https://en.wikipedia.org/wiki/Lilac_chaser
+[^4]: <https://en.wikipedia.org/wiki/Lilac_chaser>
 
-One interesting fact about visual illusions is that they often persist even when exactly understand in what aspects they differ from the actual physical stimulus. In other words, even knowing *that* and *how* our perception differs from the real world does not help - our perception does not correct and adjust to what we know to be really the case.
+One interesting fact about visual illusions is that they often persist even when exactly understand in what aspects they differ from the actual physical stimulus. In other words, even knowing _that_ and _how_ our perception differs from the real world does not help - our perception does not correct and adjust to what we know to be really the case.
 
-The consequence of this insight is that there seem to be two different things, or domains that are not identical (since one can deviate from the other): 
+The consequence of this insight is that there seem to be two different things, or domains that are not identical (since one can deviate from the other):  
 
 1) The physical world consisting of the universe, our local environment, and our own bodies.
 
 2) Our conscious subjective perception of our environment and bodies.
 
-There are many corrolaries from that view, many of which raise deep questions that humanity has not found satisfying answers for yet. 
+There are many corrolaries from that view, many of which raise deep questions that humanity has not found satisfying answers for yet.  
 
 ### Ontology
 
@@ -302,24 +302,25 @@ If naive realism is problematic, which other worldviews are there that might be 
 :alt: The scientific worldview
 :width: 90%
 
-The scientific worldview. Rather than equating our perception with the world, scientists see the world as a complex dynamic system following mathematical laws, much of which is not directly perceived, and some of it not perceivable at all. The challenge then becomes to _explain_ how the world of our perception relates and comes about from the physical world. 
-:::
+The scientific worldview. Rather than equating our perception with the world, scientists see the world as a complex dynamic system following mathematical laws, much of which is not directly perceived, and some of it not perceivable at all. The challenge then becomes to _explain_ how the world of our perception relates and comes about from the physical world.  
+:::  
 
+#### Do we all perceive the world differently?  
 
-#### Do we all perceive the world differently? 
-If our perception is different from the world (i.e., what and how we perceive things is not the same as the physical reality of these things), the question arises if each of us perceives the world _differently_. 
+If our perception is different from the world (i.e., what and how we perceive things is not the same as the physical reality of these things), the question arises if each of us perceives the world _differently_.  
 
 :::{admonition} QUESTION
-Ask yourself: Is it possible that what I call "red" in fact might look to me like what you call "green"? If I would see green where you see red, would we ever be able to find that out? How? 
+Ask yourself: Is it possible that what I call "red" in fact might look to me like what you call "green"? If I would see green where you see red, would we ever be able to find that out? How?  
 :::
 
-As we will see, the answer is a bit mixed. There are, of course, individual differences in, say, how we perceive color since some of us are what we colloquially call "color blind" (we will see why this is a misleading term). However, as we go along, we will see that we generally seem to perceive very much alike. 
+As we will see, the answer is a bit mixed. There are, of course, individual differences in, say, how we perceive color since some of us are what we colloquially call "color blind" (we will see why this is a misleading term). However, as we go along, we will see that we generally seem to perceive very much alike.  
 
 :::{admonition} QUESTION
 Is it surprising that most of us seem to perceive colors similarly? Why does that or does that not surprise you?
 :::
 
 #### If our perception can be misleading, how can we know what the world is actually like?
+
 Another puzzle that arises from our realization that we can fall pray to perceptual illusions is that this seems to put into question how we can _know_ that to be the case. DO we only know the world only from our perception? How else can we learn about the world? Can we know for certain that there really _is_ a world "outside" our perception?
 
 This line of questioning may seem ludicruous at first. We all seem to agree that there is a "real world out there". How could this be questioned? And, at first, there does not seem to be a problem to know what that world _is like_. Is that not what physics and other sciences do - tell us what the world "really is", even if different and independent of our own perception?
@@ -327,7 +328,8 @@ This line of questioning may seem ludicruous at first. We all seem to agree that
 But deeper reflection makes clear that this is not, in fact, so easy. Let us unpack that.
 
 ##### PLATO'S CAVE
-You might have heard about Plato's allegory of the cave. In this ancient ficticious story, a group of people is held hostage inside a cave. They grew up there and never were able to step outside. In fact, these people do not even know that there is an outside. Since they grew up inside that cave, they have no reason to believe that the world is much more than that one place - the only place - that they know Plato wants us to imagine what things would be like for these people. 
+
+You might have heard about Plato's allegory of the cave. In this ancient ficticious story, a group of people is held hostage inside a cave. They grew up there and never were able to step outside. In fact, these people do not even know that there is an outside. Since they grew up inside that cave, they have no reason to believe that the world is much more than that one place - the only place - that they know Plato wants us to imagine what things would be like for these people.  
 
 Plato goes on that we should imagine that these people are chained to a wall so that they cannot turn around and see what is behind them. Again, he asks us to just imagine the scenario and put ourselves into the shoes of these people to make an interesting point.
 
@@ -358,18 +360,23 @@ One possible solution is that there really is only one thing. That is, the assum
 
 The actual ideas are a bit more complex, but they do not deviate far from the sentence above. The technical terms we use for these ideas are:
 
->*MATERIALISM*: There is only the world. There is no perception. If you think that you perceive something, what really happens is that you _behave_ or _function_ according to what you call a perception (which is why this view is related to *FUNCTIONALISM*). You thinking that you perceive things beyond behaving and functioning according to physics, is _illusory_. You _believe_ you perceive, say the color "red", but that is a false belief. You just act as if you do. Some proponents of this view prefer the term "physicalism" to demonstrate that they agree with modern physics in that "matter" is not a substance (modern physics describes matter as "an interaction" between the Higgs field and other quantum fields, but you do not need to worry that you need to know about all of this).
+>_MATERIALISM_: There is only the world. There is no perception. If you think that you perceive something, what really happens is that you _behave_ or _function_ according to what you call a perception (which is why this view is related to _FUNCTIONALISM_). You thinking that you perceive things beyond behaving and functioning according to physics, is _illusory_. You _believe_ you perceive, say the color "red", but that is a false belief. You just act as if you do. Some proponents of this view prefer the term "physicalism" to demonstrate that they agree with modern physics in that "matter" is not a substance (modern physics describes matter as "an interaction" between the Higgs field and other quantum fields, but you do not need to worry that you need to know about all of this).  
 
->*IDEALISM*: There is no physical world. All is perception (again, technically, proponents of this view would use broader terms like "mind", or "consciousness" - but it is debatable how much these concepts do or do not overlap). There are two options on this view:
+The opposing view is:  
+
+>IDEALISM_: There is no physical world. All is perception (again, technically, proponents of this view would use broader terms like "mind", or "consciousness" - but it is debatable how much these concepts do or do not overlap). There are two options on this view:\
 >>SOLIPSISM: Your perception is all that exists. Nothing else is real. You are all alone. Everything is just an illusion, except your perception. This view is difficult to argue with rationally. At the same time, view people are convinced by this view, let alone prefer this view since it resembles a horrifying reality.\
 >> PANPSYCHISM: Everything is perception. This view grants that there is "a world out there", but it assumes that that which exists outside our own perception is even more perception - a grand ocean of perception, if you will. Proponents of this view suggest that something keeps our own perception separate from the rest of perception out there.
 
 ###### DUALISM
+
 Another possible solution is that there really are two different things: a world and our perception. But there are some disagreements on what exactly makes them different.
 
-**SUBSTANCE DUALISM**: This view, often credited to René Descartes, even though it can be found in many (older) cultures around the world is that your perception is real, yet "immaterial". And that the world is "material", or physical. Proponents of this view try to explain why and how these two domains are linked, such as how (material) brain damage or intoxication can alter (immaterial) perception. On this view, (immaterial) perception might also be able to affect the (material) world.
+>SUBSTANCE DUALISM: This view, often credited to René Descartes, even though it can be found in many (older) cultures around the world is that your perception is real, yet "immaterial". And that the world is "material", or physical. Proponents of this view try to explain why and how these two domains are linked, such as how (material) brain damage or intoxication can alter (immaterial) perception. On this view, (immaterial) perception might also be able to affect the (material) world.
 
-**ASPECT DUALISM**: This idea takes a bit of a middle ground. It does assume that there "really" only is one thing, and thus subscribes to monism. However, it suggests that one and the same thing can have different aspects, or properties when viewed from different percectives - somewhat like a coin can look very different if one only looks at heads or tails. Aspect dualism assumes that there is a real world that may well be physical, but that our perception is what some physical systems, like our brains, _are like_ from the "inside". This view explains why brain damage can affect perception since they are just "two sides of the same coin". 
+There is also:
+
+>ASPECT DUALISM: This idea takes a bit of a middle ground. It does assume that there "really" only is one thing, and thus subscribes to monism. However, it suggests that one and the same thing can have different aspects, or properties when viewed from different percectives - somewhat like a coin can look very different if one only looks at heads or tails. Aspect dualism assumes that there is a real world that may well be physical, but that our perception is what some physical systems, like our brains, _are like_ from the "inside". This view explains why brain damage can affect perception since they are just "two sides of the same coin".  
 
 There are many more ideas on that problem, some of which cannot neatly placed within the taxonomy above. However, these cateogories provide a somewhat of a sufficient survey of the field since most ideas come close to, or combine, these distinct schools of thought. To give you an example, some scholars will state that they are "_REDUCTIONIST PHYSICALIST_", for example. A popular version of this view is that "there is only the physical universe" and that perception "emerges" from some physical system in a way that can be explained by physical laws. Note, how this notion comes close to our option of _ASPECT DUALISM_.
 
@@ -380,8 +387,7 @@ There are many more ideas on that problem, some of which cannot neatly placed wi
 :width: 80%
 
 A simplified logical space of possible views regarding conscious perception and the material (physical) world. Note that not every Philosopher of Science would agree with this taxonomy and that there are many more suggested solutions. However, when thinking about the problem in broad-strokes, disallowing for nuance, excemptions, and complications, there is a limited set of possibilities regarding if one or both exists, and how they may relate causally.
-:::
-
+:::  
 
 :::{admonition} QUESTION
 WHICH OF THESE IDEAS BEST DESCRIBE YOUR OWN VIEW? WHY DO YOU DISMISS THE OTHER VIEWS?
@@ -389,9 +395,9 @@ WHICH OF THESE IDEAS BEST DESCRIBE YOUR OWN VIEW? WHY DO YOU DISMISS THE OTHER V
 
 For the purpose of this course, we will adopt a somewhat neutral dualistic stance. That is, we will base our knowledge about the world on the atural sciences such as physics, chemistry, and biology. At the same time, we will treat perception as a real phenomenon that goes beyond its behavioral or functional corrolaries. At the end of the semester, we will re-examine this view, and discuss how what we learned can also be applied to other views. As we will see, the scientific knowledge that we will gain will end up as largely compatible with _most_, if not all, of these views. At the same time, you will have learned new facts and logical insights that pose challenges to each of these views, thus making it even more interesting to ponder about their validity.
 
-## MATHEMATICS 
+## MATHEMATICS
 
-When we think about science, including biology, geology, chemistry, and especially physics, we tend to also think about mathematics. In fact, we seem to be rarely taken aback when we encounter physics in a lecture or a textbook and _most_ of what we are confronted with is mathematics. 
+When we think about science, including biology, geology, chemistry, and especially physics, we tend to also think about mathematics. In fact, we seem to be rarely taken aback when we encounter physics in a lecture or a textbook and _most_ of what we are confronted with is mathematics.
 
 % Math and Physics
 :::{figure} images/wiki_physics.png
