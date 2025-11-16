@@ -1,8 +1,8 @@
 # SENSATION AND PERCEPTION
 
-This web site is meant to provide an opinionated [^1], gentle introduction to the science of sensation and perception, with a few select scholarly references provided for deeper self-study. 
+This web site is meant to provide an opinionated[^1], broadstrokes introduction to the science of sensation and perception, with a few select scholarly references provided for deeper self-study. 
 
-[^1]: Rather than presenting all views on various subjects with equal weight, we will mention dissenting views where applicable. The overarching didactic goal is to lay out a _coherent_ narrative rather than a taxonomy of viewpoints in order to minimize disjointed knowledge and confusion.
+[^1]: Rather than presenting all views on various subjects with equal weight, we will mention dissenting views in passing, wherever applicable. The overarching didactic goal is to lay out a _coherent_ narrative rather than a taxonomy of viewpoints in order to minimize disjointed knowledge and confusion.
 
 % Perception
 :::{figure} images/Mach.png
@@ -359,9 +359,9 @@ The actual ideas are a bit more complex, but they do not deviate far from the se
 
 *IDEALISM*: There is no physical world. All is perception (again, technically, proponents of this view would use broader terms like "mind", or "consciousness" - but it is debatable how much these concepts do or do not overlap). There are two options on this view:
 
-    **SOLIPSISM**: Your perception is all that exists. Nothing else is real. You are all alone. Everything is just an illusion, except your perception. This view is difficult to argue with rationally. At the same time, view people are convinced by this view, let alone prefer this view since it resembles a horrifying reality.
+**SOLIPSISM**: Your perception is all that exists. Nothing else is real. You are all alone. Everything is just an illusion, except your perception. This view is difficult to argue with rationally. At the same time, view people are convinced by this view, let alone prefer this view since it resembles a horrifying reality.
 
-    **PANPSYCHISM**: Everything is perception. This view grants that there is "a world out there", but it assumes that that which exists outside our own perception is even more perception - a grand ocean of perception, if you will. Proponents of this view suggest that something keeps our own perception separate from the rest of perception out there.
+ **PANPSYCHISM**: Everything is perception. This view grants that there is "a world out there", but it assumes that that which exists outside our own perception is even more perception - a grand ocean of perception, if you will. Proponents of this view suggest that something keeps our own perception separate from the rest of perception out there.
 
 ###### DUALISM
 Another possible solution is that there really are two different things: a world and our perception. But there are some disagreements on what exactly makes them different.
