@@ -1,6 +1,8 @@
 # SENSATION AND PERCEPTION
 
-This web site is meant to provide a gentle introduction to the science of sensation and perception, with a few select scholarly references provided for deeper self-study. 
+This web site is meant to provide an opinionated [^1], gentle introduction to the science of sensation and perception, with a few select scholarly references provided for deeper self-study. 
+
+[^1]: Rather than presenting all views on various subjects with equal weight, we will mention dissenting views where applicable. The overarching didactic goal is to lay out a _coherent_ narrative rather than a taxonomy of viewpoints in order to minimize disjointed knowledge and confusion.
 
 % Perception
 :::{figure} images/Mach.png
@@ -53,9 +55,9 @@ Are these associations helpful for someone to understand what redness looks like
 
 Deeper reflection makes clear that there seems to be an interesting problem about the simple perception of red. If someone, for some reason, would see what we see as "green" whenever we see "red", it seems virtually impossible to find a way to find that out. Whenever we try to see if our perception, of say, a ripe tomato is the _same_ red, that person (who actually sees it as what we see as green) would agree with us that this is "red". After all, anything else that we call "red", they have called "red" their whole lives as well. How could they know that we see that color differently? 
 
-This thought experiment has fascinated people since centuries, and it has been termed the **inverted spectrum problem** [^1]. 
+This thought experiment has fascinated people since centuries, and it has been termed the **inverted spectrum problem** [^2]. 
 
-[^1]: If you are interested to learn more, check out this free, [scholarly overview](https://plato.stanford.edu/entries/qualia-inverted/).
+[^2]: If you are interested to learn more, check out this free, [scholarly overview](https://plato.stanford.edu/entries/qualia-inverted/).
 
 % Inverted Spectrum Problem
 :::{figure} images/inverted_spectrum.png
@@ -123,9 +125,9 @@ The scientist asked what the turtle rested on.
 ‘And what does that turtle rest on?’
 ‘You can’t fool me, young man—it’s turtles all the way down!’ ”
 
-It is important to note that all three of these potential outcomes are on equal footing: There is no way to logically argue why one of them is preferable over the others. This realization is known as **Agrippa's Trilemma** (also called the Munchhausen Trilemma)[^2]. It is a dilemma, or more accurately - a trilemma, because none of these three options seem satisfying. Neither for kids, mnor for adults.
+It is important to note that all three of these potential outcomes are on equal footing: There is no way to logically argue why one of them is preferable over the others. This realization is known as **Agrippa's Trilemma** (also called the Munchhausen Trilemma)[^3]. It is a dilemma, or more accurately - a trilemma, because none of these three options seem satisfying. Neither for kids, mnor for adults.
 
-[^2]: Another option to escape Agrippa's Trilemma is to abandon logical coherency altogether. At that point nothing can be argued anymore. Who and how would then decide arguments?
+[^3]: Another option to escape Agrippa's Trilemma is to abandon logical coherency altogether. At that point nothing can be argued anymore. Who and how would then decide arguments?
 
 As we will see, mathematics seems to choose Foundationalism over the other two possibilities. And as we will see, mathematics is _indispensable_ for science. We hence will aim to start with a foundationalist stance. That is, we will start with a few statements that are hopefully agreeable as non-questionable starting points. We will earmark them as "preliminary", however. That is, once we arrived at deeper insight we might want to come back to these foundational beliefs and examine whether we still agree with the assumptions that we started from.
 
@@ -272,10 +274,10 @@ This realization can esily be demonstrated with visual illusions, where we under
 :alt: The Lilac Chaser illusion
 :width: 80%
 
-The Lilac Chaser illusion[^3]: Keep looking at the center cross and watch the animation changing.
+The Lilac Chaser illusion[^4]: Keep looking at the center cross and watch the animation changing.
 :::
 
-[^3]: https://en.wikipedia.org/wiki/Lilac_chaser
+[^4]: https://en.wikipedia.org/wiki/Lilac_chaser
 
 One interesting fact about visual illusions is that they often persist even when exactly understand in what aspects they differ from the actual physical stimulus. In other words, even knowing *that* and *how* our perception differs from the real world does not help - our perception does not correct and adjust to what we know to be really the case.
 
