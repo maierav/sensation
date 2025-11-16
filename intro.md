@@ -69,6 +69,10 @@ This thought experiment has fascinated people since centuries, and it has been t
 The Inverted Spectrum Problem. If there were people among us who see red as green and green as red, it seems like they and us would never be able to find out.
 :::
 
+### Muller's Energies
+
+Press on your closed eyes.  
+
 ---
 
 ## FOUNDATIONS
@@ -257,9 +261,9 @@ Thus, our main point remains: If we start with radical doubt, the scientific met
 
 There is a final open question remaining: If we ponder science in a social context, how come it _still_ works so well? Why does it garner such wide agreement? This is the problem of _interpersonal coherence_ or _intersubjective coherence_ and it poses a serious problem for those who assume that "everything is a matter of perspective". Mathematics and science seem to survive the shift of perspectives that occurs between people. As we will see, this is why discussing the basis of science in the context of perception is unique. After all, one solution to why so many people seem to agree on science could hint at the fact that our perception, and hence our perspectives, are not that different after all. In fact, on a deeper level, it may be that perception is much alike for all of us because it cannot be any other way (just like gravity is found across the earth's surface since it cannot be any other way).
 
-### Sensation is not Perception
+### Perception is not Reality
 
-#### Perception is not Reality
+#### Naive Realism
 
 :::{admonition} DEFINITION
 _Naive Realism_ is the view that the world is your perception. That is, the world is exactly how you experience it. You feel, see, hear, smell, and taste things exactly as they are. We call this idea "naive" since it seems to reflect the way that children think about the world before they learn why this idea does not seem to work.
@@ -293,6 +297,8 @@ The consequence of this insight is that there seem to be two different things, o
 2) Our conscious subjective perception of our environment and bodies.
 
 There are many corrolaries from that view, many of which raise deep questions that humanity has not found satisfying answers for yet.  
+
+### Homunculus
 
 ### Ontology
 
@@ -342,6 +348,15 @@ Plato goes on that we should imagine that these people are chained to a wall so 
 He then goes on to describe that there is gap in the walls of that cave - a window of sorts. Light falls through that gap and the people that grew up inside that cave can only see that light on a wall opposite to that opening.
 
 Here comes the kicker: Plato now describes that the people inside the cave can sometimes see shadows on that wall that is illuminated by the gap behind them. Now, imagine that you are one of the people that grew up in that position. For you, the shadows cannot be understood as shadows. That is, because you have no concept of shadows. You just see sillhouettes opposite to you. They are part of your world. They are "real" to you as much as anything else inside the cave.
+
+% Plato's Cave
+:::{figure} images/platos_cave.png
+:label: fig:platos_cave
+:alt: Plato's Cave
+:width: 80%
+
+Plato's Cave (Jan Saenredam, 1604).
+:::
 
 Plato's story goes on, but the key insight can already be made here. Plato makes clear that the people inside the cave could be fooled, for example, by people on the outside purposefully walking cut-outs made of paper or would along the gap behind the people inside the cave and create a "shadow theater" for the people inside, like we sometimes do for young kids. There is no way to know for the people inside the cave that the shadows they see are just artificially created by people outside - since they do not know that what a shadow is, that there is an outside, let alone people that are outside.
 
