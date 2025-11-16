@@ -21,6 +21,8 @@ We will start with an interesting observation about perception that seems to cou
 Stop your reading each time you hit a box like this one. Sometimes these will be questions. Think about them for a moment and ask yourself how you would answer them before you continue reading. Sometimes these boxes will provide definitions. Ask yourself if you agree with them, and if not, how you would define the concept instead. If the box provides online links, check them out to see if they provide additional information that is new to you.
 :::
 
+---
+
 ## MOTIVATION
 
 Imagine what it would look like inside a giant room that is uniformly filled with very thick (dense) fog and uniformly illuminated with ambient red light. All we can see all around us is red fog (Figure 1).
@@ -66,6 +68,8 @@ This thought experiment has fascinated people since centuries, and it has been t
 
 The Inverted Spectrum Problem. If there were people among us who see red as green and green as red, it seems like they and us would never be able to find out.
 :::
+
+---
 
 ## FOUNDATIONS
 
@@ -153,6 +157,8 @@ _Science_ is the practice of applying logical reasoning and observations to answ
 :class: dropdown
 Do you agree with these definitions? How would you define these terms?
 :::
+
+---
 
 ## SCIENCE
 
@@ -366,6 +372,7 @@ The opposing view is:
 
 >IDEALISM_: There is no physical world. All is perception (again, technically, proponents of this view would use broader terms like "mind", or "consciousness" - but it is debatable how much these concepts do or do not overlap). There are two options on this view:\
 >>SOLIPSISM: Your perception is all that exists. Nothing else is real. You are all alone. Everything is just an illusion, except your perception. This view is difficult to argue with rationally. At the same time, view people are convinced by this view, let alone prefer this view since it resembles a horrifying reality.\
+>>
 >> PANPSYCHISM: Everything is perception. This view grants that there is "a world out there", but it assumes that that which exists outside our own perception is even more perception - a grand ocean of perception, if you will. Proponents of this view suggest that something keeps our own perception separate from the rest of perception out there.
 
 ###### DUALISM
@@ -394,6 +401,8 @@ WHICH OF THESE IDEAS BEST DESCRIBE YOUR OWN VIEW? WHY DO YOU DISMISS THE OTHER V
 :::
 
 For the purpose of this course, we will adopt a somewhat neutral dualistic stance. That is, we will base our knowledge about the world on the atural sciences such as physics, chemistry, and biology. At the same time, we will treat perception as a real phenomenon that goes beyond its behavioral or functional corrolaries. At the end of the semester, we will re-examine this view, and discuss how what we learned can also be applied to other views. As we will see, the scientific knowledge that we will gain will end up as largely compatible with _most_, if not all, of these views. At the same time, you will have learned new facts and logical insights that pose challenges to each of these views, thus making it even more interesting to ponder about their validity.
+
+---
 
 ## MATHEMATICS
 
