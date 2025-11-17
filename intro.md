@@ -12,7 +12,7 @@ This web site is meant to provide an opinionated[^1], broadstrokes introduction 
 
 Sketch of Ernst Mach (1838–1916) of visual perception with the right eye closed.[^2]
 :::
-[^2]: [public domain](https://commons.wikimedia.org/wiki/File:Autoportrait_d%27Ernst_Mach_p.64_The_Grammar_of_Science,_Karl_Pearson,_1900.png)
+[^2]: [public domain image source](https://commons.wikimedia.org/wiki/File:Autoportrait_d%27Ernst_Mach_p.64_The_Grammar_of_Science,_Karl_Pearson,_1900.png)
 
 We will start with an interesting observation about perception that seems to counter our intuitions and ponder its basic philosophical implications. We then will try to work our way from the philosophical insights (i.e., the deepest foundations we can find) to modern science. This exercise will involve taking on a bit of formal logic and mathematics before investigating if these tools of science can be applied to perception. We then will review the psychology and neuroscience of sensation and perception, which provides the bulk of our modern knowledge about perception. Much of this work is focused on vision (seeing), but we will also review our other modalities (senses). Lastly, we will return to mathematics and explore whether everything we have learned can be synthesized into a coherent view that merges the philosophy, psychology, and neuroscience of perception. Interested? Then, let us get started!
 
@@ -75,7 +75,7 @@ This thought experiment has fascinated people since centuries, and it has been t
 
 The Inverted Spectrum Problem. If there were people among us who see red as green and green as red, it seems like they and us would never be able to find out.[^4]
 :::
-[^4]: [public domain](https://commons.wikimedia.org/wiki/File:Anna_Palm_-_A_game_of_L%27hombre_in_Br%C3%B8ndum%27s_Hotel_-_Google_Art_Project.jpg) [and](https://commons.wikimedia.org/wiki/File:Baldwin_Apple_-_Apples_of_New_York.jpg)
+[^4]: [public domain image source 1](https://commons.wikimedia.org/wiki/File:Anna_Palm_-_A_game_of_L%27hombre_in_Br%C3%B8ndum%27s_Hotel_-_Google_Art_Project.jpg) and [public domain image source 2](https://commons.wikimedia.org/wiki/File:Baldwin_Apple_-_Apples_of_New_York.jpg)
 
 The inverted spectrum problem suggests that perception poses a deep problem for science. How can we study something that only one person has access to (in this case: what red looks like for them)? If one supposes that science _has to_ be done by more than one person, we already seem at a loss. Except, there are other things that we cannot observe and still do science on, such as the Big Bang, how evolution leads to separate species, or quantum superposition. And it is also an interesting question whether science _has to_ be done by more than one person.
 
@@ -346,7 +346,7 @@ This realization can esily be demonstrated with visual illusions, where we under
 The Lilac Chaser illusion[^6]: Keep looking at the center cross and watch the animation changing.
 :::
 
-[^6]: [Lilac Chaser Illusion]<https://en.wikipedia.org/wiki/Lilac_chaser>
+[^6]: Recreation of: <https://en.wikipedia.org/wiki/Lilac_chaser>
 
 One interesting fact about visual illusions is that they often persist even when exactly understand in what aspects they differ from the actual physical stimulus. In other words, even knowing _that_ and _how_ our perception differs from the real world does not help - our perception does not correct and adjust to what we know to be really the case.
 
