@@ -23,7 +23,7 @@ Stop your reading each time you hit a box like this one. Sometimes these will be
 
 ---
 
-## MOTIVATION
+## MYSTERIES
 
 Imagine what it would look like inside a giant room that is uniformly filled with very thick (dense) fog and uniformly illuminated with ambient red light. All we can see all around us is red fog (Figure 1).
 
@@ -54,6 +54,8 @@ Is it helpful to describe red using associated concepts, such as "warm", "heat",
 Are these associations helpful for someone to understand what redness looks like if that person has never seen fire, or a heart symbol (such as this: ❤️)?
 :::
 
+### Inverted Spectrum
+
 Deeper reflection makes clear that there seems to be an interesting problem about the simple perception of red. If someone, for some reason, would see what we see as "green" whenever we see "red", it seems virtually impossible to find a way to find that out. Whenever we try to see if our perception, of say, a ripe tomato is the _same_ red, that person (who actually sees it as what we see as green) would agree with us that this is "red". After all, anything else that we call "red", they have called "red" their whole lives as well. How could they know that we see that color differently?  
 
 This thought experiment has fascinated people since centuries, and it has been termed the **inverted spectrum problem** [^2].  
@@ -69,9 +71,21 @@ This thought experiment has fascinated people since centuries, and it has been t
 The Inverted Spectrum Problem. If there were people among us who see red as green and green as red, it seems like they and us would never be able to find out.
 :::
 
-### Muller's Energies
+### Mülller's Law
 
 Press on your closed eyes.  
+
+### Homunculus Problem
+
+At this point your intuition may be of the following:
+
+1. Nerve signals enter the brain.
+2. These signals meet at some location.
+3. This is where perception occurs.
+
+This cannot be. The problem is logical in nature and lies with step (3): There cannot be another mini-brain or mini-person (a "homunculus") inside your brain that perceives the converging nerve signals. After all, that mini-me or mini-brain would need another mini-me or mini-brain inside. And so on.  
+
+This insight is called the **Homunculus Problem**. And it leaved with a puzzle. If that cannot be - how does it happen then that we see and hear and feel all at the same time and seemingly "in one"?  
 
 ---
 
@@ -297,8 +311,6 @@ The consequence of this insight is that there seem to be two different things, o
 2) Our conscious subjective perception of our environment and bodies.
 
 There are many corrolaries from that view, many of which raise deep questions that humanity has not found satisfying answers for yet.  
-
-### Homunculus
 
 ### Ontology
 
