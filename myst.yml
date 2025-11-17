@@ -20,5 +20,4 @@ project:
 site:
   template: book-theme
   options:
-    show_source: false
-    show_made_with: false
+    hide_title_block: false
