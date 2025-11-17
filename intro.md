@@ -10,8 +10,9 @@ This web site is meant to provide an opinionated[^1], broadstrokes introduction 
 :alt: Perception
 :width: 60%
 
-Sketch of Ernst Mach (1838–1916) of visual perception with the right eye closed.
+Sketch of Ernst Mach (1838–1916) of visual perception with the right eye closed.[^2]
 :::
+[^2]: [public domain](https://commons.wikimedia.org/wiki/File:Autoportrait_d%27Ernst_Mach_p.64_The_Grammar_of_Science,_Karl_Pearson,_1900.png)
 
 We will start with an interesting observation about perception that seems to counter our intuitions and ponder its basic philosophical implications. We then will try to work our way from the philosophical insights (i.e., the deepest foundations we can find) to modern science. This exercise will involve taking on a bit of formal logic and mathematics before investigating if these tools of science can be applied to perception. We then will review the psychology and neuroscience of sensation and perception, which provides the bulk of our modern knowledge about perception. Much of this work is focused on vision (seeing), but we will also review our other modalities (senses). Lastly, we will return to mathematics and explore whether everything we have learned can be synthesized into a coherent view that merges the philosophy, psychology, and neuroscience of perception. Interested? Then, let us get started!
 
@@ -62,9 +63,9 @@ Are these associations helpful for someone to understand what redness looks like
 
 Deeper reflection makes clear that there seems to be an interesting problem about the simple perception of red. If someone, for some reason, would see what we see as "green" whenever we see "red", it seems virtually impossible to find a way to find that out. Whenever we try to see if our perception, of say, a ripe tomato is the _same_ red, that person (who actually sees it as what we see as green) would agree with us that this is "red". After all, anything else that we call "red", they have called "red" their whole lives as well. How could they know that we see that color differently?  
 
-This thought experiment has fascinated people since centuries, and it has been termed the **inverted spectrum problem** [^2].  
+This thought experiment has fascinated people since centuries, and it has been termed the **inverted spectrum problem** [^3].  
 
-[^2]: If you are interested to learn more, check out this free, [scholarly overview](https://plato.stanford.edu/entries/qualia-inverted/).
+[^3]: If you are interested to learn more, check out this free, [scholarly overview](https://plato.stanford.edu/entries/qualia-inverted/).
 
 % Inverted Spectrum Problem
 :::{figure} images/inverted_spectrum.png
@@ -72,8 +73,9 @@ This thought experiment has fascinated people since centuries, and it has been t
 :alt: Inverted Spectrum Problem
 :width: 80%
 
-The Inverted Spectrum Problem. If there were people among us who see red as green and green as red, it seems like they and us would never be able to find out.
+The Inverted Spectrum Problem. If there were people among us who see red as green and green as red, it seems like they and us would never be able to find out.[^4]
 :::
+[^4]: [public domain](https://commons.wikimedia.org/wiki/File:Anna_Palm_-_A_game_of_L%27hombre_in_Br%C3%B8ndum%27s_Hotel_-_Google_Art_Project.jpg) [and](https://commons.wikimedia.org/wiki/File:Baldwin_Apple_-_Apples_of_New_York.jpg)
 
 The inverted spectrum problem suggests that perception poses a deep problem for science. How can we study something that only one person has access to (in this case: what red looks like for them)? If one supposes that science _has to_ be done by more than one person, we already seem at a loss. Except, there are other things that we cannot observe and still do science on, such as the Big Bang, how evolution leads to separate species, or quantum superposition. And it is also an interesting question whether science _has to_ be done by more than one person.
 
@@ -168,9 +170,9 @@ The scientist asked what the turtle rested on.
 ‘And what does that turtle rest on?’
 ‘You can’t fool me, young man—it’s turtles all the way down!’ ”
 
-It is important to note that all three of these potential outcomes are on equal footing: There is no way to logically argue why one of them is preferable over the others. This realization is known as **Agrippa's Trilemma** (also called the Munchhausen Trilemma)[^3]. It is a dilemma, or more accurately - a trilemma, because none of these three options seem satisfying. Neither for kids, mnor for adults.
+It is important to note that all three of these potential outcomes are on equal footing: There is no way to logically argue why one of them is preferable over the others. This realization is known as **Agrippa's Trilemma** (also called the Munchhausen Trilemma)[^5]. It is a dilemma, or more accurately - a trilemma, because none of these three options seem satisfying. Neither for kids, mnor for adults.
 
-[^3]: Another option to escape Agrippa's Trilemma is to abandon logical coherency altogether. At that point nothing can be argued anymore. Who and how would then decide arguments?
+[^5]: Another option to escape Agrippa's Trilemma is to abandon logical coherency altogether. At that point nothing can be argued anymore. Who and how would then decide arguments?
 
 As we will see, mathematics seems to choose Foundationalism over the other two possibilities. And as we will see, mathematics is _indispensable_ for science. We hence will aim to start with a foundationalist stance. That is, we will start with a few statements that are hopefully agreeable as non-questionable starting points. We will earmark them as "preliminary", however. That is, once we arrived at deeper insight we might want to come back to these foundational beliefs and examine whether we still agree with the assumptions that we started from.
 
@@ -240,7 +242,11 @@ The most common, or "classical" laws of logic are just 3:
     2. The law of non-contradiction
     3. The law of the excluded middle 
 
-Another interesting discovery in the history of logic is that the 3. law might not be needed (the result is called _intuitonistic logic_). And there are also attempts (hotly debated) about dropping one or more of the other laws. But for most applications of logic, such as in the overwhelming majority of mathematics, _classical logic_ is all and everything that is needed.  
+(1) Means that something is what it is.
+(2) Means that a statement cannot be both true and false within the same context.
+(3) Means that a statement must be either true or false.
+
+Another interesting discovery in the history of logic is that the 3. law might not be needed (the result is called _intuitonistic logic_). And there are also attempts (hotly debated) about dropping one or more of the other laws. But for most applications of logic, such as in the overwhelming majority of mathematics, _classical logic_ is all and everything that is needed (which gained these three rules "the laws of thought").  
 
 ### Explanatory Success of Science
 
