@@ -2,7 +2,7 @@
 
 This web site is meant to provide an opinionated[^1], broadstrokes introduction to the science of sensation and perception, with a few select scholarly references provided for deeper self-study.  
 
-[^1]: Rather than presenting all views on various subjects with equal weight, we will mention dissenting views in passing, wherever applicable. The overarching didactic goal is to lay out a _coherent_ narrative rather than a taxonomy of viewpoints in order to minimize disjointed knowledge and confusion.
+[^1]: Rather than presenting all views with equal weight, we will only mention dissenting views in passing. The overarching didactic goal is to lay out a coherent narrative rather than a taxonomy of viewpoints. The hope is tha this approach prioritizes _holistic understanding_ - grasping the _gist_ - over fractured knowledge. We acknowledge that this comes at the cost of favoring some views over others. The serious student is advised to venture beyon this introductory text and explore the full landscape of ideas.  
 
 % Perception
 :::{figure} images/Mach.png
@@ -10,7 +10,7 @@ This web site is meant to provide an opinionated[^1], broadstrokes introduction 
 :alt: Perception
 :width: 60%
 
-Sketch of Ernst Mach of visual perception with the right eye closed.
+Sketch of Ernst Mach (1838–1916) of visual perception with the right eye closed.
 :::
 
 We will start with an interesting observation about perception that seems to counter our intuitions and ponder its basic philosophical implications. We then will try to work our way from the philosophical insights (i.e., the deepest foundations we can find) to modern science. This exercise will involve taking on a bit of formal logic and mathematics before investigating if these tools of science can be applied to perception. We then will review the psychology and neuroscience of sensation and perception, which provides the bulk of our modern knowledge about perception. Much of this work is focused on vision (seeing), but we will also review our other modalities (senses). Lastly, we will return to mathematics and explore whether everything we have learned can be synthesized into a coherent view that merges the philosophy, psychology, and neuroscience of perception. Interested? Then, let us get started!
@@ -24,6 +24,10 @@ Stop your reading each time you hit a box like this one. Sometimes these will be
 ---
 
 ## MYSTERIES
+
+What motivates the study of perception? You likely have your own reasons, but there is a reason that there are more people interested in this topic, than say, the zoology of Arabic beetles. And one common denominator that is frequently voiced among scholars of perception is that thinking about perception deeply leads to profound mystery. And much of this mystery lies in the fact that perception seems to be very different from most other things we can study. How so? Let's do some quick thought experiments that illustrate the strangeness, or uniqueness, of perception in order to share this sense of puzzlement that lies at the heart of the science of perception.  
+
+It is important that you do not just read quickly what comes next, but think along and ask yourself how you would answer or resolve these puzzles. In doing so, if you find yourself puzzled, that is a good thing. There are no clears answers, and hopefully this will get you excited about learning more.  
 
 Imagine what it would look like inside a giant room that is uniformly filled with very thick (dense) fog and uniformly illuminated with ambient red light. All we can see all around us is red fog (Figure 1).
 
@@ -71,9 +75,27 @@ This thought experiment has fascinated people since centuries, and it has been t
 The Inverted Spectrum Problem. If there were people among us who see red as green and green as red, it seems like they and us would never be able to find out.
 :::
 
+The inverted spectrum problem suggests that perception poses a deep problem for science. How can we study something that only one person has access to (in this case: what red looks like for them)? If one supposes that science _has to_ be done by more than one person, we already seem at a loss. Except, there are other things that we cannot observe and still do science on, such as the Big Bang, how evolution leads to separate species, or quantum superposition. And it is also an interesting question whether science _has to_ be done by more than one person.
+
 ### Mülller's Law
 
-Press on your closed eyes.  
+Carefully press on your closed eyes. Does that change your vision? Do you see a change in darkness or brightness? Spots? No worries, this is expected.  
+
+But let's think about that for a moment.  
+
+What you are doing is to exert pressure on your photorecptors. So why do you _see_ something? Does _seeing_ not mean that there is a change of light? How can _pressure_ lead to _vision_?
+
+The answer is simple. By exerting pressure on your photoreceptors via your eyeball, they are activated - just like they are activated by changes in light level. That is why you _see_ a change that correlates with the pressure you put on the closed eye.  
+
+The implication is fascinating - your brain, which receives the signals from the eyes will _always_ turn that photoreceptor activation into _seeing_. It does not matter _how_ they got activated. It just matter _that_ they get activated, and your brain changes visual perception.  
+
+In more precise language, it seems that the brain does not receive a different _type_ of signal for your feeling pressure or you seeing light. What determines whether a signal from your body (such as from your skin or the back of your eyes) results in a change of visual or tactile perception is entirely determines _where the signal is coming from_.
+
+And indeed, as we will see later, the actual biophysical nature of the signals that the brain receives (neuronal activity in the form of electric action potentials) is _the same_ for all your senses. This insight is called the **law of specific nerve energies** and was suggested by Johannes Peter Müller (1801 – 1858) - almost 20 years before we understood that these "nerve energies" are in fact electricity.
+
+Our modern understanding is that whether these nerve signals from your eyes, skin, or ears lead to you seeing, feeling, or hearing something seems to be determined by _where these signals arrive in the brain_.
+
+This now seems to nicely explain the _difference between sensation and perception_. Sensation is the process of the physical and chemical properties your environment causing nerve activity in your sense receptors, and this is not experienced directly. Perception - you experiencing visual or tactile things - is tied to something that your brain does after receiving these signals.
 
 ### Homunculus Problem
 
