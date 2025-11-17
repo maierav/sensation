@@ -202,6 +202,24 @@ But where do we go from there?
 
 Talking in broad strokes, the next step is _science_. In fact, we already are engaging in science. We are observing (the something, or perception, that seems to survive doubt) and we are thinking - theorizing - about that. This interplay between observing and theorizing now just needs to be expanded about all else, and we seemingly found a rope that we can use to climb out of the abyss of all-encompassing doubt that we climbed into.
 
+### Logic
+
+One step we took from doubt to observation and thought (about our observation) is that we snug in, well, thought. And no tany kind of thought, to be precise, but reasoned thought. After all, unreasonable nonsense, such as "Banana jumps pengiun leads to glory" does not seem to be helpful or get us very far in working our way out of radical doubt.  
+
+But what is that, reasoning? This is another long-pondered question and it found its answer in _logic_.
+
+Now, you might be aware that you can take classes in logic that last a semester or more. And indeed there is much to say (since much has been found out) about what logic is and entails. After all, it is what computers do - they are just logic machines. But one of the most surprising results of all this study is that there is a surprising simplicity at the heart of logic. That simplicity lies in the fact that there are very few laws that we need to explain the _structure_ of logic.  
+
+What are these rules, or laws, that logic follows?
+
+The most common, or "classical" laws of logic are just 3:
+
+    1. The law of identity
+    2. The law of non-contradiction
+    3. The law of the excluded middle 
+
+Another interesting discovery in the history of logic is that the 3. law might not be needed (the result is called _intuitonistic logic_). And there are also attempts (hotly debated) about dropping one or more of the other laws. But for most applications of logic, such as in the overwhelming majority of mathematics, _classical logic_ is all and everything that is needed. 
+
 ### Explanatory Success of Science
 
 There has been an enormous amount of scientific research on sensation and perception. And, just like most science, the outcome of this collective effort has proven _productive_, _effective_, and _beneficial_ - and arguably more so than any other approach to studying sensation and perception. That is, thanks to the _science_ of perception, we have become able to successfully help people that we had not been able to help before, such as using cochlear implants to allow people who were born deaf to become able to hear. It is success of this kind that lends strong support to science being worth doing and studying.
