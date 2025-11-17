@@ -240,7 +240,7 @@ The most common, or "classical" laws of logic are just 3:
     2. The law of non-contradiction
     3. The law of the excluded middle 
 
-Another interesting discovery in the history of logic is that the 3. law might not be needed (the result is called _intuitonistic logic_). And there are also attempts (hotly debated) about dropping one or more of the other laws. But for most applications of logic, such as in the overwhelming majority of mathematics, _classical logic_ is all and everything that is needed. 
+Another interesting discovery in the history of logic is that the 3. law might not be needed (the result is called _intuitonistic logic_). And there are also attempts (hotly debated) about dropping one or more of the other laws. But for most applications of logic, such as in the overwhelming majority of mathematics, _classical logic_ is all and everything that is needed.  
 
 ### Explanatory Success of Science
 
