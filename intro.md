@@ -343,10 +343,10 @@ This realization can esily be demonstrated with visual illusions, where we under
 :alt: The Lilac Chaser illusion
 :width: 80%
 
-The Lilac Chaser illusion[^4]: Keep looking at the center cross and watch the animation changing.
+The Lilac Chaser illusion[^6]: Keep looking at the center cross and watch the animation changing.
 :::
 
-[^4]: <https://en.wikipedia.org/wiki/Lilac_chaser>
+[^6]: [Lilac Chaser Illusion]<https://en.wikipedia.org/wiki/Lilac_chaser>
 
 One interesting fact about visual illusions is that they often persist even when exactly understand in what aspects they differ from the actual physical stimulus. In other words, even knowing _that_ and _how_ our perception differs from the real world does not help - our perception does not correct and adjust to what we know to be really the case.
 
