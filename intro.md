@@ -352,9 +352,8 @@ One interesting fact about visual illusions is that they often persist even when
 
 The consequence of this insight is that there seem to be two different things, or domains that are not identical (since one can deviate from the other):  
 
-1) The physical world consisting of the universe, our local environment, and our own bodies.
-
-2) Our conscious subjective perception of our environment and bodies.
+    1. The physical world consisting of the universe, our local environment, and our own bodies.
+    2. Our conscious subjective perception of our environment and bodies.
 
 There are many corrolaries from that view, many of which raise deep questions that humanity has not found satisfying answers for yet.  
 
