@@ -34,8 +34,6 @@ Perhaps surprisingly, we have learned that neither seems to be a fundamental pro
 
 ## History
 
-
-
 ## Thresholds
 
 ## Methods
