@@ -84,7 +84,7 @@ Following this thoughht experiment you hopefully have gained an intuition for wh
 In this sense, perception is more "primitive" than most common uses of the word. For example, perception in our context is not the thought that might arise when we perceive something. That is, perception is not _recognition_. Perception is how things appear to us, not the ideas or thoughts that follow that appearance.
 
 % Perception vs. Recognition
-:::{figure} images/perception_v_discrimination.png
+:::{figure} images/perception_v_recognition.png
 :label: fig: perception vs. recognition
 :alt: what perception is and is not
 :width: 80%
