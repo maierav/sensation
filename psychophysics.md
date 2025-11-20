@@ -75,7 +75,39 @@ Imagine being blindfolded with the aim to feel changing weights in your hands. [
 
 [^3]: [public domain source](https://commons.wikimedia.org/wiki/File:La_Justice_et_la_Religion_recouvrent_leurs_droits._G.33455.jpg)
 
+Now imagine that the other person silently places a large goos feather on your hand with the paper on it. Your task is to speak up when you feel that extra weight. If you think that you could probably detect that change in weight, you are probably right.  
+
+But now imagine that that person neatly placed 100 feathers on top of the paper. So, your hand now feels quite a bit heavier. And the task is now to detect a single extra feather. Would that be possible? What if we start with 500 feathers? Or 5000? Would you still be able to feel when a single extra feather is added? If your intuition is that this would be harder, if not impossible, you are correct.  
+
+This seems trivial. But Fechner realized that something very interesting happened here.  
+
+Let us imagine that when we added the first feather you sensed a difference in weight. And we already established that once there are many (hundreds or thousands of feathers), you cannot sense the same difference in weight. What this means is that if we imagine that we just add one feather at a time and your task is to detect and say when that happened, we will go from you sensing every physical change (each added feather) to - at some point - *having the **same (constant) perception despite the physical stimulus increasing**.  
+
+Again, this may seem trivial, but we are not quite done yet. Now, imagine that we added so many feathers to your hand that you do not feel anymore when a single feather is silently added. But if we keep adding feathers, at some point you will! After all, only because your hand feels heavier now and you cannot feel a single feather being added anymore does not mean that you lost all sense of weight. Maybe we need to add 10 more feathers or 100, but at some point you will say "Now it feels heavier again".  
+
+Taken all this into account, Fechner realized that often we fail to detect small changes of physical stimuli, such as the added weight of a feather when our hand already holds up something slightly heavier. And that this state of _feeling the same despite the stimulus changing_ can persist across several steps of physical changes, such as adding yet another feather. We call this state of affairs being at "**subjective equality**" - no matter the fact that the physical stimulus is getting heavier, you feel all these weights as subjectively equal.  
+
+Now, even more interesting is what happens next: The moment we add so many new feathers that you eventually feel an increase in weight. This is a **threshold**. That is, we finally crossed a threshold of adding weight that broke you out of subjective equality.  
+
 ## Thresholds
+
+Why is this a big deal? Remember that we started out by pondering that we cannot put numbers of perception (such as love). But a threshold allows us to do just that! You went from 0 (no change/feels the same) to 1 (feels like "more"). And this is not just an arbitrary "step". The "more" that you feel once we pass the threshold is the _minimal_ amount of "more weight" that you can feel under these circumstances. After all, if there would have been a smaller _increment_, you would have felt that. But instead, you felt no change.  
+
+Do you see why Fechner got excited? He just solved the problem. We can put numbers on our perception, they are not arbitrary but measure minimal perceptual increments, and we can do all that using experiments. All we have to do is to precisely measure when these thresholds occur - the respective change in physical stimulus is called the **just-noticeable difference**, or _JND_.  
+
+But there is more. We can also find out when you go from perceiving _nothing_ to perceiving _something_ using the same technique. This is just another threshold. For example, we can play very faint sounds or use very dim lights, make them stronger and find out when you hear or see the stimulus. These thresholds (the minimal stimulus intensities that you can perceive) are called **absolute thresholds** since they are believed to be more or less unchanging for the same individual (different people, such as when testing the faintest sound young or old people can hear, have very different absolute thresholds, of course).
+
+In contrast, the thresholds that occur when we start out with you already perceiving a stimulus (such as the weight of a single feather), and ramp up the stimulus intensity (e.g., buy adding more feather) are called **relative thresholds**. That implies that may not be constant. And indeed they are not. Showing that was Fechner's second major breakthrough.  
+
+Let's go back to our thought experiment. We established that if you hold your hand out, and we put the light weight of a piece of paper on top of it, you will likely feel the weight of a single feather that we lay on top of the paper (if you cannot imagine that, just imagine it being 10 feathers at once). Now imagine that we put several very big hardcover books on your hands and add the feather (or 10 feathers) again. Would you be able to feel that? No. Clearly. So, the threshold of, say a single (or 10) feathers now does not work anymore. We need a lot more feathers on top of the books before you feel the extra weight.
+
+## Psychometric Function
+
+Fechner went to work and tested exactly that. Rather than a thought experiment, he tested what the exact weights were that blindfolded people could detect. And he realized something astonishing: The relative thresholds increased _proportionally_ to the weight that the person already had in hand.  
+
+Let us take a moment and ponder that. Fechner did not only show that we can measure (changes in) perception _numerically_, but that if we do so, the result _follows_ a mathematical law!
+
+Fechner realized that this meant that perception seemed to follow "laws of nature", just like the classical Newtonian physics that he was familiar with. That is, we can describe perceptual measurement with _equations_, just like we can describe motion with equations (such as F=ma). Fechner thus called his approach **Psychphysics** since it really seemed to be a "physics of the psyche" in that it is an approach of precise measurement resulting in lawful relations (and hence predictions).
 
 ## Methods
 
