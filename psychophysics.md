@@ -20,7 +20,7 @@ At first sight it seems that perception is "too subjective" for "objective" meas
 :::{figure} images/weight.png
 :label: fig: scientific measurement
 :alt: Measurement and Science
-:width: 100%
+:width: 80%
 
 Measurement is essential for exact science. But (how) can we precisely measure perception? [^1]
 :::
@@ -41,9 +41,9 @@ In the same vein, some parents experience that their love for their children lea
 :::{figure} images/love.png
 :label: fig: love
 :alt: Measuring Love
-:width: 100%
+:width: 60%
 
-Can you measure love? [^2]
+Is it really true that "You cannot you measure love?" [^2]
 :::
 
 [^2]: [public domain source](https://commons.wikimedia.org/wiki/File:Francesco_Bartolozzi_-_The_Power_of_Love_-_B1978.43.589_-_Yale_Center_for_British_Art.jpg)
@@ -68,7 +68,7 @@ Imagine you are blindfolded. You are stretching out one of your arms. Someone pl
 :::{figure} images/blindfold.jpg
 :label: fig: blindfold
 :alt: Measuring weights
-:width: 100%
+:width: 70%
 
 Imagine being blindfolded with the aim to feel changing weights in your hands. [^3]
 :::
