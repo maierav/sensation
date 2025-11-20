@@ -79,6 +79,25 @@ The Inverted Spectrum Problem. If there were people among us who see red as gree
 
 The inverted spectrum problem suggests that perception poses a deep problem for science. How can we study something that only one person has access to (in this case: what red looks like for them)? If one supposes that science _has to_ be done by more than one person, we already seem at a loss. Except, there are other things that we cannot observe and still do science on, such as the Big Bang, how evolution leads to separate species, or quantum superposition. And it is also an interesting question whether science _has to_ be done by more than one person.
 
+Following this thoughht experiment you hopefully have gained an intuition for what we mean by _perception_. The word is deceptive since we will not use it the way that it is commonly used. Statements like "Well, I perceived it that way." point to differences in opinion, standpoint, or emotional value. However, "perception" in our context is simply what you see, hear, feel, smell, or taste.
+
+In this sense, perception is more "primitive" than most common uses of the word. For example, perception in our context is not the thought that might arise when we perceive something. That is, perception is not _recognition_. Perception is how things appear to us, not the ideas or thoughts that follow that appearance.
+
+% Perception vs. Recognition
+:::{figure} images/perception_v_discrimination.png
+:label: fig: perception vs. recognition
+:alt: what perception is and is not
+:width: 80%
+
+Perception is what you see before you _think_ about _what_ you see. Recognition and perception can - but do not always - influence each other, which is further evidence that they are two separate processes.[^5]
+:::
+
+[^5]: [public domain source](https://commons.wikimedia.org/wiki/File:Pg_247_-_Doodle_(bw).jpg)
+
+It can be challenging to rid onself of everyday notions of the word perception when studying the subject. After all, when we perceive something like a simplistic doodle, say of a flock of birds, we do both - see the lines on paper and we can have the immediate experience of recognizing what the doodle shows. These two processes often get expressed with the same words, such as when we say "I see you drew birds". But what we really _see_ is **not** birds. We _see_ lines. We _think_ "birds", but we all know that birds do not just look like scribbled lines.  
+
+What we mean by "perception", then is what we see (just lines in this case). And this can take effort to recognize since we are so used to "doing more" than just reflecting on what we _actually see_. Without taking it for granted, just because it is so automatic ("given"), natural and familiar to us. Realizing this conception of "perception" is a bit like a fish realizing that they are surrounded by water, and always have been.
+
 ### Mülller's Law
 
 Carefully press on your closed eyes. Does that change your vision? Do you see a change in darkness or brightness? Spots? No worries, this is expected.  
@@ -170,9 +189,9 @@ The scientist asked what the turtle rested on.
 ‘And what does that turtle rest on?’
 ‘You can’t fool me, young man—it’s turtles all the way down!’ ”
 
-It is important to note that all three of these potential outcomes are on equal footing: There is no way to logically argue why one of them is preferable over the others. This realization is known as **Agrippa's Trilemma** (also called the Munchhausen Trilemma)[^5]. It is a dilemma, or more accurately - a trilemma, because none of these three options seem satisfying. Neither for kids, mnor for adults.
+It is important to note that all three of these potential outcomes are on equal footing: There is no way to logically argue why one of them is preferable over the others. This realization is known as **Agrippa's Trilemma** (also called the Munchhausen Trilemma)[^6]. It is a dilemma, or more accurately - a trilemma, because none of these three options seem satisfying. Neither for kids, mnor for adults.
 
-[^5]: Another option to escape Agrippa's Trilemma is to abandon logical coherency altogether. At that point nothing can be argued anymore. Who and how would then decide arguments?
+[^6]: Another option to escape Agrippa's Trilemma is to abandon logical coherency altogether. At that point nothing can be argued anymore. Who and how would then decide arguments?
 
 As we will see, mathematics seems to choose Foundationalism over the other two possibilities. And as we will see, mathematics is _indispensable_ for science. We hence will aim to start with a foundationalist stance. That is, we will start with a few statements that are hopefully agreeable as non-questionable starting points. We will earmark them as "preliminary", however. That is, once we arrived at deeper insight we might want to come back to these foundational beliefs and examine whether we still agree with the assumptions that we started from.
 
@@ -251,9 +270,9 @@ The most common, or "classical" laws of logic are just 3:
 (2) Means that a statement cannot be both true and false within the same context.
 (3) Means that a statement must be either true or false.
 
-Another interesting discovery in the history of logic is that the 3. law might not be needed (the result is called _intuitonistic logic_). And there are also attempts (hotly debated) about dropping one or more of the other laws [^6]. But for most applications of logic, such as in the overwhelming majority of mathematics, _classical logic_ is all and everything that is needed (which gained these three rules "the laws of thought").  
+Another interesting discovery in the history of logic is that the 3. law might not be needed (the result is called _intuitonistic logic_). And there are also attempts (hotly debated) about dropping one or more of the other laws [^7]. But for most applications of logic, such as in the overwhelming majority of mathematics, _classical logic_ is all and everything that is needed (which gained these three rules "the laws of thought").  
 
-[^6]: The debate surrounding so-called _paraconsistent logic_, which denies the law of non-contradiction can sometimes cause confusion. It is important to note that paraconsistent logic is _indistinguishable_ from classical logic and fully coherent _most of the time_. The only difference between logics that apply the law of the of non-contradiction and logical systems that allow for contradiction is when we encounter a _paradox_, such as when a liar states that they are a liar. In these cases, a paraconsistent logician "allows" for the paradox while a classical logician aims for different solutions. These are just rare edge cases, of course, and for most statements of logic, both sides agree that classical logic - akin to using all three laws - rules. We thus can safely proceed on the grounds of classical logic.
+[^7]: The debate surrounding so-called _paraconsistent logic_, which denies the law of non-contradiction can sometimes cause confusion. It is important to note that paraconsistent logic is _indistinguishable_ from classical logic and fully coherent _most of the time_. The only difference between logics that apply the law of the of non-contradiction and logical systems that allow for contradiction is when we encounter a _paradox_, such as when a liar states that they are a liar. In these cases, a paraconsistent logician "allows" for the paradox while a classical logician aims for different solutions. These are just rare edge cases, of course, and for most statements of logic, both sides agree that classical logic - akin to using all three laws - rules. We thus can safely proceed on the grounds of classical logic.
 
 ### Explanatory Success of Science
 
@@ -350,10 +369,10 @@ This realization can esily be demonstrated with visual illusions, where we under
 :alt: The Lilac Chaser illusion
 :width: 80%
 
-The Lilac Chaser illusion[^7]: Keep looking at the center cross and watch the animation changing.
+The Lilac Chaser illusion[^8]: Keep looking at the center cross and watch the animation changing.
 :::
 
-[^7]: Recreation of: <https://en.wikipedia.org/wiki/Lilac_chaser>
+[^8]: Recreation of: <https://en.wikipedia.org/wiki/Lilac_chaser>
 
 One interesting fact about visual illusions is that they often persist even when exactly understand in what aspects they differ from the actual physical stimulus. In other words, even knowing _that_ and _how_ our perception differs from the real world does not help - our perception does not correct and adjust to what we know to be really the case.
 
