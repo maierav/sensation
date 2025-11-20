@@ -209,7 +209,6 @@ Do you agree with these definitions? How would you define these terms?
     
     VOLTAIRE
 
-
 Why science? And what is science, exactly? Let us examine this before reviewing the science of perception. You might wonder whether that is worth doing. The answer is that it seems generally wise to question what you know and how you know it. Ridding yourself of misconceptions or misunderstandings is helpful in succeeding in whatever you want to accomplish. Trying to accomplish something in the world while having an incorrect idea about the world is likely to result in failure. In order to invent flying cars, we first need to understand gravity, of course. But there is a deeper reason why we need to wait a bit longer before discussing the science of perception. The problem, as we will see, is that perception seems to be challenging to place inside science - or so it may seem. Only by pondering for a moment why and how science has become a leading explanation of the world, we can understand why perception seemingly poses a problem for science - and how it could be overcome.
 
 ### Radical Doubt
