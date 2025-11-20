@@ -20,4 +20,4 @@ project:
 site:
   template: book-theme
   options:
-    hide_title_block: false
+    logo: images/logo.png
