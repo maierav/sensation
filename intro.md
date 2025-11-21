@@ -114,7 +114,7 @@ In more precise language, it seems that the brain does not receive a different _
 
 And indeed, as we will see later, the actual biophysical nature of the signals that the brain receives (neuronal activity in the form of electric action potentials) is _the same_ for all your senses. This insight is called the **law of specific nerve energies** and was suggested by Johannes Peter Müller (1801 – 1858) - almost 20 years before we understood that these "nerve energies" are in fact electricity.
 
- Nerve Energies
+ % Nerve Energies
 :::{figure} images/nerve_energies.png
 :label: fig: Mueller's Law
 :alt: Mueller's Law of Nerve Energies
