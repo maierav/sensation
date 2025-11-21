@@ -1,8 +1,15 @@
+---
+kernelspec:
+  name: python3
+  display_name: 'Python 3'
+---
+
 # SENSATION AND PERCEPTION
 
-```{code-cell}
-:label: markdown-myst
-print("Here's some python!")
+```{code-cell} python
+:label: mycelllabel
+
+print("Hello world!")
 ```
 
 This Jupyter book is meant to provide an opinionated[^1], broad strokes introduction to the science of sensation and perception, with select scholarly references provided for  self-study.  
