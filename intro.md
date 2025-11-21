@@ -110,9 +110,18 @@ The answer is simple. By exerting pressure on your photoreceptors via your eyeba
 
 The implication is fascinating - your brain, which receives the signals from the eyes will _always_ turn that photoreceptor activation into _seeing_. It does not matter _how_ they got activated. It just matter _that_ they get activated, and your brain changes visual perception.  
 
-In more precise language, it seems that the brain does not receive a different _type_ of signal for your feeling pressure or you seeing light. What determines whether a signal from your body (such as from your skin or the back of your eyes) results in a change of visual or tactile perception is entirely determines _where the signal is coming from_.
+In more precise language, it seems that the brain does not receive a different _type_ of signal for your feeling pressure or you seeing light. What determines whether a signal from your body (such as from your skin or the back of your eyes) results in a change of visual or tactile perception is entirely determines _where the signal is coming from.
 
 And indeed, as we will see later, the actual biophysical nature of the signals that the brain receives (neuronal activity in the form of electric action potentials) is _the same_ for all your senses. This insight is called the **law of specific nerve energies** and was suggested by Johannes Peter Müller (1801 – 1858) - almost 20 years before we understood that these "nerve energies" are in fact electricity.
+
+ Nerve Energies
+:::{figure} images/nerve_energies.png
+:label: fig: Mueller's Law
+:alt: Mueller's Law of Nerve Energies
+:width: 70%
+
+Our senses all _feel_ different, but they all start with the same _type_ of signal: action potentials - brief (~1ms long) electric pulses. Whether these impulses lead to smelling (yellow), hearing (blue), or hearing (red) is entirely determined by where these signals arrive and are processed by the brain. this is also the vase for taste and touch.
+:::
 
 Our modern understanding is that whether these nerve signals from your eyes, skin, or ears lead to you seeing, feeling, or hearing something seems to be determined by _where these signals arrive in the brain_.
 
