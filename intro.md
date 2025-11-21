@@ -1,16 +1,4 @@
----
-kernelspec:
-  name: python3
-  display_name: 'Python 3'
----
-
 # SENSATION AND PERCEPTION
-
-```{code-cell} python
-:label: mycelllabel
-
-print("Hello world!")
-```
 
 This Jupyter book is meant to provide an opinionated[^1], broad strokes introduction to the science of sensation and perception, with select scholarly references provided for  self-study.  
 
@@ -252,7 +240,7 @@ Do you agree with these definitions? How would you define these terms?
 
 ## SCIENCE
 
-    When we cannot use the compass of mathematics or the torch of experience... 
+    When we cannot use the compass of mathematics or the torch of experience...
     it is certain that we cannot take a single step forward. 
     
     VOLTAIRE
