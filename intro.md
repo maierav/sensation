@@ -1,19 +1,4 @@
----
-kernelspec:
-  name: python3
-  display_name: 'Python 3'
----
-
 # SENSATION AND PERCEPTION
-
-```{code-cell} python
-hello = "hello"
-there = "there"
-phrase = f"{hello}, {there}!"
-print(phrase)
-```
-
-TEST
 
 This Jupyter book is meant to provide an opinionated[^1], broad strokes introduction to the science of sensation and perception, with select scholarly references provided for  self-study.  
 
