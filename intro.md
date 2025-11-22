@@ -523,7 +523,7 @@ For the purpose of this course, we will adopt a somewhat neutral dualistic stanc
 
 When we think about science, including biology, geology, chemistry, and especially physics, we tend to also think about mathematics. In fact, we seem to be rarely taken aback when we encounter physics in a lecture or a textbook and _most_ of what we are confronted with is mathematics.
 
-One connection about math and science is that both often explain the _unfamiliar with the familiar_ (and vice versa).
+According to Lewis Wolper, one connection about math and science is that both often explain the _unfamiliar with the familiar_ (and vice versa).
 
     F = m * a 
     
