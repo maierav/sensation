@@ -30,7 +30,7 @@ What motivates the study of perception? You likely have your own reasons, but th
 
 It is important that you do not just read quickly what comes next, but think along and ask yourself how you would answer or resolve these puzzles. In doing so, if you find yourself puzzled, that is a good thing. There are no clears answers, and hopefully this will get you excited about learning more.  
 
-Imagine what it would look like inside a giant room that is uniformly filled with very thick (dense) fog and uniformly illuminated with ambient red light. All we can see all around us is red fog (Figure 1).
+Imagine what it would look like inside a giant room that is uniformly filled with very thick (dense) fog and uniformly illuminated with ambient red light. All we can see all around us is red fog.
 
 % AI render of dense red fog
 :::{figure} images/red_haze.png
@@ -312,7 +312,7 @@ But the fact that there may be a bit of gray area at the margins does not take a
 
 Following observation, we may either gain or lose confidence in our theories given how well their predictions match what we find using these observations. Losing confidence may prompty us to refine our theories, or even abandon them altogether in lieu of new theories that we can then test again observationally. However, even if we gain confidence in our theories, we need to be prepared that additional (future) observations may prompt us to lose confidence at a later point in time.  
 
-Using this bare bones, overly simplistic description of science, we end up with a loop - a constant interplay between theory and observation. However, we are not going in circles. Each time we go around the loop, we seemingly progress in that we can detect flaws in our theories (if they fail to provide a good match between prediction and observation), and thereby arrive at new theories that might allow for better predictions and thus a closer match with what we observe (Figure 2).
+Using this bare bones, overly simplistic description of science, we end up with a loop - a constant interplay between theory and observation. However, we are not going in circles. Each time we go around the loop, we seemingly progress in that we can detect flaws in our theories (if they fail to provide a good match between prediction and observation), and thereby arrive at new theories that might allow for better predictions and thus a closer match with what we observe.
 
 **Science starts with (and ends in) doubt**: The cornerstone of science is that _anything can be (and in fact, should be) doubted_. That is, the starting point of science is to not take any statement about the world for granted. Science assumes that _we know nothing for sure_. In other words, science assumes that _everything we know_ is just an assumption. At the same time, science assumes
 that _not all assumptions are valid_. Science does not assume that _we know nothing_, or that _we will never know anything_. Instead, science assumes that:
@@ -378,7 +378,7 @@ What do you think? Is naive realism correct or wrong? What arguments do you have
 
 In fact, the starting point of the science of perception is the realization that what we feel, see, hear, smell, or taste is not to be confused with what the world is _actually_ like.
 
-This realization can esily be demonstrated with visual illusions, where we understand that what we _see_ is "wrong" in that our perception deviates from reality of the physical stimulus (Figure 3):
+This realization can esily be demonstrated with visual illusions, where we understand that what we _see_ is "wrong" in that our perception deviates from reality of the physical stimulus.
 
 % Lilac Chaser Illusion
 :::{figure} images/lilac_chaser.gif
@@ -404,7 +404,7 @@ There are many corrolaries from that view, many of which raise deep questions th
 
 We talked already about how philosophers call thinking about the limits of what we can know _epistemology_. Thinking about that what  exists is called _ontology_. Together, these two types of thinking form an interplay of that which exists (the ontic) and what we can know about it (the epistemic). Our perception seems to be neither - it is not knowledge and it does not seem to be what really exists, so we call thinking about our perception _phenomenology_.
 
-Naive realism, in a way, is a simple epistemology where phenomenology is equated with ontology, Realizing that we do not perceive the world as it is leads to a more sophisticated epistemology that differentiates between our phenomenology and ontology. But what can we know about ontology? Metaphorically speaking, if our phenomenology is akin to the shadows seen by the prisoner's in Plato's Cave, how can we find out what is actually going on outside the cave?
+Naive realism, in a way, is a simple epistemology where phenomenology is equated with ontology, Realizing that we do not perceive the world as it is leads to a more sophisticated epistemology that differentiates between our phenomenology and ontology. But what can we know about ontology? Metaphorically speaking, if our phenomenology is akin to shadows, how can we find out what is actually going on outside the cave?
 
 If naive realism is problematic, which other worldviews are there that might be more convincing? You might immediately think about science, especially since we argued for its strength above. And, indeed, the scientific worldview differs widely from naive realism. However, as we will see, there actually are a large variety of very different worldviews that all claim to be compatible with science. And many of these diverging worldviews that base themselves off science differ in how they think about perception!
 
