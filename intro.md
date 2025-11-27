@@ -547,3 +547,29 @@ According to Lewis Wolper, one connection about math and science is that both of
 
 The _wikipedia_ entry on "Physics" shows a mathematical diagram under "Scopes and Aims".
 :::
+
+But why is it that we can apply mathematics - a product of our human minds - to the world, which we deem to exist _independently_ of our minds?  Why does Newton's second law of motion work when we aim to understand and predict the behavior of wheels rolling down a hill, if the wheels and the hill and the motion of the wheel arguably would all exist and behave in the exact same way before there were human minds?  
+
+More than that, why does using mathematics to describe natural, mindless, and mindless phenomena and processes _so well_? The physicist Eugene Wigner might have best phrases this question as the **"unreasonable effectivenes of mathematics in the natural sciences". He, and many others who have spent time thinking about this puzzle have collectively concluded that there is no clear satisfying answer.  
+
+But let us attempt just that. After all, we need to find a rational way to go from what we established so far - that empirical observation and rational reasoning (theorizing) - might be a rationally justified and fruitful endeavour to escape our (equally reasonable and justified) starting point of _radical doubt_. But how do we go from "empirical observation" to precise quantitative measurement and data (rather than just qualitative data). And how do we go from rational theorizing to applying mathematics, such as in Newton's _F = m*a_?
+
+Well, we already made a bit of such a leap when we chose to use _logic_. And is mathematics not just that? Isn't mathematical reasoning - the laws, or apparatus of mathematics - nothing more than logic?  
+
+This may not be so. One of the starting points of mathematics, in particular geometry, was not so much based on abstract logic than concrete _construction_ by applying a ruler and compass to figures drawn on sand. The rules governing these geometric constructs seemed to be drawn from the world rather than our minds. Similarly, Romans used tiny pebbles (calculi) for basic arithmetic since there is no algorithm for long division as the one we are now familiar with for our use of Hindu-Arabic numerals.  
+
+Another blow to the notion that mathematics _builds on_ logic is that history suggests that it may be the other way around: logic builds on mathematics. Specifically, logic was long limited to _syllogisms_, such as the famous:
+
+    Socrates is a man.
+    All men are mortal.
+    Hence, Socrates is mortal
+
+We do not really seem to reason logically in just this limited way. Indeed, modern logic often refers to _formal logic_, which arose by applying mathematical techniques (such as using symbolic notation) to logic. In other words, we now think of logic more like a speciality of mathematics rather than the other way around. Mathematics, not logic seems more fundamental.  
+
+There are many opposing, dissenting, and countering views, of course. But let us ponder for a moment what the consequences of this view may be. In particular, where does this view leave us with respect to our original question: what allows us to move from observation and theory to adding quantitative observation and mathematical theory?  
+
+One proposal is to go all the way back to our starting point: When we tried to doubt everything away, _something_ seemed to resist and remain. This _something_ we identfied as experience. We then took the next step by observing this experience and rationally reasoning about this experience, concluding that we end up in an interplay between the two providing us with increasing certainty (say, about the fact that we really see the redness of red and are not deluded in assuming this to be the case), thus slowly - but never fully - resolving the fog of universal doubt.  
+
+Now - what if we can _observe_ mathematics in this experience? What if our experience seems to have certain properties, a certain _structure_ that we cannot doubt away? Would that not allow us to _find_ and _justify_ why mathematics may play an important role for the process of observation? And then, as an extension, could also shift to the other side of the process we identfied and affect our reasoning as well?  
+
+This thought may seem unintuitive, radical, or even revolutionary, but is not entirely new.
