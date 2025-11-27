@@ -59,6 +59,16 @@ Is it helpful to describe red using associated concepts, such as "warm", "heat",
 Are these associations helpful for someone to understand what redness looks like if that person has never seen fire, or a heart symbol (such as this: ❤️)?
 :::
 
+At the core of the problem is something that philosophers have aimed to pinpoint with the question:
+
+    **"What is it like?"**
+
+When we struggle to explain a blind person what we _experience_ when we see or dream red, what we really struggle with is to describe _what it is like_ to experience red.  
+
+Words seem insufficient to exactly describe this what-it-is-likeness. There is a "redness" to red that is seemingly _indescribable_, or ineffable. One has to experience the redness of red, it seems, to learn what it is like.  
+
+Or is it so? Would there not be ways out such as using other colors or other experiences? Let us examine this a bit more in depth with another interesting thought experiment.  
+
 ### Inverted Spectrum
 
 Deeper reflection makes clear that there seems to be an interesting problem about the simple perception of red. If someone, for some reason, would see what we see as "green" whenever we see "red", it seems virtually impossible to find a way to find that out. Whenever we try to see if our perception, of say, a ripe tomato is the _same_ red, that person (who actually sees it as what we see as green) would agree with us that this is "red". After all, anything else that we call "red", they have called "red" their whole lives as well. How could they know that we see that color differently?  
