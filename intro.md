@@ -572,4 +572,4 @@ One proposal is to go all the way back to our starting point: When we tried to d
 
 Now - what if we can _observe_ mathematics in this experience? What if our experience seems to have certain properties, a certain _structure_ that we cannot doubt away? Would that not allow us to _find_ and _justify_ why mathematics may play an important role for the process of observation? And then, as an extension, could also shift to the other side of the process we identfied and affect our reasoning as well?  
 
-This thought may seem unintuitive, radical, or even revolutionary, but is not entirely new.
+This thought may seem unintuitive, radical, or even revolutionary, but is not entirely new.  
