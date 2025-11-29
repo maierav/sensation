@@ -367,7 +367,14 @@ The answer is that we do not need to be 100% certain about things and still make
 
 And that is what science really does: It provides us with varying degrees of certainty about what seems correct or wrong. Finding little empirical evidence for unicorns does not imply that we know with 100% certainty that there are no unicorns. Perhaps some crazy amateur scientists created them using genetic engineering in their garage. But we can put a much greater _likelihood_ over there not being unicorns over the likelihood of the alternative being true.  
 
-This ration of likelihoods between alternative theories is called the Bayes' factor, and it can be calculated.
+This ration of likelihoods between alternative theories is called the Bayes' factor, which can be calculated.
+
+The important lesson to draw from all of this is that:
+
+    1. Even if we do not know what is true, we can _know_. With varying degrees of certainty.
+    2. Even if we lack full certainty, what we believe may still be true.[^9]
+
+[^9: There are varying definitions of what we mean by "true", of course. For now, we will adopt the most common and perhaps simplest notion in that we define "true" any belief or statements that _corresponds_ to reality (**correspondence theory**). Such as the belief or statement "it is raining outside right now" being true if there is water falling from the sky at this location and that point in time. We will revisit this notion again later.]  
 
 The resulting view that science yields us _likelihoods_ of correctness or incorrectness rather than absolutely ruling out or confirming assumptions about the world is called **Bayesian Epistemology**. Not everyone who has thought about science, or who conducts science concurs with this intellectual stance of intellectual _humility_ (the acknowledgment that even the outcomes of science are valid subjects to doubt). We hence will adopt it here.
 
@@ -411,10 +418,10 @@ This realization can esily be demonstrated with visual illusions, where we under
 :alt: The Lilac Chaser illusion
 :width: 80%
 
-The Lilac Chaser illusion[^9]: Keep looking at the center cross and watch the animation changing.
+The Lilac Chaser illusion[^10]: Keep looking at the center cross and watch the animation changing.
 :::
 
-[^9]: Recreation of: <https://en.wikipedia.org/wiki/Lilac_chaser>
+[^10]: Recreation of: <https://en.wikipedia.org/wiki/Lilac_chaser>
 
 One interesting fact about visual illusions is that they often persist even when exactly understand in what aspects they differ from the actual physical stimulus. In other words, even knowing _that_ and _how_ our perception differs from the real world does not help - our perception does not correct and adjust to what we know to be really the case.
 
