@@ -12,6 +12,7 @@ This Jupyter book is meant to provide an opinionated[^1], broad strokes introduc
 
 Sketch of Ernst Mach (1838–1916) of visual perception with the right eye closed.[^2]
 :::
+
 [^2]: [public domain image source](https://commons.wikimedia.org/wiki/File:Autoportrait_d%27Ernst_Mach_p.64_The_Grammar_of_Science,_Karl_Pearson,_1900.png)
 
 We will start with an interesting observation about perception that seems to counter our intuitions and ponder its basic philosophical implications. We then will try to work our way from the philosophical insights (i.e., the deepest foundations we can find) to modern science. This exercise will involve taking on a bit of formal logic and mathematics before investigating if these tools of science can be applied to perception. We then will review the psychology and neuroscience of sensation and perception, which provides the bulk of our modern knowledge about perception. Much of this work is focused on vision (seeing), but we will also review our other modalities (senses). Lastly, we will return to mathematics and explore whether everything we have learned can be synthesized into a coherent view that merges the philosophy, psychology, and neuroscience of perception. Interested? Then, let us get started!
@@ -85,13 +86,27 @@ This thought experiment has fascinated people since centuries, and it has been t
 
 The Inverted Spectrum Problem. If there were people among us who see red as green and green as red, it seems like they and us would never be able to find out.[^4]
 :::
+
 [^4]: [public domain image source 1](https://commons.wikimedia.org/wiki/File:Anna_Palm_-_A_game_of_L%27hombre_in_Br%C3%B8ndum%27s_Hotel_-_Google_Art_Project.jpg) and [public domain image source 2](https://commons.wikimedia.org/wiki/File:Baldwin_Apple_-_Apples_of_New_York.jpg)
 
 The inverted spectrum problem suggests that perception poses a deep problem for science. How can we study something that only one person has access to (in this case: what red looks like for them)? If one supposes that science _has to_ be done by more than one person, we already seem at a loss. Except, there are other things that we cannot observe and still do science on, such as the Big Bang, how evolution leads to separate species, or quantum superposition. And it is also an interesting question whether science _has to_ be done by more than one person.
 
 Following this thought experiment you hopefully have gained an intuition for what we mean by _perception_. The word is deceptive since we will not use it the way that it is commonly used. Statements like "Well, I perceived it that way." point to differences in opinion, standpoint, or emotional value. However, "perception" in our context is simply what you see, hear, feel, smell, or taste.
 
-**Perception is experience**. We may think of perception as being "linked to the world" in that perception (say, vision) starts with stimuli (such as light) from the environment. But, we can also see things during sleep - without any light triggering or dictating what we see. That visual experience is seemingly the same, or at elast very similar to, the visual experience that is linked to the world via light. It thus seems somewhat questionable to limit our study of vision to the vision that occurs due to light. After all, the truly interesting question about _seeing_ is that and how we see, not what causes it (either light or dream sleep).  
+**Perception is experience**. We may think of perception as being "linked to the world" in that perception (say, vision) starts with stimuli (such as light) from the environment.  
+
+% Dreams
+:::{figure} images/dreaming.png
+:label: fig: dreaming
+:alt: Dreamning
+:width: 80%
+
+Perceptual experience does not depend on sensory stimuli as demonstrated by the fact that we can experience visual and auditory dreams during sleep. Seeing "red" can happen without any light or activation of your eyes.[^5]
+:::
+
+[^5]: [public domain image source](https://commons.wikimedia.org/wiki/File:Dickensdream.jpg)
+
+But, we can also see things during sleep - without any light triggering or dictating what we see. That visual experience is seemingly the same, or at elast very similar to, the visual experience that is linked to the world via light. It thus seems somewhat questionable to limit our study of vision to the vision that occurs due to light. After all, the truly interesting question about _seeing_ is that and how we see, not what causes it (either light or dream sleep).  
 
 Once thus could also say that perception is **consciousness** itself. Some may argue that consciousness is _more_ than just perception as it also includes thoughts or emotions. Yet, these are also _experiences_. They are not experiences of stimuli from our environment, of course. But we already established that this direct link to the world (via sensation) is not what characterizes perception (since we can also see and hear things during sleep, where we are "discoupled" from the world). A thought then is just the perception of a cognitive process. And emotion just the perception of our internal state (a neuroscientist may argue that it is the perception of a certain neurochemical state of the brain). If you disagree with this broadened definition of perception as _all_ experience, do not worry. The rest of this book can be read and understood from the traditional perspective as perception being linked to the world via the sensation of stimuli. However, if you allow for the expanded definition, some of the conceptual problems that arise from taking this traditional view (such as puzzling how we can see and hear during sleep) become less vexing.  
 
@@ -107,10 +122,10 @@ There are also quite practical implications that are important to note for psych
 :alt: what perception is and is not
 :width: 80%
 
-Perception is what you see before you _think_ about _what_ you see. Recognition and perception can - but do not always - influence each other, which is further evidence that they are two separate processes.[^5]
+Perception is what you see before you _think_ about _what_ you see. Recognition and perception can - but do not always - influence each other, which is further evidence that they are two separate processes.[^6]
 :::
 
-[^5]: [public domain source](https://commons.wikimedia.org/wiki/File:Pg_247_-_Doodle_(bw).jpg)
+[^6]: [public domain source](https://commons.wikimedia.org/wiki/File:Pg_247_-_Doodle_(bw).jpg)
 
 It can be challenging to rid onself of everyday notions of the word perception when studying the subject. After all, when we perceive something like a simplistic doodle, say of a flock of birds, we do both - see the lines on paper and we can have the immediate experience of recognizing what the doodle shows. These two processes often get expressed with the same words, such as when we say "I see you drew birds". But what we really _see_ is **not** birds. We _see_ lines. We _think_ "birds", but we all know that birds do not just look like scribbled lines.  
 
@@ -216,9 +231,9 @@ The scientist asked what the turtle rested on.
 ‘And what does that turtle rest on?’
 ‘You can’t fool me, young man—it’s turtles all the way down!’ ”
 
-It is important to note that all three of these potential outcomes are on equal footing: There is no way to logically argue why one of them is preferable over the others. This realization is known as **Agrippa's Trilemma** (also called the Munchhausen Trilemma)[^6]. It is a dilemma, or more accurately - a trilemma, because none of these three options seem satisfying. Neither for kids, mnor for adults.
+It is important to note that all three of these potential outcomes are on equal footing: There is no way to logically argue why one of them is preferable over the others. This realization is known as **Agrippa's Trilemma** (also called the Munchhausen Trilemma)[^7]. It is a dilemma, or more accurately - a trilemma, because none of these three options seem satisfying. Neither for kids, mnor for adults.
 
-[^6]: Another option to escape Agrippa's Trilemma is to abandon logical coherency altogether. At that point nothing can be argued anymore. Who and how would then decide arguments?
+[^7]: Another option to escape Agrippa's Trilemma is to abandon logical coherency altogether. At that point nothing can be argued anymore. Who and how would then decide arguments?
 
 As we will see, mathematics seems to choose Foundationalism over the other two possibilities. And as we will see, mathematics is _indispensable_ for science. We hence will aim to start with a foundationalist stance. That is, we will start with a few statements that are hopefully agreeable as non-questionable starting points. We will earmark them as "preliminary", however. That is, once we arrived at deeper insight we might want to come back to these foundational beliefs and examine whether we still agree with the assumptions that we started from.
 
@@ -297,9 +312,9 @@ The most common, or "classical" laws of logic are just 3:
 (2) Means that a statement cannot be both true and false within the same context.
 (3) Means that a statement must be either true or false.
 
-Another interesting discovery in the history of logic is that the 3. law might not be needed (the result is called _intuitonistic logic_). And there are also attempts (hotly debated) about dropping one or more of the other laws [^7]. But for most applications of logic, such as in the overwhelming majority of mathematics, _classical logic_ is all and everything that is needed (which gained these three rules "the laws of thought").  
+Another interesting discovery in the history of logic is that the 3. law might not be needed (the result is called _intuitonistic logic_). And there are also attempts (hotly debated) about dropping one or more of the other laws [^8]. But for most applications of logic, such as in the overwhelming majority of mathematics, _classical logic_ is all and everything that is needed (which gained these three rules "the laws of thought").  
 
-[^7]: The debate surrounding so-called _paraconsistent logic_, which denies the law of non-contradiction can sometimes cause confusion. It is important to note that paraconsistent logic is _indistinguishable_ from classical logic and fully coherent _most of the time_. The only difference between logics that apply the law of the of non-contradiction and logical systems that allow for contradiction is when we encounter a _paradox_, such as when a liar states that they are a liar. In these cases, a paraconsistent logician "allows" for the paradox while a classical logician aims for different solutions. These are just rare edge cases, of course, and for most statements of logic, both sides agree that classical logic - akin to using all three laws - rules. We thus can safely proceed on the grounds of classical logic.
+[^8]: The debate surrounding so-called _paraconsistent logic_, which denies the law of non-contradiction can sometimes cause confusion. It is important to note that paraconsistent logic is _indistinguishable_ from classical logic and fully coherent _most of the time_. The only difference between logics that apply the law of the of non-contradiction and logical systems that allow for contradiction is when we encounter a _paradox_, such as when a liar states that they are a liar. In these cases, a paraconsistent logician "allows" for the paradox while a classical logician aims for different solutions. These are just rare edge cases, of course, and for most statements of logic, both sides agree that classical logic - akin to using all three laws - rules. We thus can safely proceed on the grounds of classical logic.
 
 ### Explanatory Success of Science
 
@@ -396,10 +411,10 @@ This realization can esily be demonstrated with visual illusions, where we under
 :alt: The Lilac Chaser illusion
 :width: 80%
 
-The Lilac Chaser illusion[^8]: Keep looking at the center cross and watch the animation changing.
+The Lilac Chaser illusion[^9]: Keep looking at the center cross and watch the animation changing.
 :::
 
-[^8]: Recreation of: <https://en.wikipedia.org/wiki/Lilac_chaser>
+[^9]: Recreation of: <https://en.wikipedia.org/wiki/Lilac_chaser>
 
 One interesting fact about visual illusions is that they often persist even when exactly understand in what aspects they differ from the actual physical stimulus. In other words, even knowing _that_ and _how_ our perception differs from the real world does not help - our perception does not correct and adjust to what we know to be really the case.
 
