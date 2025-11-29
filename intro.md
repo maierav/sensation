@@ -96,9 +96,9 @@ Following this thought experiment you hopefully have gained an intuition for wha
 **Perception is experience**. We may think of perception as being "linked to the world" in that perception (say, vision) starts with stimuli (such as light) from the environment.  
 
 % Dreams
-:::{figure} images/dreaming.png
+:::{figure} images/dreaming.jpg
 :label: fig: dreaming
-:alt: Dreamning
+:alt: Dream Experience
 :width: 80%
 
 Perceptual experience does not depend on sensory stimuli as demonstrated by the fact that we can experience visual and auditory dreams during sleep. Seeing "red" can happen without any light or activation of your eyes.[^5]
