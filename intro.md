@@ -99,7 +99,7 @@ Following this thought experiment you hopefully have gained an intuition for wha
 :::{figure} images/dreaming.jpg
 :label: fig: dreaming
 :alt: Dream Experience
-:width: 80%
+:width: 70%
 
 Perceptual experience does not depend on sensory stimuli as demonstrated by the fact that we can experience visual and auditory dreams during sleep. Seeing "red" can happen without any light or activation of your eyes.[^5]
 :::
