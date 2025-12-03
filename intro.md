@@ -11,6 +11,8 @@ This Jupyter book is meant to provide an opinionated[^1], broad strokes introduc
 :width: 60%
 
 Sketch of Ernst Mach (1838–1916) of visual perception with the right eye closed.[^2]
+He wrote:  
+_"I lie upon my sofa. If I close my right eye, the picture represented in the accompanying cut is presented to my left eye. In a frame formed by the ridge of my eyebrow, by my nose, and by my moustache, appears a part of my body, so far as visible, with its environment. My body differs from other human bodies beyond the fact that every intense motor idea is immediately expressed by a movement of it, and that, if it is touched, more striking changes are determined than if other bodies are touched by the circumstance, that it is only seen piecemeal, and, especially, is seen without a head. If I observe an element A within my field of vision, and investigate its connexion with another element B within the same field, I step out of the domain of physics into that of physiology or psychology, provided B, to use the apposite expression of a friend of mine made upon seeing this drawing, passes through my skin. Reflexions like that for the field of vision may be made with regard to the province of touch and the perceptual domains of the other senses."_  
 :::
 
 [^2]: [public domain image source](https://commons.wikimedia.org/wiki/File:Autoportrait_d%27Ernst_Mach_p.64_The_Grammar_of_Science,_Karl_Pearson,_1900.png)
@@ -234,6 +236,15 @@ The scientist asked what the turtle rested on.
 It is important to note that all three of these potential outcomes are on equal footing: There is no way to logically argue why one of them is preferable over the others. This realization is known as **Agrippa's Trilemma** (also called the Munchhausen Trilemma)[^7]. It is a dilemma, or more accurately - a trilemma, because none of these three options seem satisfying. Neither for kids, mnor for adults.
 
 [^7]: Another option to escape Agrippa's Trilemma is to abandon logical coherency altogether. At that point nothing can be argued anymore. Who and how would then decide arguments?
+
+ % Agrippa
+:::{figure} images/agrippa.jpg
+:label: fig: Agrippa
+:alt: Agrippa
+:width: 70%
+
+Agrippa.
+:::
 
 As we will see, mathematics seems to choose Foundationalism over the other two possibilities. And as we will see, mathematics is _indispensable_ for science. We hence will aim to start with a foundationalist stance. That is, we will start with a few statements that are hopefully agreeable as non-questionable starting points. We will earmark them as "preliminary", however. That is, once we arrived at deeper insight we might want to come back to these foundational beliefs and examine whether we still agree with the assumptions that we started from.
 
