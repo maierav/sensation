@@ -12,7 +12,7 @@ This Jupyter book is meant to provide an opinionated[^1], broad strokes introduc
 
 Sketch of Ernst Mach (1838–1916) of visual perception with the right eye closed.[^2]
 He wrote:  
-_"I lie upon my sofa. If I close my right eye, the picture represented in the accompanying cut is presented to my left eye. In a frame formed by the ridge of my eyebrow, by my nose, and by my moustache, appears a part of my body, so far as visible, with its environment. My body differs from other human bodies beyond the fact that every intense motor idea is immediately expressed by a movement of it, and that, if it is touched, more striking changes are determined than if other bodies are touched by the circumstance, that it is only seen piecemeal, and, especially, is seen without a head. If I observe an element A within my field of vision, and investigate its connexion with another element B within the same field, I step out of the domain of physics into that of physiology or psychology, provided B, to use the apposite expression of a friend of mine made upon seeing this drawing, passes through my skin. Reflexions like that for the field of vision may be made with regard to the province of touch and the perceptual domains of the other senses."_[^3]  
+_"I lie upon my sofa. If I close my right eye, the picture represented in the accompanying cut is presented to my left eye. In a frame formed by the ridge of my eyebrow, by my nose, and by my moustache, appears a part of my body, so far as visible, with its environment. [...] Reflexions like that for the field of vision may be made with regard to the province of touch and the perceptual domains of the other senses."_[^3]  
 :::
 
 [^2]: [public domain image source](https://commons.wikimedia.org/wiki/File:Autoportrait_d%27Ernst_Mach_p.64_The_Grammar_of_Science,_Karl_Pearson,_1900.png)
@@ -126,7 +126,7 @@ There are also quite practical implications that are important to note for psych
 :alt: what perception is and is not
 :width: 80%
 
-Perception is what you see before you _think_ about _what_ you see. Recognition and perception can - but do not always - influence each other, which is further evidence that they are two separate processes.[^9]
+Perception is what you see before you _think_ about _what_ you see. Recognition and perception can - but do not always - influence each other (which is further evidence that they are two separate processes).[^9]
 :::
 
 [^9]: [public domain source](https://commons.wikimedia.org/wiki/File:Pg_247_-_Doodle_(bw).jpg)
@@ -173,6 +173,15 @@ At this point your intuition may be of the following:
 3. This is where perception occurs.
 
 This cannot be. The problem is logical in nature and lies with step (3): There cannot be another mini-brain or mini-person (a "homunculus") inside your brain that perceives the converging nerve signals. After all, that mini-me or mini-brain would need another mini-me or mini-brain inside. And so on.  
+
+% Homunculus Problem
+:::{figure} images/neurohomunculus.png
+:label: fig: Homnuculus
+:alt: Homnuculus
+:width: 80%
+
+After learning about the fact that all senses start with the same type of signal (action potentials), one might intuit that there is a "central" point of convergence in the brain where all these signals come together and "transformed" into our perceptual experienne. But what would happen at that location in your brain? Is there a little cinema for a "mini-you" where vision, sound and so on are turned into a movie (following Descartes, we call this idea a _Cartesian Theater_)? This sounds absurd, but there is a deeper problem with this intuition. After all, this mini-you (a little human, or _homunculus_) would need another sense apparatus and brain to make sense of that "movie". And this brain would need another mini-me (or homunculus), and so on. We run into an infinite series, or infinte regress, of homonculi inside each other, akin to a Russian doll. This is obviously not the case. We will learn that there is no such point of convergence of sense signals in the brain. But then, why is it that you experience unified sight and sound _as if_ their sense signals come together somewhere in the brain? As we will see, science does not yet know the answer to this question (though there are some promising theories).
+:::
 
 This insight is called the **Homunculus Problem**. And it leaved with a puzzle. If that cannot be - how does it happen then that we see and hear and feel all at the same time and seemingly "in one"?  
 
