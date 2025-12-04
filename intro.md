@@ -249,12 +249,12 @@ It is important to note that all three of these potential outcomes are on equal 
 [^7]: Another option to escape Agrippa's Trilemma is to abandon logical coherency altogether. At that point nothing can be argued anymore. Who and how would then decide arguments?
 
  % Agrippa
-:::{figure} images/agrippa.jpg
+:::{figure} images/Agrippa.png
 :label: fig: Agrippa
 :alt: Agrippa
 :width: 70%
 
-Agrippa.
+Agrippa's Trilemma: Repeated asking of the question "Why?" during an argument will end in one of three outcomes: Circular Reasoning, Infinite Regress, or Unfounded Belief (Dogma / Axiom).
 :::
 
 As we will see, mathematics seems to choose Foundationalism over the other two possibilities. And as we will see, mathematics is _indispensable_ for science. We hence will aim to start with a foundationalist stance. That is, we will start with a few statements that are hopefully agreeable as non-questionable starting points. We will earmark them as "preliminary", however. That is, once we arrived at deeper insight we might want to come back to these foundational beliefs and examine whether we still agree with the assumptions that we started from.
