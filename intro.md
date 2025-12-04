@@ -12,10 +12,12 @@ This Jupyter book is meant to provide an opinionated[^1], broad strokes introduc
 
 Sketch of Ernst Mach (1838–1916) of visual perception with the right eye closed.[^2]
 He wrote:  
-_"I lie upon my sofa. If I close my right eye, the picture represented in the accompanying cut is presented to my left eye. In a frame formed by the ridge of my eyebrow, by my nose, and by my moustache, appears a part of my body, so far as visible, with its environment. My body differs from other human bodies beyond the fact that every intense motor idea is immediately expressed by a movement of it, and that, if it is touched, more striking changes are determined than if other bodies are touched by the circumstance, that it is only seen piecemeal, and, especially, is seen without a head. If I observe an element A within my field of vision, and investigate its connexion with another element B within the same field, I step out of the domain of physics into that of physiology or psychology, provided B, to use the apposite expression of a friend of mine made upon seeing this drawing, passes through my skin. Reflexions like that for the field of vision may be made with regard to the province of touch and the perceptual domains of the other senses."_  
+_"I lie upon my sofa. If I close my right eye, the picture represented in the accompanying cut is presented to my left eye. In a frame formed by the ridge of my eyebrow, by my nose, and by my moustache, appears a part of my body, so far as visible, with its environment. My body differs from other human bodies beyond the fact that every intense motor idea is immediately expressed by a movement of it, and that, if it is touched, more striking changes are determined than if other bodies are touched by the circumstance, that it is only seen piecemeal, and, especially, is seen without a head. If I observe an element A within my field of vision, and investigate its connexion with another element B within the same field, I step out of the domain of physics into that of physiology or psychology, provided B, to use the apposite expression of a friend of mine made upon seeing this drawing, passes through my skin. Reflexions like that for the field of vision may be made with regard to the province of touch and the perceptual domains of the other senses."_[^3]  
 :::
 
 [^2]: [public domain image source](https://commons.wikimedia.org/wiki/File:Autoportrait_d%27Ernst_Mach_p.64_The_Grammar_of_Science,_Karl_Pearson,_1900.png)
+
+[^3]: [E. Mach: _Beiträge zur Analyse der Empfindungen_ (1886)](https://archive.org/details/b2229448x)
 
 We will start with an interesting observation about perception that seems to counter our intuitions and ponder its basic philosophical implications. We then will try to work our way from the philosophical insights (i.e., the deepest foundations we can find) to modern science. This exercise will involve taking on a bit of formal logic and mathematics before investigating if these tools of science can be applied to perception. We then will review the psychology and neuroscience of sensation and perception, which provides the bulk of our modern knowledge about perception. Much of this work is focused on vision (seeing), but we will also review our other modalities (senses). Lastly, we will return to mathematics and explore whether everything we have learned can be synthesized into a coherent view that merges the philosophy, psychology, and neuroscience of perception. Interested? Then, let us get started!
 
@@ -76,9 +78,9 @@ Or is it so? Would there not be ways out such as using other colors or other exp
 
 Deeper reflection makes clear that there seems to be an interesting problem about the simple perception of red. If someone, for some reason, would see what we see as "green" whenever we see "red", it seems virtually impossible to find a way to find that out. Whenever we try to see if our perception, of say, a ripe tomato is the _same_ red, that person (who actually sees it as what we see as green) would agree with us that this is "red". After all, anything else that we call "red", they have called "red" their whole lives as well. How could they know that we see that color differently?  
 
-This thought experiment has fascinated people since centuries, and it has been termed the **inverted spectrum problem** [^3].  
+This thought experiment has fascinated people since centuries, and it has been termed the **inverted spectrum problem** [^5].  
 
-[^3]: If you are interested to learn more, check out this free, [scholarly overview](https://plato.stanford.edu/entries/qualia-inverted/).
+[^5]: If you are interested to learn more, check out this free, [scholarly overview](https://plato.stanford.edu/entries/qualia-inverted/).
 
 % Inverted Spectrum Problem
 :::{figure} images/inverted_spectrum.png
@@ -86,10 +88,10 @@ This thought experiment has fascinated people since centuries, and it has been t
 :alt: Inverted Spectrum Problem
 :width: 80%
 
-The Inverted Spectrum Problem. If there were people among us who see red as green and green as red, it seems like they and us would never be able to find out.[^4]
+The Inverted Spectrum Problem. If there were people among us who see red as green and green as red, it seems like they and us would never be able to find out.[^6]
 :::
 
-[^4]: [public domain image source 1](https://commons.wikimedia.org/wiki/File:Anna_Palm_-_A_game_of_L%27hombre_in_Br%C3%B8ndum%27s_Hotel_-_Google_Art_Project.jpg) and [public domain image source 2](https://commons.wikimedia.org/wiki/File:Baldwin_Apple_-_Apples_of_New_York.jpg)
+[^6]: [public domain image source 1](https://commons.wikimedia.org/wiki/File:Anna_Palm_-_A_game_of_L%27hombre_in_Br%C3%B8ndum%27s_Hotel_-_Google_Art_Project.jpg) and [public domain image source 2](https://commons.wikimedia.org/wiki/File:Baldwin_Apple_-_Apples_of_New_York.jpg)
 
 The inverted spectrum problem suggests that perception poses a deep problem for science. How can we study something that only one person has access to (in this case: what red looks like for them)? If one supposes that science _has to_ be done by more than one person, we already seem at a loss. Except, there are other things that we cannot observe and still do science on, such as the Big Bang, how evolution leads to separate species, or quantum superposition. And it is also an interesting question whether science _has to_ be done by more than one person.
 
@@ -103,10 +105,10 @@ Following this thought experiment you hopefully have gained an intuition for wha
 :alt: Dream Experience
 :width: 70%
 
-Perceptual experience does not depend on sensory stimuli as demonstrated by the fact that we can experience visual and auditory dreams during sleep. Seeing "red" can happen without any light or activation of your eyes.[^5]
+Perceptual experience does not depend on sensory stimuli as demonstrated by the fact that we can experience visual and auditory dreams during sleep. Seeing "red" can happen without any light or activation of your eyes.[^8]
 :::
 
-[^5]: [public domain image source](https://commons.wikimedia.org/wiki/File:Dickensdream.jpg)
+[^8]: [public domain image source](https://commons.wikimedia.org/wiki/File:Dickensdream.jpg)
 
 But, we can also see things during sleep - without any light triggering or dictating what we see. That visual experience is seemingly the same, or at elast very similar to, the visual experience that is linked to the world via light. It thus seems somewhat questionable to limit our study of vision to the vision that occurs due to light. After all, the truly interesting question about _seeing_ is that and how we see, not what causes it (either light or dream sleep).  
 
@@ -124,10 +126,10 @@ There are also quite practical implications that are important to note for psych
 :alt: what perception is and is not
 :width: 80%
 
-Perception is what you see before you _think_ about _what_ you see. Recognition and perception can - but do not always - influence each other, which is further evidence that they are two separate processes.[^6]
+Perception is what you see before you _think_ about _what_ you see. Recognition and perception can - but do not always - influence each other, which is further evidence that they are two separate processes.[^9]
 :::
 
-[^6]: [public domain source](https://commons.wikimedia.org/wiki/File:Pg_247_-_Doodle_(bw).jpg)
+[^9]: [public domain source](https://commons.wikimedia.org/wiki/File:Pg_247_-_Doodle_(bw).jpg)
 
 It can be challenging to rid onself of everyday notions of the word perception when studying the subject. After all, when we perceive something like a simplistic doodle, say of a flock of birds, we do both - see the lines on paper and we can have the immediate experience of recognizing what the doodle shows. These two processes often get expressed with the same words, such as when we say "I see you drew birds". But what we really _see_ is **not** birds. We _see_ lines. We _think_ "birds", but we all know that birds do not just look like scribbled lines.  
 
@@ -323,9 +325,9 @@ The most common, or "classical" laws of logic are just 3:
 (2) Means that a statement cannot be both true and false within the same context.
 (3) Means that a statement must be either true or false.
 
-Another interesting discovery in the history of logic is that the 3. law might not be needed (the result is called _intuitonistic logic_). And there are also attempts (hotly debated) about dropping one or more of the other laws [^8]. But for most applications of logic, such as in the overwhelming majority of mathematics, _classical logic_ is all and everything that is needed (which gained these three rules "the laws of thought").  
+Another interesting discovery in the history of logic is that the 3. law might not be needed (the result is called _intuitonistic logic_). And there are also attempts (hotly debated) about dropping one or more of the other laws [^10]. But for most applications of logic, such as in the overwhelming majority of mathematics, _classical logic_ is all and everything that is needed (which gained these three rules "the laws of thought").  
 
-[^8]: The debate surrounding so-called _paraconsistent logic_, which denies the law of non-contradiction can sometimes cause confusion. It is important to note that paraconsistent logic is _indistinguishable_ from classical logic and fully coherent _most of the time_. The only difference between logics that apply the law of the of non-contradiction and logical systems that allow for contradiction is when we encounter a _paradox_, such as when a liar states that they are a liar. In these cases, a paraconsistent logician "allows" for the paradox while a classical logician aims for different solutions. These are just rare edge cases, of course, and for most statements of logic, both sides agree that classical logic - akin to using all three laws - rules. We thus can safely proceed on the grounds of classical logic.
+[^10]: The debate surrounding so-called _paraconsistent logic_, which denies the law of non-contradiction can sometimes cause confusion. It is important to note that paraconsistent logic is _indistinguishable_ from classical logic and fully coherent _most of the time_. The only difference between logics that apply the law of the of non-contradiction and logical systems that allow for contradiction is when we encounter a _paradox_, such as when a liar states that they are a liar. In these cases, a paraconsistent logician "allows" for the paradox while a classical logician aims for different solutions. These are just rare edge cases, of course, and for most statements of logic, both sides agree that classical logic - akin to using all three laws - rules. We thus can safely proceed on the grounds of classical logic.
 
 ### Explanatory Success of Science
 
@@ -429,10 +431,10 @@ This realization can esily be demonstrated with visual illusions, where we under
 :alt: The Lilac Chaser illusion
 :width: 80%
 
-The Lilac Chaser illusion[^10]: Keep looking at the center cross and watch the animation changing.
+The Lilac Chaser illusion[^12]: Keep looking at the center cross and watch the animation changing.
 :::
 
-[^10]: Recreation of: <https://en.wikipedia.org/wiki/Lilac_chaser>
+[^12]: Recreation of: <https://en.wikipedia.org/wiki/Lilac_chaser>
 
 One interesting fact about visual illusions is that they often persist even when exactly understand in what aspects they differ from the actual physical stimulus. In other words, even knowing _that_ and _how_ our perception differs from the real world does not help - our perception does not correct and adjust to what we know to be really the case.
 
