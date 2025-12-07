@@ -623,3 +623,32 @@ This thought may seem unintuitive, radical, or even revolutionary, but is not en
 Archaeogical evidence suggests that humans have been counting, measuring, and calculating for thousands of years. We intuit that _this_ is what we mean by mathematics. But the scholarly discipline of mathematics is surprisingly little concerned with all the above. What professional mathematicians actually do is _proving_. And what is that? It is the process of showing how a statement that is suspected to be provable can indeed be logically shown to be _true_ within a fixed system of thought. Once such a statement is proven, it is called a _theorem_. But did we not ponder that any statement eventually leads us to Agrippa's Trilemma? Indeed, mathematics rests on a set of unproven statements - unfounded beliefs - called _axioms_. Mathematics, at its core, thus is creating a "tree" of statements (theorems) that can be logically derived from a small set of initial assumptions, or axioms.  
 
 The first written account of this process we have is the book "Elements of Geometry" by Euclid. In some sense, we thus can regard this work as the starting point of modern mathematics. This book used to be the most popular and widely read textbook of all time, and it still forms the basis of much of how geometry is taught today. The focus on geometry arguably stems from the fact that the proofs exposited by Euclid are _constructive_ in the sense that one can physically recreate them using a compas and a ruler. That is, rather than just _reasoning_ that Euclid's theorems are inarguable (after accepting the axioms), one can convince onself by _trying them out in physical reality_. There are striking autobiographical accounts from Galileo Galilei, to Albert Einstein, and the philosophers Bertrand Russell and Alain Badiou, of how learning about these Euclidian proofs when they were young and initimidated by the seeming societal and intellectual chaos around them gave them a sense of relief about attainable clarity of thought and a sense of certainty. Thus is the power of logic and mathematics.  
+
+So let us take a brief look at some of that. Euclid starts with definitions. These are, in modern terms, axioms.
+
+The first one is:
+    A point is that which has no part.
+
+The second one is:
+    A line is breadthless length.
+
+And third:
+    The extremities of a line are points.
+
+There are 23 of these definitions, but we can ignore them for now.
+
+He then proceeds with his most famous five axioms (he called them postulates). The first one is often paraphrased as
+    A straight line is the shortest distance between two points.
+
+The interesting part about all that is that we (1) tend to agree that these non-proven (in fact, unprovable) statements seem reasonable for us to agree to. As we stated above, this may be because they reflect something about our _experience_, or perception. In particular about what our senses of vision (seeing) and haptics (touch) seem to obey by. But the important part is that one can already see how we can _proceed_ from these axioms towards more of that which we call geometry.
+
+Euclid also denotes five "common notions" that we will have to agree to in order to proceed with his geometric proofs (theorems). The first of which is:
+    Things which are equal to the same thing are also equal to one another.
+
+This, of course, is eerily reminiscent of the first rule of classic logic that we discussed above, and probably not a coincidence (the remainig four common notions are very different, though).
+
+At this point, we can get a bit of a "feel" for what Euclid is doing, and perhaps gain a bit of an appreciation for his approach and why it has endured thousands of years of test of time. His approach to _building_ mathematics from the "ground up" by using rules of logic in combination with axioms that seem uncontroversial is decidely different from adopting numbers, and basic arithmetic, such as addition and subtraction by _counting_ or _calculating_ real-world objects. Euclid starts from the abstract, and remains within the abstract. Even though his proofs can be "checked" in the real world by drawing them out.
+
+There is an interesting sidenote to this story in that one of Euclid's axioms (the fifth one) seems to stick out in its length, and has roused the suspicion of many mathematicians that came after him. Their collective notion was that this axiom was less intuitive than the others. And after thousands of years of intellectual work, a breakthrough was made by simply dropping that axiom and exploring what happens to geoemtry without it. The result is what we now call "Non-Euclidian gemeotry", and it turned out to be quite essential to our modern understanding of cosmological physics (in particular Einstein's theory of General Relativity). But we shall not dwell on this anecdote too much other than noting that progress can sometimes be made by revisiting, and even eliminating axioms. 
+
+Importantly, what does not seem to follow from this development is that "Euclid was wrong", or that "geometry is arbitrary". Euclidian geoemetry still well explains teh spatial domain of our daily lives. Just like Newtonian physics explains most of the physical phenomena, and most of our technology exceedingly well. Only on very small or large spatial scales do we find a mathematics and a physics that deviates (such as relativity and quantum physics). And for our perception, much of that classical geometry and physics is sufficient (though there are some exceptions that we will consider when appropriate).
