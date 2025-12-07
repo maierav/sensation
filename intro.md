@@ -1,8 +1,10 @@
 # SENSATION AND PERCEPTION
 
-This Jupyter book is meant to provide an opinionated[^1], broad strokes introduction to the science of sensation and perception, with select scholarly references provided for  self-study.  
+This Jupyter book is meant to provide an opinionated[^1], broad strokes introduction to the science of sensation and perception, with select scholarly references provided for self-study [^2].  
 
 [^1]: Rather than presenting all views with equal weight, we will only mention dissenting views in passing. The overarching didactic goal is to lay out a coherent narrative rather than a taxonomy of viewpoints. The hope is tha this approach prioritizes _holistic understanding_ - grasping the _gist_ - over fractured knowledge. Or to put it with T.S. Eliot - we do not want to find ourselves distracted from distraction by distraction. We acknowledge that this comes at the cost of favoring some views over others. The serious student is advised to venture beyon this introductory text and explore the full landscape of ideas.  
+
+[^2]: Books go out of print and web sites go offline. In an attempt to provide sources with some permanence, we will limit external links to documents that have been associated with a Digital Object Identifier, or DOI. Exceptions are made for public domain sources.
 
 % Perception
 :::{figure} images/Mach.png
@@ -10,14 +12,14 @@ This Jupyter book is meant to provide an opinionated[^1], broad strokes introduc
 :alt: Perception
 :width: 60%
 
-Sketch of Ernst Mach (1838–1916) of visual perception with the right eye closed.[^2]
+Sketch of Ernst Mach (1838–1916) of visual perception with the right eye closed.[^3]
 He wrote:  
-_"I lie upon my sofa. If I close my right eye, the picture represented in the accompanying cut is presented to my left eye. In a frame formed by the ridge of my eyebrow, by my nose, and by my moustache, appears a part of my body, so far as visible, with its environment. [...] Reflexions like that for the field of vision may be made with regard to the province of touch and the perceptual domains of the other senses."_[^3]  
+_"I lie upon my sofa. If I close my right eye, the picture represented in the accompanying cut is presented to my left eye. In a frame formed by the ridge of my eyebrow, by my nose, and by my moustache, appears a part of my body, so far as visible, with its environment. [...] Reflexions like that for the field of vision may be made with regard to the province of touch and the perceptual domains of the other senses."_[^4]  
 :::
 
-[^2]: [public domain image source](https://commons.wikimedia.org/wiki/File:Autoportrait_d%27Ernst_Mach_p.64_The_Grammar_of_Science,_Karl_Pearson,_1900.png)
+[^3]: [public domain image source](https://commons.wikimedia.org/wiki/File:Autoportrait_d%27Ernst_Mach_p.64_The_Grammar_of_Science,_Karl_Pearson,_1900.png)
 
-[^3]: [E. Mach: _Beiträge zur Analyse der Empfindungen_ (1886)](https://archive.org/details/b2229448x)
+[^4]: [E. Mach: _Beiträge zur Analyse der Empfindungen_ (1886)](https://archive.org/details/b2229448x)
 
 We will start with an interesting observation about perception that seems to counter our intuitions and ponder its basic philosophical implications. We then will try to work our way from the philosophical insights (i.e., the deepest foundations we can find) to modern science. This exercise will involve taking on a bit of formal logic and mathematics before investigating if these tools of science can be applied to perception. We then will review the psychology and neuroscience of sensation and perception, which provides the bulk of our modern knowledge about perception. Much of this work is focused on vision (seeing), but we will also review our other modalities (senses). Lastly, we will return to mathematics and explore whether everything we have learned can be synthesized into a coherent view that merges the philosophy, psychology, and neuroscience of perception. Interested? Then, let us get started!
 
@@ -105,10 +107,10 @@ Following this thought experiment you hopefully have gained an intuition for wha
 :alt: Dream Experience
 :width: 70%
 
-Perceptual experience does not depend on sensory stimuli as demonstrated by the fact that we can experience visual and auditory dreams during sleep. Seeing "red" can happen without any light or activation of your eyes.[^8]
+Perceptual experience does not depend on sensory stimuli as demonstrated by the fact that we can experience visual and auditory dreams during sleep. Seeing "red" can happen without any light or activation of your eyes.[^7]
 :::
 
-[^8]: [public domain image source](https://commons.wikimedia.org/wiki/File:Dickensdream.jpg)
+[^7]: [public domain image source](https://commons.wikimedia.org/wiki/File:Dickensdream.jpg)
 
 But, we can also see things during sleep - without any light triggering or dictating what we see. That visual experience is seemingly the same, or at elast very similar to, the visual experience that is linked to the world via light. It thus seems somewhat questionable to limit our study of vision to the vision that occurs due to light. After all, the truly interesting question about _seeing_ is that and how we see, not what causes it (either light or dream sleep).  
 
@@ -126,10 +128,10 @@ There are also quite practical implications that are important to note for psych
 :alt: what perception is and is not
 :width: 80%
 
-Perception is what you see before you _think_ about _what_ you see. Recognition and perception can - but do not always - influence each other (which is further evidence that they are two separate processes).[^9]
+Perception is what you see before you _think_ about _what_ you see. Recognition and perception can - but do not always - influence each other (which is further evidence that they are two separate processes).[^8]
 :::
 
-[^9]: [public domain source](https://commons.wikimedia.org/wiki/File:Pg_247_-_Doodle_(bw).jpg)
+[^8]: [public domain source](https://commons.wikimedia.org/wiki/File:Pg_247_-_Doodle_(bw).jpg)
 
 It can be challenging to rid onself of everyday notions of the word perception when studying the subject. After all, when we perceive something like a simplistic doodle, say of a flock of birds, we do both - see the lines on paper and we can have the immediate experience of recognizing what the doodle shows. These two processes often get expressed with the same words, such as when we say "I see you drew birds". But what we really _see_ is **not** birds. We _see_ lines. We _think_ "birds", but we all know that birds do not just look like scribbled lines.  
 
@@ -244,9 +246,9 @@ The scientist asked what the turtle rested on.
 ‘And what does that turtle rest on?’
 ‘You can’t fool me, young man—it’s turtles all the way down!’ ”
 
-It is important to note that all three of these potential outcomes are on equal footing: There is no way to logically argue why one of them is preferable over the others. This realization is known as **Agrippa's Trilemma** (also called the Munchhausen Trilemma)[^7]. It is a dilemma, or more accurately - a trilemma, because none of these three options seem satisfying. Neither for kids, mnor for adults.
+It is important to note that all three of these potential outcomes are on equal footing: There is no way to logically argue why one of them is preferable over the others. This realization is known as **Agrippa's Trilemma** (also called the Munchhausen Trilemma)[^9]. It is a dilemma, or more accurately - a trilemma, because none of these three options seem satisfying. Neither for kids, mnor for adults.
 
-[^7]: Another option to escape Agrippa's Trilemma is to abandon logical coherency altogether. At that point nothing can be argued anymore. Who and how would then decide arguments?
+[^9]: Another option to escape Agrippa's Trilemma is to abandon logical coherency altogether. At that point nothing can be argued anymore. Who and how would then decide arguments?
 
  % Agrippa
 :::{figure} images/Agrippa.png
@@ -440,10 +442,10 @@ This realization can esily be demonstrated with visual illusions, where we under
 :alt: The Lilac Chaser illusion
 :width: 80%
 
-The Lilac Chaser illusion[^12]: Keep looking at the center cross and watch the animation changing.
+The Lilac Chaser illusion[^11]: Keep looking at the center cross and watch the animation changing.
 :::
 
-[^12]: Recreation of: <https://en.wikipedia.org/wiki/Lilac_chaser>
+[^11]: Recreation of: <https://en.wikipedia.org/wiki/Lilac_chaser>
 
 One interesting fact about visual illusions is that they often persist even when exactly understand in what aspects they differ from the actual physical stimulus. In other words, even knowing _that_ and _how_ our perception differs from the real world does not help - our perception does not correct and adjust to what we know to be really the case.
 
@@ -649,6 +651,6 @@ This, of course, is eerily reminiscent of the first rule of classic logic that w
 
 At this point, we can get a bit of a "feel" for what Euclid is doing, and perhaps gain a bit of an appreciation for his approach and why it has endured thousands of years of test of time. His approach to _building_ mathematics from the "ground up" by using rules of logic in combination with axioms that seem uncontroversial is decidely different from adopting numbers, and basic arithmetic, such as addition and subtraction by _counting_ or _calculating_ real-world objects. Euclid starts from the abstract, and remains within the abstract. Even though his proofs can be "checked" in the real world by drawing them out.
 
-There is an interesting sidenote to this story in that one of Euclid's axioms (the fifth one) seems to stick out in its length, and has roused the suspicion of many mathematicians that came after him. Their collective notion was that this axiom was less intuitive than the others. And after thousands of years of intellectual work, a breakthrough was made by simply dropping that axiom and exploring what happens to geoemtry without it. The result is what we now call "Non-Euclidian gemeotry", and it turned out to be quite essential to our modern understanding of cosmological physics (in particular Einstein's theory of General Relativity). But we shall not dwell on this anecdote too much other than noting that progress can sometimes be made by revisiting, and even eliminating axioms. 
+There is an interesting sidenote to this story in that one of Euclid's axioms (the fifth one) seems to stick out in its length, and has roused the suspicion of many mathematicians that came after him. Their collective notion was that this axiom was less intuitive than the others. And after thousands of years of intellectual work, a breakthrough was made by simply dropping that axiom and exploring what happens to geoemtry without it. The result is what we now call "Non-Euclidian gemeotry", and it turned out to be quite essential to our modern understanding of cosmological physics (in particular Einstein's theory of General Relativity). But we shall not dwell on this anecdote too much other than noting that progress can sometimes be made by revisiting, and even eliminating axioms.  
 
 Importantly, what does not seem to follow from this development is that "Euclid was wrong", or that "geometry is arbitrary". Euclidian geoemetry still well explains teh spatial domain of our daily lives. Just like Newtonian physics explains most of the physical phenomena, and most of our technology exceedingly well. Only on very small or large spatial scales do we find a mathematics and a physics that deviates (such as relativity and quantum physics). And for our perception, much of that classical geometry and physics is sufficient (though there are some exceptions that we will consider when appropriate).
