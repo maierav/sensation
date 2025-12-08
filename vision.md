@@ -33,10 +33,10 @@ So, let us begin.
 :label: fig:vision
 :width: 90%
 
-Visual sensation starts with light rays entering our eyes, bending at the lens and ending up as a two-dimensional projection (image) at the back of our eye balls - the retina. As a consequence, visual sensation is subjected to the laws of optics - the geometry of light propagation[^3]. 
+Visual sensation starts with light rays entering our eyes, bending at the lens and ending up as a two-dimensional projection (image) at the back of our eye balls - the retina. As a consequence, visual sensation is subjected to the laws of optics - the geometry of light propagation[^1].  
 :::
 
-[^3]: [public domain source](https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0001920_Optik_%5E_Anatomie_%5E_Mensch_%5E_Auge.jpg)
+[^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0001920_Optik_%5E_Anatomie_%5E_Mensch_%5E_Auge.jpg)
 
 Vision seemingly starts with light (if we put dreams and hallucinations aside for a moment). But what is that - light?
 
