@@ -432,7 +432,7 @@ Finding out what the real world, that is responsible for the "shadows" of our pe
 
 This may still sound a bit confusing at this point. After all, we have not talked about what role our brains play in all of that (and since brains are obviously also part of that world that we perceive). We all share to some degree the notion that our brains are linked to our feelings, our ability to see, hear, smell, or taste. But what we will learn soon is _how closely_ linked the actions of our brain are to what we perceive. For now, it is only important to follow the logic of Plato's allegory: _If_ our direct acquintance with the world is our perception, and that perception can be unreliable (as in the sxistence of illusions), the problem arises that we have to find additional ways other than our perception to learn about the world.
 
-##### PERCEPTION vs. WORLD
+##### PERCEPTION vs. REALITY
 
 Many thinkers that followed Plato have thought deeply about this issue. However, they failed to all settle on the same solution. Instead, these scholars have endowed us with a variety of ways to think about that problem, each arguing for their favorite idea. Let us briefly (and superficially) examine the various proposed answers. The academic field that studies these ideas is called _PHILOSOPHY OF MIND_, and there are thousands of academic works on this subject. Here we will attempt at the most minimal possible overview of major "schoolf of thought" within this field:
 
@@ -619,9 +619,9 @@ that _not all assumptions are valid_. Science does not assume that _we know noth
 :::{figure} images/scientific_method_simplistic.png
 :label: fig:simplistic_science_model
 :alt: An overly simplistic, bare bones model of the scientific method.
-:width: 80%
+:width: 100%
 
-An overly simplistic, bare bones model of the scientific method.
+A simplistic, bare bones model of the scientific method. Science as a method consists of a (potentyially) neverending loop between ideas about the world (theory) and feedback from the world about our ideas (observations). Theories provide predictions about what we should observe. We can find these predictions by _deducing_ the logical implications of our theories. We can then test these predictions by quering nature as to what happens under the circumstances that lead to our predictions (_measurement_), Following observation, we can then _inductively_ reason about the plausibility of our theory and use _abduction_ to derive the best explanation of the observation given our theoretical knowledge. Often, this steps leads us to revise, refine, update, or even completely abandon our the original theory towards a better explanation of our observations. The cycle then starts anew by finding new untested predictions that we can then test against nature.
 :::
 
 ### Bayes
