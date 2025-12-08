@@ -393,17 +393,6 @@ Many people are fascinated by the idea that truth is fundamentally tied to an in
 
 This idea is appealing because it seems to allow us to avoid all argument and hence potential conflict. After all, if there is no Truth, anyone's truth is as good as yours. No more reason to fight - apparently. But, as we will see, the exact opposite is the case.  
 
- % Goya
-:::{figure} images/Goya.png
-:label: fig: Goya
-:alt: Goya
-:width: 70%
-
-Plate 43 from Francisco Goya's (1746–1828) 'Los Caprichos': **The sleep of reason produces monsters** (El sueño de la razon produce monstruos),1799.[^10] Goya aims to remind us that when we abandon reason (logic), the consequences can be disastruous.
-:::
-
-[^10]: [public domain source](https://commons.wikimedia.org/wiki/File:Plate_43_from_%27Los_Caprichos%27-_The_sleep_of_reason_produces_monsters_(El_sue%C3%B1o_de_la_razon_produce_monstruos)_MET_DT652.jpg)
-
 When arguing for this view, it is often pointed out that even science frequently revises its theoretical views, such as when experiments failed to provide evidence for the idea that the universe is filled with an invisible substance (the aether, or ether) that propagates electric and magnetic forces.  
 
 However, we already noted that there is a difference between the _ontic_ and the _epistemic_. Even humans were fundamentally incapable of finding Truth, this does not imply that Truth does not exist. Moreoever, we already established that the scientific method has proven more powerful both in explaining and predicting events in the physical world than, say, the magical thinking of a toddler. Some truths seem to "better" fit our experience of nature than others, even if they may remain flawed. Why is that?
@@ -433,6 +422,18 @@ But in our new world, the company can counter: "Yes, we said that we will do so.
 This makes no sense - in classical logic. The statement contradicts itself! They said that they will return the money if they never send the item, and here they state that they never received the item and thus will not return the money. However, we abandonded the principle that contradiction is not allowed. And with this new, "free" logic, the company can contradict itself and see no problem. Contradictions are now as logical as everything else!  
 
 Thinkers have long identified this problem and came up with the Latinism: _ex contradictione quodlibet_ (from a contradiction, whatever one wants follows; or more liberally: if you allow for contradiction, anything goes). This is just a fancy way of saying that if there is only "my truth" and "your truth" and no objective Truth to refer to, we lost all possibility of arguing against someone whose truth is that they can do to anyone whatever they want.  
+
+% Goya
+:::{figure} images/Goya.png
+:label: fig: Goya
+:alt: Goya
+:width: 70%
+
+Plate 43 from Francisco Goya's (1746–1828) 'Los Caprichos': **The sleep of reason produces monsters** (El sueño de la razon produce monstruos),1799.[^10] Goya aims to remind us that when we abandon reason (logic), the consequences can be disastruous.
+:::
+
+[^10]: [public domain source](https://commons.wikimedia.org/wiki/File:Plate_43_from_%27Los_Caprichos%27-_The_sleep_of_reason_produces_monsters_(El_sue%C3%B1o_de_la_razon_produce_monstruos)_MET_DT652.jpg)
+
 :::
 
 ### Explanatory Success of Science
