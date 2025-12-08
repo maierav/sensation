@@ -727,7 +727,7 @@ The first written account of this process we have is the book "Elements of Geome
 :label: fig:euclid
 :width: 50%
 
-The oldest (fragmentary) copy of Euclid's "Elements of Geometry" known today. It is almost 2000 years old, dated back to the end of the first century. The diagram depicts Proposition (Axiom) 5 of Book II: _If a straight line be cut into equal and unequal segments, the rectangle contained by the unequal segments of the whole together with the square on the straight line between the points of section is equal to the square on the half._.[^14]
+The oldest (fragmentary) copy of Euclid's "Elements of Geometry" that is currently known. It is almost 2000 years old, dating back to the end of the first century. The diagram depicts Proposition (Axiom) 5 of Book II: _If a straight line be cut into equal and unequal segments, the rectangle contained by the unequal segments of the whole together with the square on the straight line between the points of section is equal to the square on the half._.[^14]
 :::
 
 [^14]: [public domain source](https://en.wikipedia.org/wiki/File:P._Oxy._I_29.jpg)
