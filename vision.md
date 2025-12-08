@@ -28,6 +28,16 @@ So, let us begin.
 
 ## OPTICS
 
+% Vision
+:::{figure} ./images/sightrays.png
+:label: fig:vision
+:width: 90%
+
+Visual sensation starts with light rays entering our eyes, bending at the lens and ending up as a two-dimensional projection (image) at the back of our eye balls - the retina. As a consequence, visual sensation is subjected to the laws of optics - the geometry of light propagation[^3]. 
+:::
+
+[^3]: [public domain source](https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0001920_Optik_%5E_Anatomie_%5E_Mensch_%5E_Auge.jpg)
+
 Vision seemingly starts with light (if we put dreams and hallucinations aside for a moment). But what is that - light?
 
 The physics of light (optics) is a rabbit hole that is easy to fall down in. One reason for that is that it can quickly lead us from high school physics to quantum physics and relativity. Luckily, we do not have to do that for garnering a basic understanding of physics relevant for our visual perception.  
