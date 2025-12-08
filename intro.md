@@ -427,7 +427,7 @@ Thinkers have long identified this problem and came up with the Latinism: _ex co
 :::{figure} images/Goya.png
 :label: fig: Goya
 :alt: Goya
-:width: 30%
+:width: 40%
 
 Plate 43 from Francisco Goya's (1746–1828) 'Los Caprichos': **The sleep of reason produces monsters** (El sueño de la razon produce monstruos),1799.[^10] Goya aims to remind us that when we abandon reason (logic), the consequences can be disastruous.
 :::
