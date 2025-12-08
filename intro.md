@@ -566,7 +566,7 @@ Second, and more importantly, the Law of Non-Contradiction is key to save us fro
 Let us explore that: When we all agree on classical logic, you can argue something like this:
 _"The agreement was that if I do not receive the item in time, the money will be returned."_
 
-But in our new world, the company can counter: 
+But in our new world, the company can counter:  
 _"Yes, we said that we will do so, but the item was not sent to you."_
 
 This makes no sense - in classical logic. The statement contradicts itself! They said that they will return the money if they never send the item, and here they state that they never received the item and thus will not return the money. However, we abandonded the principle that contradiction is not allowed. And with this new, "free" logic, the company can contradict itself and see no problem. Contradictions are now as logical as everything else!  
