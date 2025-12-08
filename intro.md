@@ -75,7 +75,7 @@ Stop your reading each time you hit a box like this one. Sometimes these will be
 
 ---
 
-## MYSTERIES
+## MOTIVATING MYSTERIES
 
 What motivates the study of perception? You likely have your own reasons, but there is a reason that there are more people interested in this topic, than say, the zoology of Arabic beetles. And one common denominator that is frequently voiced among scholars of perception is that thinking about perception deeply leads to profound mystery. And much of this mystery lies in the fact that perception seems to be very different from most other things we can study. How so? Let's do some quick thought experiments that illustrate the strangeness, or uniqueness, of perception in order to share this sense of puzzlement that lies at the heart of the science of perception.  
 
@@ -366,7 +366,7 @@ One step we took from doubt to observation and thought (about our observation) i
 
 But what is that, reasoning? This is another long-pondered question and it found its answer in _logic_.
 
-Now, you might be aware that you can take classes in logic that last a semester or more. And indeed there is much to say (since much has been found out) about what logic is and entails. After all, it is what computers do - they are just logic machines. But one of the most surprising results of all this study is that there is a surprising simplicity at the heart of logic. That simplicity lies in the fact that there are very few laws that we need to explain the _structure_ of logic.  
+Now, you might be aware that you can take classes in logic that last a semester or more. And indeed there is much to say (since much has been found out) about what logic is (technically: a system of formal relations) and what it entails. After all, it is what computers do - they are just logic machines. But one of the most surprising results of all this study is that there is a surprising simplicity at the heart of logic. That simplicity lies in the fact that there are very few laws that we need to explain the _structure_ of logic.  
 
 What are these rules, or laws, that logic follows?
 
@@ -383,6 +383,57 @@ The most common, or "classical" laws of logic are just 3:
 Another interesting discovery in the history of logic is that the 3. law might not be needed (the result is called _intuitonistic logic_). And there are also attempts (hotly debated) about dropping one or more of the other laws [^10]. But for most applications of logic, such as in the overwhelming majority of mathematics, _classical logic_ is all and everything that is needed (which gained these three rules "the laws of thought").  
 
 [^10]: The debate surrounding so-called _paraconsistent logic_, which denies the law of non-contradiction can sometimes cause confusion. It is important to note that paraconsistent logic is _indistinguishable_ from classical logic and fully coherent _most of the time_. The only difference between logics that apply the law of the of non-contradiction and logical systems that allow for contradiction is when we encounter a _paradox_, such as when a liar states that they are a liar. In these cases, a paraconsistent logician "allows" for the paradox while a classical logician aims for different solutions. These are just rare edge cases, of course, and for most statements of logic, both sides agree that classical logic - akin to using all three laws - rules. We thus can safely proceed on the grounds of classical logic.
+
+:::{caution}
+:class: dropdown
+:open: true
+**Why not embrace contradiction, paradox, and incoherence?**
+
+Many people are fascinated by the idea that truth is fundamentally tied to an individual's perspective. On this view, there is no absolute, mind-independent "Truth", only people with viewpoints that are essentially equally valid. A plethora, or pluralism, of "truths".
+
+This idea is appealing because it seems to allow us to avoid all argument and hence potential conflict. After all, if there is no Truth, anyone's truth is as good as yours. No more reason to fight - apparently. But, as we will see, the exact opposite is the case.  
+
+ % Goya
+:::{figure} images/Goya.png
+:label: fig: Goya
+:alt: Goya
+:width: 70%
+
+Plate 43 from Francisco Goya's (1746–1828) 'Los Caprichos': **The sleep of reason produces monsters** (El sueño de la razon produce monstruos),1799.[^10] Goya aims to remind us that when we abandon reason (logic), the consequences can be disastruous.
+:::
+
+[^10]: [public domain source](https://commons.wikimedia.org/wiki/File:Plate_43_from_%27Los_Caprichos%27-_The_sleep_of_reason_produces_monsters_(El_sue%C3%B1o_de_la_razon_produce_monstruos)_MET_DT652.jpg)
+
+When arguing for this view, it is often pointed out that even science frequently revises its theoretical views, such as when experiments failed to provide evidence for the idea that the universe is filled with an invisible substance (the aether, or ether) that propagates electric and magnetic forces.  
+
+However, we already noted that there is a difference between the _ontic_ and the _epistemic_. Even humans were fundamentally incapable of finding Truth, this does not imply that Truth does not exist. Moreoever, we already established that the scientific method has proven more powerful both in explaining and predicting events in the physical world than, say, the magical thinking of a toddler. Some truths seem to "better" fit our experience of nature than others, even if they may remain flawed. Why is that?
+
+But the main challenge to the notion of there no being a universal, all-ruling Truth is that denying so breaks classical logic (and we have no other reason to do so). Consider the sentence:
+    There is no such thing as truth.
+Now ask yourself - is this really true?
+If it were true, than there is a Truth. If we assume that this sentence is true, at least one thing is objectively true - that very sentence. But then we were wrong to assume that there is no Truth.
+
+In other words, this sentence contradicts itself. It violates the second law we identified that "a statement cannot be both true and false within the same context" (the Law of Non-Contradiction). This means that in classical logic, we can identify this sentence as non-logical non-sense. A trap of incoherent thought, if you will, that logic helps us to detect as unreasonable and hence dismissable.
+
+But why not just drop the Law of Non-Contradiction instead? Why not just assume that contradictions - logical paradoxa - are real and a part of nature?  
+
+There are two good reasons for that:
+
+First, we have not yet found physical, or any natural, phenomena in science that contradict themselves. Even Schrödinger's cat, which paradoxically seems dead and alive at the same time is a fully coherent, non-contradictory phenomenon when considered mathematically.  
+
+But, more importantly, the Law of Non-Contradiction is key to save us from undesirable real-life consequences.
+
+Consider this: We live in a world where nobody believes in the Law of Non-Contradiction anymore. We all obey a non-classical logic that allows for contradictions and where no absolute Truth exists. You order a delivery that comes with a guarantuee that if you do not receive the item within two days, you will receive a refund. This will be easy to do thanks to the delivery service tracking the item. Two days pass. Then five days, and you receive no item. You contact the company, send them the delivery tracker showing that the item was never sent, and ask for a refund. They deny sending you back the money since they deny that the item was not delivered. This is absurd, of course, but do you have any recourse using the non-classical logic that now governs society?
+
+Let us explore that: When we all agree on classical logic, you can argue something like this:
+_"The agreement was that if I do not receive the item in time, the money will be returned."_
+
+But in our new world, the company can counter: "Yes, we said that we will do so. But the item was not sent to you."
+
+This makes no sense - in classical logic. The statement contradicts itself! They said that they will return the money if they never send the item, and here they state that they never received the item and thus will not return the money. However, we abandonded the principle that contradiction is not allowed. And with this new, "free" logic, the company can contradict itself and see no problem. Contradictions are now as logical as everything else!  
+
+Thinkers have long identified this problem and came up with the Latinism: _ex contradictione quodlibet_ (from a contradiction, whatever one wants follows; or more liberally: if you allow for contradiction, anything goes). This is just a fancy way of saying that if there is only "my truth" and "your truth" and no objective Truth to refer to, we lost all possibility of arguing against someone whose truth is that they can do to anyone whatever they want.  
+:::
 
 ### Explanatory Success of Science
 
