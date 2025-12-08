@@ -9,10 +9,11 @@ This Jupyter book is meant to provide an opinionated[^1], broad strokes introduc
 We will start with an interesting observation about perception that seems to counter our intuitions and ponder its basic  implications. We then will try to work our way from these  insights (i.e., the deepest foundations we can find; what we often refer to as _philosophy_) to modern natural _science_.  
 
 % Parallax Illusion
-:::{figure} images/3D.gif
+:::{figure}
+<img src="images/3D.gif" />
 :label: fig:wigglegram
-:alt: Motion Parallax
 :width: 40%
+:::
 
 Visual illusions demonstrate that perception can deviate from reality. This example shows how 3D depth perception can arise from rapid alternation between two 2D images taken at a slight angle. Neither of the two photographs is in 3D. Yet, when they are shown one after the other, suddenly a sense of three dimensionality (depth) arises.[^1]
 :::
