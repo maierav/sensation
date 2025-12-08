@@ -3,7 +3,7 @@
 % Visual Brain
 :::{figure} ./images/vision_start.jpg
 :label: fig:visual brain
-:width: 90%
+:width: 60%
 
 Our understanding of vision as relating to the optics of the eyes and subsequent information integration in the brain goes back hundreds of years.[^1]
 :::
