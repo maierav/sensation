@@ -12,7 +12,6 @@ We will start with an interesting observation about perception that seems to cou
 :::{figure} ./videos/3D.mp4
 :label: fig:wigglegram
 :width: 40%
-:::
 
 Visual illusions demonstrate that perception can deviate from reality. This example shows how 3D depth perception can arise from rapid alternation between two 2D images taken at a slight angle. Neither of the two photographs is in 3D. Yet, when they are shown one after the other, suddenly a sense of three dimensionality (depth) arises.[^1]
 :::
