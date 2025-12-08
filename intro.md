@@ -396,7 +396,7 @@ As we will see, the answer is a bit mixed. There are, of course, individual diff
 Is it surprising that most of us seem to perceive colors similarly? Why does that or does that not surprise you?
 :::
 
-#### If perception is not reality, what is?
+#### If perception is not reality, then what is?
 
 Another puzzle that arises from our realization that we can fall pray to perceptual illusions is that this seems to put into question how we can _know_ that to be the case. DO we only know the world only from our perception? How else can we learn about the world? Can we know for certain that there really _is_ a world "outside" our perception?
 
