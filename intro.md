@@ -1,22 +1,28 @@
 # SENSATION AND PERCEPTION
 
-This Jupyter book is meant to provide an opinionated[^1], broad strokes introduction to the science of sensation and perception, with select scholarly references provided for self-study[^2].  
+This Jupyter book provides an AI-free, opinionated[^1], broad strokes introduction to the science of sensation and perception, with select scholarly references provided for further self-study[^2].  
 
 [^1]: Rather than presenting all views with equal weight, we will only mention dissenting views in passing. The overarching didactic goal is to lay out a coherent narrative rather than a taxonomy of viewpoints. The hope is tha this approach prioritizes _holistic understanding_ - grasping the _gist_ - over fractured knowledge. Or to put it with T.S. Eliot - we do not want to find ourselves distracted from distraction by distraction. We acknowledge that this comes at the cost of favoring some views over others. The serious student is advised to venture beyon this introductory text and explore the full landscape of ideas.  
 
-[^2]: Books go out of print and web sites go offline. In an attempt to provide sources with some permanence, we will largely limit external links to documents that have been associated with a Digital Object Identifier, or DOI. Exceptions are made for public domain sources and scholarly or academic web sites that have an established history of maintenance.
+[^2]: Books on expert topics often go out of print and/or are expensive. Web sites sometimes get abandoned go offline. In an attempt to provide free resources with some hope of permanence, we will largely limit external links to documents that have been associated with a Digital Object Identifier, or DOI. Exceptions are made for public domain sources and scholarly or academic web sites that have an established history of maintenance.
 
-We will start with an interesting observation about perception that seems to counter our intuitions and ponder its basic  implications. We then will try to work our way from these  insights (i.e., the deepest foundations we can find; what we often refer to as _philosophy_) to modern natural _science_.  
+Here is the plan: We will start with interesting observations that seem to counter some of our intuitions how we perceive the world and ponder their implications. We then will try to work our way from the skepticism that we gained from insights (i.e., the deepest foundations we can find; what we often refer to as _philosophy_) to modern natural _science_.  
 
-% Parallax Illusion
-:::{figure} ./images/3D.gif
-:label: fig:wigglegram
-:width: 40%
+% Motion Aftereffect Illusion
+:::{figure} ./images/spiral.gif
+:label: fig:MAE
+:width: 70%
 
-Visual illusions demonstrate that perception can deviate from reality. This example shows how 3D depth perception can arise from rapid alternation between two 2D images taken at a slight angle. Neither of the two photographs is in 3D. Yet, when they are shown one after the other, suddenly a sense of three dimensionality (depth) arises.[^1]
+Visual illusions demonstrate that perception can deviate from reality. What you see above is a great demonstation of that, but it takes a bit of effort and patience to work. After you are done reading this, take about two minutes to do the following:  
+
+Keep your view as steady as you can, centered exactly on the center of the spinning disk. You can blink if you need to, but do not look away. Just keep looking straight at the center and wait. The longer you wait, the better the demonstration. After about a minute or two, you can look at something else that does not move, such as your hands held steady in front of you or an object somewhere in your room. Do not just look around, but center your view on something else and keep it steady again.  
+
+If you kept your gaze steady and long enough on the center of the spiral, you will now have a fleeting perception of motion, such as waves of motion across your steady hands, as if the air is rippling like water. If you did not see the desired effect, or if you only experienced it briefly, try again and keep your view center for a longer period of time on the center of the spiral.
+
+This illusion that induces perception even when looking at steady objects and thus literally distorts our perception is called a **motion aftereffect**[^3]. We will discuss what we know about its properties and neural basis at a later point in this course. For now, the goal is to appreciate that our perception can be "tricked" into deviating from reality, such as seeing an unmoving object move.
 :::
 
-[^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Grasstree_Hut,_Tasmania.gif)
+[^3]: [public domain source](https://commons.wikimedia.org/wiki/File:MagicSpiral.gif)
 
 This exercise will also involve taking on a bit of formal _logic_ and _mathematics_ before investigating if the tools of science can be applied to perception.  
 
@@ -29,6 +35,16 @@ Lastly, we will return to logic, philosophy, and mathematics and explore whether
 It is likely that you will find some of this approach frustrating at times. You might ask yourself at some point: _why so much philosophy?_, _why so much dwelling on mathematics_, or _why so much about vision?_, for example. The answer to these questions, however, will only become apparent at the _end_ of the course. Once you have learned all the material, you will see how these "disciplines" are really not as separate as they might seem at first sight, expecially when it comes to the topic of _perception_. As you will see eventually, one could argue that _all_ we will be doing _is_ philosophy (in fact, this is how many emminent scientists, especially of past generations would have seen things). One could also argue that _all_ of it ends in mathemathematics (once we appreciate what matheatics is in a broader sense). Or that _all of that_ boils down to perception.  
 
 Try to keep this, at this point likely puzzling, notion in mind as we carefully and slowly unveil the bigger picture. It will not be immediately obvious. And if we rush, we risk losing noting the connections between these areas of intellectual work that are frequently taught as entirely separate areas of thought. Your goal probably is to learn about what humanity has found out about the (neuro)science of perception, but there is deeper insight looming: After everything you learn about what we currently know about the (neuro)science of perception, we will have to revisit our worldview _as a whole_. Much of how we have grown up to think about ourselves, the world around us, and the relationship between the two, faces challenges when considering what perception is and how it comes about.  
+
+% Parallax Illusion
+:::{figure} ./images/3D.gif
+:label: fig:wigglegram
+:width: 40%
+
+Visual illusions demonstrate that perception can deviate from reality. This example shows how 3D depth perception can arise from rapid alternation between two 2D images taken at a slight angle. Neither of the two photographs is in 3D. Yet, when they are shown one after the other, suddenly a sense of three dimensionality (depth) arises.[^4]
+:::
+
+[^4]: [public domain source](https://commons.wikimedia.org/wiki/File:Grasstree_Hut,_Tasmania.gif)
 
 We get glimpses of that challenge when we encounter perceptual _illusions_, or ponder about the peculiar fact that all of us go through a daily routine of losing perception for a while during dreamless sleep, followed by perceiving a ficticious world for some time during dream sleep before returning to wakefulness. In the same vein, it is peculiar that no human being so far has reported to perceive 360-degree vision, even when experiencing abnormal states of perception, such as near meditative states, death experiences, or psychedlic experiences, where some report a loss of a sense of self or even a "loss of first-person perspective". This is non-trivial, since the fact that we only see what is in front of us and not that which is behind our head is decidely human - many animals, such as birds, rabbits, or squirrels see the world all around them.  
 
