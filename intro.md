@@ -20,7 +20,7 @@ Visual illusions demonstrate that perception can deviate from reality. What you 
 
 Keep your view as steady as you can, centered exactly on the center of the spinning disk. You can blink if you need to, but do not look away. Just keep looking straight at the center and wait. The longer you wait, the better the demonstration. After about a minute or two, you can look at something else that does not move, such as your hands held steady in front of you or an object somewhere in your room. Do not just look around, but center your view on something else and keep it steady again.  
 
-    If you kept your gaze steady and long enough on the center of the spiral, you will now have a fleeting perception of motion, such as waves of motion across your steady hands, as if the air is rippling like water. If you did not see the desired effect, or if you only experienced it briefly, try again and keep your view center for a longer period of time on the center of the spiral.
+ If you kept your gaze steady and long enough on the center of the spiral, you will now have a fleeting perception of motion, such as waves of motion across your steady hands, as if the air is rippling like water. If you did not see the desired effect, or if you only experienced it briefly, try again and keep your view center for a longer period of time on the center of the spiral.
 
 This illusion that induces perception even when looking at steady objects and thus literally distorts our perception is called a **motion aftereffect**[^3]. We will discuss what we know about its properties and neural basis at a later point in this course. For now, the goal is to appreciate that our perception can be "tricked" into deviating from reality, such as seeing an unmoving object move.
 :::
