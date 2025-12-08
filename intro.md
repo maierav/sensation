@@ -1,10 +1,10 @@
 # SENSATION AND PERCEPTION
 
-This Jupyter book is meant to provide an opinionated[^1], broad strokes introduction to the science of sensation and perception, with select scholarly references provided for self-study [^2].  
+This Jupyter book is meant to provide an opinionated[^1], broad strokes introduction to the science of sensation and perception, with select scholarly references provided for self-study[^2].  
 
 [^1]: Rather than presenting all views with equal weight, we will only mention dissenting views in passing. The overarching didactic goal is to lay out a coherent narrative rather than a taxonomy of viewpoints. The hope is tha this approach prioritizes _holistic understanding_ - grasping the _gist_ - over fractured knowledge. Or to put it with T.S. Eliot - we do not want to find ourselves distracted from distraction by distraction. We acknowledge that this comes at the cost of favoring some views over others. The serious student is advised to venture beyon this introductory text and explore the full landscape of ideas.  
 
-[^2]: Books go out of print and web sites go offline. In an attempt to provide sources with some permanence, we will limit external links to documents that have been associated with a Digital Object Identifier, or DOI. Exceptions are made for public domain sources.
+[^2]: Books go out of print and web sites go offline. In an attempt to provide sources with some permanence, we will largely limit external links to documents that have been associated with a Digital Object Identifier, or DOI. Exceptions are made for public domain sources and scholarly or academic web sites that have an established history of maintenance.
 
 % Perception
 :::{figure} images/Mach.png
@@ -21,7 +21,25 @@ _"I lie upon my sofa. If I close my right eye, the picture represented in the ac
 
 [^4]: [E. Mach: _Beiträge zur Analyse der Empfindungen_ (1886)](https://archive.org/details/b2229448x)
 
-We will start with an interesting observation about perception that seems to counter our intuitions and ponder its basic philosophical implications. We then will try to work our way from the philosophical insights (i.e., the deepest foundations we can find) to modern science. This exercise will involve taking on a bit of formal logic and mathematics before investigating if these tools of science can be applied to perception. We then will review the psychology and neuroscience of sensation and perception, which provides the bulk of our modern knowledge about perception. Much of this work is focused on vision (seeing), but we will also review our other modalities (senses). Lastly, we will return to mathematics and explore whether everything we have learned can be synthesized into a coherent view that merges the philosophy, psychology, and neuroscience of perception. Interested? Then, let us get started!
+We will start with an interesting observation about perception that seems to counter our intuitions and ponder its basic  implications. We then will try to work our way from these  insights (i.e., the deepest foundations we can find; what we often refer to as _philosophy_) to modern natural _science_.  
+
+This exercise will also involve taking on a bit of formal _logic_ and _mathematics_ before investigating if the tools of science can be applied to perception.  
+
+We then will review the _psychology_ and _neurobiology_ of sensation and perception, which provides the bulk of our modern knowledge about perception.  
+
+Much of this course is focused on vision (seeing), but we will also review our other modalities (senses).  
+
+Lastly, we will return to logic, philosophy, and mathematics and explore whether everything we have learned can be synthesized into a coherent view that merges the philosophy, psychology, and neuroscience of perception.  
+
+It is likely that you will find some of this approach frustrating at times. You might ask yourself at some point: _why so much philosophy?_, _why so much dwelling on mathematics_, or _why so much about vision?_, for example. The answer to these questions, however, will only become apparent at the _end_ of the course. Once you have learned all the material, you will see how these "disciplines" are really not as separate as they might seem at first sight, expecially when it comes to the topic of _perception_. As you will see eventually, one could argue that _all_ we will be doing _is_ philosophy (in fact, this is how many emminent scientists, especially of past generations would have seen things). One could also argue that _all_ of it ends in mathemathematics (once we appreciate what matheatics is in a broader sense). Or that _all of that_ boils down to perception.  
+
+Try to keep this, at this point likely puzzling, notion in mind as we carefully and slowly unveil the bigger picture. It will not be immediately obvious. And if we rush, we risk losing noting the connections between these areas of intellectual work that are frequently taught as entirely separate areas of thought. Your goal probably is to learn about what humanity has found out about the (neuro)science of perception, but there is deeper insight looming: After everything you learn about what we currently know about the (neuro)science of perception, we will have to revisit our worldview _as a whole_. Much of how we have grown up to think about ourselves, the world around us, and the relationship between the two, faces challenges when considering what perception is and how it comes about.  
+
+We get glimpses of that challenge when we encounter perceptual _illusions_, or ponder about the peculiar fact that all of us go through a daily routine of losing perception for a while during dreamless sleep, followed by perceiving a ficticious world for some time during dream sleep before returning to wakefulness. In the same vein, it is peculiar that no human being so far has reported to perceive 360-degree vision, even when experiencing abnormal states of perception, such as near meditative states, death experiences, or psychedlic experiences, where some report a loss of a sense of self or even a "loss of first-person perspective". This is non-trivial, since the fact that we only see what is in front of us and not that which is behind our head is decidely human - many animals, such as birds, rabbits, or squirrels see the world all around them.  
+
+All these occasions remind us that perception is neither what we believe to be (physical, objective, mind-independent) reality, nor is it just a reflection of it. And yet, most of the time, we act as if what we perceive _is_ reality (and that is well advised). For now, just keep in mind that perception is more than just sensing the world, and that this fact is somewhat intriguing.  
+
+Interested? Then, let us get started!
 
 :::{tip}
 :class: dropdown
