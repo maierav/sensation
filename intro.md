@@ -655,7 +655,7 @@ However, nothing we have discussed so far is science (yet). What we have done so
 
 And there is a bit more philosophy that we need to discuss before we start with the science of perception proper. A lot about what we learn about the science of perception will make more sense after that. In fact, you might want to come back here again often as you progress in learning about the science of perception in order to reevaluate your thoughts on the overarching philosophical questions that we will discuss next.
 
-### Interpersonal Coherence
+### Intersubjective Coherence
 
 Another thought we need to take a moment reflecting on is the role of people _working together_ in science. This fact adds complications when we evaluate science, such as politics and sociology playing a role in how science is done _in practice_.  
 
