@@ -2,7 +2,7 @@
 
 This Jupyter book provides an AI-free, opinionated[^1], broad strokes introduction to the science of sensation and perception, with select scholarly references provided for further self-study[^2].  
 
-[^1]: Rather than presenting all views with equal weight, we will only mention dissenting views in passing. The overarching didactic goal is to lay out a coherent narrative rather than a taxonomy of viewpoints. The hope is that this approach prioritizes _holistic understanding_ - grasping the _gist_ - over fractured knowledge. Or to put it with T.S. Eliot: we do not want to find ourselves distracted from distraction by distraction. We acknowledge that this comes at the cost of favoring some views over others. A serious student will venture beyond this introductory text and explore the full landscape of ideas.  
+[^1]: Rather than presenting all views with equal weight, we will only mention dissenting views in passing. The overarching didactic goal is to lay out a coherent narrative rather than a taxonomy of viewpoints. The hope is that this approach prioritizes _holistic understanding_ - grasping the _gist_ - over fractured knowledge. Or to put it with T.S. Eliot: we do not want to find ourselves distracted from distraction by distraction. We acknowledge that this comes at the cost of favoring some views over others. Serious students will venture beyond this introductory text and explore the full landscape of ideas.  
 
 [^2]: Books on expert topics often go out of print and/or are expensive. Web sites sometimes get abandoned go offline. In an attempt to provide free resources with some hope of permanence, we will largely limit external links to documents that have been associated with a Digital Object Identifier, or DOI. Exceptions are made for public domain sources and scholarly or academic web sites that have an established history of maintenance.
 
@@ -328,8 +328,6 @@ _Science_ is the practice of applying logical reasoning and observations to answ
 :class: dropdown
 Do you agree with these definitions? How would you define these terms?
 :::
-
-### Perception is not Reality
 
 #### Naive Realism
 
@@ -714,7 +712,7 @@ Now - what if we can _observe_ mathematics in this experience? What if our exper
 
 This thought may seem unintuitive, radical, or even revolutionary, but is not entirely new.  
 
-### AXIOMS AND THEOREMS
+### Axioms and Theorems
 
 Archaeogical evidence suggests that humans have been counting, measuring, and calculating for thousands of years. We intuit that _this_ is what we mean by mathematics. But the scholarly discipline of mathematics is surprisingly little concerned with all the above. What professional mathematicians actually do is _proving_. And what is that? It is the process of showing how a statement that is suspected to be provable can indeed be logically shown to be _true_ within a fixed system of thought. Once such a statement is proven, it is called a _theorem_. But did we not ponder that any statement eventually leads us to Agrippa's Trilemma? Indeed, mathematics rests on a set of unproven statements - unfounded beliefs - called _axioms_. Mathematics, at its core, thus is creating a "tree" of statements (theorems) that can be logically derived from a small set of initial assumptions, or axioms.  
 
