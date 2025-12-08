@@ -39,7 +39,7 @@ Try to keep this, at this point likely puzzling, notion in mind as we carefully 
 % Parallax Illusion
 :::{figure} ./images/3D.gif
 :label: fig:wigglegram
-:width: 40%
+:width: 50%
 
 Visual illusions demonstrate that perception can deviate from reality. This example shows how 3D depth perception can arise from rapid alternation between two 2D images taken at a slight angle. Neither of the two photographs is in 3D. Yet, when they are shown one after the other, suddenly a sense of three dimensionality (depth) arises.[^4]
 :::
