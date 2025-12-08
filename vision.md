@@ -3,7 +3,7 @@
 % Visual Brain
 :::{figure} ./images/vision_start.jpg
 :label: fig:visual brain
-:width: 60%
+:width: 50%
 
 Our understanding of vision as relating to the optics of the eyes and subsequent information integration in the brain goes back hundreds of years.[^1]
 :::
@@ -65,7 +65,7 @@ Light, in fact, is just the part of the electromagnetic spectrum that we can see
 % Visual Pathway
 :::{figure} ./images/visual_pathway.png
 :label: fig:vision
-:width: 70%
+:width: 40%
 
 The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^3]
 :::
