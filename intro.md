@@ -722,6 +722,16 @@ Archaeogical evidence suggests that humans have been counting, measuring, and ca
 
 The first written account of this process we have is the book "Elements of Geometry" by Euclid. In some sense, we thus can regard this work as the starting point of modern mathematics. This book used to be the most popular and widely read textbook of all time, and it still forms the basis of much of how geometry is taught today. The focus on geometry arguably stems from the fact that the proofs exposited by Euclid are _constructive_ in the sense that one can physically recreate them using a compas and a ruler. That is, rather than just _reasoning_ that Euclid's theorems are inarguable (after accepting the axioms), one can convince onself by _trying them out in physical reality_. There are striking autobiographical accounts from Galileo Galilei, to Albert Einstein, and the philosophers Bertrand Russell and Alain Badiou, of how learning about these Euclidian proofs when they were young and initimidated by the seeming societal and intellectual chaos around them gave them a sense of relief about attainable clarity of thought and a sense of certainty. Thus is the power of logic and mathematics.  
 
+% Euclid's Elements
+:::{figure} ./images/Euclid.jpg
+:label: fig:euclid
+:width: 50%
+
+The oldest (fragment) copy of Euclid's "Elements of Geometry" known today. Almost 2000 years old, dated back to the end of the first century. The diagram depicts Proposition (Axiom) 5 of Book II: _If a straight line be cut into equal and unequal segments, the rectangle contained by the unequal segments of the whole together with the square on the straight line between the points of section is equal to the square on the half._.[^14]
+:::
+
+[^14]: [public domain source](https://en.wikipedia.org/wiki/File:P._Oxy._I_29.jpg)
+
 So let us take a brief look at some of that. Euclid starts with definitions. These are, in modern terms, axioms.
 
 The first one is:
