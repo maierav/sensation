@@ -621,7 +621,7 @@ that _not all assumptions are valid_. Science does not assume that _we know noth
 :::{figure} images/scientific_method_simplistic.png
 :label: fig:simplistic_science_model
 :alt: An overly simplistic, bare bones model of the scientific method.
-:width: 60%
+:width: 80%
 
 An overly simplistic, bare bones model of the scientific method.
 :::
