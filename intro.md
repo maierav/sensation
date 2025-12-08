@@ -393,7 +393,7 @@ Many people are fascinated by the idea that truth is fundamentally tied to an in
 
 This idea is appealing because it seems to allow us to avoid all argument and hence potential conflict. After all, if there is no Truth, anyone's truth is as good as yours. No more reason to fight - apparently. But, as we will see, the exact opposite is the case.  
 
-When arguing for this view, it is often pointed out that even science frequently revises its theoretical views, such as when experiments failed to provide evidence for the idea that the universe is filled with an invisible substance (the aether, or ether) that propagates electric and magnetic forces.  
+When arguing for this view, it is often pointed out that even science frequently revises its theoretical views, such as when experiments failed to provide evidence for the idea that the universe is filled with an invisible substance (the aether, or ether) that propagates electric and magnetic forces. It thus _seems_ to follow that there _is_ no Truth since not even science seems to agree on Truth.  
 
 However, we already noted that there is a difference between the _ontic_ and the _epistemic_. Even humans were fundamentally incapable of finding Truth, this does not imply that Truth does not exist. Moreoever, we already established that the scientific method has proven more powerful both in explaining and predicting events in the physical world than, say, the magical thinking of a toddler. Some truths seem to "better" fit our experience of nature than others, even if they may remain flawed. Why is that?
 
@@ -427,7 +427,7 @@ Thinkers have long identified this problem and came up with the Latinism: _ex co
 :::{figure} images/Goya.png
 :label: fig: Goya
 :alt: Goya
-:width: 70%
+:width: 40%
 
 Plate 43 from Francisco Goya's (1746–1828) 'Los Caprichos': **The sleep of reason produces monsters** (El sueño de la razon produce monstruos),1799.[^10] Goya aims to remind us that when we abandon reason (logic), the consequences can be disastruous.
 :::
