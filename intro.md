@@ -544,10 +544,12 @@ This idea is appealing because it seems to allow us to avoid all argument and he
 
 When arguing for this view, it is often pointed out that even science frequently revises its theoretical views, such as when experiments failed to provide evidence for the idea that the universe is filled with an invisible substance (the aether, or ether) that propagates electric and magnetic forces. It thus _seems_ to follow that there _is_ no Truth since not even science seems to agree on Truth.  
 
-However, we already noted that there is a difference between the _ontic_ and the _epistemic_. Even humans were fundamentally incapable of finding Truth, this does not imply that Truth does not exist. Moreoever, we already established that the scientific method has proven more powerful both in explaining and predicting events in the physical world than, say, the magical thinking of a toddler. Some truths seem to "better" fit our experience of nature than others, even if they may remain flawed. Why is that?
+However, we already noted that there is a difference between the _epistemic_ and the _ontic_: what we _know_ is different from what _is_ (since we we know can be wrong about what is). Even if humans were fundamentally incapable of finding Truth (epistemically), this does not imply that Truth does not exist (ontologically). Moreoever, we already established that the scientific method has proven more powerful both in explaining and predicting events in the physical world than, say, the magical thinking of a toddler. Some truths seem to "better" fit our experience of nature than others, even if they may might still be flawed. Why is that?
 
 But the main challenge to the notion of there no being a universal, all-ruling Truth is that denying so breaks classical logic (and we have no other reason to do so). Consider the sentence:
-    There is no such thing as truth.
+
+    **There is no such thing as truth.**
+
 Now ask yourself - is this really true?
 If it were true, than there is a Truth. If we assume that this sentence is true, at least one thing is objectively true - that very sentence. But then we were wrong to assume that there is no Truth.
 
@@ -559,14 +561,13 @@ There are two good reasons for that:
 
 First, we have not yet found physical, or any natural, phenomena in science that contradict themselves. Even Schrödinger's cat, which paradoxically seems dead and alive at the same time is a fully coherent, non-contradictory phenomenon when considered mathematically.  
 
-But, more importantly, the Law of Non-Contradiction is key to save us from undesirable real-life consequences.
-
-Consider this: We live in a world where nobody believes in the Law of Non-Contradiction anymore. We all obey a non-classical logic that allows for contradictions and where no absolute Truth exists. You order a delivery that comes with a guarantuee that if you do not receive the item within two days, you will receive a refund. This will be easy to do thanks to the delivery service tracking the item. Two days pass. Then five days, and you receive no item. You contact the company, send them the delivery tracker showing that the item was never sent, and ask for a refund. They deny sending you back the money since they deny that the item was not delivered. This is absurd, of course, but do you have any recourse using the non-classical logic that now governs society?
+Second, and more importantly, the Law of Non-Contradiction is key to save us from undesirable real-life consequences. Consider this: We live in a world where nobody believes in the Law of Non-Contradiction anymore. We all obey a non-classical logic that allows for contradictions and where no absolute Truth exists. You order a delivery that comes with a guarantuee that if you do not receive the item within two days, you will receive a refund. This will be easy to do thanks to the delivery service tracking the item. Two days pass. Then five days, and you receive no item. You contact the company, send them the delivery tracker showing that the item was never sent, and ask for a refund. They deny sending you back the money since they deny that the item was not delivered. This is absurd, of course, but do you have any recourse using the non-classical logic that now governs society?
 
 Let us explore that: When we all agree on classical logic, you can argue something like this:
 _"The agreement was that if I do not receive the item in time, the money will be returned."_
 
-But in our new world, the company can counter: "Yes, we said that we will do so. But the item was not sent to you."
+But in our new world, the company can counter: 
+_"Yes, we said that we will do so, but the item was not sent to you."_
 
 This makes no sense - in classical logic. The statement contradicts itself! They said that they will return the money if they never send the item, and here they state that they never received the item and thus will not return the money. However, we abandonded the principle that contradiction is not allowed. And with this new, "free" logic, the company can contradict itself and see no problem. Contradictions are now as logical as everything else!  
 
