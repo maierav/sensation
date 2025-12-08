@@ -564,12 +564,12 @@ First, we have not yet found physical, or any natural, phenomena in science that
 Second, and more importantly, the Law of Non-Contradiction is key to save us from undesirable real-life consequences. Consider this: We live in a world where nobody believes in the Law of Non-Contradiction anymore. We all obey a non-classical logic that allows for contradictions and where no absolute Truth exists. You order a delivery that comes with a guarantuee that if you do not receive the item within two days, you will receive a refund. This will be easy to do thanks to the delivery service tracking the item. Two days pass. Then five days, and you receive no item. You contact the company, send them the delivery tracker showing that the item was never sent, and ask for a refund. They deny sending you back the money since they deny that the item was not delivered. This is absurd, of course, but do you have any recourse using the non-classical logic that now governs society?
 
 Let us explore that: When we all agree on classical logic, you can argue something like this:
-_"The agreement was that if I do not receive the item in time, the money will be returned."_
+_"The agreement was that if you do not send the item, the money will be returned."_
 
 But in our new world, the company can counter:  
-_"Yes, we said that we will do so, but the item was not sent to you."_
+_"Yes, you will receive the money if we do not send the item, but we did not send the item."_
 
-This makes no sense - in classical logic. The statement contradicts itself! They said that they will return the money if they never send the item, and here they state that they never received the item and thus will not return the money. However, we abandonded the principle that contradiction is not allowed. And with this new, "free" logic, the company can contradict itself and see no problem. Contradictions are now as logical as everything else!  
+This makes no sense - in classical logic. The statement contradicts itself! They said that they will return the money if they never send the item, and here they state that you never received the item and thus will not return the money. However, we abandonded the principle that contradiction is not allowed. And with this new, "free" logic, the company can contradict itself and see no problem. Contradictions are now as logical as everything else!  
 
 Thinkers have long identified this problem and came up with the Latinism: _ex contradictione quodlibet_ (from a contradiction, whatever one wants follows; or more liberally: if you allow for contradiction, anything goes). This is just a fancy way of saying that if there is only "my truth" and "your truth" and no objective Truth to refer to, we lost all possibility of arguing against someone whose truth is that they can do to anyone whatever they want.  
 
