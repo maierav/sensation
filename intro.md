@@ -9,7 +9,7 @@ This Jupyter book is meant to provide an opinionated[^1], broad strokes introduc
 We will start with an interesting observation about perception that seems to counter our intuitions and ponder its basic  implications. We then will try to work our way from these  insights (i.e., the deepest foundations we can find; what we often refer to as _philosophy_) to modern natural _science_.  
 
 % Parallax Illusion
-:::{figure} ./videos/3D.mp4
+:::{figure} ./images/3D.gif
 :label: fig:wigglegram
 :width: 40%
 
