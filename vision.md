@@ -3,7 +3,7 @@
 % Visual Brain
 :::{figure} ./images/vision_start.jpg
 :label: fig:visual brain
-:width: 50%
+:width: 55%
 
 Our understanding of vision as relating to the optics of the eyes and subsequent information integration in the brain goes back hundreds of years.[^1]
 :::
@@ -41,7 +41,7 @@ So, let us begin.
 % Vision
 :::{figure} ./images/sightrays.png
 :label: fig:vision
-:width: 90%
+:width: 85%
 
 Visual sensation starts with light rays entering our eyes, bending at the lens and ending up as a two-dimensional projection (image) at the back of our eye balls - the retina. As a consequence, visual sensation is subjected to the laws of optics - the geometry of light propagation.[^2]
 :::
