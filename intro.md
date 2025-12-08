@@ -6,7 +6,10 @@ This Jupyter book provides an AI-free, opinionated[^1], broad strokes introducti
 
 [^2]: Books on expert topics often go out of print and/or are expensive. Web sites sometimes get abandoned go offline. In an attempt to provide free resources with some hope of permanence, we will largely limit external links to documents that have been associated with a Digital Object Identifier, or DOI. Exceptions are made for public domain sources and scholarly or academic web sites that have an established history of maintenance.
 
-Here is the plan: We will start with interesting observations that seem to counter some of our intuitions how we perceive the world and ponder their implications. We then will try to work our way from the skepticism that we gained from insights (i.e., the deepest foundations we can find; what we often refer to as _philosophy_) to modern natural _science_.  
+Here is the plan: We will start with a few interesting observations that seem to counter our intuition of how we perceive the world, and ponder their implications. We then will try to work our way out from the skepticism that this leaves us (i.e., find the deepest and most solid foundation we can find). This will lead us to modern natural science - and eventually back to our initial skepticism. But we will not just go in a circle. To say it with T.S. Eliot:
+
+     The end of all our exploring will be to arrive where we started.
+     And know the place for the first time.  
 
 % Motion Aftereffect Illusion
 :::{figure} ./images/spiral.gif
