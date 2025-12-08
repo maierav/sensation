@@ -6,21 +6,6 @@ This Jupyter book is meant to provide an opinionated[^1], broad strokes introduc
 
 [^2]: Books go out of print and web sites go offline. In an attempt to provide sources with some permanence, we will largely limit external links to documents that have been associated with a Digital Object Identifier, or DOI. Exceptions are made for public domain sources and scholarly or academic web sites that have an established history of maintenance.
 
-% Perception
-:::{figure} images/Mach.png
-:label: fig:perception
-:alt: Perception
-:width: 60%
-
-Sketch of Ernst Mach (1838–1916) of visual perception with the right eye closed.[^3]
-He wrote:  
-_"I lie upon my sofa. If I close my right eye, the picture represented in the accompanying cut is presented to my left eye. In a frame formed by the ridge of my eyebrow, by my nose, and by my moustache, appears a part of my body, so far as visible, with its environment. [...] Reflexions like that for the field of vision may be made with regard to the province of touch and the perceptual domains of the other senses."_[^4]  
-:::
-
-[^3]: [public domain image source](https://commons.wikimedia.org/wiki/File:Autoportrait_d%27Ernst_Mach_p.64_The_Grammar_of_Science,_Karl_Pearson,_1900.png)
-
-[^4]: [E. Mach: _Beiträge zur Analyse der Empfindungen_ (1886)](https://archive.org/details/b2229448x)
-
 We will start with an interesting observation about perception that seems to counter our intuitions and ponder its basic  implications. We then will try to work our way from these  insights (i.e., the deepest foundations we can find; what we often refer to as _philosophy_) to modern natural _science_.  
 
 This exercise will also involve taking on a bit of formal _logic_ and _mathematics_ before investigating if the tools of science can be applied to perception.  
@@ -36,6 +21,21 @@ It is likely that you will find some of this approach frustrating at times. You 
 Try to keep this, at this point likely puzzling, notion in mind as we carefully and slowly unveil the bigger picture. It will not be immediately obvious. And if we rush, we risk losing noting the connections between these areas of intellectual work that are frequently taught as entirely separate areas of thought. Your goal probably is to learn about what humanity has found out about the (neuro)science of perception, but there is deeper insight looming: After everything you learn about what we currently know about the (neuro)science of perception, we will have to revisit our worldview _as a whole_. Much of how we have grown up to think about ourselves, the world around us, and the relationship between the two, faces challenges when considering what perception is and how it comes about.  
 
 We get glimpses of that challenge when we encounter perceptual _illusions_, or ponder about the peculiar fact that all of us go through a daily routine of losing perception for a while during dreamless sleep, followed by perceiving a ficticious world for some time during dream sleep before returning to wakefulness. In the same vein, it is peculiar that no human being so far has reported to perceive 360-degree vision, even when experiencing abnormal states of perception, such as near meditative states, death experiences, or psychedlic experiences, where some report a loss of a sense of self or even a "loss of first-person perspective". This is non-trivial, since the fact that we only see what is in front of us and not that which is behind our head is decidely human - many animals, such as birds, rabbits, or squirrels see the world all around them.  
+
+% Perception
+:::{figure} images/Mach.png
+:label: fig:perception
+:alt: Perception
+:width: 60%
+
+Sketch of Ernst Mach (1838–1916) of visual perception with the right eye closed.[^3]
+He wrote:  
+_"I lie upon my sofa. If I close my right eye, the picture represented in the accompanying cut is presented to my left eye. In a frame formed by the ridge of my eyebrow, by my nose, and by my moustache, appears a part of my body, so far as visible, with its environment. [...] Reflexions like that for the field of vision may be made with regard to the province of touch and the perceptual domains of the other senses."_[^4]  
+:::
+
+[^3]: [public domain image source](https://commons.wikimedia.org/wiki/File:Autoportrait_d%27Ernst_Mach_p.64_The_Grammar_of_Science,_Karl_Pearson,_1900.png)
+
+[^4]: [E. Mach: _Beiträge zur Analyse der Empfindungen_ (1886)](https://archive.org/details/b2229448x)
 
 All these occasions remind us that perception is neither what we believe to be (physical, objective, mind-independent) reality, nor is it just a reflection of it. And yet, most of the time, we act as if what we perceive _is_ reality (and that is well advised). For now, just keep in mind that perception is more than just sensing the world, and that this fact is somewhat intriguing.  
 
