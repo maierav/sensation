@@ -569,7 +569,7 @@ _"The agreement was that if you do not send the item, the money will be returned
 But in our new world, the company can counter:  
 _"Yes, you will receive the money if we do not send the item, but we did not send the item."_
 
-This makes no sense - in classical logic. The statement contradicts itself! They said that they will return the money if they never send the item, and here they state that you never received the item and thus will not return the money. However, we abandonded the principle that contradiction is not allowed. And with this new, "free" logic, the company can contradict itself and see no problem. Contradictions are now as logical as everything else!  
+This makes no sense - in classical logic. The statement contradicts itself! They said that they will return the money if they never send the item, and here they state that you never received the item and thus will not return the money. However, we abandonded the principle that contradiction is not allowed. And with this new, "free" logic, the company can contradict itself and see no problem. Contradictions are now as logical as everything else.  
 
 Thinkers have long identified this problem and came up with the Latinism: _ex contradictione quodlibet_ (from a contradiction, whatever one wants follows; or more liberally: if you allow for contradiction, anything goes). This is just a fancy way of saying that if there is only "my truth" and "your truth" and no objective Truth to refer to, we lost all possibility of arguing against someone whose truth is that they can do to anyone whatever they want.  
 
