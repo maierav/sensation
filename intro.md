@@ -11,7 +11,7 @@ Here is the plan: We will start with interesting observations that seem to count
 % Motion Aftereffect Illusion
 :::{figure} ./images/spiral.gif
 :label: fig:MAE
-:width: 90%
+:width: 100%
 
 Visual illusions demonstrate that perception can deviate from reality. What you see above is a great demonstation of that, but it takes a bit of effort and patience to work. After you are done reading this, take about two minutes to do the following:  
 
