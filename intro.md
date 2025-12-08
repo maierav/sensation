@@ -589,7 +589,7 @@ Plate 43 from Francisco Goya's (1746–1828) 'Los Caprichos': **The sleep of rea
 
 [^14]: [public domain source](https://commons.wikimedia.org/wiki/File:Plate_43_from_%27Los_Caprichos%27-_The_sleep_of_reason_produces_monsters_(El_sue%C3%B1o_de_la_razon_produce_monstruos)_MET_DT652.jpg)
 
-### Explanatory Success of Science
+### Explanatory Success
 
 There has been an enormous amount of scientific research on sensation and perception. And, just like most science, the outcome of this collective effort has proven _productive_, _effective_, and _beneficial_ - and arguably more so than any other approach to studying sensation and perception. That is, thanks to the _science_ of perception, we have become able to successfully help people that we had not been able to help before, such as using cochlear implants to allow people who were born deaf to become able to hear. It is success of this kind that lends strong support to science being worth doing and studying.
 
