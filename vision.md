@@ -1,7 +1,7 @@
 # VISION
 
 % Visual Brain
-:::{figure} ./images/vision_start.jpg
+:::{figure} ./images/vision_start.png
 :label: fig:visual brain
 :width: 55%
 
