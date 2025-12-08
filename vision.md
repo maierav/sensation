@@ -1,5 +1,15 @@
 # VISION
 
+% Visual Brain
+:::{figure} ./images/vision_start.jpg
+:label: fig:visual brain
+:width: 90%
+
+Our understanding of vision as relating to the optics of the eyes and subsequent information integration in the brain goes back hundreds of years.[^1]
+:::
+
+[^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0001919_Optik_%5E_Anatomie_%5E_Mensch_%5E_Auge.jpg)
+
 Our exploration of the science of perception will cover all of our senses. However, we will spend most effort to study vision. There are several reasons for this choice:  
 
     1. Most of our sensory brain areas are concerned with vision.
@@ -33,10 +43,10 @@ So, let us begin.
 :label: fig:vision
 :width: 90%
 
-Visual sensation starts with light rays entering our eyes, bending at the lens and ending up as a two-dimensional projection (image) at the back of our eye balls - the retina. As a consequence, visual sensation is subjected to the laws of optics - the geometry of light propagation[^1].  
+Visual sensation starts with light rays entering our eyes, bending at the lens and ending up as a two-dimensional projection (image) at the back of our eye balls - the retina. As a consequence, visual sensation is subjected to the laws of optics - the geometry of light propagation.[^2]
 :::
 
-[^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0001920_Optik_%5E_Anatomie_%5E_Mensch_%5E_Auge.jpg)
+[^2]: [public domain source](https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0001920_Optik_%5E_Anatomie_%5E_Mensch_%5E_Auge.jpg)
 
 Vision seemingly starts with light (if we put dreams and hallucinations aside for a moment). But what is that - light?
 
