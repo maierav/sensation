@@ -19,6 +19,7 @@ project:
     - file: olfaction.md
     - file: gustation.md
     - file: balance.md
+    - file: structures.md
 site:
   template: book-theme
   options:
