@@ -12,6 +12,7 @@ project:
   toc:
     - file: intro.md
     - file: psychophysics.md
+    - file: neuroscience.md
     - file: vision.md
     - file: audition.md
     - file: touch.md
