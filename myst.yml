@@ -18,6 +18,7 @@ project:
     - file: touch.md
     - file: olfaction.md
     - file: gustation.md
+    - file: balance.md
 site:
   template: book-theme
   options:
