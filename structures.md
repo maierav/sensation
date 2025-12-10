@@ -25,7 +25,7 @@ And the related:
 
     How are things the way they are?
 
-And perception (which we defined as conscious experience) plays a key part in all that. Only your conscious experience is _directly accessible_ to you. The world is accessed _via_ your senses and ultimately your perception.  
+And perception (which we defined as conscious experience) plays a key part in all that. Only your conscious experience is _directly accessible_ to you. The world is accessed _via_ your senses and ultimately your perception. When you ask: "What is all of this?", the first thing you encounter that "all of this" seems to be (inside) your conscious experience.  
 
 Our knowledge about the world, such as what we learned about physics, also plays a part. But much of our knowledge plays little of a role unless it enters our conscious experience. You might _know_ what you ate for dinner last night, but that knowledge lay dormant. Now that you recall and consciouscly experience this knowledhe, the information contained within takes on a new form of usefulness. It could help you decide on whether you want to eat the same food again, for example.  
 
