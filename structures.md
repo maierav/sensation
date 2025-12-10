@@ -6,6 +6,8 @@ At this point, you will, in fact, have learned all the basics that are usually c
 
 The hope is to provide some relief to the interested reader who is left with a sense of frustration due to all of the reviewed knowledge failing to provide satisfying answer to the "big", philosophical questions that we started out with. To say it with Goethe's "Faust":
 
+    I 've studied now Philosophy And Jurisprudence, Medicine, ...
+    From end to end, with labor keen; And here,  ...
     For all my lore, I stand no wiser than before.  
 
 Indeed, the science of perception long avoided to discuss the bigger questions at hand. But this is not so anymore. And, even better, there are both first results and long-term visions that promise scientific solutions to several of the questions that we started out with. These are the early days, and many perception scientists are far from convinced that these approaches will turn out to be fruitful. But let us take a brief look nonetheless.  
