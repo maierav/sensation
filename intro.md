@@ -566,17 +566,12 @@ There are two good reasons for that:
 
 First, we have not yet found physical, or any natural, phenomena in science that contradict themselves. Even Schrödinger's cat, which paradoxically seems dead and alive at the same time is a fully coherent, non-contradictory phenomenon when considered mathematically.  
 
-Second, and more importantly, the Law of Non-Contradiction is key to save us from undesirable real-life consequences. Consider this: We live in a world where nobody believes in the Law of Non-Contradiction anymore. We all obey a non-classical logic that allows for contradictions and where no absolute Truth exists. You order a delivery that comes with a guarantuee that if you do not receive the item within two days, you will receive a refund. This will be easy to do thanks to the delivery service tracking the item. Two days pass. Then five days, and you receive no item. You contact the company, send them the delivery tracker showing that the item was never sent, and ask for a refund. They deny sending you back the money since they deny that the item was not delivered. This is absurd, of course, but do you have any recourse using the non-classical logic that now governs society?
+Second, and more importantly, the Law of Non-Contradiction is key to save us from undesirable real-life consequences. Consider this: You have a serious medical concern, and your physician runs an important laboratory test to see whether you need treatment. The lab send back their finding and it states that the test was positive. And also not positive.  
 
-Let us explore that: When we all agree on classical logic, you can argue something like this:
-_"The agreement was that if you do not send the item, the money will be returned."_
+This is impossible - in classical logic. If such a contradiction appeared, we would treat it as an error to be resolved immediately. But imagine we have abandoned the law of non-contradiction. In this new logic, contradictions are not only allowed but viewed as legitimate states of information. The laboratory therefore sees no logical problem. And yet, a decisive action is required, but logic no longer permits a decisive conclusion.
 
-But in our new world, the company can counter:  
-_"Your money is returned if we did not sent the item. We did not send the item, hence your money will not be returned."_
-
-This makes no sense - in classical logic. The statement contradicts itself. They said that they will return the money if they never send the item, and _at the same time_ they state that you never received the item and thus they will not return the money. However, remember that we abandonded the principle that contradiction is not allowed. And with this new, "free" logic, the company can contradict itself and see no problem. Contradictions are now as logical as everything else.  
-
-Thinkers have long identified this problem and came up with the Latinism: _ex contradictione quodlibet_ (from a contradiction, whatever one wants follows; or more liberally: if you allow for contradiction, anything goes). This is just a fancy way of saying that if there is only "my truth" and "your truth" and no objective Truth to refer to, we lost all possibility of _logically_ arguing against someone whose truth is that they can do to anyone whatever they want. And we are _compelled_ to agree with based on this non-classical logic.  
+This is precisely why the law of non-contradiction has been regarded as indispensable:
+our medical, legal, financial, and computational systems rely on mutually exclusive states to guide action.  
 
 % Goya
 :::{figure} images/Goya.png
