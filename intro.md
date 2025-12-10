@@ -572,7 +572,7 @@ Let us explore that: When we all agree on classical logic, you can argue somethi
 _"The agreement was that if you do not send the item, the money will be returned."_
 
 But in our new world, the company can counter:  
-_"Yes, we did not send the item, hence you will receive no money back."_
+_"Your money is returned if we did not sent the item. We did not send the item, hence your money will not be returned."_
 
 This makes no sense - in classical logic. The statement contradicts itself. They said that they will return the money if they never send the item, and _at the same time_ they state that you never received the item and thus they will not return the money. However, remember that we abandonded the principle that contradiction is not allowed. And with this new, "free" logic, the company can contradict itself and see no problem. Contradictions are now as logical as everything else.  
 
