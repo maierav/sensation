@@ -64,4 +64,56 @@ Indeed, many people feel that addition is a bit more "easy" than subtraction. An
 
 For now, all we should do is put an earmark in this very simple observation. Arithemtic seems easy since we can think of subtraction as the inverse of addition. And yet, there is an added bit of complexity in that these two operations are not quite as fully _symmetric_ as it seems. Different rules apply for each.  
 
-Now let us move on to **multiplication**.  
+_While addition is commutative, its inverse (subtraction) is not.
+
+And there is another reason why students often find addition more "intuitive", or "easy" than subtraction: Subtraction often is where we learn that there are more than the _whole numbers_ (1, 2, 3, 4, ...). 
+
+First, we might get confronted with 0:
+
+    5 - 5 = 0
+
+0 expands the _while numbers_ (1, 2, 3, ...) to the _natural numbers (0, 1, 2, 3, ...). Few adults worry about that fact, but zero is not a trivial concept and it took humanity a long time in history to accept it as mathematically valid. After all, _nothing_ just seems to be "absence of anything", so how can there - how can it - be _something_, like zero?  
+
+But subtraction leads us deeper:
+
+    5 - 7 = -2
+
+Now, we need to expand our concept of numbers once more. And we end up with _integers_ (..., -3, -2, -1, 0, 1, 2, 3, ...). Again, most adults have become used to the concept to negative numbers, but for a kid this is another challenging concept: "How can there be _less_ than _nothing_?"
+
+All of this is just to remind ourselves that there are (minor) conceptual obstacles and counter-intuitive notions amidst some of the most basic math. And becoming aware of that can be helpful both for re-grounding and re-convincing ourselves that we had good reason to accept these notions, and that we should be careful in shrugging off math that we have become very used to as "trivial".  
+
+In fact, it could be argued that some of these conceptual challenges, as small as thy may seem_ are actually _larger_ than what we face at higher levels of mathematical abstraction. And - if we were struggling with some of these conceptual hurdles (such as: _what could be smaller than nothing_) at first when we were taught basic mathematics, we hopefully did not just "accept" these notions and move on. Doing so risks that we start to just "trust" mathematics and what people who are more educated in mathematics tell us rather than doing that which mathematics offers and demands: not to trust, but to convince yourself through reasoning. So let us keep doing just that.  
+
+ Let us move on to **multiplication**. [Yes, this slow walk may seem a bit silly, but keep going. There is a bigger point we will get to in a moment.]
+
+One way we might have been taught multiplication is to treat it as something _entirely_ different than addition (or subtraction). This is often done by learning "by heart" (akin to a poem) a _multiplication table_ so that we can immediately recall the answer to something like:
+
+    5 * 5
+
+We _learned_ that the solution is:
+
+    5 * 5 = 25
+
+Of course, that is not all. We also learned that we can convince ourselves that the multiplication table is correct by just performing the calculation by ourselves, such as counting 5 times to five and adding all up.  
+
+And here in lies the key: We can find out what the outcome of multipication is by _adding_:
+
+    5 + 5 + 5 + 5 + 5 = 25
+
+So, at least in this sense, we can think of multiplication almost as a "shorthand" for _repeated addition_:
+
+    5 + 5 + 5 + 5 + 5 = 5 * 5
+
+It's just "less to write", if you will.
+
+Now, deeper thought about multiplication leads us elsewhere. There is actually something more interesting about what a (Cartesian) **product** is. It is a unique kind of combination, in fact. But for our current context, it is more helpful to grasp that there is a _link_ between addition (which many feel is relatively "easy" to do) and multiplication (which "feels" a bit more involved; partly because we quickly end up with much larger numbers).  
+
+Now - what about division?  
+
+Well, we can think of it as the _inverse_ to multiplication, of course. In a sense, it is simply undoing what multiplication does:
+
+    25 : 5 = 5
+
+And, once again we find: _While multiplication is commutative, its inverse (division) is not._  
+
+This asymmetry, here too, may be why students often find division a bit more challenging than multiplication. But there is an added reason: Division is where often are first introduced to numbers that are not _natural numbers_.  
