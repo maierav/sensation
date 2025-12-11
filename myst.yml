@@ -11,6 +11,7 @@ project:
   github: https://github.com/maierav/sensation
   toc:
     - file: intro.md
+    - file: mathematics.md
     - file: psychophysics.md
     - file: neuroscience.md
     - file: vision.md
