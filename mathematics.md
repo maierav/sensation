@@ -46,6 +46,18 @@ But things can become a bit confusing, or non-intuitive rather quickly:
 
 The fancy word for this property of addition is **commutativity**.
 
+This small observation is worth pausing for. What is that? What does that mean that we can disregard order in this way? This is clearly not _always_ the case:  
+
+If you pick up a book so that you look at its cover, and then _rotate forward_, and you now look at the bottom of the book. Now you _rotate to the left_, and you will look at the side of the book, and see all its pages.  
+
+But if we start again by wlooking at the book's frontcover, and then you _rotate to the left_, you will look at the side of the book and see all its pages. Then _rotate forward_, so that we reversed the sequence in which we perform the operation. But now you do do not see all of the books pages on one of its sides, like you did before. Instead, you look at its bottom.
+
+So, rotating a book does not _commute_. You cannot just change the order and end up with the same outcome. Tbus it is worth noting that addition of whole numbers _is_ commutative in that we can reverse the order of which number we add to the other. Either way, we end up with the same sum.  
+
+One way to think about this (trivial seeming) "rule" of commutativity is that this seems a bit different from what we usually think about when we think about "mathematics". That is, we all understand that adding to numbers and findning out their sum _is_ mathematics. We might even include the _numerals_ that _symbolize_ the numbers (such as '5') and the symbol that stands for addition (+) as "mathematics". But all of these are _human-made_. We calculate, come up with, and write the symbols etc.
+
+But commutativity (the _fact_ that we can reverse the order of numbers we add and still get the same result) seems a bit different. Something a bit more "hidden". And less _human-made_. It just seems like we "discovered" that when we calculate, or even when we add physical objects together, this process is _guided_, or ruled by, commutativity. To many mathematicians, this is very interesting. They refer to this "discovery" of underlying rules as "mathematics" as well. But since it seems not quite the same as the _activity of doing mathematics_, we might want to refer to it with a different noun, such as **the mathematical**. The mathematical is what we _describe_ when we _do_ mathematics. Or, put differently, the mathematical is that which mathematics _studies_. It is the _subject_ of mathematics (and hence, not the same as mathematics). This distinction can be helpful as we continue to ponder a bit more about what, how, and why mathematics will play a key role in our exploration of perception.  
+
 **Subtraction** seems to be a simple inverse process. We just reverse what we just did.  
 
 Let's say we added 2 apples to 4 apples:
