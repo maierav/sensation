@@ -506,6 +506,12 @@ Does that mean that such radical doubt leaves us with zero certainty? Is everyth
 
 Thinkers across the millenia have struggled with this issue. One of them, René Descartes, proposes an interesting answer: No matter how much you doubt, you cannot doubt away that there is _something_. This something is your perception (technically, Descartes argued that there is thought - but we made the case above that us having a thought could be seen as us perceiving that thought). You can doubt that your perception is accurate (it could be part of a computer simulation after all). But the fact that _there is_ perception as you doubt seems immune to all doubt.
 
+To paraphrase Philip K. Dick:
+
+    Conscious experience is 
+    that which does not go away
+    when you stop believing in it.
+
 Here we see why perception is an interesting phenomenon. The existence of perception - the colors that you see right now seem indubitable - while everything else (including what your perception is about) seems to be questionable.
 
 Let us take a moment and appreciate this argument. Descartes tells us that radical doubt - doubting _everything_ - does not result in us finding out that "we know that we do not know anything". Instead, we seem to find _something_ (argubaly perception itself) that survives this radical intellectual exercise. This seems like good news.
