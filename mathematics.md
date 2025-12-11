@@ -64,9 +64,9 @@ Indeed, many people feel that addition is a bit more "easy" than subtraction. An
 
 For now, all we should do is put an earmark in this very simple observation. Arithemtic seems easy since we can think of subtraction as the inverse of addition. And yet, there is an added bit of complexity in that these two operations are not quite as fully _symmetric_ as it seems. Different rules apply for each.  
 
-_While addition is commutative, its inverse (subtraction) is not.
+_While addition is commutative, its inverse (subtraction) is not._
 
-And there is another reason why students often find addition more "intuitive", or "easy" than subtraction: Subtraction often is where we learn that there are more than the _whole numbers_ (1, 2, 3, 4, ...). 
+And there is another reason why students often find addition more "intuitive", or "easy" than subtraction: Subtraction often is where we learn that there are more than the _whole numbers_ (1, 2, 3, 4, ...).  
 
 First, we might get confronted with 0:
 
