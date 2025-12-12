@@ -1,5 +1,16 @@
 # AUDITION
 
+% Vivaldi
+:::{audio} audio/Vivaldi.ogg
+:controls:
+:loop: false
+:autoplay: false
+
+Brief (3 min) excerpt of A. Vivaldi's "Four Seasons". Which season do you "hear"? Does the music remind you more of bird songs coming back in the spring, strong thunderstorms during a summer night, or the coldness and bitter freezing temperatures of winter?[^1]
+:::
+
+[^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Vivaldi_Winter_mvt_1_Allegro_non_molto_-_The_USAF_Concert.ogg)
+
 Our second most studied sense is hearing.  We know a lot less abou this sense than we do about seeing, but we know a lot more about hearing than we do about all the other senses that we have not yey talked about.  
 
 You will also notice that there are several _principles_ that we have learned when examining vision that will also apply to hearing. In fact, this will be a reoccuring theme and happen for the other senes as well.  
