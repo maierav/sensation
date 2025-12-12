@@ -2,10 +2,14 @@
 
 Our sense of taste is both our most simple and most complex sense.  
 
-## ACOUSTICS
+## CHEMISTRY
 
 ## PSYCHOLOGY
 
 ## ANATOMY
 
+### Toung
+
 ## BRAIN
+
+### Cortex
