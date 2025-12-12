@@ -1,5 +1,17 @@
 # STRUCTURALISM
 
+% Nervous System
+:::{figure} images/nervoussystem.png
+:label: fig: inverted_spectrum
+:alt: Inverted Spectrum Problem
+:width: 80%
+
+The human nervous system. All the (sensory) information available to your brain stems from this body-side web of nerve fibers.[^1]
+:::
+
+[^1]: [public domain image source 1](https://commons.wikimedia.org/wiki/File:Descartes._Diagram_of_the_brain_and_nerves_Wellcome_L0017000.jpg)
+
+
 You made it to the final chapter. Congratulations!  
 
 At this point, you will, in fact, have learned all the basics that are usually covered in US colleges about the science of sensation and perception. Plus a bit more regarding the wider considerations and implications that we started out with. And, as promised, we will now briefly return to this bigger picture. Think of it as a somewhat personal view on _ongoing and future work_.  
