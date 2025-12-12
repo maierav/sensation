@@ -4,7 +4,7 @@
 :::{figure} images/nervoussystem.png
 :label: fig: inverted_spectrum
 :alt: Inverted Spectrum Problem
-:width: 50%
+:width: 40%
 
 The human nervous system. All the (sensory) information available to your brain stems from this body-side web of nerve fibers.[^1]
 :::
