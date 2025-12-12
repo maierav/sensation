@@ -2,7 +2,7 @@
 
 % Vivaldi
 :::{figure} ./audio/Vivaldi.mp4
-:controls:
+:controls: true
 
 Brief (3 min) excerpt of A. Vivaldi's "Four Seasons". Which season do you "hear"? Does the music remind you more of bird songs coming back in the spring, strong thunderstorms during a summer night, or the coldness and bitter freezing temperatures of winter?
 
