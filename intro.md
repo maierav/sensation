@@ -334,6 +334,17 @@ Do you agree with these definitions? How would you define these terms?
 
 #### Naive Realism
 
+% Naive Realism
+:::{figure} images/naive_realism.png
+:label: fig:naive
+:alt: Naive Realism
+:width: 60%
+
+An attempt to depict the notion of _naive realism_. Imagine the scene depicted in the photo to be a real world situation of a person walking their dog on a beach and that person looking straight ahead at the shoreline. The view (the visual conscious perception, or visual experience) of that person is depicted inside the thought bubble. Naive realism is the notion that what the person sees is no different than the situation in the world: The waves, the people in the distance. All that is identical in perception and reality. A weaker form of naive realism might take the form of the perception being an accurate _reflection_, or "representation" of the world. The shared notion is that perception is not _something different_, but that perception is at best akin to fully transparent glasses - just a lens or mediator to reality _as it is_.[^12]  
+:::
+
+[^12]: [public domain image source](https://commons.wikimedia.org/wiki/File:Visitor_walking_dog_leash_rialto_beach_hikers_c_bubar_march_06-2015_(17184427098).jpg)
+
 :::{admonition} DEFINITION
 _Naive Realism_ is the view that the world is your perception. That is, the world is exactly how you experience it. You feel, see, hear, smell, and taste things exactly as they are. We call this idea "naive" since it seems to reflect the way that children think about the world before they learn why this idea does not seem to work.
 :::
