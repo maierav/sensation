@@ -6,7 +6,7 @@
 
 Brief (3 min) excerpt of A. Vivaldi's "Four Seasons". Which season do you "hear"? Does the music remind you more of bird songs coming back in the spring, strong thunderstorms during a summer night, or the coldness and bitter freezing temperatures of winter?
 
-Vivaldi left us with a sonnet to help out. Here is the one for this piece: Frozen and trembling in the icy snow, In the severe blast of the horrible wind, As we run, we constantly stamp our feet, And our teeth chatter in the cold.[^1]
+Vivaldi left us with sonnets to help out. Here is the one for this piece: Frozen and trembling in the icy snow, In the severe blast of the horrible wind, As we run, we constantly stamp our feet, And our teeth chatter in the cold.[^1]
 :::
 
 [^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Vivaldi_Winter_mvt_1_Allegro_non_molto_-_The_USAF_Concert.ogg)
