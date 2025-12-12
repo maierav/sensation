@@ -10,6 +10,8 @@ As we already discussed, due to our schooling, we tend to think of mathematics a
 
 We already discussed that modern mathematics starts with one or more _axioms_ that one has to accept without further questioning. So, what are the axioms that underly _all_ of mathematics (or, since one can always drop or add axioms and thus change mathematics, the largest body of mathematics)?  
 
+### Set theory
+
 The currently most commonly considered axiomatic foundation of mathematics is **set theory**, specifically the _Zermelo–Fraenkel_ set theory with an additional axiom (the _Axiom of Choice_), abbreviated as **ZFC**.  
 
 You might now wonder: "How many axioms will I need to accept as a foundation of mathematics?". In other words, what is the minimal number of axioms that we can reduce the theorems of a large body of mathematics to? What is the number of axioms that make up ZFC?  
@@ -22,7 +24,7 @@ You might feel that you understand all these things already, so why bother? In f
 
 There is, fo course, a lot to say about ZFC. The Axiom of Choice, for example, is highly contentious. There is also an alternative proposal for a foundation of mathematics called **category theory**. We will consider the difference between these two starting points of mathematics in a bit since it might be relevant for how we approach mathematics in the context of perception. But for now, let us stick to set theory since - as you will see - it can help us to somewhat intuitovely derive the basic mathematics we require.  
 
-## NUMBERS
+## Numbers
 
     Ask three mathematicians what a number is. 
     You’ll get five definitions.
@@ -32,7 +34,7 @@ Now that we have gained a (very) basic understanding of set theory, which we ide
 
 However, we needed to start from _foundations_, and numbers are commonly derived by modern mathematics using the axioms of set theory (ZFC). More so, since we already are at a point where we ponder things more deeply, numbers are not as simple as they look at first sight. Thinking about numbers (deeply) can quickly turn puzzling. And having set theory as a backdrop can help prevent a bit of that.  
 
-## ARITHMETIC
+### Arithmetic
 
 Now things get really interesting. Numbers by themselves just seem to "exist" and "not do anything". And when we were young, we probably quickly realized that numbers really show their usefulness once we add, subtract, multiply, or divide them.  
 
