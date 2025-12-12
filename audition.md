@@ -1,13 +1,5 @@
 # AUDITION
 
-% Bach
-:::{figure} ./audio/Bach.mp4
-
-J.S. Bach's Orchestral Suite No. 3 in D major.[^1]
-:::
-
-[^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Bach_-_Orchestral_Suite_No._3_in_D_major,_BWV_1068_-_Air_(Menuhin).webm)
-
 Our second most studied sense is hearing.  We know a lot less abou this sense than we do about seeing, but we know a lot more about hearing than we do about all the other senses that we have not yey talked about.  
 
 You will also notice that there are several _principles_ that we have learned when examining vision that will also apply to hearing. In fact, this will be a reoccuring theme and happen for the other senes as well.  
