@@ -22,12 +22,12 @@ Keep your view as steady as you can, centered exactly on the center of the spinn
 
 If you kept your gaze steady and long enough on the center of the spiral, you will now have a fleeting perception of motion, such as waves of motion across your steady hands, as if the air is rippling like water. If you did not see the desired effect, or if you only experienced it briefly, try again and keep your view center for a longer period of time on the center of the spiral.
 
-This illusion that induces perception even when looking at steady objects and thus literally distorts our perception is called a **motion aftereffect**[^3]. We will discuss what we know about its properties and neural basis at a later point in this course. For now, the goal is to appreciate that our perception can be "tricked" into deviating from reality, such as seeing an unmoving object move.
+This illusion that induces perception even when looking at steady objects and thus literally distorts our perception is called a **motion aftereffect**[^3]. We will discuss what we know about its properties and neural basis at a later point in this course. For now, the goal is to appreciate that our perception can be "tricked" into deviating from reality, such as seeing an unmoving object move.  And, on a deeper level, that conscious experience is all that we really know without resorting to inference. When we look at our hand, we only see "a perception" of our hand, which is why it can start to "move" following this illusion while our real hand remains static.  
 :::
 
 [^3]: [public domain source](https://commons.wikimedia.org/wiki/File:MagicSpiral.gif)
 
-This exercise will also involve taking on a bit of formal _logic_ and _mathematics_ before investigating if the tools of science can be applied to perception.  
+This exercise will also involve taking on a bit of formal _logic_ and _mathematics_ before investigating if the tools of science can be applied to perception. This will be an important foundation for us since exploring conscious experience might seem or sound woo-woo at times. But the entire goal here is to stick to the _science_ of perception. We thus need to find convincing arguments that we can explore conscious experience with precision, rigor, and lawful, structured thought and measurement.  
 
 We then will review the _psychology_ and _neurobiology_ of sensation and perception, which provides the bulk of our modern knowledge about perception.  
 
