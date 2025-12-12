@@ -24,10 +24,10 @@ We will proceed just like we did for the sense of seeing, and first talk about w
 ### Vocalization
 
 :::{figure} ./videos/voicebox.mp4
-Anatomy of vocalization.[^1]
+Anatomy of vocalization.[^2]
 :::
 
-[^1]: [public domain source](https://publicdomainreview.org/collection/the-human-voice/)
+[^2]: [public domain source](https://publicdomainreview.org/collection/the-human-voice/)
 
 ## PSYCHOLOGY
 
