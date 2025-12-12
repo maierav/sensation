@@ -338,7 +338,7 @@ Do you agree with these definitions? How would you define these terms?
 :::{figure} images/naiverealism.png
 :label: fig:naive
 :alt: Naive Realism
-:width: 60%
+:width: 85%
 
 An attempt to depict the notion of **naïve realism**. Imagine the scene depicted in the photo as a real-world situation: a person walking their dog on a beach, looking straight ahead at the shoreline. The visual conscious perception (i.e., the person’s visual experience) is depicted inside the thought bubble. Naïve realism, in its pre-theoretical form, is the view that, in veridical perception (i.e., when we do not fall for visual illusions), the person is directly aware of mind-independent objects and their properties: the waves, the shoreline, the people in the distance. On this view, no clear distinction is made between the actual shoreline and the shoreline as it appears to the person walking on the beach. A related, but weaker position holds that perception is an accurate internal representation, or reflection, of the world (**representational realism**). Both views share the assumption that perception is not _fundamentally different_ from reality. Departing from naïve realism stems from the appreciation that the physical world appears to be organized differently from the world as we perceive it. As we will see, there are strong reasons for taking this difference seriously.[^12]  
 :::
