@@ -335,7 +335,7 @@ Do you agree with these definitions? How would you define these terms?
 #### Naïve Realism
 
 % Naïve Realism
-:::{figure} images/naive_realism.png
+:::{figure} images/naiverealism.png
 :label: fig:naive
 :alt: Naive Realism
 :width: 60%
@@ -386,12 +386,12 @@ Naïve realism, in a way, is a simple epistemology where phenomenology is equate
 If naïve realism is problematic, which other worldviews are there that might be more convincing? You might immediately think about science, especially since we argued for its strength above. And, indeed, the scientific worldview differs widely from naïve realism. However, as we will see, there actually are a large variety of very different worldviews that all claim to be compatible with science. And many of these diverging worldviews that base themselves off science differ in how they think about perception!
 
 % The naturalistic worldview
-:::{figure} images/physicalism.png
+:::{figure} images/naturalism.png
 :label: fig:scientific_view
 :alt: The naturalistic worldview
 :width: 90%
 
-The naturalistic worldview. Rather than equating our perception with the world, scientists see the world as a complex dynamic system following mathematical laws, much of which is not directly perceived, and some of it not perceivable at all. The challenge then becomes to _explain_ how the world of our perception relates and comes about from the physical world.  
+An attempt at illustrating the naturalistic worldview. Rather than equating our perception with the world, scientists see the world as a complex dynamic system following mathematical laws, much of which is not directly perceived, and some of it not perceivable at all. The challenge then becomes to _explain_ how the world of our perception relates and comes about from the physical world.  
 :::  
 
 #### Do we all perceive the world differently?  
