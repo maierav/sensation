@@ -363,10 +363,10 @@ This realization can be made inuitive with visual illusions, where we understand
 :alt: The Lilac Chaser illusion
 :width: 80%
 
-The Lilac Chaser illusion[^12]: Keep looking at the center cross and watch the animation changing.
+The Lilac Chaser illusion[^13]: Keep looking at the center cross and watch the animation changing.
 :::
 
-[^12]: Recreation of: <https://en.wikipedia.org/wiki/Lilac_chaser>
+[^13]: Recreation of: <https://en.wikipedia.org/wiki/Lilac_chaser>
 
 One interesting fact about visual illusions is that they often persist even when exactly understand in what aspects they differ from the actual physical stimulus. In other words, even knowing _that_ and _how_ our perception differs from the real world does not help - our perception does not correct and adjust to what we know to be really the case.
 
@@ -381,17 +381,17 @@ There are many corrolaries from that view, many of which raise deep questions th
 
 We talked already about how philosophers call thinking about the limits of what we can know _epistemology_. Thinking about that what  exists is called _ontology_. Together, these two types of thinking form an interplay of that which exists (the ontic) and what we can know about it (the epistemic). Our perception seems to be neither - it is not knowledge and it does not seem to be what really exists, so we call thinking about our perception _phenomenology_.
 
-Naive realism, in a way, is a simple epistemology where phenomenology is equated with ontology, Realizing that we do not perceive the world as it is leads to a more sophisticated epistemology that differentiates between our phenomenology and ontology. But what can we know about ontology? Metaphorically speaking, if our phenomenology is akin to shadows, how can we find out what is actually going on outside the cave?
+Naïve realism, in a way, is a simple epistemology where phenomenology is equated with ontology, Realizing that we do not perceive the world as it is leads to a more sophisticated epistemology that differentiates between our phenomenology and ontology. But what can we know about ontology? Metaphorically speaking, if our phenomenology is akin to shadows, how can we find out what is actually going on outside the cave?
 
-If naive realism is problematic, which other worldviews are there that might be more convincing? You might immediately think about science, especially since we argued for its strength above. And, indeed, the scientific worldview differs widely from naive realism. However, as we will see, there actually are a large variety of very different worldviews that all claim to be compatible with science. And many of these diverging worldviews that base themselves off science differ in how they think about perception!
+If naïve realism is problematic, which other worldviews are there that might be more convincing? You might immediately think about science, especially since we argued for its strength above. And, indeed, the scientific worldview differs widely from naïve realism. However, as we will see, there actually are a large variety of very different worldviews that all claim to be compatible with science. And many of these diverging worldviews that base themselves off science differ in how they think about perception!
 
-% The scientific worldview
-:::{figure} images/scientific_view.png
+% The naturalistic worldview
+:::{figure} images/physicalism.png
 :label: fig:scientific_view
-:alt: The scientific worldview
+:alt: The naturalistic worldview
 :width: 90%
 
-The scientific worldview. Rather than equating our perception with the world, scientists see the world as a complex dynamic system following mathematical laws, much of which is not directly perceived, and some of it not perceivable at all. The challenge then becomes to _explain_ how the world of our perception relates and comes about from the physical world.  
+The naturalistic worldview. Rather than equating our perception with the world, scientists see the world as a complex dynamic system following mathematical laws, much of which is not directly perceived, and some of it not perceivable at all. The challenge then becomes to _explain_ how the world of our perception relates and comes about from the physical world.  
 :::  
 
 #### Do we all perceive the world differently?  
@@ -551,9 +551,9 @@ The most common, or "classical" laws of logic are just 3:
 (2) Means that a statement cannot be both true and false within the same context.
 (3) Means that a statement must be either true or false.
 
-Another interesting discovery in the history of logic is that the 3. law might not be needed (the result is called _intuitonistic logic_). And there are also attempts (hotly debated) about dropping one or more of the other laws [^13]. But for most applications of logic, such as in the overwhelming majority of mathematics, _classical logic_ is all and everything that is needed (which gained these three rules "the laws of thought").  
+Another interesting discovery in the history of logic is that the 3. law might not be needed (the result is called _intuitonistic logic_). And there are also attempts (hotly debated) about dropping one or more of the other laws [^14]. But for most applications of logic, such as in the overwhelming majority of mathematics, _classical logic_ is all and everything that is needed (which gained these three rules "the laws of thought").  
 
-[^13]: **Intuitonistic logic** drops the law of the excluded middle and allows for statements to take on more values other than just "true" and "false". The statement "it will rain tomorrow", for example, is then deemed "undecided" - until it is tomorrow. **Paraconsistent logic** drops the law of non-contradiction. This sometimes causes confusion since it seems to allow for a worldview full of contradictions. However, paraconsistent logic is _indistinguishable_ from classical logic _most of the time_ (i.e., in all non-paradoxical, consistent situations). The only difference between classical logic logical systems that allow for contradiction is when we encounter a _paradox_, such as when a liar states that they are a liar. In these cases, a paraconsistent logician "allows" for the paradox to be _neither true nor false_. A classical logician aims for different solutions, such as deeming the paradox as a nonsenical, useless statement such as "this apple is a banana". An intuitonistic logician might just deem such a paradox "undecidable", in that we just do not know whether a liar is lying when they say they do. IMPORTANTLY: What does not follow, even on the paraconsisten logicians view, is that a paradox is _true_. In other words, a statement such as **"there is no such thing as truth"** will _not_ lead a paraconsistent logician to conclude that "there is no truth". Instead, the sentence is treated as a statement that is _neither_ true nor false - and hence somewhat _meaningless_, which means it is unhelpful when deciding on the bigger question whether there is truth (a paraconsistent logician does, in fact, believe in decidable truth since all non-paradoxical statements are either true or false). Paradoxes are just rare edge cases, of course, and for most statements of logic, both sides agree that classical logic - akin to using all three laws - rules. We thus can safely proceed on the grounds of classical logic.
+[^14]: **Intuitonistic logic** drops the law of the excluded middle and allows for statements to take on more values other than just "true" and "false". The statement "it will rain tomorrow", for example, is then deemed "undecided" - until it is tomorrow. **Paraconsistent logic** drops the law of non-contradiction. This sometimes causes confusion since it seems to allow for a worldview full of contradictions. However, paraconsistent logic is _indistinguishable_ from classical logic _most of the time_ (i.e., in all non-paradoxical, consistent situations). The only difference between classical logic logical systems that allow for contradiction is when we encounter a _paradox_, such as when a liar states that they are a liar. In these cases, a paraconsistent logician "allows" for the paradox to be _neither true nor false_. A classical logician aims for different solutions, such as deeming the paradox as a nonsenical, useless statement such as "this apple is a banana". An intuitonistic logician might just deem such a paradox "undecidable", in that we just do not know whether a liar is lying when they say they do. IMPORTANTLY: What does not follow, even on the paraconsisten logicians view, is that a paradox is _true_. In other words, a statement such as **"there is no such thing as truth"** will _not_ lead a paraconsistent logician to conclude that "there is no truth". Instead, the sentence is treated as a statement that is _neither_ true nor false - and hence somewhat _meaningless_, which means it is unhelpful when deciding on the bigger question whether there is truth (a paraconsistent logician does, in fact, believe in decidable truth since all non-paradoxical statements are either true or false). Paradoxes are just rare edge cases, of course, and for most statements of logic, both sides agree that classical logic - akin to using all three laws - rules. We thus can safely proceed on the grounds of classical logic.
 
 :::{caution}
 :class: dropdown
@@ -596,10 +596,10 @@ our medical, legal, financial, and computational systems rely on mutually exclus
 :alt: Goya
 :width: 50%
 
-Plate 43 from Francisco Goya's (1746–1828) 'Los Caprichos': **The sleep of reason produces monsters** (El sueño de la razon produce monstruos),1799.[^14] Goya aims to remind us that when we abandon reason (logic), the consequences can be disastruous.
+Plate 43 from Francisco Goya's (1746–1828) 'Los Caprichos': **The sleep of reason produces monsters** (El sueño de la razon produce monstruos),1799.[^15] Goya aims to remind us that when we abandon reason (logic), the consequences can be disastruous.
 :::
 
-[^14]: [public domain source](https://commons.wikimedia.org/wiki/File:Plate_43_from_%27Los_Caprichos%27-_The_sleep_of_reason_produces_monsters_(El_sue%C3%B1o_de_la_razon_produce_monstruos)_MET_DT652.jpg)
+[^15]: [public domain source](https://commons.wikimedia.org/wiki/File:Plate_43_from_%27Los_Caprichos%27-_The_sleep_of_reason_produces_monsters_(El_sue%C3%B1o_de_la_razon_produce_monstruos)_MET_DT652.jpg)
 
 ### Explanatory Success
 
@@ -618,9 +618,9 @@ Finding the exact criteria that differentiate science from non-science is called
 But the fact that there may be a bit of gray area at the margins does not take away from the large body of work that most people agree is science. This agreement has a few common denominators:
 
 :::{admonition} WHAT IS SCIENCE?
-**Science is a method**: Science is a _principled_ approach to understand the world. Exactly what constitues this method is frequently debated. Yet, there is broad consensus that science as a method starts with a _skeptical_ stance (see next section) in that it aims to find _sound_ answers to questions by sticking to a non-arbitrary, lawful (rigorous), precise and validated (fact-based) approach.[^15]
+**Science is a method**: Science is a _principled_ approach to understand the world. Exactly what constitues this method is frequently debated. Yet, there is broad consensus that science as a method starts with a _skeptical_ stance (see next section) in that it aims to find _sound_ answers to questions by sticking to a non-arbitrary, lawful (rigorous), precise and validated (fact-based) approach.[^16]
 
-[^15]: A quick note on the relationship between science and theology since it often comes up in discussion. Implicit in our definition of science is something akin to a **methodological atheism** in that theorizing about what could explain the phenomena we observe, science vetoes an appeal to a Higher Power or Higher Being influencing the world. This notion is often referred to as **naturalism** in that science seems to assume that the world is a causally system where nothing "external" intervenes. It is important to note that this is an axiomatic assumption that is _methodological_ in nature rather than _metaphysical_, or _ontic_. One way to think about this is the following: If science would allow for "a Higher Power did it" as an explanation, it would stop quickly since everything could be explained in this way. Hence, science asks: "How much can we explain without resorting to a Higher Power being responsible?". And this does _not_ imply that there _is_ no Higher Power. Science only tries to see how much we can explain until we hit a point where no naturalistic eexplanation can be found. Some might arfgue for example, that the starting point of the history of the universe (i.e., what caused the Bing Bang) could be an example where the attempt at explaining nature, the universe, from _within_ only comes to an endpoint.
+[^16]: A quick note on the relationship between science and theology since it often comes up in discussion. Implicit in our definition of science is something akin to a **methodological atheism** in that theorizing about what could explain the phenomena we observe, science vetoes an appeal to a Higher Power or Higher Being influencing the world. This notion is often referred to as **naturalism** in that science seems to assume that the world is a causally system where nothing "external" intervenes. It is important to note that this is an axiomatic assumption that is _methodological_ in nature rather than _metaphysical_, or _ontic_. One way to think about this is the following: If science would allow for "a Higher Power did it" as an explanation, it would stop quickly since everything could be explained in this way. Hence, science asks: "How much can we explain without resorting to a Higher Power being responsible?". And this does _not_ imply that there _is_ no Higher Power. Science only tries to see how much we can explain until we hit a point where no naturalistic eexplanation can be found. Some might arfgue for example, that the starting point of the history of the universe (i.e., what caused the Bing Bang) could be an example where the attempt at explaining nature, the universe, from _within_ only comes to an endpoint.
 
 If we strip the details, many have suggested, what we find at the heart of science is a constant, perhaps never ending, interplay of rational (logical) reasoning about questions and an attempt of arbitrating between the ideas that arise from this reasoning via empirical observation. That is, science produces ideas (conceptual theories) and then proceeds to match (test) the _consequences_ of these theories (i.e. predictions about what we can observe that arise from these theories) by leaving the armchair and collect data about the world - ideally in well-controlled experiments, and even better using quantitative rather than qualitative predictions and measurements.  
 
@@ -743,10 +743,10 @@ The first written account of this process we have is the book "Elements of Geome
 :label: fig:euclid
 :width: 60%
 
-The oldest (fragmentary) copy of Euclid's "Elements of Geometry" that is currently known. It is almost 2000 years old, dating back to the end of the first century. The diagram depicts Proposition (Axiom) 5 of Book II: _If a straight line be cut into equal and unequal segments, the rectangle contained by the unequal segments of the whole together with the square on the straight line between the points of section is equal to the square on the half_.[^16]
+The oldest (fragmentary) copy of Euclid's "Elements of Geometry" that is currently known. It is almost 2000 years old, dating back to the end of the first century. The diagram depicts Proposition (Axiom) 5 of Book II: _If a straight line be cut into equal and unequal segments, the rectangle contained by the unequal segments of the whole together with the square on the straight line between the points of section is equal to the square on the half_.[^17]
 :::
 
-[^16]: [public domain source](https://en.wikipedia.org/wiki/File:P._Oxy._I_29.jpg)
+[^17]: [public domain source](https://en.wikipedia.org/wiki/File:P._Oxy._I_29.jpg)
 
 So let us take a brief look at some of that. Euclid starts with definitions. These are, in modern terms, axioms.
 
