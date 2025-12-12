@@ -1,15 +1,12 @@
 # AUDITION
 
-% Vivaldi
-:::{figure} ./audio/Vivaldi.mp4
-:controls: true
+% Bach
+:::{figure} ./audio/Bach.mp4
 
-Brief (3 min) excerpt of A. Vivaldi's "Four Seasons". Which season do you "hear"? Does the music remind you more of bird songs coming back in the spring, strong thunderstorms during a summer night, or the coldness and bitter freezing temperatures of winter?
-
-Vivaldi left us with sonnets to help out. Here is the one for this piece: Frozen and trembling in the icy snow, In the severe blast of the horrible wind, As we run, we constantly stamp our feet, And our teeth chatter in the cold.[^1]
+J.S. Bach's Orchestral Suite No. 3 in D major.[^1]
 :::
 
-[^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Vivaldi_Winter_mvt_1_Allegro_non_molto_-_The_USAF_Concert.ogg)
+[^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Bach_-_Orchestral_Suite_No._3_in_D_major,_BWV_1068_-_Air_(Menuhin).webm)
 
 Our second most studied sense is hearing.  We know a lot less abou this sense than we do about seeing, but we know a lot more about hearing than we do about all the other senses that we have not yey talked about.  
 
