@@ -897,7 +897,7 @@ The first written account of this process we have is the book "Elements of Geome
 ::{div}
 :class: hidden dark:block
 
-:::{figure} ./images/Euclid_dark.jpg
+:::{figure} ./images/Euclid_dark.png
 :label: fig:euclid
 :width: 60%
 
