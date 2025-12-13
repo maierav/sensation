@@ -1,5 +1,15 @@
 # MATHEMATICS
 
+% Newton The Geometer
+:::{figure} ./images/newton.jpg
+:label: fig:newton
+:width: 55%
+
+William Blake's Newton as a Geometer (1795).[^1]
+:::
+
+[^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Newton-WilliamBlake_crop.jpg)
+
 Science rests on mathematics, so we cannot completely avoid the topic. The following is a brief refresher for the (very limited) mathematics that we will use later on this course. We will start by assuming zero knowledge about mathematics, and then built up quickly from there. If you feel, at any step, that we moved to quickly, this may signify that there is need to brush up a bit via self-study. A few, hopefully helpful, sources and references are provided to do just that.  
 
     No calculations required.
