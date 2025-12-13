@@ -148,6 +148,20 @@ This thought experiment has fascinated people since centuries, and it has been t
 [^7]: If you are interested to learn more, check out this free, [scholarly overview](https://plato.stanford.edu/entries/qualia-inverted/).
 
 % Inverted Spectrum Problem
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/inverted_spectrum_dark.png
+:label: fig: inverted_spectrum
+:alt: Inverted Spectrum Problem
+:width: 80%
+
+The Inverted Spectrum Problem. If there were people among us who see red as green and green as red, it seems like they and us would never be able to find out.[^8]
+:::
+
+:::{div}
+:class: dark:hidden
+
 :::{figure} images/inverted_spectrum.png
 :label: fig: inverted_spectrum
 :alt: Inverted Spectrum Problem
@@ -186,6 +200,20 @@ We will return to this insight again since it can take repeated struggle with th
 There are also quite practical implications that are important to note for psychologist and cognitiev scientists in order not to end up in confusion (which you can sometimes spot even in the expert literature). For example, perception in our context is not the thought that might arise when we perceive something. That is, perception is not _recognition_. Perception is how things appear to us, not the ideas or thoughts that follow that appearance.
 
 % Perception vs. Recognition
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/perception_v_recognition_dark.png
+:label: fig: perception vs. recognition
+:alt: what perception is and is not
+:width: 80%
+
+Perception is what you see before you _think_ about _what_ you see. Recognition and perception can - but do not always - influence each other (which is further evidence that they are two separate processes).[^10]
+:::
+
+:::{div}
+:class: dark:hidden
+
 :::{figure} images/perception_v_recognition.png
 :label: fig: perception vs. recognition
 :alt: what perception is and is not
@@ -217,7 +245,21 @@ In more precise language, it seems that the brain does not receive a different _
 And indeed, as we will see later, the actual biophysical nature of the signals that the brain receives (neuronal activity in the form of electric action potentials) is _the same_ for all your senses. This insight is called the **law of specific nerve energies** and was suggested by Johannes Peter Müller (1801 – 1858) - almost 20 years before we understood that these "nerve energies" are in fact electricity.
 
  % Nerve Energies
-:::{figure} images/nerve_energies.png
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/nerve_energies_dark.png
+:label: fig: Mueller's Law
+:alt: Mueller's Law of Nerve Energies
+:width: 70%
+
+Our senses all _feel_ different, but they all start with the same _type_ of signal: action potentials - brief (~1ms long) electric pulses. Whether these impulses lead to smelling (yellow), hearing (blue), or hearing (red) is entirely determined by where these signals arrive and are processed by the brain. this is also the vase for taste and touch.
+:::
+
+:::{div}
+:class: dark:hidden
+
+::{figure} images/nerve_energies.png
 :label: fig: Mueller's Law
 :alt: Mueller's Law of Nerve Energies
 :width: 70%
@@ -240,9 +282,20 @@ At this point your intuition may be of the following:
 This cannot be. The problem is logical in nature and lies with step (3): There cannot be another mini-brain or mini-person (a "homunculus") inside your brain that perceives the converging nerve signals. After all, that mini-me or mini-brain would need another mini-me or mini-brain inside. And so on.  
 
 % Homunculus Problem
+::{div}
+:class: hidden dark:block
+
+:::{figure} images/neurohomunculus_dark.png
+:label: fig: Homunculus
+:alt: Homunculus
+:width: 80%
+
+:::{div}
+:class: dark:hidden
+
 :::{figure} images/neurohomunculus.png
-:label: fig: Homnuculus
-:alt: Homnuculus
+:label: fig: Homunculus
+:alt: Homunculus
 :width: 80%
 
 After learning about the fact that all senses start with the same type of signal (action potentials), one might intuit that there is a "central" point of convergence in the brain where all these signals come together and "transformed" into our perceptual experienne. But what would happen at that location in your brain? Is there a little cinema for a "mini-you" where vision, sound and so on are turned into a movie (following Descartes, we call this idea a _Cartesian Theater_)? This sounds absurd, but there is a deeper problem with this intuition. After all, this mini-you (a little human, or _homunculus_) would need another sense apparatus and brain to make sense of that "movie". And this brain would need another mini-me (or homunculus), and so on. We run into an infinite series, or infinte regress, of homonculi inside each other, akin to a Russian doll. This is obviously not the case. We will learn that there is no such point of convergence of sense signals in the brain. But then, why is it that you experience unified sight and sound _as if_ their sense signals come together somewhere in the brain? As we will see, science does not yet know the answer to this question (though there are some promising theories).
@@ -314,6 +367,20 @@ It is important to note that all three of these potential outcomes are on equal 
 [^11]: Another option to escape Agrippa's Trilemma is to abandon logical coherency altogether. At that point nothing can be argued anymore. Who and how would then decide arguments?
 
  % Agrippa
+::{div}
+:class: hidden dark:block
+
+:::{figure} images/Agrippa_dark.png
+:label: fig: Agrippa
+:alt: Agrippa
+:width: 70%
+
+Agrippa's Trilemma: Repeated asking of the question "Why?" during an argument will end in one of three outcomes: Circular Reasoning, Infinite Regress, or Unfounded Belief (Dogma / Axiom).
+:::
+
+:::{div}
+:class: dark:hidden
+
 :::{figure} images/Agrippa.png
 :label: fig: Agrippa
 :alt: Agrippa
@@ -351,7 +418,18 @@ Do you agree with these definitions? How would you define these terms?
 #### Naïve Realism
 
 % Naïve Realism
-:::{figure} images/naiverealism.png
+::{div}
+:class: hidden dark:block
+
+:::{figure} images/naiverealism_dark.png
+:label: fig:naive
+:alt: Naive Realism
+:width: 85%
+
+:::{div}
+:class: dark:hidden
+
+::{figure} images/naiverealism.png
 :label: fig:naive
 :alt: Naive Realism
 :width: 85%
@@ -374,6 +452,20 @@ In fact, the starting point of the science of perception is the realization that
 This realization can be made inuitive with visual illusions, where we understand that what we _see_ is "wrong" in that our perception deviates from reality of the physical stimulus.
 
 % Lilac Chaser Illusion
+::{div}
+:class: hidden dark:block
+
+:::{figure} images/lilac_chaser_dark.gif
+:label: fig:relilac_chaser
+:alt: The Lilac Chaser illusion
+:width: 80%
+
+The Lilac Chaser illusion[^13]: Keep looking at the center cross and watch the animation changing.
+:::
+
+:::{div}
+:class: dark:hidden
+
 :::{figure} images/lilac_chaser.gif
 :label: fig:relilac_chaser
 :alt: The Lilac Chaser illusion
@@ -402,6 +494,17 @@ Naïve realism, in a way, is a simple epistemology where phenomenology is equate
 If naïve realism is problematic, which other worldviews are there that might be more convincing? You might immediately think about science, especially since we argued for its strength above. And, indeed, the scientific worldview differs widely from naïve realism. However, as we will see, there actually are a large variety of very different worldviews that all claim to be compatible with science. And many of these diverging worldviews that base themselves off science differ in how they think about perception!
 
 % The naturalistic worldview
+::{div}
+:class: hidden dark:block
+
+:::{figure} images/naturalism_dark.png
+:label: fig:scientific_view
+:alt: The naturalistic worldview
+:width: 90%
+
+:::{div}
+:class: dark:hidden
+
 :::{figure} images/naturalism.png
 :label: fig:scientific_view
 :alt: The naturalistic worldview
@@ -496,6 +599,17 @@ There is also:
 There are many more ideas on that problem, some of which cannot neatly placed within the taxonomy above. However, these cateogories provide a somewhat of a sufficient survey of the field since most ideas come close to, or combine, these distinct schools of thought. To give you an example, some scholars will state that they are "_REDUCTIONIST PHYSICALIST_", for example. A popular version of this view is that "there is only the physical universe" and that perception "emerges" from some physical system in a way that can be explained by physical laws. Note, how this notion comes close to our option of _ASPECT DUALISM_.
 
 % A Graveyard of Isms
+::{div}
+:class: hidden dark:block
+
+:::{figure} images/graveyard_of_isms_dark.png
+:label: fig:Isms
+:alt: Isms
+:width: 80%
+
+:::{div}
+:class: dark:hidden
+
 :::{figure} images/graveyard_of_isms.png
 :label: fig:Isms
 :alt: Isms
@@ -654,6 +768,17 @@ that _not all assumptions are valid_. Science does not assume that _we know noth
 :::
 
 % Bare bones model of the scientific method
+::{div}
+:class: hidden dark:block
+
+:::{figure} images/scientific_method_simplistic_dark.png
+:label: fig:simplistic_science_model
+:alt: An overly simplistic, bare bones model of the scientific method.
+:width: 100%
+
+:::{div}
+:class: dark:hidden
+
 :::{figure} images/scientific_method_simplistic.png
 :label: fig:simplistic_science_model
 :alt: An overly simplistic, bare bones model of the scientific method.
