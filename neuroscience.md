@@ -1,5 +1,26 @@
 # NEUROSCIENCE
 
+% BASIC BRAIN
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/basic_brain_dark.png
+:label: fig:basic brain
+:width: 40%
+Mid-line section of a human brain.[^1]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/basic_brain_dark.png
+:label: fig:basic brain
+:width: 40%
+Mid-line section of a human brain.[^1]
+:::
+
+[^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray720.png)
+
 Before we examine each of our senses in isolation, we first need to briefly review the common demoniator - the basic physiological function of the brain. The goal is to introduce anyone to the foundations of how neuroscientists currently think about brain function. The focus will be on **neurophysiology**, which is mostly interested in the biological and biochechemical action that underlies brain activity. That is, we will review neuronal _communication_, or _interaction_.  
 
 Neuronal **activation** is only half of the story when it comes to understanding the link between sensation, perception and the brain. We will also need to briefly examine neuronal **connectivity**. After all, if we isolate each neuron of interest in a dish, and observe the same patterns of neuronal activation for each of these isolated neurons, we would not expect perception to arise. It is only because neurons form a _causal network_ that the brain does more than host individual, isolated ON/OFF switches.  
