@@ -19,7 +19,7 @@ As we already discussed, due to our schooling, we tend to think of mathematics a
 ## FOUNDATIONS
 
 % Math
-:::{figure} ./images/math.jpg
+:::{figure} ./images/math.png
 :label: fig:math
 :width: 55%
 
