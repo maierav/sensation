@@ -52,6 +52,19 @@ So, let us begin.
 ## OPTICS
 
 % Vision
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/sightrays_dark.png
+:label: fig:vision
+:width: 85%
+
+Visual sensation starts with light rays entering our eyes, bending at the lens and ending up as a two-dimensional projection (image) at the back of our eye balls - the retina. As a consequence, visual sensation is subjected to the laws of optics - the geometry of light propagation.[^2]
+:::
+
+:::{div}
+:class: dark:hidden
+
 :::{figure} ./images/sightrays.png
 :label: fig:vision
 :width: 85%
