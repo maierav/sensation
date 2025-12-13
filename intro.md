@@ -282,7 +282,7 @@ At this point your intuition may be of the following:
 This cannot be. The problem is logical in nature and lies with step (3): There cannot be another mini-brain or mini-person (a "homunculus") inside your brain that perceives the converging nerve signals. After all, that mini-me or mini-brain would need another mini-me or mini-brain inside. And so on.  
 
 % Homunculus Problem
-::{div}
+:::{div}
 :class: hidden dark:block
 
 :::{figure} images/neurohomunculus_dark.png
