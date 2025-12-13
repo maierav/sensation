@@ -21,7 +21,7 @@ As we already discussed, due to our schooling, we tend to think of mathematics a
 :::{div}
 :class: hidden dark:block
 % Math
-:::{figure} ./images/math_dark.png
+:::{figure} ./images/math_dark.jpg
 :label: fig:math
 :width: 55%
 Mathematics has been taught to students for thousands of years.[^2]
