@@ -29,7 +29,7 @@ Anatomy of the tongue.[^1]
 Anatomy of the tongue.[^1]
 :::
 
-[^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Acoustic_aircraft_detection_horns.jpeg)
+[^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Sobo_1906_351.png)
 
 ## BRAIN
 
