@@ -24,7 +24,7 @@ As we already discussed, due to our schooling, we tend to think of mathematics a
 
 :::{figure} ./images/math_dark.jpg
 :label: fig:math
-:width: 55%
+:width: 65%
 Mathematics has been taught to students for thousands of years.[^2]
 
 :::
@@ -34,7 +34,7 @@ Mathematics has been taught to students for thousands of years.[^2]
 
 :::{figure} ./images/math.png
 :label: fig:math
-:width: 55%
+:width: 65%
 Mathematics has been taught to students for thousands of years.[^2]
 
 :::
