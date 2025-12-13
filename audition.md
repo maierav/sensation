@@ -1,5 +1,14 @@
 # AUDITION
 
+% AUDITION
+:::{figure} ./videos/audio_radar.png
+:label: fig:Audio Radar
+:width: 40%
+Acoustic device for detection of enemy warplanes.[^1]
+:::
+
+[^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Acoustic_aircraft_detection_horns.jpeg)
+
 Our second most studied sense is hearing.  We know a lot less abou this sense than we do about seeing, but we know a lot more about hearing than we do about all the other senses that we have not yey talked about.  
 
 You will also notice that there are several _principles_ that we have learned when examining vision that will also apply to hearing. In fact, this will be a reoccuring theme and happen for the other senes as well.  
@@ -12,6 +21,7 @@ We will proceed just like we did for the sense of seeing, and first talk about w
 
 ### Vocalization
 
+% VOCALIZATION
 :::{figure} ./videos/voicebox.mp4
 Anatomy of vocalization.[^2]
 :::
