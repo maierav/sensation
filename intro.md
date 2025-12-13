@@ -290,7 +290,8 @@ This cannot be. The problem is logical in nature and lies with step (3): There c
 :alt: Homunculus
 :width: 80%
 
-::
+The homunculus problem of assuming that we perceive sensory information that _converges_ somewhere in the brain evokes the notion of another observer, or brain registering that information. This leads to an infinite chain of increasingly smaller versions of you, or your brain, sitting inside each other.
+:::
 
 :::{div}
 :class: dark:hidden
@@ -300,7 +301,8 @@ This cannot be. The problem is logical in nature and lies with step (3): There c
 :alt: Homunculus
 :width: 80%
 
-::
+The homunculus problem of assuming that we perceive sensory information that _converges_ somewhere in the brain evokes the notion of another observer, or brain registering that information. This leads to an infinite chain of increasingly smaller versions of you, or your brain, sitting inside each other.
+:::
 
 After learning about the fact that all senses start with the same type of signal (action potentials), one might intuit that there is a "central" point of convergence in the brain where all these signals come together and "transformed" into our perceptual experienne. But what would happen at that location in your brain? Is there a little cinema for a "mini-you" where vision, sound and so on are turned into a movie (following Descartes, we call this idea a _Cartesian Theater_)? This sounds absurd, but there is a deeper problem with this intuition. After all, this mini-you (a little human, or _homunculus_) would need another sense apparatus and brain to make sense of that "movie". And this brain would need another mini-me (or homunculus), and so on. We run into an infinite series, or infinte regress, of homonculi inside each other, akin to a Russian doll. This is obviously not the case. We will learn that there is no such point of convergence of sense signals in the brain. But then, why is it that you experience unified sight and sound _as if_ their sense signals come together somewhere in the brain? As we will see, science does not yet know the answer to this question (though there are some promising theories).
 :::
