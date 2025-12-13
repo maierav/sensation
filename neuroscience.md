@@ -6,16 +6,16 @@
 
 :::{figure} ./images/basic_brain_dark.png
 :label: fig:basic brain
-:width: 40%
+:width: 60%
 Mid-line section of a human brain.[^1]
 :::
 
 :::{div}
 :class: dark:hidden
 
-:::{figure} ./images/basic_brain_dark.png
+:::{figure} ./images/basic_brain.png
 :label: fig:basic brain
-:width: 40%
+:width: 60%
 Mid-line section of a human brain.[^1]
 :::
 
