@@ -1,10 +1,11 @@
 # AUDITION
 
 % AUDITION
-:::{figure} ./videos/audio_radar.png
+:::{figure} ./images/audio_radar.png
 :label: fig:Audio Radar
 :width: 40%
 Acoustic device for detection of enemy warplanes.[^1]
+
 :::
 
 [^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Acoustic_aircraft_detection_horns.jpeg)
