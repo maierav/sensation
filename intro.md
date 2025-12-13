@@ -251,7 +251,7 @@ And indeed, as we will see later, the actual biophysical nature of the signals t
 :alt: Mueller's Law of Nerve Energies
 :width: 70%
 
-Our senses all _feel_ different, but they all start with the same _type_ of signal: action potentials - brief (~1ms long) electric pulses. Whether these impulses lead to smelling (yellow), hearing (blue), or hearing (red) is entirely determined by where these signals arrive and are processed by the brain. this is also the vase for taste and touch.
+Our senses all _feel_ different, but they all start with the same _type_ of signal: action potentials - brief (~1ms long) electric pulses. Whether these impulses lead to smelling (blue), hearing (teal), or hearing (orange) is entirely determined by where these signals arrive and are processed by the brain. this is also the vase for taste and touch.
 :::
 
 :::{div}
