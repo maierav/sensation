@@ -1,12 +1,26 @@
 # STRUCTURALISM
 
 % Nervous System
-:::{figure} images/nervoussystem.png
-:label: fig: inverted_spectrum
-:alt: Inverted Spectrum Problem
-:width: 40%
+:::{div}
+:class: hidden dark:block
 
+:::{figure} images/nervoussystem_dark.png
+:label: fig: nervous system
+:alt: Nervous System
+:width: 40%
 The human nervous system. All the (sensory) information available to your brain stems from this body-side web of nerve fibers.[^1]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+::::{figure} images/nervoussystem.png
+:label: fig: nervous system
+:alt: Nervous System
+:width: 40%
+The human nervous system. All the (sensory) information available to your brain stems from this body-side web of nerve fibers.[^1]
+
 :::
 
 [^1]: [public domain image source 1](https://commons.wikimedia.org/wiki/File:Descartes._Diagram_of_the_brain_and_nerves_Wellcome_L0017000.jpg)
