@@ -3,7 +3,7 @@
 % Newton The Geometer
 :::{figure} ./images/newton.jpg
 :label: fig:newton
-:width: 55%
+:width: 70%
 
 William Blake's Newton as a Geometer (1795).[^1]
 :::
