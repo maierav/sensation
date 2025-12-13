@@ -32,16 +32,16 @@ Our sense of touch is not an actual sense.
 
 :::{figure} ./images/encapsulated_dark.png
 :label: fig:encapsulated
-:width: 40%
+:width: 30%
 Cross-section of an encapsulated skin receptor.[^1]
 :::
 
 :::{div}
 :class: dark:hidden
 
-:::{figure} ./images/encapsulated_dark.png
+:::{figure} ./images/encapsulated.png
 :label: fig:encapsulated
-:width: 40%
+:width: 30%
 Cross-section of an encapsulated skin receptor.[^1]
 :::
 
