@@ -41,6 +41,31 @@ The sensory area of the nose is called the "olfactory epithelium" (yellow).[^1]
 
 ## BRAIN
 
+### Glomeruli
+
+% Glomeruli
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/glomeruli_dark.png
+:label: fig: glomeruli
+:width: 50%
+
+Neuronal circuitry of **olfactory sensory neurons** (OSN). OSN's that respond to (are _tuned_ for) the same **olfactants** (chemicals), converge (meet) at the same **glomerulus** (plural: glomeruli).[^2]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} images/glomeruli.png
+:label: fig: glomeruli
+:width: 50%
+Neuronal circuitry of **olfactory sensory neurons** (OSN). OSN's that respond to (are _tuned_ for) the same **olfactants** (chemicals), converge (meet) at the same **glomerulus** (plural: glomeruli).[^2]
+
+:::
+
+[^2]: [public domain image source](https://commons.wikimedia.org/wiki/File:Gray771.png)
+
 ### Olfactory Bulb
 
 ### Olfactory Areas
