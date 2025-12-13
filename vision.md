@@ -124,9 +124,9 @@ The primary visual pathway, colored coded by _visual field_ (not by eye). Neuron
 
 [^4]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray722.png)
 
-### OPTIC NERVE
+### Optic Nerve
 
-### OPTIC CHIASM
+### Optic Chiasm
 
 % Optic Chiasm
 :::{div}
@@ -134,7 +134,7 @@ The primary visual pathway, colored coded by _visual field_ (not by eye). Neuron
 
 :::{figure} ./images/optic_chiasm_dark.png
 :label: fig:vision
-:width: 70%
+:width: 40%
 
 The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^5]
 :::
@@ -144,7 +144,7 @@ The optic nerves of both eyes meet at an x-formed structure called the **optic c
 
 :::{figure} ./images/optic_chiasm.png
 :label: fig:vision
-:width: 70%
+:width: 40%
 
 The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^5]
 :::
