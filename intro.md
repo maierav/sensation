@@ -367,7 +367,7 @@ It is important to note that all three of these potential outcomes are on equal 
 [^11]: Another option to escape Agrippa's Trilemma is to abandon logical coherency altogether. At that point nothing can be argued anymore. Who and how would then decide arguments?
 
  % Agrippa
-::{div}
+:::{div}
 :class: hidden dark:block
 
 :::{figure} images/Agrippa_dark.png
@@ -418,7 +418,7 @@ Do you agree with these definitions? How would you define these terms?
 #### Naïve Realism
 
 % Naïve Realism
-::{div}
+:::{div}
 :class: hidden dark:block
 
 :::{figure} images/naiverealism_dark.png
@@ -452,7 +452,7 @@ In fact, the starting point of the science of perception is the realization that
 This realization can be made inuitive with visual illusions, where we understand that what we _see_ is "wrong" in that our perception deviates from reality of the physical stimulus.
 
 % Lilac Chaser Illusion
-::{div}
+:::{div}
 :class: hidden dark:block
 
 :::{figure} images/lilac_chaser_dark.gif
@@ -460,7 +460,7 @@ This realization can be made inuitive with visual illusions, where we understand
 :alt: The Lilac Chaser illusion
 :width: 80%
 
-The Lilac Chaser illusion[^13]: Keep looking at the center cross and watch the animation changing.
+The Lilac Chaser illusion[^13]: Keep looking at the center cross and watch the animation changing. Try switching to this page's "light" mode in the top right corner in case this version does not work for you.
 :::
 
 :::{div}
@@ -471,7 +471,7 @@ The Lilac Chaser illusion[^13]: Keep looking at the center cross and watch the a
 :alt: The Lilac Chaser illusion
 :width: 80%
 
-The Lilac Chaser illusion[^13]: Keep looking at the center cross and watch the animation changing.
+The Lilac Chaser illusion[^13]: Keep looking at the center cross and watch the animation changing. Try switching to this page's "dark" mode in the top right corner in case this version does not work for you.
 :::
 
 [^13]: Recreation of: <https://en.wikipedia.org/wiki/Lilac_chaser>
@@ -494,7 +494,7 @@ Naïve realism, in a way, is a simple epistemology where phenomenology is equate
 If naïve realism is problematic, which other worldviews are there that might be more convincing? You might immediately think about science, especially since we argued for its strength above. And, indeed, the scientific worldview differs widely from naïve realism. However, as we will see, there actually are a large variety of very different worldviews that all claim to be compatible with science. And many of these diverging worldviews that base themselves off science differ in how they think about perception!
 
 % The naturalistic worldview
-::{div}
+:::{div}
 :class: hidden dark:block
 
 :::{figure} images/naturalism_dark.png
@@ -599,7 +599,7 @@ There is also:
 There are many more ideas on that problem, some of which cannot neatly placed within the taxonomy above. However, these cateogories provide a somewhat of a sufficient survey of the field since most ideas come close to, or combine, these distinct schools of thought. To give you an example, some scholars will state that they are "_REDUCTIONIST PHYSICALIST_", for example. A popular version of this view is that "there is only the physical universe" and that perception "emerges" from some physical system in a way that can be explained by physical laws. Note, how this notion comes close to our option of _ASPECT DUALISM_.
 
 % A Graveyard of Isms
-::{div}
+:::{div}
 :class: hidden dark:block
 
 :::{figure} images/graveyard_of_isms_dark.png
@@ -768,7 +768,7 @@ that _not all assumptions are valid_. Science does not assume that _we know noth
 :::
 
 % Bare bones model of the scientific method
-::{div}
+:::{div}
 :class: hidden dark:block
 
 :::{figure} images/scientific_method_simplistic_dark.png
@@ -839,7 +839,7 @@ According to Lewis Wolper, one connection about math and science is that both of
     explains force as the product of mass and acceleration
 
 % Math and Physics
-::{div}
+:::{div}
 :class: hidden dark:block
 
 :::{figure} images/wiki_physics_dark.png
@@ -894,7 +894,7 @@ Archaeogical evidence suggests that humans have been counting, measuring, and ca
 The first written account of this process we have is the book "Elements of Geometry" by Euclid. In some sense, we thus can regard this work as the starting point of modern mathematics. This book used to be the most popular and widely read textbook of all time, and it still forms the basis of much of how geometry is taught today. The focus on geometry arguably stems from the fact that the proofs exposited by Euclid are _constructive_ in the sense that one can physically recreate them using a compas and a ruler. That is, rather than just _reasoning_ that Euclid's theorems are inarguable (after accepting the axioms), one can convince onself by _trying them out in physical reality_. There are striking autobiographical accounts from Galileo Galilei, to Albert Einstein, and the philosophers Bertrand Russell and Alain Badiou, of how learning about these Euclidian proofs when they were young and initimidated by the seeming societal and intellectual chaos around them gave them a sense of relief about attainable clarity of thought and a sense of certainty. Thus is the power of logic and mathematics.  
 
 % Euclid's Elements
-::{div}
+:::{div}
 :class: hidden dark:block
 
 :::{figure} ./images/Euclid_dark.png
