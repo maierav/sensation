@@ -259,7 +259,7 @@ Our senses all _feel_ different, but they all start with the same _type_ of sign
 :::{div}
 :class: dark:hidden
 
-::{figure} images/nerve_energies.png
+:::{figure} images/nerve_energies.png
 :label: fig: Mueller's Law
 :alt: Mueller's Law of Nerve Energies
 :width: 70%
