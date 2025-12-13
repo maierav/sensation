@@ -18,24 +18,25 @@ As we already discussed, due to our schooling, we tend to think of mathematics a
 
 ## FOUNDATIONS
 
+% Math
 :::{div}
 :class: hidden dark:block
-% Math
+
 :::{figure} ./images/math_dark.jpg
 :label: fig:math
 :width: 55%
 Mathematics has been taught to students for thousands of years.[^2]
-:::
+
 :::
 
 :::{div}
 :class: dark:hidden
-% Math
+
 :::{figure} ./images/math.png
 :label: fig:math
 :width: 55%
 Mathematics has been taught to students for thousands of years.[^2]
-:::
+
 :::
 
 [^2]: public domain sources: [1](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_II_geometria,_1707_%E2%80%93_BEIC_13369403.jpg), [2](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_I_geometria,_1715_%E2%80%93_BEIC_13386284.jpg)
