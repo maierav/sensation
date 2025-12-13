@@ -3,7 +3,7 @@
 % AUDITION
 :::{figure} ./images/audio_radar.png
 :label: fig:Audio Radar
-:width: 40%
+:width: 60%
 Acoustic device for detection of enemy warplanes.[^1]
 
 :::
