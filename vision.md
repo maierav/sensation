@@ -50,11 +50,24 @@ Visual sensation starts with light rays entering our eyes, bending at the lens a
 
 Vision seemingly starts with light (if we put dreams and hallucinations aside for a moment). But what is that - light?
 
+### Light
+
 The physics of light (optics) is a rabbit hole that is easy to fall down in. One reason for that is that it can quickly lead us from high school physics to quantum physics and relativity. Luckily, we do not have to do that for garnering a basic understanding of physics relevant for our visual perception.  
 
 In simple terms, light is **electromagnetic radiation**.  
 
 Light, in fact, is just the part of the electromagnetic spectrum that we can see (due to the biophysics of our photoreceptors).  
+
+% Rainbow
+:::{figure} images/rainbow.jpg
+:label: fig: rainbow
+:alt: Rainbow
+:width: 4=80%
+
+A rainbow shows the spectrum of natural (sun)light.[^3]
+:::
+
+[^3]: [public domain image source 1](https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_Rainy_Season_in_the_Tropics_-_Google_Art_Project.jpg)
 
 ## PSYCHOLOGY
 
