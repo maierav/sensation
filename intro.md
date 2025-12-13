@@ -56,7 +56,7 @@ We get glimpses of that challenge when we encounter perceptual _illusions_, or p
 :class: hidden dark:block
 
 :::{figure} images/Mach_dark.png
-:label: fig:Mach_light
+:label: fig:Mach_dark
 :width: 60%
 
 Sketch of Ernst Mach (1838–1916) of visual perception with the right eye closed.[^5]
@@ -68,7 +68,7 @@ _"I lie upon my sofa. If I close my right eye, the picture represented in the ac
 :class: dark:hidden
 
 :::{figure} images/Mach.png
-:label: fig:Mach_dark
+:label: fig:Mach_light
 :width: 60%
 
 Sketch of Ernst Mach (1838–1916) of visual perception with the right eye closed.[^5]
