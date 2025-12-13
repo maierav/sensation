@@ -52,6 +52,22 @@ Visual illusions demonstrate that perception can deviate from reality. This exam
 We get glimpses of that challenge when we encounter perceptual _illusions_, or ponder about the peculiar fact that all of us go through a daily routine of losing perception for a while during dreamless sleep, followed by perceiving a ficticious world for some time during dream sleep before returning to wakefulness. In the same vein, it is peculiar that no human being so far has reported to perceive 360-degree vision, even when experiencing abnormal states of perception, such as near meditative states, death experiences, or psychedlic experiences, where some report a loss of a sense of self or even a "loss of first-person perspective". This is non-trivial, since the fact that we only see what is in front of us and not that which is behind our head is decidely human - many animals, such as birds, rabbits, or squirrels see the world all around them.  
 
 % Perception
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/Mach_dark.png
+:label: fig:perception
+:alt: Perception
+:width: 60%
+
+Sketch of Ernst Mach (1838–1916) of visual perception with the right eye closed.[^5]
+He wrote:  
+_"I lie upon my sofa. If I close my right eye, the picture represented in the accompanying cut is presented to my left eye. In a frame formed by the ridge of my eyebrow, by my nose, and by my moustache, appears a part of my body, so far as visible, with its environment. [...] Reflexions like that for the field of vision may be made with regard to the province of touch and the perceptual domains of the other senses."_[^6]  
+:::
+
+:::{div}
+:class: dark:hidden
+
 :::{figure} images/Mach.png
 :label: fig:perception
 :alt: Perception
