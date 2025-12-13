@@ -18,6 +18,16 @@ As we already discussed, due to our schooling, we tend to think of mathematics a
 
 ## FOUNDATIONS
 
+% Math
+:::{figure} ./images/math.jpg
+:label: fig:math
+:width: 55%
+
+Mathematics has been taught to students for thousands of years.[^2]
+:::
+
+[^2]: public domain sources: [1](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_II_geometria,_1707_%E2%80%93_BEIC_13369403.jpg), [2](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_I_geometria,_1715_%E2%80%93_BEIC_13386284.jpg)
+
 We already discussed that modern mathematics starts with one or more _axioms_ that one has to accept without further questioning. So, what are the axioms that underly _all_ of mathematics (or, since one can always drop or add axioms and thus change mathematics, the largest body of mathematics)?  
 
 ### Set theory
