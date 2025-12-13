@@ -16,7 +16,7 @@ Our sense of taste is both our most simple and most complex sense.
 
 :::{figure} ./images/tongue_dark.png
 :label: fig:tongue
-:width: 70%
+:width: 40%
 Anatomy of the tongue.[^1]
 :::
 
@@ -25,7 +25,7 @@ Anatomy of the tongue.[^1]
 
 :::{figure} ./images/tongue.png
 :label: fig:tongue
-:width: 70%
+:width: 40%
 Anatomy of the tongue.[^1]
 :::
 
