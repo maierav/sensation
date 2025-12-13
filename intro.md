@@ -249,7 +249,7 @@ And indeed, as we will see later, the actual biophysical nature of the signals t
 :class: hidden dark:block
 
 :::{figure} images/nerve_energies_dark.png
-:label: fig: Mueller's Law
+:label: fig: Mueller's Law_dark
 :alt: Mueller's Law of Nerve Energies
 :width: 70%
 
@@ -260,7 +260,7 @@ Our senses all _feel_ different, but they all start with the same _type_ of sign
 :class: dark:hidden
 
 :::{figure} images/nerve_energies.png
-:label: fig: Mueller's Law
+:label: fig: Mueller's Law_light
 :alt: Mueller's Law of Nerve Energies
 :width: 70%
 
@@ -286,7 +286,7 @@ This cannot be. The problem is logical in nature and lies with step (3): There c
 :class: hidden dark:block
 
 :::{figure} images/neurohomunculus_dark.png
-:label: fig: Homunculus
+:label: fig: Homunculus_dark
 :alt: Homunculus
 :width: 80%
 
@@ -294,7 +294,7 @@ This cannot be. The problem is logical in nature and lies with step (3): There c
 :class: dark:hidden
 
 :::{figure} images/neurohomunculus.png
-:label: fig: Homunculus
+:label: fig: Homunculus_light
 :alt: Homunculus
 :width: 80%
 
