@@ -22,7 +22,7 @@ We do not know as much about how we smell as we do about our other senes.
 
 :::{figure} images/olfactory_epithelium_dark.png
 :label: fig: olfactory epithelium
-:width: 90%
+:width: 50%
 The sensory area of the nose is called the "olfactory epithelium" (blue).[^1]
 
 :::
@@ -30,9 +30,9 @@ The sensory area of the nose is called the "olfactory epithelium" (blue).[^1]
 :::{div}
 :class: dark:hidden
 
-:::{figure} images/olfactory_epithelium_dark.png
+:::{figure} images/olfactory_epithelium.png
 :label: fig: olfactory epithelium
-:width: 90%
+:width: 50%
 The sensory area of the nose is called the "olfactory epithelium" (yellow).[^1]
 
 :::
