@@ -1,6 +1,6 @@
 # STRUCTURALISM
 
-% Nervous System
+% NERVOUS SYSTEM
 :::{div}
 :class: hidden dark:block
 

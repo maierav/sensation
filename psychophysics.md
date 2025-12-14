@@ -1,6 +1,6 @@
 # PSYCHOPHYSICS
 
-% Ladder
+% LADDER
 :::{div}
 :class: hidden dark:block
 
