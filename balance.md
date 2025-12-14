@@ -6,7 +6,7 @@
 
 :::{figure} images/balance_dark.png
 :label: fig: balance
-:width: 20%
+:width: 30%
 
 Balance relies on a sixth sense.[^1]
 
@@ -17,7 +17,7 @@ Balance relies on a sixth sense.[^1]
 
 :::{figure} images/balance.png
 :label: fig: balance
-:width: 20%
+:width: 40%
 
 Balance relies on a sixth sense.[^1]
 
