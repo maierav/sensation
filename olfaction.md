@@ -1,5 +1,33 @@
 # OLFACTION
 
+% SMELL
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/smell_dark.png
+:label: fig: smell
+:width: 70%
+
+Smell is not a physical, but a chemical sense.[^1]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/smell.png
+:label: fig: smell
+:width: 70%
+
+Smell is not a physical, but a chemical sense.[^1]
+
+:::
+
+[^1]: [public domain image source](https://upload.wikimedia.org/wikipedia/commons/7/73/Zintuig_reuk_Vijf_zintuigen_%28serietitel%29%2C_RP-P-BI-5098.jpg)
+
 We do not know as much about how we smell as we do about our other senes.  
 
 ## CHEMISTRY
@@ -23,7 +51,7 @@ We do not know as much about how we smell as we do about our other senes.
 :::{figure} images/olfactory_epithelium_dark.png
 :label: fig: olfactory epithelium
 :width: 50%
-The sensory area of the nose is called the "olfactory epithelium" (blue).[^1]
+The sensory area of the nose is called the "olfactory epithelium" (blue).[^2]
 
 :::
 
@@ -33,11 +61,11 @@ The sensory area of the nose is called the "olfactory epithelium" (blue).[^1]
 :::{figure} images/olfactory_epithelium.png
 :label: fig: olfactory epithelium
 :width: 50%
-The sensory area of the nose is called the "olfactory epithelium" (yellow).[^1]
+The sensory area of the nose is called the "olfactory epithelium" (yellow).[^2]
 
 :::
 
-[^1]: [public domain image source](https://commons.wikimedia.org/wiki/File:Gray771.png)
+[^2]: [public domain image source](https://commons.wikimedia.org/wiki/File:Gray771.png)
 
 ## BRAIN
 
@@ -60,11 +88,11 @@ Neuronal circuitry of **olfactory sensory neurons** (OSN). OSN's that respond to
 :::{figure} images/glomeruli.png
 :label: fig: glomeruli
 :width: 50%
-Neuronal circuitry of **olfactory sensory neurons** (OSN). OSN's that respond to (are _tuned_ for) the same **olfactants** (chemicals), converge (meet) at the same **glomerulus** (plural: glomeruli).[^2]
+Neuronal circuitry of **olfactory sensory neurons** (OSN). OSN's that respond to (are _tuned_ for) the same **olfactants** (chemicals), converge (meet) at the same **glomerulus** (plural: glomeruli).[^3]
 
 :::
 
-[^2]: [public domain image source](https://commons.wikimedia.org/wiki/File:Gray771.png)
+[^3]: [public domain image source](https://commons.wikimedia.org/wiki/File:Gray771.png)
 
 ### Olfactory Bulb
 
