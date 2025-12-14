@@ -23,7 +23,7 @@ The human nervous system. All the (sensory) information available to your brain 
 
 :::
 
-[^1]: [public domain image source 1](https://commons.wikimedia.org/wiki/File:Descartes._Diagram_of_the_brain_and_nerves_Wellcome_L0017000.jpg)
+[^1]: [public domain image source](https://commons.wikimedia.org/wiki/File:Descartes._Diagram_of_the_brain_and_nerves_Wellcome_L0017000.jpg)
 
 You made it to the final chapter. Congratulations!  
 
