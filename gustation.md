@@ -4,7 +4,7 @@
 :::{div}
 :class: hidden dark:block
 
-:::{figure} images/taste_dark.png
+:::{figure} images/taste_dark.jpg
 :label: fig: taste
 :width: 70%
 
@@ -15,7 +15,7 @@ Taste is not the only sense that starts in our mouth.[^1]
 :::{div}
 :class: dark:hidden
 
-:::{figure} images/taste.png
+:::{figure} images/taste.jpg
 :label: fig: taste
 :width: 70%
 
