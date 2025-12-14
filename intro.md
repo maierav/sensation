@@ -922,12 +922,15 @@ The oldest (fragmentary) copy of Euclid's "Elements of Geometry" that is current
 So let us take a brief look at some of that. Euclid starts with definitions. These are, in modern terms, axioms.
 
 The first one is:
+
     A point is that which has no part.
 
 The second one is:
+
     A line is breadthless length.
 
 And third:
+
     The extremities of a line are points.
 
 There are 23 of these definitions, but we can ignore them for now.
