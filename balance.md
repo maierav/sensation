@@ -1,5 +1,30 @@
 # BALANCE
 
+% VESTIBULAR
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/balance_dark.png
+:label: fig: smell
+:width: 40%
+
+Balance relies on a sixth sense.[^1]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} images/balance.png
+:label: fig: smell
+:width: 40%
+
+Balance relies on a sixth sense.[^1]
+
+:::
+
+[^1]: [public domain image source](https://commons.wikimedia.org/wiki/File:The_famous_Dutch_Woman,_1690,_nr._64,_RP-P-2009-4159.jpg)
+
 You might have gone "huh?" when you saw this chapter.  
 
 Many people have been taught that there are 5 senses, so what is this 6th sense?  
