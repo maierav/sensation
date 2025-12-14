@@ -811,7 +811,9 @@ The important lesson to draw from all of this is that:
 
 [^9: There are varying definitions of what we mean by "true", of course. For now, we will adopt the most common and perhaps simplest notion in that we define "true" any belief or statements that _corresponds_ to reality (**correspondence theory**). Such as the belief or statement "it is raining outside right now" being true if there is water falling from the sky at this location and that point in time. We will revisit this notion again later.]  
 
-The resulting view that science yields us _likelihoods_ of correctness or incorrectness rather than absolutely ruling out or confirming assumptions about the world is called **Bayesian Epistemology**. Not everyone who has thought about science, or who conducts science concurs with this intellectual stance of intellectual _humility_ (the acknowledgment that even the outcomes of science are valid subjects to doubt). We hence will adopt it here.
+The resulting view that science yields us _likelihoods_ of correctness or incorrectness rather than absolutely ruling out or confirming assumptions about the world is called **Bayesian Epistemology**. Not everyone who has thought about science, or who conducts science concurs with this intellectual stance of intellectual _humility_ (the acknowledgment that even the outcomes of science are valid subjects to doubt). This stance reflects abundant intellectual humility without struggling with a somewhat contradictory notion of "all (or many) views are equal" (contradictory, since that view espouses that it is the _only_ correct view). Hence, we will adopt it here. Which leads us to end our discussion of science with the following insight:
+
+    Science is not about proof. Science is about plausibilty.
 
 However, nothing we have discussed so far is science (yet). What we have done so far is reasoning that _precedes_ science, or meta-science. In other words, we are in the realm of philosophy.  
 
