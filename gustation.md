@@ -1,5 +1,30 @@
 # GUSTATION
 
+% TASTE
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/taste_dark.png
+:label: fig: taste
+:width: 70%
+
+Taste is not the only sense that starts in our mouth.[^1]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} images/taste.png
+:label: fig: taste
+:width: 70%
+
+Taste is not the only sense that starts in our mouth.[^1]
+
+:::
+
+[^1]: [public domain image source](https://commons.wikimedia.org/wiki/File:Taste_MET_DP876462.jpg)
+
 Our sense of taste is both our most simple and most complex sense.  
 
 ## CHEMISTRY
@@ -26,10 +51,10 @@ Anatomy of the tongue.[^1]
 :::{figure} ./images/tongue.png
 :label: fig:tongue
 :width: 40%
-Anatomy of the tongue.[^1]
+Anatomy of the tongue.[^2]
 :::
 
-[^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Sobo_1906_351.png)
+[^2]: [public domain source](https://commons.wikimedia.org/wiki/File:Sobo_1906_351.png)
 
 ## BRAIN
 
