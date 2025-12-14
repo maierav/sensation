@@ -49,10 +49,10 @@ At first sight it seems that perception is "too subjective" for "objective" meas
 :alt: Measurement and Science
 :width: 80%
 
-Measurement is essential for exact science. But (how) can we precisely measure perception? [^1]
+Measurement is essential for exact science. But (how) can we precisely measure perception? [^2]
 :::
 
-[^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Plate_X-_1._New_Steelyards_for_weighing_Gasses._2._Apparatus_for_the_Combustion_of_the_Diamond._-_DPLA_-_f61bcaa650d613da5add43b5abe3e7b7.jpg)
+[^2]: [public domain source](https://commons.wikimedia.org/wiki/File:Plate_X-_1._New_Steelyards_for_weighing_Gasses._2._Apparatus_for_the_Combustion_of_the_Diamond._-_DPLA_-_f61bcaa650d613da5add43b5abe3e7b7.jpg)
 
 ## Can you measure love?
 
