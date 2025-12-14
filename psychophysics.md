@@ -1,5 +1,32 @@
 # PSYCHOPHYSICS
 
+% Ladder
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/ladder_dark.png
+:label: fig: ladder
+:alt: ladder
+:width: 40%
+
+All ladders do something interesting: They divide vertical space in discrete, countable steps with nothing (but air) in between. The result is that we can _count_ height in steps we take up or down. Ladders thus apply an (arbitrary) scale of sorts to height and thus provides _countable_ units that we can add, divide, and so on. What does that have to do with the science of perception? There is an interesting analog that has revolutionized how we think of the measurability of conscious experience.[^1]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} images/ladder.png
+:label: fig: ladder
+:alt: ladder
+:width: 40%
+
+All ladders do something interesting: They divide vertical space in discrete, countable steps with nothing (but air) in between. The result is that we can _count_ height in steps we take up or down. Ladders thus apply an (arbitrary) scale of sorts to height and thus provides _countable_ units that we can add, divide, and so on. What does that have to do with the science of perception? There is an interesting analog that has revolutionized how we think of the measurability of conscious experience.[^1]
+
+:::
+
+[^1]: [public domain image source](https://commons.wikimedia.org/wiki/File:This_little_boy_would_persist_in_handling_books_above_his_capacity_And_this_was_the_disastrous_result._LCCN2002713116.tif)
+
 ## Motivation
 
 Before we discuss each of our senses in detail, we first need to take a brief historical detour. The reason for that is an interesting one.  
