@@ -70,10 +70,10 @@ In the same vein, some parents experience that their love for their children lea
 :alt: Measuring Love
 :width: 60%
 
-Is it really true that "You cannot you measure love?" [^2]
+Is it really true that "You cannot you measure love?" [^3]
 :::
 
-[^2]: [public domain source](https://commons.wikimedia.org/wiki/File:Francesco_Bartolozzi_-_The_Power_of_Love_-_B1978.43.589_-_Yale_Center_for_British_Art.jpg)
+[^3]: [public domain source](https://commons.wikimedia.org/wiki/File:Francesco_Bartolozzi_-_The_Power_of_Love_-_B1978.43.589_-_Yale_Center_for_British_Art.jpg)
 
 And what is measurement other than assessing "more", "less", or "the same"? Numbers seem to make this process just a bit more precise.  
 
@@ -97,10 +97,10 @@ Imagine you are blindfolded. You are stretching out one of your arms. Someone pl
 :alt: Measuring weights
 :width: 70%
 
-Imagine being blindfolded with the aim to feel changing weights in your hands. [^3]
+Imagine being blindfolded with the aim to feel changing weights in your hands. [^4]
 :::
 
-[^3]: [public domain source](https://commons.wikimedia.org/wiki/File:La_Justice_et_la_Religion_recouvrent_leurs_droits._G.33455.jpg)
+[^4]: [public domain source](https://commons.wikimedia.org/wiki/File:La_Justice_et_la_Religion_recouvrent_leurs_droits._G.33455.jpg)
 
 Now imagine that the other person silently places a large goos feather on your hand with the paper on it. Your task is to speak up when you feel that extra weight. If you think that you could probably detect that change in weight, you are probably right.  
 
