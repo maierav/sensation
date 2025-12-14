@@ -6,7 +6,7 @@
 
 :::{figure} images/smell_dark.png
 :label: fig: smell
-:width: 80%
+:width: 90%
 
 Smell is not a physical, but a chemical sense.[^1]
 
@@ -17,7 +17,7 @@ Smell is not a physical, but a chemical sense.[^1]
 
 :::{figure} images/smell.png
 :label: fig: smell
-:width: 80%
+:width: 90%
 
 Smell is not a physical, but a chemical sense.[^1]
 
