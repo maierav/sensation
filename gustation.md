@@ -6,7 +6,7 @@
 
 :::{figure} images/taste_dark.jpg
 :label: fig: taste
-:width: 70%
+:width: 80%
 
 Taste is not the only sense that starts in our mouth.[^1]
 
@@ -17,7 +17,7 @@ Taste is not the only sense that starts in our mouth.[^1]
 
 :::{figure} images/taste.jpg
 :label: fig: taste
-:width: 70%
+:width: 80%
 
 Taste is not the only sense that starts in our mouth.[^1]
 
