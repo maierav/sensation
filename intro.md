@@ -396,16 +396,18 @@ As we will see, mathematics seems to choose Foundationalism over the other two p
 
 #### Preliminary Definitions
 
-_Sensation_ is the process our bodies undergo when acquiring information from our environment, such as when a touch sensor in our skin gets depressed. We are not aware of these processes, and many of them occur even when we are in dreamless sleep, coma, or general anesthesia. Sensation is an unconscious process.
+_Sensation_ is the process our bodies undergo when acquiring information from our environment, such as when a touch sensor in our skin gets depressed. We are not aware of these processes, and many of them occur even when we are in dreamless sleep, coma, or general anesthesia. Sensation is an _unconscious_ process.
 
 :::{note}✍️ Note
 :icon: false
 Our _senses_ detect and quantify _changes_ in our _physical_ environment.  
 :::
 
-_Perception_ is what we _experience_. The most common notion of perception is the experience following the process of sensation. That is perception is conscious (arguably the biggest part, or even all of our conscious experience). Let's call that **perception in a narrow sense**.  
+_Perception_ is what we _experience_. The most common notion of perception is that it is the _conscious_ experience following the process of sensation. That is perception is conscious (arguably the biggest part, or even all of our conscious experience). Let's call that **perception in a narrow sense**.  
 
-Note, however, that a very similar state of perception can also happens without sensation, fully discoupled from the real world, such as when we hallucinate or dream. You can see a face either being looking at a physical stimulus, such as another person or photograph. But you can also see a face in dream sleep, with your eyes closed in darkness.  
+**Sensation can happen without perception**. Sensation often _precedes_ perception. We do not consciously experience what we sense. Once we become consciously aware of a sensation, we perceive. Consider the following question, for example; _Can you feel the clothes on your skin?_ You do now. In other words, you now experience the perception of your clothes touching your skin. But this is only possible because your body senses it all along. In a few minutes, when your mind focuses on the rest of the text again, you will lose the conscious experience (the perception) of your clothes against your skin again (until you might remind yourself of the fact that you can consciously feel your clothes), but your brain will continue to sense your clothes until they are removed.  
+
+Note that **perception can happen without sensation**, fully discoupled from the real world, such as when we hallucinate or dream. You can see a face either being looking at a physical stimulus, such as another person or photograph. But you can also see a face in dream sleep, with your eyes closed in darkness.  
 
 In this light, it could be argued that we should broaden what we mean by perception. And we might be left with (conscious) experience. Stretching this definition to the limit, we could even include beliefs, desires, and other seemingly non-sensory experiences as **perception in a broad sense**.  
 
