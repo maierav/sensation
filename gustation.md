@@ -4,7 +4,7 @@
 :::{div}
 :class: hidden dark:block
 
-:::{figure} images/taste_dark.jpg
+:::{figure} images/taste_dark.png
 :label: fig: taste
 :width: 80%
 
