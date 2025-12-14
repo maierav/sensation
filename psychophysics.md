@@ -7,7 +7,7 @@
 :::{figure} images/ladder_dark.png
 :label: fig: ladder
 :alt: ladder
-:width: 40%
+:width: 60%
 
 All ladders do something interesting: They divide vertical space in discrete, countable steps with nothing (but air) in between. The result is that we can _count_ height in steps we take up or down. Ladders thus apply an (arbitrary) scale of sorts to height and thus provides _countable_ units that we can add, divide, and so on. What does that have to do with the science of perception? There is an interesting analog that has revolutionized how we think of the measurability of conscious experience.[^1]
 
@@ -19,7 +19,7 @@ All ladders do something interesting: They divide vertical space in discrete, co
 :::{figure} images/ladder.png
 :label: fig: ladder
 :alt: ladder
-:width: 40%
+:width: 60%
 
 All ladders do something interesting: They divide vertical space in discrete, countable steps with nothing (but air) in between. The result is that we can _count_ height in steps we take up or down. Ladders thus apply an (arbitrary) scale of sorts to height and thus provides _countable_ units that we can add, divide, and so on. What does that have to do with the science of perception? There is an interesting analog that has revolutionized how we think of the measurability of conscious experience.[^1]
 
