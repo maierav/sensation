@@ -5,7 +5,7 @@
 :class: hidden dark:block
 
 :::{figure} images/balance_dark.png
-:label: fig: smell
+:label: fig: balance
 :width: 20%
 
 Balance relies on a sixth sense.[^1]
@@ -16,7 +16,7 @@ Balance relies on a sixth sense.[^1]
 :class: dark:hidden
 
 :::{figure} images/balance.png
-:label: fig: smell
+:label: fig: balance
 :width: 20%
 
 Balance relies on a sixth sense.[^1]
