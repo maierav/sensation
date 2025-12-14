@@ -708,9 +708,10 @@ But the main challenge to the notion of there no being a universal, all-ruling T
     There is no such thing as truth.
 
 Now ask yourself - is this really true?
+
 If it were true, than there is a Truth. If we assume that this sentence is true, at least one thing is objectively true - that very sentence. But then we were wrong to assume that there is no Truth.
 
-In other words, this sentence contradicts itself. It violates the second law we identified that "a statement cannot be both true and false within the same context" (the Law of Non-Contradiction). This means that in classical logic, we can identify this sentence as non-logical non-sense. A trap of incoherent thought, if you will, that logic helps us to detect as unreasonable and hence dismissable.
+In other words, this sentence contradicts itself (Plato termed it "peritropē", or turning back on itself). It violates the second law we identified that "a statement cannot be both true and false within the same context" (the Law of Non-Contradiction). This means that in classical logic, we can identify this sentence as non-logical non-sense. A trap of incoherent thought, if you will, that logic helps us to detect as unreasonable and hence dismissable.
 
 But why not just drop the Law of Non-Contradiction instead? Why not just assume that contradictions - logical paradoxa - are real and a part of nature?  
 
