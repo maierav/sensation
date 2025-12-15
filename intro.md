@@ -245,7 +245,7 @@ This distinction is becoming increasingly important. Using brain measurements in
 :::{figure} images/mindreading_dark.png
 :label: fig:mindreading
 :alt: mentalism
-:width: 80%
+:width: 40%
 
 Mind reading might soon become a reality thanks to the combination of high-resolution brain measurements in humans and AI analysis and reconstruction. What does this imply about the "privacy" or our conscious experiences if others can gain (third person) access to them?[^11]
 :::
@@ -256,7 +256,7 @@ Mind reading might soon become a reality thanks to the combination of high-resol
 :::{figure} images/mindreading.jpg
 :label: fig:mindreading
 :alt: mentalism
-:width: 80%
+:width: 40%
 
 Mind reading might soon become a reality thanks to the combination of high-resolution brain measurements in humans and AI analysis and reconstruction. What does this imply about the "privacy" or our conscious experiences if others can gain (third person) access to them?[^11]
 :::
