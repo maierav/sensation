@@ -226,6 +226,24 @@ It can be challenging to rid onself of everyday notions of the word perception w
 
 What we mean by "perception", then is what we see (just lines in this case). And this can take effort to recognize since we are so used to "doing more" than just reflecting on what we _actually see_. Without taking it for granted, just because it is so automatic ("given"), natural and familiar to us. Realizing this conception of "perception" is a bit like a fish realizing that they are surrounded by water, and always have been.
 
+### Privacy
+
+At this point, it is worth pondering briefly about what the two thought experiments about the _subjective_ nature of perception have revealed to us. We now have a notion of what it means that perception subjective in that it is not _directly_ shareable with others. If we perceive, say, red all around us and aim to share that with someone else, we struggle to do so successfully just by using words, gestures, or anything else that we could point to.  
+
+One way to think about that is that perception is tied to what we call the **first person perspective** - our own perspective, to be specific. And the same goes for others. Their perception is also limited to the first person perspective - just not ours, but their own.  
+
+And when it comes to "sharing" our first person perspective, we cannot do so by just turning another person's first person perspective into our own. We first need to "translate" our unique first person perspective into what we call the **third person perspective**, and then they can translate that third person perspective into their oqn unique first person perspective. And, as we found out, much seems to get lost during each of these two processes of translation.  
+
+This observation has lead to the common notion that perception is **private**. But is that so? The danger here is that all we established is that your perception is **inaccessible** to others, unless we go through that process of translating it into the third person perspective using something more "objectibe", such as music, dance, art, poetry, or just everyday language.  
+
+This distinction is becoming increasingly important. Using brain measurements in combination with AI, researchers are increasingly able to realize the old idea of **mind reading**. That is, we can now place volunteers inside MRI machines, or record their brain waves with EEG, and then "decode" their visual perception. This information then can be used to feed a generative AI for creating images or even (VR) movies that depict what the volunteer was seeing. There are still a lot of technical limitations in that process, but the progress has been astounding. We are rapidly approaching the point where we might be able to have someone fall asleep and then recreate - with some accuracy - what they are dreaming of.  
+
+The implications of this technological progress are many, and it is important to note that it is hard to envision this to ever work without the consent of the person whose brain is being decoded, though it may also be prove a useful technique to detect consciousness in patients that are at risk to be misdiagnosed as comatose otherwise. However, in our context, it is more interesting to ponder that success in this direction seems to elininate the notion of perception being _fundamentally_ private. If perception ceases to be private in the future, then it never was private in the first place. We just did not have the means yet to access it.  
+
+And yet, even if we will soon see a day where we can share our dreams with others, it will still have to occur via a translation from our subjective perception to a movie and back to someone else's perception. The main issue with perception, then is this - it is for one person only. And _only perception_ does that. Perception comes tied to a unique first person perspective ("subjective"). And this poses a challenge for science. After all, science is usually understood to be a third perspective enterprise ("objective") - not usually a problem since it seems that any subject of science other than perception comes in the third person perspective. Long story short, perception poses a unique problem for science.  
+
+This tension between the nature of perception and the nature of science has long been recognized, and named by some, as the philospher David Chalmers, a **hard problem**. Keep it at the back of your mind as we proceed, since it may rear its head repeatedly as we progress along this journey of trying to use a scientific approach to this unique phenomenon of perception.  
+
 ### Mülller's Law
 
 Carefully press on your closed eyes. Does that change your vision? Do you see a change in darkness or brightness? Spots? No worries, this is expected.  
