@@ -238,6 +238,31 @@ This observation has lead to the common notion that perception is **private**. B
 
 This distinction is becoming increasingly important. Using brain measurements in combination with AI, researchers are increasingly able to realize the old idea of **mind reading**. That is, we can now place volunteers inside MRI machines, or record their brain waves with EEG, and then "decode" their visual perception. This information then can be used to feed a generative AI for creating images or even (VR) movies that depict what the volunteer was seeing. There are still a lot of technical limitations in that process, but the progress has been astounding. We are rapidly approaching the point where we might be able to have someone fall asleep and then recreate - with some accuracy - what they are dreaming of.  
 
+% Mind Reading
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/mindreading_dark.png
+:label: fig:mindreading
+:alt: mentalism
+:width: 80%
+
+Mind reading might soon become a reality thanks to the combination of high-resolution brain measurements in humans and AI analysis and reconstruction. What does this imply about the "privacy" or our conscious experiences if others can gain (third person) access to them?[^11]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} images/mindreading.jpg
+:label: fig:mindreading
+:alt: mentalism
+:width: 80%
+
+Mind reading might soon become a reality thanks to the combination of high-resolution brain measurements in humans and AI analysis and reconstruction. What does this imply about the "privacy" or our conscious experiences if others can gain (third person) access to them?[^11]
+:::
+
+[^11]: [public domain source](https://commons.wikimedia.org/wiki/File:Mind-reading-Russell-Morgan.jpeg)
+
 The implications of this technological progress are many, and it is important to note that it is hard to envision this to ever work without the consent of the person whose brain is being decoded, though it may also be prove a useful technique to detect consciousness in patients that are at risk to be misdiagnosed as comatose otherwise. However, in our context, it is more interesting to ponder that success in this direction seems to elininate the notion of perception being _fundamentally_ private. If perception ceases to be private in the future, then it never was private in the first place. We just did not have the means yet to access it.  
 
 And yet, even if we will soon see a day where we can share our dreams with others, it will still have to occur via a translation from our subjective perception to a movie and back to someone else's perception. The main issue with perception, then is this - it is for one person only. And _only perception_ does that. Perception comes tied to a unique first person perspective ("subjective"). And this poses a challenge for science. After all, science is usually understood to be a third perspective enterprise ("objective") - not usually a problem since it seems that any subject of science other than perception comes in the third person perspective. Long story short, perception poses a unique problem for science.  
