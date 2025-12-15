@@ -802,6 +802,9 @@ that _not all assumptions are valid_. Science does not assume that _we know noth
 :alt: An overly simplistic, bare bones model of the scientific method.
 :width: 100%
 
+A simplistic, bare bones model of the scientific method. Science as a method consists of a (potentyially) neverending loop between ideas about the world (theory) and feedback from the world about our ideas (observations). Theories provide predictions about what we should observe. We can find these predictions by _deducing_ the logical implications of our theories. We can then test these predictions by quering nature as to what happens under the circumstances that lead to our predictions (_measurement_), Following observation, we can then _inductively_ reason about the plausibility of our theory and use _abduction_ to derive the best explanation of the observation given our theoretical knowledge. Often, this steps leads us to revise, refine, update, or even completely abandon our the original theory towards a better explanation of our observations. The cycle then starts anew by finding new untested predictions that we can then test against nature.
+:::
+
 :::{div}
 :class: dark:hidden
 
