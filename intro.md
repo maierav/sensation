@@ -809,6 +809,29 @@ Following observation, we either gain or lose confidence in our theories given h
 
 Using this bare bones, overly simplistic description of science, we end up with a loop - a constant interplay between theory and observation (as a sidenote, a "model" is not a theory, but a realization of it). However, we are not going in circles. Each time we go around the loop, we seemingly progress in that we can detect flaws in our theories (if they fail to provide a good match between prediction and observation), and thereby arrive at new theories that might allow for better predictions and thus a closer match with what we observe.
 
+For many scientists, it seems plausible that this process - in face of what seems like one singular and cohesive reality - aims to eventually result in a singular and cohesive scientific theory (a **theory of everything**). Physics has gotten close to this aim by _unifying_ many separate fields of physics. Electricity and magnetism (_electromagnetism_) turned out to be largely explainable by Newtonian (classical) physics. So did _thermodynamics_. And classical physics turned out to be compatible with quantum physics. As well as Einsteinian relativity. However, quantum physics and relativity so far have defied any attempt to unify. The _standard model_ of physics has provided both explanations and predictions for all elementary particles we have found, and it unifies three of the four "forces" that physics had identified. But so far the fourth force, gravity, finds its explanation in relativity and not in quantum formalism. Biology found unification in Darwin's theory of **evolution**, which found further unification with chemistry in the _modern synthesis_ that explains inheritance via DNA. Chemistry found unification with the discovery of nuclear physics and an increased understanding of electron orbitals. Neuroscience, at its core, is explained by chemistry and physics. Science thus seems to be on a path to unification indeed. But there are also opposing views.  
+
+% Scientific Unity
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/scientific_unity_dark.png
+:label: fig:unity
+:width: 80%
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} images/scientific_unity.png
+:label: fig:unity
+:width: 80%
+**Scientific pluralism** holds that there is no single framework of science that explains reality. In its strong form, this view asserts that science cannot be unified into a single coherent explanatory structure because reality itself is not cohesive, unified, or whole, but instead depends on context or the observer. **_LEFT_:** The Dewey Decimal System can be seen as an illustrative analogy of this view, insofar as it sorts declarative knowledge into separate, side-by-side bins without cross-connections or overlap. Critics of scientific pluralism argue that if no explanation can be universally applied, then the pluralist thesis itself cannot be universally applied either.  
+The opposing view is **scientific unity**. According to this position, there is one coherent reality. It follows that scientific explanations should, in principle, form a unified structure. Explanatory connections across domains are not merely classificatory or pragmatic but reflect objective relations within a single natural order. Within scientific unity, **reductionism** holds that higher-level explanations can ultimately be accounted for by more fundamental ones. **Non-reductive** views deny that full reduction is always possible. **_RIGHT_:** Reductionist and non-reductionist agree on a hierarchical organization of scientific inquiry, suggested by A. Comte and others, in which the study of complex (many-part or high-information) systems can be systematically linked to simpler constituent systems.
+Note that both scientific unity and pluralism agree on methodological diversity, acknowledge that science has not yet achieved a fully unified explanation of reality, and allow that epistemic unity may remain elusive. The disagreement is not about practice, but about principle.
+:::
+
 **Science starts with (and ends in) doubt**: The cornerstone of science is that _anything can be (and in fact, should be) doubted_. That is, the starting point of science is to not take any statement about the world for granted. Science assumes that _we know nothing for sure_. In other words, science assumes that _everything we know_ is just an assumption. At the same time, science assumes
 that _not all assumptions are valid_. Science does not assume that _we know nothing_, or that _we will never know anything_. Instead, science assumes that:
     1. There is one reality, and hence absolute (objective, mind-independent) truth, a completely matching, accurate description, about what this reality is like.
