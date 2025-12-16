@@ -790,7 +790,7 @@ There has been an enormous amount of scientific research on sensation and percep
 Can you think of other arguments for doing and learning about science?
 :::
 
-But what is that - science? Somewhat surprisingly, this is not easy to answer definitely.  
+But what is that - science? Somewhat surprisingly, this is not easy to answer definitively.  
 
 % Scientific Unity
 :::{div}
