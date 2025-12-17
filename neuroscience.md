@@ -82,6 +82,27 @@ This conclusion leads us to an appreciation of **neuroanatomy** - the study of n
 
 ### Neuroanatomy
 
+% LOBES
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/nlobes_dark.png
+:label: fig:neuron
+:width: 40%
+The four main lobes of the human brain.[^3]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/nlobes_dark.png
+:label: fig:neuron
+:width: 40%
+The four main lobes of the human brain.[^3]
+:::
+
+[^3]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray728.png)
+
 ## NEURONAL INTERACTIONS
 
 Now that we have discussed the combined role of neuronal activation and neuronal connections, we need to face a final open question: _how do these two factors combine_? That is, we established that both neuronal activation and neuronal connectivity seem to matter. This seems trivial, in a sense, in that their combined effect is some sort of **neuronal interaction**, or signal exchange. On a deeper level, this leaves us with another mystery, however: _how does signal exchange support perception_? What is it about signals traveling along chains of neurons that this process comes with us, say, smelling the scent of banana? There are several views and suggestions in the literature. And much of that is at the leading edge of research, with new insights and ideas arriving in steady fashion.  
