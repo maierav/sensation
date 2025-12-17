@@ -27,7 +27,7 @@ Neuronal **activation** is only half of the story when it comes to understanding
 
 If you already have basic training in systems neuroscience, you can probably skip this chapter since we will merely go over the very basics of neuronal function and neuroanatomy. Hlwever, you might want to browse through this page to ensure that we are not covering anything that you might want a quick refresher for. You might also want to check out the end of this chapter, where we briefly discuss the difference between the _computational_ metaphor of brain function and _information processing_ since this distinction is not usually taught, or made explicit, in neuroscience courses.  
 
-## NEURONAL ACTIVATION
+## NEURONAL ACTIVITY
 
 Alcohol and other drugs can strongly alter our perception. Few people dispute that these chemicals do so by altering the chemistry of our brain. In the same vein, certain brain disorders and lesions that alter perception, such as losing the ability to see color or motion (we will discuss these clinical cases in detail at a later stage of the book) lead us to the same conclusion. If we undergo a major surgery, we find relief in the fact that an anaesthesiologist will use chemicals in an attempt to alleviate us from consciously experiencing the associated pain. The same goes for dentists using chemicals locally to disrupt nervous funtion. Even a simple cold that robs us of our sense of smell seems clearly linked to the physiology of the nose and its link to the rest of our nervous system. The link between the brain and perception thus seems obvious.  
 
@@ -68,7 +68,7 @@ Sketch of a single brain cell (neuron). Neurons are generally divided into three
 
 ### fMRI
 
-## NEURONAL CONNECTION
+## NEURONAL CONNECTIVITY
 
 Now that we discussed neuronal activation, let us take a moment and ponder whether the study of neuronal activation (which seems _nevessary_ for perception) is _sufficient_ to uncover the link to perception. The reason to do so is that the massive focus on activation risks forgetfulness about other contributing factors.  
 
