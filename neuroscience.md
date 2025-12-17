@@ -85,7 +85,7 @@ It is important to note that so far our discussion on computations was somewhat 
 
     a number is computable if its decimal can be written down by a machine
 
-This is a bit surprising since the definition seems to cover _future_ machines that we do not even know of. It also gets us to wonder what exactly is so special about machines (or how we define them in the first place).  
+This is a bit surprising since the definition seems to cover _future_ machines that we do not even know of. Does this mean that our definition of computation changes as build new machines that achieve what previous machines could not achieve? What about machines that we can imagine but do not exist in physical reality? This also gets us to wonder what exactly is so special about machines (or how we define them in the first place).  
 
 ### Information Integration
 
