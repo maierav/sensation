@@ -86,7 +86,7 @@ This conclusion leads us to an appreciation of **neuroanatomy** - the study of n
 :::{div}
 :class: hidden dark:block
 
-:::{figure} ./images/nlobes_dark.png
+:::{figure} ./images/lobes_dark.png
 :label: fig:neuron
 :width: 40%
 The four main lobes of the human brain.[^3]
@@ -95,7 +95,7 @@ The four main lobes of the human brain.[^3]
 :::{div}
 :class: dark:hidden
 
-:::{figure} ./images/nlobes_dark.png
+:::{figure} ./images/lobes.png
 :label: fig:neuron
 :width: 40%
 The four main lobes of the human brain.[^3]
