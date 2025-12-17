@@ -43,7 +43,7 @@ There are many ways to study brain activity. Most of them have one assumption in
 
 :::{figure} ./images/neuron_dark.png
 :label: fig:neuron
-:width: 60%
+:width: 30%
 Sketch of a single brain cell (neuron). Neurons are generally divided into three sections: **Dendrites** are extensions where most (but not all) inputs of other neurons are received via **synapses**. Dendrites extend to the main cell body, or **soma**, where the main output of neurons (**action potentials**) originate. Action potentials travel down extensions called **axons**, which can extend across many centimeters or more. At the end point of axons, neurons tend to form synapses that innervate other neurons.[^2]
 :::
 
@@ -52,7 +52,7 @@ Sketch of a single brain cell (neuron). Neurons are generally divided into three
 
 :::{figure} ./images/neuron.png
 :label: fig:neuron
-:width: 60%
+:width: 30%
 Sketch of a single brain cell (neuron). Neurons are generally divided into three sections: **Dendrites** are extensions where most (but not all) inputs of other neurons are received via **synapses**. Dendrites extend to the main cell body, or **soma**, where the main output of neurons (**action potentials**) originate. Action potentials travel down extensions called **axons**, which can extend across many centimeters or more. At the end point of axons, neurons tend to form synapses that innervate other neurons.[^2]
 :::
 
