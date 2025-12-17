@@ -81,4 +81,12 @@ You might remember that there are also **multi-valued logics**, such as intuitio
 
 The next step to understand Boolean is to incorporate what we learned about _set theory_. There is an interesting parallel between the _operations_ of Boolean Logic (i.e., what happens to the 0's and 1's in a Boolean Logic Circuit) and the mathematical principles of set theory.  
 
+It is important to note that so far our discussion on computations was somewhat myopically focused on what a _particular type_ of computer performs. Indeed, the original definition of "computation" was broader, and somewhat more abstract. The term "computation" was coined by A. Turing, and he defined it as:
+
+    a number is computable if its decimal can be written down by a machine
+
+This is a bit surprising since the definition seems to cover _future_ machines that we do not even know of. It also gets us to wonder what exactly is so special about machines (or how we define them in the first place).  
+
 ### Information Integration
+
+The rise of LMM's has given many pause as to the assumption that classical computations, as discussed above, support perception. While LMM's compell us to admit that much of their written output resembles that of thinking humans, there is lingering debate (and in fact, much doubt) about whether LMM's perceive _anything_ in the process.  
