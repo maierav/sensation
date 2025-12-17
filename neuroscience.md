@@ -37,6 +37,27 @@ There are many ways to study brain activity. Most of them have one assumption in
 
 ### Neurons
 
+% NEURON
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/neuron_dark.png
+:label: fig:neuron
+:width: 60%
+Sketch of a single brain cell (neuron).[^2]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/neuron.png
+:label: fig:neuron
+:width: 60%
+Sketch of a single brain cell (neuron).[^2]
+:::
+
+[^2]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray627.png)
+
 ### Action Potentials
 
 ### Synapses
