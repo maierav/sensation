@@ -73,4 +73,12 @@ The second view is that neuronal interactions are a form of **information exchan
 
 ### Computations
 
+We tend to take the term "computation" for granted and well-defined. In a simple sense, it seems to refer to what a computer does. There is a close similarity to the concept of "calculation", except we understand that computers operate on 0's and 1's only. Indeed, one can describe much of what modern computers do as **Boolean Logic**.  
+
+In our section on _Logic_, we already discussed that classical logic only allows for two states: _false_ and _true_. Boolean logic simply uses 0 for _false_ and 1 for _true_. As a result, Boolean Logic is a **binary logic** that only allows for two values.  
+
+You might remember that there are also **multi-valued logics**, such as intuitionist logic, which allows for a value "in-between" true and false (such as "undecided"). If we base brain function on Boolean Logic exclusively (as our modern computers do), we  might miss something important in case the brain (neurons) operate on multi-valued logic. This is worth keeping in mind. However, remember that human brain cells seemingly use _all-or-none_ activation in terms of action potentials, so it does not seem unreasonable that the exchange of action potentials gives rise to a Boolean Logic in the brain. More so, the rise of AI and LMM's in particular seems to suggest that we can get machines to mimic human cognitive function to some degree using the same basic principle of Boolean Logic (realized _in silico_ rather than _in vivo_). So, for now let us assume this to be the case. We will revisit this assumption at a later stage.  
+
+The next step to understand Boolean is to incorporate what we learned about _set theory_. There is an interesting parallel between the _operations_ of Boolean Logic (i.e., what happens to the 0's and 1's in a Boolean Logic Circuit) and the mathematical principles of set theory.  
+
 ### Information Integration
