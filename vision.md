@@ -103,7 +103,7 @@ A rainbow shows the spectrum of natural (sun)light.[^3]
 :::{div}
 :class: hidden dark:block
 
-:::{figure} images/accomodation_dark.png
+:::{figure} images/accommodation_dark.png
 :label: fig: accommodation
 :width: 90%
 
