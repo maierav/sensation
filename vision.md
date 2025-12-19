@@ -105,7 +105,7 @@ A rainbow shows the spectrum of natural (sun)light.[^3]
 
 :::{figure} images/accommodation_dark.png
 :label: fig: accommodation
-:width: 90%
+:width: 70%
 
 Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^4]
 
@@ -115,8 +115,8 @@ Illustration of the process of **Accommodation**: The lens of our eyes gets defo
 :class: dark:hidden
 
 :::{figure} images/accommodation.png
-:label: fig: acco,modation
-:width: 90%
+:label: fig: accommodation
+:width: 70%
 
 Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^4]
 
