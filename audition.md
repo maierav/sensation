@@ -47,6 +47,33 @@ Anatomy of vocalization.[^2]
 
 #### Cochlea
 
+##### Organ of Corti
+
+% VESTIBULAR
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/corti_dark.png
+:label: fig: corti
+:width: 80%
+
+Cross-section of the **Organ of Corti**.[^3]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} images/corti.png
+:label: fig: corti
+:width: 80%
+
+Cross-section of the **Organ of Corti**.[^3]
+
+:::
+
+[^3]: [public domain image source](https://commons.wikimedia.org/wiki/File:Anatomie_Descriptive_Et_Dissection,_Casa_de_Oswaldo_Cruz_(170725),_page_672.jpg)
+
 #### Auditory Nerve
 
 ## BRAIN
