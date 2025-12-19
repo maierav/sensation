@@ -47,15 +47,17 @@ Anatomy of vocalization.[^2]
 
 #### Cochlea
 
-##### Organ of Corti
+The cochlear is the retina of the ear.  
 
-% VESTIBULAR
+ORGAN OF CORTI
+
+% ORGAN OF CORTI
 :::{div}
 :class: hidden dark:block
 
 :::{figure} images/corti_dark.png
 :label: fig: corti
-:width: 80%
+:width: 70%
 
 Cross-section of the **Organ of Corti**.[^3]
 
@@ -66,7 +68,7 @@ Cross-section of the **Organ of Corti**.[^3]
 
 :::{figure} images/corti.png
 :label: fig: corti
-:width: 80%
+:width: 70%
 
 Cross-section of the **Organ of Corti**.[^3]
 
