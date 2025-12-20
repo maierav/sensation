@@ -359,6 +359,12 @@ You may be burning to start learning about the science of perception. After all,
 
 We thus might do best to first spend a bit more time ensuring that the house of knowledge that we are about to build has solid foundations. Otherwise, you might feel later on, that we already went wrong somewhere early on. On the flip side, if we carefully establish our starting point first and then carefully build up from there, we may find that the puzzle of perception cannot simply be explained away because we launched into neuroscience too hastily.
 
+So, let us start with **philosophy** since that is the discipline that has studied the puzzles arising from perception for the longest time. No worries. Many people think of philosophy in the way that A. Bierce defined it in his satirical "Devil's Dictionary":
+
+    A route of many roads leading from nowhere to nothing.
+
+However, as we will see, this is not a fair characterization. There is much to learn from philosophy that is helpful, and in fact necessary for science, even if it does not aways provide results that everyone agrees with.  
+
 ### Epistemology
 
 Epistemology is the philsosophical discipline that is interested in finding out if and how we can know anything. That seems like a good start when embarking on a journey of gaining greater knowledge. We first should ask ourselves if we can know anything in the first place, and then clarify how we can know anything, and where the limits of knowability might lie.
