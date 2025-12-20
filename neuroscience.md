@@ -82,6 +82,19 @@ This conclusion leads us to an appreciation of **neuroanatomy** - the study of n
 
 ### Neuroanatomy
 
+#### Nervous System
+
+#### Sensory Epithels
+
+#### Brain
+
+    Brain, noun. An apparatus with which we think that we think.
+    A. Bierce (1911): 'The Devil's Dictionary'
+
+#### Thalamus
+
+#### Cerebral Cortex
+
 % LOBES
 :::{div}
 :class: hidden dark:block
