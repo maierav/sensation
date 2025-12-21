@@ -144,7 +144,7 @@ Visual fields (gray shade) of different animals shown along the horizontal plane
 Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^4]
 :::
 
-[^4]: [public domain source](https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0001920_Optik_%5E_Anatomie_%5E_Mensch_%5E_Auge.jpg)
+[^4]: [reference](https://doi.org/10.1146/annurev-vision-100720-112922)
 
 The reason that we cannot see what is behind our heads is simply due to the fact that both of our eyes face to the front, of course. Interestingly, this is not the rule among animals, let alone mammals. Many animals do not suffer from this limitation. In particular, animals that frequently face predators tend to feature eyes (usually on each side of the head) that allow for seeing almost _all around them_.  
 
