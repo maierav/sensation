@@ -176,15 +176,33 @@ White noise. By moving close to your monitor, you can fill close your entire vis
 
 #### Gestalt
 
+#### Multistability
+
 ### Depth
+
+#### Depth Cues
+
+#### Stereopsis
 
 ### Color
 
+#### Color Space
+
+#### Color Anomalies
+
 ### Motion
+
+#### Akinetopsia
 
 ### Objects
 
+#### Agnosias
+
 #### Faces
+
+#### Prosopagnosia
+
+#### Pareidolia
 
 ## ANATOMY
 
