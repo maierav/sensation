@@ -131,7 +131,7 @@ The first thing one notices when pondering the nature of _seeing_ is that one ca
 :label: fig:vision
 :width: 75%
 
-Visual fields of different animals.[^4]
+Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^4]
 :::
 
 :::{div}
@@ -141,7 +141,7 @@ Visual fields of different animals.[^4]
 :label: fig:vision
 :width: 75%
 
-Visual fields of different animals.[^4]
+Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^4]
 :::
 
 [^4]: [public domain source](https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0001920_Optik_%5E_Anatomie_%5E_Mensch_%5E_Auge.jpg)
