@@ -113,6 +113,8 @@ For example, when we learn that some people cannot distinguish colors near red a
 
 The same goes for learning people that cannot discriminate faces, objects, or who cannot see motion. Part of the process of understanding these phenomena is wondering about what remains, such as whether these people still see objects, faces, or motion _like_ we do, but struggle to make sense of what they see. In other words, since we are _ultimately_ studying perception, and not just its behavioral corrolaries, we _invariably_ use our own perception as an additional data point that seems challenging to eliminate from the equation without losing sight of the subject at hand.  
 
+### Phenomenology
+
 One way to account for this interesting issue is to acknowledge that what we mean by "psychology" in this, and similar sections, is _not_ exclsuive to behavioral output. Instead, we will also - often implicitly, and sometimes explicitly - leverage our _own_ perceptual experience to interpret these behavioral findings. In fact, we have already done so at the very start of this textbook when we pondered a visual illusion. We will count your own perceptual experience as a valid data point.  
 
 Some may call this added data point as being derived from "introspection". Technically, it seems a bit unclear whether any active process is taking place - let alone what is internal about it - when I look at something red and see red. Yet, it is fair to point out that using your own perception to derive knowledge about perception seems to deviate from using data that is derived from other people. The outcome of this process is sometimes referred to as **phenomenology**. Many people use this term in a variety of contexts and definitions, but for our purposes, adding this note about "phenomenology" only is meant to expand on a possibly too narrow definition of psychology to incorporate the science of perception.  
@@ -155,6 +157,8 @@ You can test this yourself: Keep your eyes steady to the front (e.g., by fixatin
 This all is very basic and trivial, of course. But it allows us to move towards describing quite rigorously (and indeed mathematically when using degrees of angle) _what_ we see. And this is just a starting point.  
 
 Now that we appreciate that what we see is extending 180 degrees horizontally and vertically in front of us, the next step is to think about what _that_ is. And a somewhat trivial, yet surprising answer is: **space**.  
+
+#### Fronto-Parallel Plane
 
 To keep things simple, let us think about two-dimensional space first. In other words, let us consider a **plane**. One might object that what we see is not just a flat, two-dimensional image. But that actually warrants a bit of consideration. As we will see, the 3D nature of our vision (i.e., the fact that we see _depth_) actually resembles a bit more of an _inference_ in that is based on a small set of rules. However, more than that, we clearly _can_ just see in 2D. That is, we can have perectly normal, fine vision and fill our entire visual field with just a plane.  
 
