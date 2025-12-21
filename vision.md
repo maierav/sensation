@@ -154,6 +154,10 @@ You can test this yourself: Keep your eyes steady to the front (e.g., by fixatin
 
 This all is very basic and trivial, of course. But it allows us to move towards describing quite rigorously (and indeed mathematically when using degrees of angle) _what_ we see. And this is just a starting point.  
 
+Now that we appreciate that what we see is extending 180 degrees horizontally and vertically in front of us, the next step is to think about what _that_ is. And a somewhat trivial, yet surprising answer is: **space**.  
+
+To keep things simple, let us think about two-dimensional space first. In other words, let us consider a **plane**. One might object that what we see is not just a flat, two-dimensional image. But that actually warrants a bit of consideration. As we will see, the 3D nature of our vision (i.e., the fact that we see _depth_) actually resembles a bit more of an _inference_ in that is based on a small set of rules. However, more than that, we clearly _can_ just see in 2D. That is, we can have perectly normal, fine vision and fill our entire visual field with just a plane.  
+
 ### Gestalten
 
 ### Depth
