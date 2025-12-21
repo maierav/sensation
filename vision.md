@@ -117,7 +117,19 @@ One way to account for this interesting issue is to acknowledge that what we mea
 
 Some may call this added data point as being derived from "introspection". Technically, it seems a bit unclear whether any active process is taking place - let alone what is internal about it - when I look at something red and see red. Yet, it is fair to point out that using your own perception to derive knowledge about perception seems to deviate from using data that is derived from other people. The outcome of this process is sometimes referred to as **phenomenology**. Many people use this term in a variety of contexts and definitions, but for our purposes, adding this note about "phenomenology" only is meant to expand on a possibly too narrow definition of psychology to incorporate the science of perception.  
 
+Back to the topic at hand - what does all that mean for how we _see_?  
+
 ### Visual Field
+
+The first thing one notices when pondering the nature of _seeing_ is that one can quickly derive some simple facts about _what_ we see. First among these is that we do not see _all around us_. We only see what it is _in front of us_. That is, the visual world that we encounter (including that of our dreams) is only _half_.  
+
+The reason that we cannot see what is behind our heads is simply due to the fact that both of our eyes face to the front, of course. Interestingly, this is not the rule among animals, let alone mammals. Many animals do not suffer from this limitation. In particular, animals that frequently face predators tend to feature eyes (usually on each side of the head) that allow for seeing almost _all around them_.  
+
+We call this fraction of the entire possible world that we could possibly see (if our eyes were to the side, like the eyes of horses), the **visual field**. For most humans (and other primates), the visual field roughly reaches 180 degress around our body horizontally as well as roughly 180 degrees vertically.  
+
+You can test this yourself: Keep your eyes steady to the front (e.g., by fixating on an object straight ahead of you). Then, stiffen your arms, hands, and fingers so that they are all in line. Hold them right in front of you as if you are pointing with both arms and hands at what you are looking at. Now, move them apart laterally so that your left and right arms and hand slowly become parallel with your shoulders. Keep your eyes steady as you do so. You will probably be able to move your arms even further beyond the point of being parallel to your shoulders. But as you do so, and you keep looing straight ahead, your hands and arms will _vanish_ from view. You can move your hands a bit back and forth, and you can easily see where the "borders" of your field of you are located. Here is a bonus: Keep your eyes at that point for a moment and close one eye and the other if you can. What do you see now?  
+
+This all is very basic and trivial, of course. But it allows us to move towards describing quite rigorously (and indeed mathematically when using degrees of angle) _what_ we see. And this is just a starting point.  
 
 ### Gestalten
 
