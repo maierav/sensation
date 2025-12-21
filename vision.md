@@ -172,7 +172,9 @@ White noise. By moving close to your monitor, you can fill close your entire vis
 
 [^5]: [reference](https://commons.wikimedia.org/wiki/File:White-noise.gif)
 
-### Gestalten
+### Form
+
+#### Gestalt
 
 ### Depth
 
