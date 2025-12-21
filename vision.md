@@ -158,6 +158,16 @@ Now that we appreciate that what we see is extending 180 degrees horizontally an
 
 To keep things simple, let us think about two-dimensional space first. In other words, let us consider a **plane**. One might object that what we see is not just a flat, two-dimensional image. But that actually warrants a bit of consideration. As we will see, the 3D nature of our vision (i.e., the fact that we see _depth_) actually resembles a bit more of an _inference_ in that is based on a small set of rules. However, more than that, we clearly _can_ just see in 2D. That is, we can have perectly normal, fine vision and fill our entire visual field with just a plane.  
 
+% White Noise
+:::{figure} ./images/white_noise.gif
+:label: fig:vision
+:width: 100%
+
+White noise. By moving close to your monitor, you can fill close your entire visual field with this two-dimensional image. At that point, all you see is movement within a plane that runs parallel to your eyes.[^5]
+:::
+
+[^5]: [reference](https://commons.wikimedia.org/wiki/File:White-noise.gif)
+
 ### Gestalten
 
 ### Depth
@@ -180,7 +190,7 @@ To keep things simple, let us think about two-dimensional space first. In other 
 :label: fig: accommodation
 :width: 70%
 
-Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^5]
+Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^6]
 
 :::
 
@@ -191,11 +201,11 @@ Illustration of the process of **Accommodation**: The lens of our eyes gets defo
 :label: fig: accommodation
 :width: 70%
 
-Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^5]
+Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^6]
 
 :::
 
-[^5]: [public domain image source](https://commons.wikimedia.org/wiki/File:Anatomie_Descriptive_Et_Dissection,_Casa_de_Oswaldo_Cruz_(170725),_page_672.jpg)
+[^6]: [public domain image source](https://commons.wikimedia.org/wiki/File:Anatomie_Descriptive_Et_Dissection,_Casa_de_Oswaldo_Cruz_(170725),_page_672.jpg)
 
 ## BRAIN
 
@@ -217,10 +227,10 @@ The primary visual pathway, colored coded by _visual field_ (not by eye). Neuron
 :label: fig:vision
 :width: 40%
 
-The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^6]
+The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^7]
 :::
 
-[^6]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray722.png)
+[^7]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray722.png)
 
 ### Optic Nerve
 
@@ -244,7 +254,7 @@ The optic nerves of both eyes meet at an x-formed structure called the **optic c
 :label: fig:optic chiasm
 :width: 40%
 
-The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^6]
+The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^8]
 :::
 
-[^7]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray773.png)
+[^8]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray773.png)
