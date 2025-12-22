@@ -231,7 +231,7 @@ Illustration of the process of **Accommodation**: The lens of our eyes gets defo
 
 [^6]: [public domain image source](https://commons.wikimedia.org/wiki/File:Anatomie_Descriptive_Et_Dissection,_Casa_de_Oswaldo_Cruz_(170725),_page_672.jpg)
 
-## BRAIN
+## NEUROSCIENCE
 
 % Visual Pathway
 :::{div}
