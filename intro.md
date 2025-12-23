@@ -12,7 +12,7 @@ Throughout the book, pop-up boxes aim at providing moments for pause and reflect
     G. Whitney
 
 % Teaching Philosophy
-:::{figure} ./images/meme.gif
+:::{figure} ./images/meme.png
 :label: fig:MAE
 :width: 80%
 
