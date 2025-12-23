@@ -7,6 +7,7 @@ This Jupyter book provides an open source, opinionated[^1], principled, and stru
 [^2]: Books on expert topics often go out of print and/or are expensive. Web sites sometimes get abandoned go offline. In an attempt to provide free resources with some hope of permanence, we will largely limit external links to documents that have been associated with a Digital Object Identifier, or DOI. Exceptions are made for public domain sources and scholarly or academic web sites that have an established history of maintenance.
 
 Throughout the book, pop-up boxes aim at providing moments for pause and reflection. Together with the  at times deliberatively provocative or humorous presentation of some ideas and concepts, these exercises are meant to stimulate deeper engagement. In other words, this book is not just meant to be read, but to be interacted with. Research suggests that the result is not just better memorization, but a more profound creation of knowledge by relating new information with what the reader already knows.  
+
     The use, not the reading, of books makes us wise.
     G. Whitney
 
@@ -19,6 +20,7 @@ The didactic goal of this book of this book is to inspire a perpetual cycle that
 :::
 
 Here is the plan: We will start with a few **interesting demonstrations** to kindle curiosity and evoke doubt about our intution about the relationshipo between the subjective world of our perception and the objective world that guides our lives. We then will try to defeat the skepticism that this leaves us with. Which will lead us to modern natural science. And the science will eventually bring us back to our starting point. But we will not just go in a circle. To say it with T.S. Eliot:
+
      The end of all our exploring will be to arrive where we started.
      And know the place for the first time.  
 
