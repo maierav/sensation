@@ -901,7 +901,7 @@ With this view of the **scientific method** in mind, we can remind ourselves wha
 :label: fig:learning model
 :width: 80%
 
-A simplistic, bare bones model of a learning model synthesized across several established semi-formal proposals.
+A simplistic, bare bones model of a learning model synthesized across several established semi-formal proposals (Structure of Observed Learning Outcomes by Biggs & Collis; Information Hierarchy; Reflective Model by Borton; Bloom's Taxonomy).
 :::
 
 :::{div}
@@ -911,7 +911,7 @@ A simplistic, bare bones model of a learning model synthesized across several es
 :label: fig:learning model
 :width: 80%
 
-A simplistic, bare bones model of a learning model synthesized across several established semi-formal proposals.
+A simplistic, bare bones model of a learning model synthesized across several established semi-formal proposals (Structure of Observed Learning Outcomes by Biggs & Collis; Information Hierarchy; Reflective Model by Borton; Bloom's Taxonomy).
 :::
 
 ### Bayes
