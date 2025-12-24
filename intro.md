@@ -922,7 +922,10 @@ If we can never find truth or falsehood with certainty in science, why do it?
 
 The answer is that we do not need to be 100% certain about things and still make progress in our understanding. You are not 100% certain that you will survive the night rather than have a surprise stroek or heart attack. And yet, it makes little sense to live as if this were your last day on earth today. Knowing that there is an extremely high likelihood that you will be alive tomorrow seems well and sufficient.
 
-And that is what science really does: It provides us with varying degrees of certainty about what seems correct or wrong. Finding little empirical evidence for unicorns does not imply that we know with 100% certainty that there are no unicorns. Perhaps some crazy amateur scientists created them using genetic engineering in their garage. But we can put a much greater _likelihood_ over there not being unicorns over the likelihood of the alternative being true.  
+    proportion ... belief to the evidence
+    D. Hume
+
+And that is what science seems to do: It provides us with varying degrees of certainty about what seems correct or wrong. Finding little empirical evidence for unicorns does not imply that we know with 100% certainty that there are no unicorns. Perhaps some crazy amateur scientists created them using genetic engineering in their garage. But we can put a much greater _likelihood_ over there not being unicorns over the likelihood of the alternative being true.  
 
 This ration of likelihoods between alternative theories is called the Bayes' factor, which can be calculated.
 
