@@ -635,7 +635,7 @@ Finding out what the real world, that is responsible for the "shadows" of our pe
 
 This may still sound a bit confusing at this point. After all, we have not talked about what role our brains play in all of that (and since brains are obviously also part of that world that we perceive). We all share to some degree the notion that our brains are linked to our feelings, our ability to see, hear, smell, or taste. But what we will learn soon is _how closely_ linked the actions of our brain are to what we perceive. For now, it is only important to follow the logic of Plato's allegory: _If_ our direct acquintance with the world is our perception, and that perception can be unreliable (as in the sxistence of illusions), the problem arises that we have to find additional ways other than our perception to learn about the world.
 
-##### PERCEPTION vs. REALITY
+##### SUBJECTIVE PERCEPTION vs. OBJECTIVE WORLD
 
 Many thinkers that followed Plato have thought deeply about this issue. However, they failed to all settle on the same solution. Instead, these scholars have endowed us with a variety of ways to think about that problem, each arguing for their favorite idea. Let us briefly (and superficially) examine the various proposed answers. The academic field that studies these ideas is called _PHILOSOPHY OF MIND_, and there are thousands of academic works on this subject. Here we will attempt at the most minimal possible overview of major "schoolf of thought" within this field:
 
@@ -650,7 +650,7 @@ The actual ideas are a bit more complex, but they do not deviate far from the se
 The opposing view is:  
 
 >IDEALISM_: There is no physical world. All is perception (again, technically, proponents of this view would use broader terms like "mind", or "consciousness" - but it is debatable how much these concepts do or do not overlap). There are two options on this view:\
->>SOLIPSISM: Your perception is all that exists. Nothing else is real. You are all alone. Everything is just an illusion, except your perception. This view is difficult to argue with rationally. At the same time, view people are convinced by this view, let alone prefer this view since it resembles a horrifying reality.\
+>>SOLIPSISM: Your perception is all that exists. Nothing else is real. You are all alone. Everything is just an illusion, except your perception. This view is difficult to argue with rationally. At the same time, view people are convinced by this view, let alone prefer this view since it neither allows for predictions nor has much explanatory value.\
 >>
 >> PANPSYCHISM: Everything is perception. This view grants that there is "a world out there", but it assumes that that which exists outside our own perception is even more perception - a grand ocean of perception, if you will. Proponents of this view suggest that something keeps our own perception separate from the rest of perception out there.
 
@@ -713,7 +713,7 @@ It seems extremely challenging to rule out, for example, that we live inside a c
 
 Does that mean that such radical doubt leaves us with zero certainty? Is everything we believe potentially completely wrong?
 
-Thinkers across the millenia have struggled with this issue. One of them, René Descartes, proposes an interesting answer: No matter how much you doubt, you cannot doubt away that there is _something_. This something is your perception (technically, Descartes argued that there is thought - but we made the case above that us having a thought could be seen as us perceiving that thought). You can doubt that your perception is accurate (it could be part of a computer simulation after all). But the fact that _there is something_ that remains stubbornly when you question _everything_ seems immune to all criticism, attempts of elimination, and radical doubt. The real is really real.  
+Thinkers across the millenia have struggled with this issue. One of them, René Descartes, proposes an interesting answer: No matter how much you doubt, you cannot doubt away that there is _something_. This something is your perception (technically, Descartes argued that there is thought - but we made the case above that us having a thought could be seen as us perceiving that thought). You can doubt that your perception is accurate (it could be part of a computer simulation after all). But the fact that _there is something_ that remains stubbornly when you question _everything_ seems immune to all criticism, attempts of elimination, and radical doubt.  
 
 Or, to paraphrase Philip K. Dick:
 
