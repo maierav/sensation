@@ -559,7 +559,16 @@ We talked already about how philosophers call thinking about the limits of what 
 
 Naïve realism, in a way, is a simple epistemology where phenomenology is equated with ontology, Realizing that we do not perceive the world as it is leads to a more sophisticated epistemology that differentiates between our phenomenology and ontology. But what can we know about ontology? Metaphorically speaking, if our phenomenology is akin to shadows, how can we find out what is actually going on outside the cave?
 
-If naïve realism is problematic, which other worldviews are there that might be more convincing? You might immediately think about science, especially since we argued for its strength above. And, indeed, the scientific worldview differs widely from naïve realism. However, as we will see, there actually are a large variety of very different worldviews that all claim to be compatible with science. And many of these diverging worldviews that base themselves off science differ in how they think about perception!
+If naïve realism is problematic, which other worldviews are there that might be more convincing?  
+
+You might immediately think about science, especially since we argued for its predictive and explanatory strength above (much of modern technology would not have been possible without improved scientific knowledge).  
+
+Indeed, the scientific worldview differs widely from naïve realism. What exactly the scientific worldview is, or which worldviews are the most compatible with science is an ongoing debate. However, there are some common notions that are widely appreciated. For example, scientist tend to agree on mathematical descriptions of observable phenomena. Scientists also tend to agree that causal powers rule physical interactions, and that we have not found hard evidence for causal interactions that cannot be explained by sticking to physics. Most importantly, scientists tend to agree that there is a world, a universe, a cosmos that follows these mathematical rules and where causality seems to be confined within (again, we have not good evidence of non-causal events such as a teacup suddenly vanishing from existence). That is, scientists tend to agree that there is one reality (i.e., what is real really is real), and that much of that reality is best described using mathematics. This view does not claim that we _know_ the truth for certain, but that there is one mind-independent reality. This view is often labeled "**scientific realism**".  
+
+    realism is ... the only philosophy that doesn’t make the success of science a miracle.
+    H. Putnam
+
+However, as we will see, there actually are a large variety of very different worldviews that all claim to be compatible with science. And many of these diverging worldviews that base themselves off science differ in how they think about perception.
 
 % The naturalistic worldview
 :::{div}
@@ -578,7 +587,7 @@ If naïve realism is problematic, which other worldviews are there that might be
 :alt: The naturalistic worldview
 :width: 90%
 
-An attempt at illustrating the naturalistic worldview. Rather than equating our perception with the world, scientists see the world as a complex dynamic system following mathematical laws, much of which is not directly perceived, and some of it not perceivable at all. The challenge then becomes to _explain_ how the world of our perception relates and comes about from the physical world.  
+An attempt at illustrating the modern naturalistic worldview (**scientific realism**). Rather than equating our perception with the world, scientists see the world as a complex dynamic system following mathematical laws, much of which is not directly perceived, and some of it not perceivable at all. The challenge then becomes to _explain_ how the world of our perception relates and comes about from the physical world.  
 :::  
 
 #### Do we all perceive the world differently?  
