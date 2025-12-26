@@ -19,7 +19,9 @@ Throughout the book, pop-up boxes aim at providing moments for pause and reflect
 The didactic goal of this book of this book is to inspire a perpetual cycle that alternates between reading and thinking.
 :::
 
-Here is the plan: We will start with a few **interesting demonstrations** to kindle curiosity and evoke doubt about our intution about the relationshipo between the subjective world of our perception and the objective world that guides our lives. We then will try to defeat the skepticism that this leaves us with. Which will lead us to modern natural science. And the science will eventually bring us back to our starting point. But we will not just go in a circle. To say it with T.S. Eliot:
+Here is the plan: We will start with a few interesting demonstrations to kindle **curiosity** and evoke **doubt** about our **intution** about the relationship between the _subjective_ (mind-dependent) world of our perception and the _objective_ (mind-independent) world that guide our lives.  
+
+We then will try to defeat the skepticism that this leaves us with. Which will lead us to modern natural science. And the science will eventually bring us back to our starting point. But we will not just go in a circle. To say it with T.S. Eliot:
 
      The end of all our exploring will be to arrive where we started.
      And know the place for the first time.  
