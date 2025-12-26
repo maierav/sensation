@@ -914,7 +914,7 @@ With this view of the **scientific method** in mind, we can remind ourselves wha
 
 :::{figure} images/howto_dark.png
 :label: fig:learning model
-:width: 80%
+:width: 70%
 
 A simplistic, bare bones model of a learning model synthesized across several established semi-formal proposals (Structure of Observed Learning Outcomes by Biggs & Collis; Information Hierarchy; Reflective Model by Borton; Bloom's Taxonomy).
 :::
@@ -924,9 +924,9 @@ A simplistic, bare bones model of a learning model synthesized across several es
 
 :::{figure} images/howto.png
 :label: fig:learning model
-:width: 80%
+:width: 70%
 
-A simplistic, bare bones model of a learning model synthesized across several established semi-formal proposals (Structure of Observed Learning Outcomes by Biggs & Collis; Information Hierarchy; Reflective Model by Borton; Bloom's Taxonomy).
+A simplistic, bare bones model of a learning model synthesized across several established semi-formal proposals (Structure of Observed Learning Outcomes by Biggs & Collis; Information Hierarchy; Reflective Model by Borton; Bloom's Taxonomy). This schema also gives rise to a notion of **knowledge** consisting of analytically organized, coherently **structured information**. That is, to move from memorizing facts to useful understanding involves **figuring** things out via connections between indivdual pieces of information. There is an element reminiscent of geometry - mathematics - involved.  
 :::
 
 ### Bayes
