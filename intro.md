@@ -368,11 +368,11 @@ This insight is called the **Homunculus Problem**. And it leaved with a puzzle. 
 
 ## FOUNDATIONS
 
-Now that we had to acknowledge that there is something about perception that seems puzzling, we may ask ourselves how we got there.  
+Now that we acknowledge that there is something puzzlingabout our perception - especially when taking the role of our brains into account - it should feel more enticing to learn about the science of perception.  
 
-You may be burning to start learning about the science of perception. After all, the brain is very interesting, and there is indeed a lot of fascinating material to learn there. However, as you will see, the puzzle of perception **will remain**.  
+You may burn to start learning about the neuroscience of perception. After all, the brain is very interesting, and there is indeed a lot of fascinating material to learn there. However, as you will see, once you learned about what modern day neuroscientists know, the deepest puzzles of perception **will remain**, or even get worse.  
 
-We thus might do best to first spend a bit more time ensuring that the house of knowledge that we are about to build has solid foundations. Otherwise, you might feel later on, that we already went wrong somewhere early on. On the flip side, if we carefully establish our starting point first and then carefully build up from there, we may find that the puzzle of perception cannot simply be explained away because we launched into neuroscience too hastily.
+We thus will do best to first spend a bit more time ensuring that the house of knowledge that we are about to build has a solid foundation. Otherwise, you might feel later on, that we already went wrong before we started. On the flip side, if we carefully establish our starting point first and then carefully build up from there, we may find that the puzzle of perception cannot simply be explained away because we launched into neuroscience too hastily.
 
 So, let us start with **philosophy** since that is the discipline that has studied the puzzles arising from perception for the longest time. No worries. Many people think of philosophy in the way that A. Bierce defined it in his satirical "Devil's Dictionary":
 
