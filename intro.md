@@ -942,7 +942,7 @@ By embracing logic and observation, we ended up rejecting the notion that our ex
 
 Yet, we also found arguments that prevent us from concluding from the fact that we _only_ find our experience when doubting everything that "_nothing_ is it what it seems" (i.e., like Alice in Wonderland). Instead, we were able to find a middle ground by establishing that the scientific method can be helpful in determining what (and how) else there may be (the world, nature, physical reality) other than our perception.  
 
-And once we appreciate that our perception is not entirely ruled by ourselves (i.e., you cannot make your perception of a laptop hover in mid air using only your mind), we come close to the notion that perception is ruled - structured - in a way that probably finds its source in physical reality. Since herein lies the ultimate answer to the puzzle of the link between our brains and our perception, we will return to this thought at the end of this book.  
+And once we appreciate that our perception is not entirely ruled by ourselves (i.e., you cannot make your perception of a laptop hover in mid air using only your mind), we come close to the notion that perception is ruled - structured - in a way that probably finds its source in physical reality. Since herein lies the ultimate answer to the puzzle of linking our brains to our perception, we will return to this thought at the end of this book.  
 
 However, we had to acknowledge that this process does not lead to _certainty_. Science does not allow us to prove that something, anything, is true or correct. In fact, science struggles to even prove that something is incorrect. Instead, we came to see that science means that we "err - just less and less and less". But how so?  
 
