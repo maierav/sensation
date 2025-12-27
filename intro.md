@@ -686,6 +686,9 @@ There are many more ideas on that problem, some of which cannot neatly placed wi
 :alt: Isms
 :width: 80%
 
+A simplified logical space of possible views regarding conscious perception and the material (physical) world. Note that not every Philosopher of Science would agree with this taxonomy and that there are many more suggested solutions. However, when thinking about the problem in broad-strokes, disallowing for nuance, excemptions, and complications, there is a limited set of possibilities regarding if one or both exists, and how they may relate causally.
+:::  
+
 :::{div}
 :class: dark:hidden
 
