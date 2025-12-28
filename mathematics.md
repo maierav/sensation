@@ -181,9 +181,9 @@ Exponentiation just repeats multiplication. So, we just continue what we started
 
 Why two inverses then? Well, exponentiation has two parts: the **base** and the **exponent**. So, we need two operations to find one or the other.  
 
-Root (to that base) returns the base.  
+Root (of the exponent) returns the base.  
 
-Logarithm returns the exponent.  
+Logarithm (to that base) returns the exponent.  
 
 % Arithmetic
 :::{div}
