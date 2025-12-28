@@ -108,7 +108,7 @@ We can just take these 2 apples away again. Undo addition - and get subtraction:
 :class: hidden dark:block
 
 :::{figure} ./images/addition_dark.png
-:label: fig:math
+:label: fig:addition
 :width: 70%
 Addition and Subtraction are **inverse operations**.
 
@@ -118,7 +118,7 @@ Addition and Subtraction are **inverse operations**.
 :class: dark:hidden
 
 :::{figure} ./images/addition.png
-:label: fig:math
+:label: fig:addition
 :width: 70%
 Addition and Subtraction are **inverse operations**.
 
@@ -164,12 +164,12 @@ We _learned_ that the solution is:
 
 The reason for us not _actually_ calculating the result of this equation in our head, but just recall from memory, is quite interesting. It seems to be _not_ a limitation of mathematical _ability_. Instead, it find its root in our _perception_. In particular, we can easily look at a small amount of objects and determine their **quantity** - and thus assign a number. However, the more objects there are, the harder this gets. As we will see in the next chapter, this is one of the most fundamental insights not about mathematics, but about _perception_. And yet, this perceptual limitation, or property, affects our approach to some of the most basic mathematics, such as addition and multiplication.  
 
-% Addition and Subtraction
+% Large Numbers
 :::{div}
 :class: hidden dark:block
 
 :::{figure} ./images/large_numbers_dark.png
-:label: fig:math
+:label: fig:times table
 :width: 100%
 _**LEFT**_: Our perception of large _quantities_ is very different from our perception of small numbers of objects. When we see two, or three objects, we do not have to _count_ them. We are immediately able to assign a number to their _amount_. However, once we look at ~7 or more objects, this immediate recognition of _numerosity_ becomes challenging, if not impossible. At that point the number of objects starts looking _too similar_ (e.g., 8 or 9 objects _looks_ almost the same). We thus are forced to slow down and start _counting_, which is prone to mistake. _**RIGHT**_: As a result of our experiental limitation of immediately perceiving quantity accurately, we need to _memorize_ the outcome of composing (combining) or decomposing large quantities, such as in the form of a _multiplication table_ (or _times table_).
 
@@ -179,7 +179,7 @@ _**LEFT**_: Our perception of large _quantities_ is very different from our perc
 :class: dark:hidden
 
 :::{figure} ./images/large_numbers.png
-:label: fig:math
+:label: fig:times table
 :width: 100%
 _**LEFT**_: Our perception of large _quantities_ is very different from our perception of small numbers of objects. When we see two, or three objects, we do not have to _count_ them. We are immediately able to assign a number to their _amount_. However, once we look at ~7 or more objects, this immediate recognition of _numerosity_ becomes challenging, if not impossible. At that point the number of objects starts looking _too similar_ (e.g., 8 or 9 objects _looks_ almost the same). We thus are forced to slow down and start _counting_, which is prone to mistake. _**RIGHT**_: As a result of our experiental limitation of immediately perceiving quantity accurately, we need to _memorize_ the outcome of composing (combining) or decomposing large quantities, such as in the form of a _multiplication table_ (or _times table_).
 
@@ -207,12 +207,12 @@ Well, we can think of it as the _inverse_ to multiplication, of course. In a sen
 
     25 : 5 = 5
 
-% Addition and Subtraction
+% Multiplication
 :::{div}
 :class: hidden dark:block
 
 :::{figure} ./images/multiplication_dark.png
-:label: fig:math
+:label: fig:multiplication
 :width: 70%
 Multiplication and Divsion are **inverse operations**. And both are jsut repeated Addition and Subtraction, respectively.
 
@@ -222,7 +222,7 @@ Multiplication and Divsion are **inverse operations**. And both are jsut repeate
 :class: dark:hidden
 
 :::{figure} ./images/multiplication.png
-:label: fig:math
+:label: fig:multiplication
 :width: 70%
 Multiplication and Divsion are **inverse operations**. And both are jsut repeated Addition and Subtraction, respectively.
 
@@ -255,7 +255,7 @@ Logarithm (to that base) returns the exponent.
 :class: hidden dark:block
 
 :::{figure} ./images/arithmetic_dark.png
-:label: fig:math
+:label: fig:arithmetic
 :width: 97%
 How the pairwise operations of arithmetic relate.
 
@@ -265,7 +265,7 @@ How the pairwise operations of arithmetic relate.
 :class: dark:hidden
 
 :::{figure} ./images/arithmetic.png
-:label: fig:math
+:label: fig:arithmetic
 :width: 97%
 How the pairwise operations of arithmetic relate.
 
