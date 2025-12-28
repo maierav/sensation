@@ -191,7 +191,7 @@ Logarithm (to that base) returns the exponent.
 
 :::{figure} ./images/arithmetic_dark.png
 :label: fig:math
-:width: 100%
+:width: 96%
 How the pairwise operations of arithmetic relate.
 
 :::
@@ -201,7 +201,7 @@ How the pairwise operations of arithmetic relate.
 
 :::{figure} ./images/arithmetic.png
 :label: fig:math
-:width: 100%
+:width: 96%
 How the pairwise operations of arithmetic relate.
 
 :::
