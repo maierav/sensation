@@ -153,7 +153,7 @@ So, at least in this sense, we can think of multiplication almost as a "shorthan
 
 It's just "less to write", if you will.
 
-[A minor point of potential confusion in the form of some amguity of sorts is the _notation_ that we learn with multiplication in that we use _a_*_b_, _a_·_b_, and _ab_ alike.]
+[A minor point of potential confusion in the form of an ambiguity of sorts is the _notation_ that we learn with multiplication in that we use **_a_ * _b_**, **_a_ · _b_**, and **_ab_** alike.]
 
 Now, deeper thought about multiplication leads us elsewhere. There is actually something more interesting about what a (Cartesian) **product** is. It is a unique kind of combination, in fact. But for our current context, it is more helpful to grasp that there is a _link_ between addition (which many feel is relatively "easy" to do) and multiplication (which "feels" a bit more involved; partly because we quickly end up with much larger numbers).  
 
@@ -169,7 +169,7 @@ This asymmetry, here too, may be why students often find division a bit more cha
 
 This happens when we learn about division that lead to fractions such as 7 / 3. The result has a "**remainder**, and we eventually learn that writing down the result in decimal points never ends. In other words, we encounter **infinity** for the first time. We also learn that we can get seemingly around that problem by **rounding** or **approximating** (e.g., 7:3 ≈ 2.33). None of that is trivial, and some of the feeling of confusion that we might have first experienced at this point of our math education might have started us to feel like we are "not good" at math from this very point on (and resurfaced when we encounter infinity again at later stages).  
 
-[Not making things any less confusin, the _notation_ of division can be confusing in that we use _a_:_b_, and _a_/_b_, and $\frac{a}{b}$ alike.]
+[Not making things any less confusin, the _notation_ of division can be confusing in that we use **_a_ : _b_**, and **_a_ / _b_**, and **$\frac{a}{b}$** alike.]
 
 Still, we all probably feel like we do not feel confused by these four basic operations of arithmetic (addition, subtraction, multiplication, and division). So, so far the only interesting observation may be how they related via repetition (at least, this is usually not made as obvious when teaching these techniques).  
 
