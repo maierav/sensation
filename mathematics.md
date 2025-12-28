@@ -93,6 +93,10 @@ One way to think about this (trivial seeming) "rule" of commutativity is that th
 
 But commutativity (the _fact_ that we can reverse the order of numbers we add and still get the same result) seems a bit different. Something a bit more "hidden". And less _human-made_. It just seems like we "discovered" that when we calculate, or even when we add physical objects together, this process is _guided_, or ruled by, commutativity. To many mathematicians, this is very interesting. They refer to this "discovery" of underlying rules as "mathematics" as well. But since it seems not quite the same as the _activity of doing mathematics_, we might want to refer to it with a different noun, such as **the mathematical**. The mathematical is what we _describe_ when we _do_ mathematics. Or, put differently, the mathematical is that which mathematics _studies_. It is the _subject_ of mathematics (and hence, not the same as mathematics). This distinction can be helpful as we continue to ponder a bit more about what, how, and why mathematics will play a key role in our exploration of perception.  
 
+One last thing - we need to also agree on (or accept) precise word for _describing_ the various parts of addition (summation). You probably already know that the number that results from addition is what we call the **sum**. We just need names for the other numbers as well. Since their order does not matter (we can rotate their position and the sum remains the same), we can just use one and the same name for these numbers: **addend**. Adding two addends results in the sum. So, the common definition is:
+
+    addend + addend = sum
+
 **Subtraction** seems to be a simple inverse process. We just reverse what we just did.  
 
 Let's say we added 2 apples to 4 apples:
@@ -127,6 +131,10 @@ Addition and Subtraction are **inverse operations**.
 But if subtraction is basically the same as addition, just the other way around, a kid who discovers all might be surprised that there is a big difference: Subtraction is not commutative.
 
     6 - 4 = 2
+
+As a result, we have to be a little be more careful for the words we use to describe these numbers:
+
+    minuend - subtrahend = difference
 
 Indeed, many people feel that addition is a bit more "easy" than subtraction. And the fact that additivity is a bit more "lax" in that you disregard order while subtraction requires you to make sure that you do not accidentally confuse the order might be part of that reason.  
 
@@ -197,7 +205,11 @@ So, at least in this sense, we can think of multiplication almost as a "shorthan
 
 It's just "less to write", if you will.
 
-[A minor point of potential confusion in the form of an ambiguity of sorts is the _notation_ that we learn with multiplication in that we use **_a_ * _b_**, **_a_ · _b_**, and **_ab_** alike.]
+[A minor point of potential confusion in the form of an ambiguity of sorts is the _notation_ that we learn with multiplication in that we use **_a_ * _b_**, **_a_ x _b_**, **_a_ · _b_**, and **_ab_** alike.]
+
+Now, since multiplication is just repeated addition, we can rotate the numbers that are added (or multipled) around again without changing the result. Accordingly, the words we use to describe these numbers are one and the same again for the numbers that we multiply:
+
+    factor * factor = product
 
 Now, deeper thought about multiplication leads us elsewhere. There is actually something more interesting about what a (Cartesian) **product** is. It is a unique kind of combination, in fact. But for our current context, it is more helpful to grasp that there is a _link_ between addition (which many feel is relatively "easy" to do) and multiplication (which "feels" a bit more involved; partly because we quickly end up with much larger numbers).  
 
@@ -238,15 +250,23 @@ This asymmetry, here too, may be why students often find division a bit more cha
 
 This happens when we learn about division that lead to fractions such as 7 / 3. The result has a "**remainder**, and we eventually learn that writing down the result in decimal points never ends. In other words, we encounter **infinity** for the first time. We also learn that we can get seemingly around that problem by **rounding** or **approximating** (e.g., 7:3 ≈ 2.33). None of that is trivial, and some of the feeling of confusion that we might have first experienced at this point of our math education might have started us to feel like we are "not good" at math from this very point on (and resurfaced when we encounter infinity again at later stages).  
 
-[Not making things any less confusin, the _notation_ of division can be confusing in that we use **_a_ : _b_**, and **_a_ / _b_**, and **$\frac{a}{b}$** alike.]
+[Not making things any less confusin, the _notation_ of division can be confusing in that we use **_a_ : _b_**, and **_a_ ÷ _b_**, and **_a_ / _b_**, and **$\frac{a}{b}$** alike.]
 
 Still, we all probably feel like we do not feel confused by these four basic operations of arithmetic (addition, subtraction, multiplication, and division). So, so far the only interesting observation may be how they related via repetition (at least, this is usually not made as obvious when teaching these techniques).  
+
+And since division is repeated subtraction, we need to be careful about the order of numbers that we divide. Our definition thus discriminates between these numbers (as was the case for subtraction):
+
+    dividend : divisor = quotient
 
 However, the final operations of arithmetic often _do_ cause high-schooled learners a bit of concern. And there is a good reason for that - they do not seem to fit as neatly in what we discussed so far.  
 
 Specifically, **exponentiation** does _not_ have a simple inverse operation. It has _two_: the **logarithm**, and the **root**. This can seem arbitrary. However, nothing is arbitrary in mathematics. In fact, these operations fit perfectly inside our scheme, and the fact that there are two inverse operations then makes perfect sense.  
 
-Exponentiation just repeats multiplication. So, we just continue what we started: addition, repeated, becomes multiplication. And multiplkication repeated becomes exponentiation.  
+Exponentiation just repeated multiplication. So, we just continue what we started: addition, repeated, becomes multiplication. And multiplkication repeated becomes exponentiation.  
+
+    base^exponent = power
+
+Taking a _base_ number to an _exponent_ just means that we multiply the base number with _itself_ as many times as prescribed by the exponent.  
 
 Why two inverses then? Well, exponentiation has two parts: the **base** and the **exponent**. So, we need two operations to find one or the other.  
 
