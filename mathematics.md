@@ -109,7 +109,7 @@ We can just take these 2 apples away again. Undo addition - and get subtraction:
 
 :::{figure} ./images/addition_dark.png
 :label: fig:math
-:width: 97%
+:width: 70%
 Addition and Subtraction are **inverse operations**.
 
 :::
@@ -119,7 +119,7 @@ Addition and Subtraction are **inverse operations**.
 
 :::{figure} ./images/addition.png
 :label: fig:math
-:width: 97%
+:width: 70%
 Addition and Subtraction are **inverse operations**.
 
 :::
@@ -170,7 +170,7 @@ The reason for us not _actually_ calculating the result of this equation in our 
 
 :::{figure} ./images/large_numbers_dark.png
 :label: fig:math
-:width: 97%
+:width: 100%
 _**LEFT**_: Our perception of large _quantities_ is very different from our perception of small numbers of objects. When we see two, or three objects, we do not have to _count_ them. We are immediately able to assign a number to their _amount_. However, once we look at ~7 or more objects, this immediate recognition of _numerosity_ becomes challenging, if not impossible. At that point the number of objects starts looking _too similar_ (e.g., 8 or 9 objects _looks_ almost the same). We thus are forced to slow down and start _counting_, which is prone to mistake. _**RIGHT**_: As a result of our experiental limitation of immediately perceiving quantity accurately, we need to _memorize_ the outcome of composing (combining) or decomposing large quantities, such as in the form of a _multiplication table_ (or _times table_).
 
 :::
@@ -180,7 +180,7 @@ _**LEFT**_: Our perception of large _quantities_ is very different from our perc
 
 :::{figure} ./images/large_numbers.png
 :label: fig:math
-:width: 97%
+:width: 100%
 _**LEFT**_: Our perception of large _quantities_ is very different from our perception of small numbers of objects. When we see two, or three objects, we do not have to _count_ them. We are immediately able to assign a number to their _amount_. However, once we look at ~7 or more objects, this immediate recognition of _numerosity_ becomes challenging, if not impossible. At that point the number of objects starts looking _too similar_ (e.g., 8 or 9 objects _looks_ almost the same). We thus are forced to slow down and start _counting_, which is prone to mistake. _**RIGHT**_: As a result of our experiental limitation of immediately perceiving quantity accurately, we need to _memorize_ the outcome of composing (combining) or decomposing large quantities, such as in the form of a _multiplication table_ (or _times table_).
 
 :::
@@ -213,7 +213,7 @@ Well, we can think of it as the _inverse_ to multiplication, of course. In a sen
 
 :::{figure} ./images/multiplication_dark.png
 :label: fig:math
-:width: 97%
+:width: 70%
 Multiplication and Divsion are **inverse operations**. And both are jsut repeated Addition and Subtraction, respectively.
 
 :::
@@ -223,7 +223,7 @@ Multiplication and Divsion are **inverse operations**. And both are jsut repeate
 
 :::{figure} ./images/multiplication.png
 :label: fig:math
-:width: 97%
+:width: 70%
 Multiplication and Divsion are **inverse operations**. And both are jsut repeated Addition and Subtraction, respectively.
 
 :::
