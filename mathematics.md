@@ -189,7 +189,7 @@ Root (to that base) returns the exponent.
 :::{div}
 :class: hidden dark:block
 
-:::{figure} ./images/arithmetic_dark.jpg
+:::{figure} ./images/arithmetic_dark.png
 :label: fig:math
 :width: 95%
 How the pairwise operations of arithmetic relate.
