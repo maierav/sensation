@@ -214,8 +214,8 @@ Well, we can think of it as the _inverse_ to multiplication, of course. In a sen
 :::{figure} ./images/multiplication_dark.png
 :label: fig:multiplication
 :width: 70%
-Multiplication and Divsion are **inverse operations**. And both are jsut repeated Addition and Subtraction, respectively.
-Note that, technically, division as subtraction works by subtracting the _divisor_ until you reach zero (or a number less than the divisor), and count the steps of subtraction (i.e., the minus signs in the resukting equation). So, th correct formalism for _6_ : _3_ would be: _6_ **-** _3_ **-** _3_ = 0, with the result being _2_.
+Multiplication and Divsion are **inverse operations**. And both are just repeated Addition and Subtraction, respectively.
+Note that, technically, division as subtraction works by subtracting the _divisor_ until you reach zero (or a number less than the divisor), and count the steps of subtraction (i.e., the minus signs in the resukting equation). So, th correct formalism for _4_ : _2_ would be: _4_ **-** _2_ **-** _2_ = 0, with the result being _2_.
 
 :::
 
@@ -225,8 +225,8 @@ Note that, technically, division as subtraction works by subtracting the _diviso
 :::{figure} ./images/multiplication.png
 :label: fig:multiplication
 :width: 70%
-Multiplication and Divsion are **inverse operations**. And both are jsut repeated Addition and Subtraction, respectively.  
-Note that, technically, division as subtraction works by subtracting the _divisor_ until you reach zero (or a number less than the divisor), and count the steps of subtraction (i.e., the minus signs in the resukting equation). So, th correct formalism for _6_ : _3_ would be: _6_ **-** _3_ **-** _3_ = 0, with the result being _2_.
+Multiplication and Divsion are **inverse operations**. And both are just repeated Addition and Subtraction, respectively.  
+Note that, technically, division as subtraction works by subtracting the _divisor_ until you reach zero (or a number less than the divisor), and count the steps of subtraction (i.e., the minus signs in the resukting equation). So, th correct formalism for _4_ : _2_ would be: _4_ **-** _2_ **-** _2_ = 0, with the result being _2_.
 
 :::
 
@@ -260,6 +260,7 @@ Logarithm (to that base) returns the exponent.
 :label: fig:arithmetic
 :width: 97%
 How the pairwise operations of arithmetic relate.
+Note that, technically, division as subtraction works by subtracting the _divisor_ until you reach zero (or a number less than the divisor), and count the steps of subtraction (i.e., the minus signs in the resukting equation). So, th correct formalism for _6_ : _3_ would be: _6_ **-** _3_ **-** _3_ = 0, with the result being _2_.
 
 :::
 
@@ -270,5 +271,6 @@ How the pairwise operations of arithmetic relate.
 :label: fig:arithmetic
 :width: 97%
 How the pairwise operations of arithmetic relate.
+Note that, technically, division as subtraction works by subtracting the _divisor_ until you reach zero (or a number less than the divisor), and count the steps of subtraction (i.e., the minus signs in the resukting equation). So, th correct formalism for _6_ : _3_ would be: _6_ **-** _3_ **-** _3_ = 0, with the result being _2_.
 
 :::
