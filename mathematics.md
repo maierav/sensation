@@ -103,7 +103,28 @@ We can just take these 2 apples away again. Undo addition - and get subtraction:
 
     6 - 2 = 4
 
-But if this subtraction is basically the same as addition, just the other way around, a kid who discovers all might be surprised that there is a big difference: Subtraction is not commutative.
+% Addition and Subtraction
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/addition_dark.png
+:label: fig:math
+:width: 97%
+Addition and Subtraction are **inverse operations**.
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/addition.png
+:label: fig:math
+:width: 97%
+Addition and Subtraction are **inverse operations**.
+
+:::
+
+But if subtraction is basically the same as addition, just the other way around, a kid who discovers all might be surprised that there is a big difference: Subtraction is not commutative.
 
     6 - 4 = 2
 
@@ -141,6 +162,29 @@ We _learned_ that the solution is:
 
     5 * 5 = 25
 
+The reason for us not _actually_ calculating the result of this equation in our head, but just recall from memory, is quite interesting. It seems to be _not_ a limitation of mathematical _ability_. Instead, it find its root in our _perception_. In particular, we can easily look at a small amount of objects and determine their **quantity** - and thus assign a number. However, the more objects there are, the harder this gets. As we will see in the next chapter, this is one of the most fundamental insights not about mathematics, but about _perception_. And yet, this perceptual limitation, or property, affects our approach to some of the most basic mathematics, such as addition and multiplication.  
+
+% Addition and Subtraction
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/large_numbers_dark.png
+:label: fig:math
+:width: 97%
+_**LEFT**_: Our perception of large _quantities_ is very different from our perception of small numbers of objects. When we see two, or three objects, we do not have to _count_ them. We are immediately able to assign a number to their _amount_. However, once we look at ~7 or more objects, this immediate recognition of _numerosity_ becomes challenging, if not impossible. At that point the number of objects starts looking _too similar_ (e.g., 8 or 9 objects _looks_ almost the same). We thus are forced to slow down and start _counting_, which is prone to mistake. _**RIGHT**_: As a result of our experiental limitation of immediately perceiving quantity accurately, we need to _memorize_ the outcome of composing (combining) or decomposing large quantities, such as in the form of a _multiplication table_ (or _times table_).
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/large_numbers.png
+:label: fig:math
+:width: 97%
+_**LEFT**_: Our perception of large _quantities_ is very different from our perception of small numbers of objects. When we see two, or three objects, we do not have to _count_ them. We are immediately able to assign a number to their _amount_. However, once we look at ~7 or more objects, this immediate recognition of _numerosity_ becomes challenging, if not impossible. At that point the number of objects starts looking _too similar_ (e.g., 8 or 9 objects _looks_ almost the same). We thus are forced to slow down and start _counting_, which is prone to mistake. _**RIGHT**_: As a result of our experiental limitation of immediately perceiving quantity accurately, we need to _memorize_ the outcome of composing (combining) or decomposing large quantities, such as in the form of a _multiplication table_ (or _times table_).
+
+:::
+
 Of course, that is not all. We also learned that we can convince ourselves that the multiplication table is correct by just performing the calculation by ourselves, such as counting 5 times to five and adding all up.  
 
 And here in lies the key: We can find out what the outcome of multipication is by _adding_:
@@ -162,6 +206,27 @@ Now - what about **division**?
 Well, we can think of it as the _inverse_ to multiplication, of course. In a sense, it is simply undoing what multiplication does:
 
     25 : 5 = 5
+
+% Addition and Subtraction
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/multiplication_dark.png
+:label: fig:math
+:width: 97%
+Multiplication and Divsion are **inverse operations**. And both are jsut repeated Addition and Subtraction, respectively.
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/multiplication.png
+:label: fig:math
+:width: 97%
+Multiplication and Divsion are **inverse operations**. And both are jsut repeated Addition and Subtraction, respectively.
+
+:::
 
 And, once again we find: _While multiplication is commutative, its inverse (division) is not._  
 
