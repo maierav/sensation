@@ -153,7 +153,7 @@ So, at least in this sense, we can think of multiplication almost as a "shorthan
 
 It's just "less to write", if you will.
 
-[A minor point of potential confusion in the form of some amguity of sorts is the _notation_ that we learn with multiplication in that we use a*b, $$a\cdotb$$, and ab alike.]
+[A minor point of potential confusion in the form of some amguity of sorts is the _notation_ that we learn with multiplication in that we use a*b, $a\cdotb$, and ab alike.]
 
 Now, deeper thought about multiplication leads us elsewhere. There is actually something more interesting about what a (Cartesian) **product** is. It is a unique kind of combination, in fact. But for our current context, it is more helpful to grasp that there is a _link_ between addition (which many feel is relatively "easy" to do) and multiplication (which "feels" a bit more involved; partly because we quickly end up with much larger numbers).  
 
@@ -191,7 +191,7 @@ Root (to that base) returns the exponent.
 
 :::{figure} ./images/arithmetic_dark.jpg
 :label: fig:math
-:width: 65%
+:width: 95%
 How the pairwise operations of arithmetic relate.
 
 :::
@@ -201,7 +201,7 @@ How the pairwise operations of arithmetic relate.
 
 :::{figure} ./images/arithmetic.png
 :label: fig:math
-:width: 65%
+:width: 95%
 How the pairwise operations of arithmetic relate.
 
 :::
