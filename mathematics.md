@@ -215,6 +215,7 @@ Well, we can think of it as the _inverse_ to multiplication, of course. In a sen
 :label: fig:multiplication
 :width: 70%
 Multiplication and Divsion are **inverse operations**. And both are jsut repeated Addition and Subtraction, respectively.
+Note that, technically, division as subtraction works by subtracting the _divisor_ until you reach zero (or a number less than the divisor), and count the steps of subtraction (i.e., the minus signs in the resukting equation). So, th correct formalism for _6_ : _3_ would be: _6_ **-** _3_ **-** _3_ = 0, with the result being _2_.
 
 :::
 
@@ -224,7 +225,8 @@ Multiplication and Divsion are **inverse operations**. And both are jsut repeate
 :::{figure} ./images/multiplication.png
 :label: fig:multiplication
 :width: 70%
-Multiplication and Divsion are **inverse operations**. And both are jsut repeated Addition and Subtraction, respectively.
+Multiplication and Divsion are **inverse operations**. And both are jsut repeated Addition and Subtraction, respectively.  
+Note that, technically, division as subtraction works by subtracting the _divisor_ until you reach zero (or a number less than the divisor), and count the steps of subtraction (i.e., the minus signs in the resukting equation). So, th correct formalism for _6_ : _3_ would be: _6_ **-** _3_ **-** _3_ = 0, with the result being _2_.
 
 :::
 
