@@ -274,6 +274,29 @@ Root (with the exponent as index/degree) returns the base.
 
 Logarithm (to that base) returns the exponent.  
 
+% Inversion
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/inversion_dark.png
+:label: fig:inversion
+:width: 97%
+Arithmetic operations and their inverse.
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/inversionc.png
+:label: fig:inversin
+:width: 97%
+Arithmetic operations and their inverse.
+
+:::
+
+This realization creates a _structure_ for arithmetic (in the broader sense that includes exponentiation, roots, and lograrithms) where each of these operations shares a relation to one or more of the other operations.
+
 % Arithmetic
 :::{div}
 :class: hidden dark:block
