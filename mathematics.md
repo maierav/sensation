@@ -288,7 +288,7 @@ Arithmetic operations and their inverse.
 :::{div}
 :class: dark:hidden
 
-:::{figure} ./images/inversionc.png
+:::{figure} ./images/inversion.png
 :label: fig:inversin
 :width: 97%
 Arithmetic operations and their inverse.
