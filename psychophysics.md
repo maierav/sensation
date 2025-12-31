@@ -128,7 +128,34 @@ In contrast, the thresholds that occur when we start out with you already percei
 
 The _measure_ of a JND is crucial for mathematizing perception. Since our perception is unchanged if we change a stimulus just barely so that it remains below a relative threshold means that our perception "jumps" in **discrete steps**, where each step up is a JND. In other words, perception seems to have **units** in which it increases in magnitude. We can count these steps and assign numbers to them. The result is a _staircase_ of sorts, where our perception is "flat" (unchanged) for small stimulus changes and then "steps up" at each relative threshold and thereby increases by one JND.  
 
-When we slightly change a stimulus and we do not experience a difference in our perception (despite the physically changed stimulus), we call these "flat" parts of the staircase **points of subjective equilibrium**. This is just a fanciful label for describing that our perception is unchanged, even though we changed stimulation.  
+When we slightly change a stimulus and we do not experience a difference in our perception (despite the physically changed stimulus), we call these "flat" parts of the staircase **points of subjective equilibrium**, or **PSE**. This is just a fanciful label for describing that our perception is unchanged, even though we changed stimulation.  
+
+This all might sound a bit convoluted (and certainly is quite a bit of jargon), which might distract from the fact that what we are describing is quite simple and straightforward, perhaps even a bit trivial. The easiest way to demonstrate what we just described is via illustration:
+
+% PSE
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/PSE_dark.png
+:label: fig: pse
+:width: 40%
+
+The **leftmost** images show 10 and 20 dots, respectively. We can immediately tell that the bottom image shows _more_ dots (a higher quantity) than the one above. Psychophysically speaking, the two images must be two stimuli separated by one or more just-noticeable-differences (JNDs) for us to be able to tell that they are different (in amount of dots). However, the **rightmost** two images _look_ like they are of the _amount_ - even though the bottom image again features 10 dots more than the image above. Psychophysically speaking, these two images fall inside a _point of subjective equality_ (PSE). That is, we experience them as being of the same amount, despite the fact that the actual physical amount differs (interestingly enough by the same amount, 10 dots, that we were able to immediately detect as added).[^5]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} images/PSE.png
+:label: fig: pse
+:width: 60%
+
+The **leftmost** images show 10 and 20 dots, respectively. We can immediately tell that the bottom image shows _more_ dots (a higher quantity) than the one above. Psychophysically speaking, the two images must be two stimuli separated by one or more just-noticeable-differences (JNDs) for us to be able to tell that they are different (in amount of dots). However, the **rightmost** two images _look_ like they are of the _amount_ - even though the bottom image again features 10 dots more than the image above. Psychophysically speaking, these two images fall inside a _point of subjective equality_ (PSE). That is, we experience them as being of the same amount, despite the fact that the actual physical amount differs (interestingly enough by the same amount, 10 dots, that we were able to immediately detect as added).[^5]
+
+:::
+
+[5]: [public domain image source](https://commons.wikimedia.org/wiki/File:Weber-Fechner_law_demo_-_dots.svg)
 
 Let's go back to our thought experiment. We established that if you hold your hand out, and we put the light weight of a piece of paper on top of it, you will likely feel the weight of a single feather that we lay on top of the paper (if you cannot imagine that, just imagine it being 10 feathers at once). Now imagine that we put several very big hardcover books on your hands and add the feather (or 10 feathers) again. Would you be able to feel that? No. Clearly. So, the threshold of, say a single (or 10) feathers now does not work anymore. We need a lot more feathers on top of the books before you feel the extra weight.
 
