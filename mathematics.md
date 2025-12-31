@@ -99,7 +99,9 @@ But things can become a bit confusing, or non-intuitive rather quickly:
 
 **Addition** allows us to disregard order: 2 + 4 is the same as 4 + 2. Both is 6.  
 
-    4 + 2 = 2 + 4
+$$
+  4 + 2 = 2 + 4
+$$ (1)
 
 The fancy word for this property of addition is **commutativity**.
 
