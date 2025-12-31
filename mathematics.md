@@ -356,7 +356,7 @@ This can be a helpful realization since logarithms result in curved graphs (func
 :::{figure} ./images/log_dark.png
 :label: fig:log
 :width: 97%
-Logarithmic curve as inverse of an exponential function.
+Logarithmic curve as inverse of an exponential function.[^4]
 
 :::
 
@@ -366,9 +366,11 @@ Logarithmic curve as inverse of an exponential function.
 :::{figure} ./images/log.png
 :label: fig:log
 :width: 97%
-Logarithmic curve as inverse of an exponential function.
+Logarithmic curve as inverse of an exponential function.[^4]
 
 :::
+
+[^4]: [public domain source](https://commons.wikimedia.org/wiki/File:Function-log-animation.gif)
 
 We already established that when it comes to mental _calculation_, and multiplication in particular, we tend to struggle with large numbers. Logarithms come in handy in that they transform the multiplication of two very large numbers into simple addition. That is, if we know the logarithms (to the same base) of two large numbers, we can calculate (the logarithm of) their product by just adding the two logarithms:  
 
