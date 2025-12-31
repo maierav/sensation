@@ -349,6 +349,27 @@ And now we are almost done. As you will see in the next chapter, there is a good
 
 This can be a helpful realization since logarithms result in curved graphs (functions), which are a bit more challenging to intuit than simple lines. But is exactly this property that makes logarithms interesting and powerful.  
 
+% Log
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/log_dark.png
+:label: fig:log
+:width: 97%
+Logarithmic curve as inverse of an exponential function.
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/log.png
+:label: fig:log
+:width: 97%
+Logarithmic curve as inverse of an exponential function.
+
+:::
+
 We already established that when it comes to mental _calculation_, and multiplication in particular, we tend to struggle with large numbers. Logarithms come in handy in that they transform the multiplication of two very large numbers into simple addition. That is, if we know the logarithms (to the same base) of two large numbers, we can calculate (the logarithm of) their product by just adding the two logarithms:  
 
     log(xy) = log(x) + log(y)
