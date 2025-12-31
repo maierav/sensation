@@ -119,7 +119,9 @@ But commutativity (the _fact_ that we can reverse the order of numbers we add an
 
 One last thing - we need to also agree on (or accept) precise word for _describing_ the various parts of addition (summation). You probably already know that the number that results from addition is what we call the **sum**. We just need names for the other numbers as well. Since their order does not matter (we can rotate their position and the sum remains the same), we can just use one and the same name for these numbers: **addend**. Adding two addends results in the sum. So, the common definition is:
 
-    addend + addend = sum
+$$
+  addend + addend = sum
+$$
 
 **Subtraction** seems to be a simple inverse process. We just reverse what we just did.  
 
