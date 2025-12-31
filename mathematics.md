@@ -16,6 +16,16 @@ Science rests on mathematics, so we cannot completely avoid the topic. The follo
 
 As we already discussed, due to our schooling, we tend to think of mathematics as calculating, or solving equations. This can turn since into a competition of sorts, where there is a correct solution (that an "authority" such as a teacher or a textbook author) knows and we can either fail or succeed in finding out. Here we will do none of that. Instead, we will ponder a bit more about the fundamental assumptions and operations that _underly_ this process. We will "figure things out" by "connecting the dots". And by examining the resulting structure, we hope to find (literal) _insight_, as in seeing "math from the insde" or "what lies inside".  
 
+% Flammarion
+:::{figure} ./images/flammarion_colored.jpg
+:label: fig:flammarion
+:width: 70%
+
+The Flammarion engraving provides a metaphor for mathematization in science. mirrors mathematics in science: Empirical observation corresponds to the contingent, perspectival.Mathematical structure corresponds to what lies beyond: invariant, abstract, non-perspectival. Using mathematics, science crosses the empirical horizon to access structure that is not itself observable, such as Hilbert spaces, manifolds, groups, probability measures, causal graphs. A scientist seems unlikely to merely invent this underlying structure, but seemingly discovers it by describing an abstract order that is not readily apparent to ordinary observation (unknown artist, 1888).[^2]
+:::
+
+[^2]: [public domain source](https://commons.wikimedia.org/wiki/File:Colourflamarion33.jpg)
+
 To put it a bit more high brow: We will focus less on _mathematics_, the _human_ (mind-dependent) activity that leads to symbols (notation), proofs, calculations and equation solving. What the following aims to instill is to, in some sense, look past all that and focus on what all that _describes_. The _structure_, the laws, rules, order, or patterns that all this points to, or follows. Following P. Freyd, we will call this **subject of mathematics** the **mathematical**. If you see mathematics as a _language_, then the mathematical is that which this languages describes.  
 
 [So, even is you already feel quite familiar, or well-versed, with the topics of this chapter (starting with basic arithmetic and leading up to logarithms), you are well advised to nonetheless read along. In fact, much of what follows assumes that you already know what, say, addition is. The emphasis is elsewhere - seeing addition in a "new light".  
@@ -35,7 +45,7 @@ The goal is still to read and understand mathematical formalism and descriptions
 :::{figure} ./images/math_dark.jpg
 :label: fig:math
 :width: 65%
-Mathematics has been taught to students for thousands of years.[^2]
+Mathematics has been taught to students for thousands of years.[^3]
 
 :::
 
@@ -45,11 +55,11 @@ Mathematics has been taught to students for thousands of years.[^2]
 :::{figure} ./images/math.png
 :label: fig:math
 :width: 65%
-Mathematics has been taught to students for thousands of years.[^2]
+Mathematics has been taught to students for thousands of years.[^3]
 
 :::
 
-[^2]: public domain sources: [1](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_II_geometria,_1707_%E2%80%93_BEIC_13369403.jpg), [2](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_I_geometria,_1715_%E2%80%93_BEIC_13386284.jpg)
+[^3]: public domain sources: [1](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_II_geometria,_1707_%E2%80%93_BEIC_13369403.jpg), [2](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_I_geometria,_1715_%E2%80%93_BEIC_13386284.jpg)
 
 We already discussed that modern mathematics starts with one or more _axioms_ that one has to accept without further questioning. So, what are the axioms that underly _all_ of mathematics (or, since one can always drop or add axioms and thus change mathematics, the largest body of mathematics)?  
 
