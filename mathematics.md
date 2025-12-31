@@ -180,13 +180,17 @@ And there is another reason why students often find addition more "intuitive", o
 
 First, we might get confronted with 0:
 
-    5 - 5 = 0
+$$
+  5 - 5 = 0
+$$
 
 0 expands the _while numbers_ (1, 2, 3, ...) to the _natural numbers (0, 1, 2, 3, ...). Few adults worry about that fact, but zero is not a trivial concept and it took humanity a long time in history to accept it as mathematically valid. After all, _nothing_ just seems to be "absence of anything", so how can there - how can it - be _something_, like zero?  
 
 But subtraction leads us deeper:
 
-    5 - 7 = -2
+$$
+  5 - 7 = -2
+$$
 
 Now, we need to expand our concept of numbers once more. And we end up with _integers_ (..., -3, -2, -1, 0, 1, 2, 3, ...). Again, most adults have become used to the concept to negative numbers, but for a kid this is another challenging concept: "How can there be _less_ than _nothing_?"
 
