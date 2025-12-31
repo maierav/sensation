@@ -274,6 +274,8 @@ Root (with the exponent as index/degree) returns the base.
 
 Logarithm (to that base) returns the exponent.  
 
+[for natural-number exponents and positive bases.]
+
 % Inversion
 :::{div}
 :class: hidden dark:block
