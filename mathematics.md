@@ -202,11 +202,15 @@ In fact, it could be argued that some of these conceptual challenges, as small a
 
 One way we might have been taught multiplication is to treat it as something _entirely_ different than addition (or subtraction). This is often done by learning "by heart" (akin to a poem) a _multiplication table_ so that we can immediately recall the answer to something like:
 
-    5 * 5
+$$
+  5 * 5
+$$
 
 We _learned_ that the solution is:
 
-    5 * 5 = 25
+$$
+  5 * 5 = 25
+$$
 
 The reason for us not _actually_ calculating the result of this equation in our head, but just recall from memory, is quite interesting. It seems to be _not_ a limitation of mathematical _ability_. Instead, it find its root in our _perception_. In particular, we can easily look at a small amount of objects and determine their **quantity** - and thus assign a number. However, the more objects there are, the harder this gets. As we will see in the next chapter, this is one of the most fundamental insights not about mathematics, but about _perception_. And yet, this perceptual limitation, or property, affects our approach to some of the most basic mathematics, such as addition and multiplication.  
 
