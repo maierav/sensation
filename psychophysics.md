@@ -138,7 +138,7 @@ This all might sound a bit convoluted (and certainly is quite a bit of jargon), 
 
 :::{figure} images/PSE_dark.png
 :label: fig: pse
-:width: 40%
+:width: 50%
 
 The **leftmost** images show 10 and 20 dots, respectively. We can immediately tell that the bottom image shows _more_ dots (a higher quantity) than the one above. Psychophysically speaking, the two images must be two stimuli separated by one or more just-noticeable-differences (JNDs) for us to be able to tell that they are different (in amount of dots). However, the **rightmost** two images _look_ like they are of the _amount_ - even though the bottom image again features 10 dots more than the image above. Psychophysically speaking, these two images fall inside a _point of subjective equality_ (PSE). That is, we experience them as being of the same amount, despite the fact that the actual physical amount differs (interestingly enough by the same amount, 10 dots, that we were able to immediately detect as added).[^5]
 
@@ -149,7 +149,7 @@ The **leftmost** images show 10 and 20 dots, respectively. We can immediately te
 
 :::{figure} images/PSE.png
 :label: fig: pse
-:width: 60%
+:width: 50%
 
 The **leftmost** images show 10 and 20 dots, respectively. We can immediately tell that the bottom image shows _more_ dots (a higher quantity) than the one above. Psychophysically speaking, the two images must be two stimuli separated by one or more just-noticeable-differences (JNDs) for us to be able to tell that they are different (in amount of dots). However, the **rightmost** two images _look_ like they are of the _amount_ - even though the bottom image again features 10 dots more than the image above. Psychophysically speaking, these two images fall inside a _point of subjective equality_ (PSE). That is, we experience them as being of the same amount, despite the fact that the actual physical amount differs (interestingly enough by the same amount, 10 dots, that we were able to immediately detect as added).[^5]
 
