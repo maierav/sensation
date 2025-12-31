@@ -255,7 +255,9 @@ It's just "less to write", if you will.
 
 Now, since multiplication is just repeated addition, we can rotate the numbers that are added (or multipled) around again without changing the result. Accordingly, the words we use to describe these numbers are one and the same again for the numbers that we multiply:
 
-    factor * factor = product
+$$
+  factor * factor = product
+$$
 
 Now, deeper thought about multiplication leads us elsewhere. There is actually something more interesting about what a (Cartesian) **product** is. It is a unique kind of combination, in fact. But for our current context, it is more helpful to grasp that there is a _link_ between addition (which many feel is relatively "easy" to do) and multiplication (which "feels" a bit more involved; partly because we quickly end up with much larger numbers).  
 
@@ -263,7 +265,9 @@ Now - what about **division**?
 
 Well, we can think of it as the _inverse_ to multiplication, of course. In a sense, it is simply undoing what multiplication does:
 
-    25 : 5 = 5
+$$
+  25 : 5 = 5
+$$
 
 % Multiplication
 :::{div}
@@ -300,7 +304,15 @@ Still, we all probably feel like we do not feel confused by these four basic ope
 
 And since division is repeated subtraction, we need to be careful about the order of numbers that we divide. Our definition thus discriminates between these numbers (as was the case for subtraction):
 
-    dividend : divisor = quotient
+$$
+  dividend : divisor = quotient
+$$
+
+Or, perhaps more commonly:
+
+$$
+  \frac{\text{numerator}}{\text{denominator}}
+$$
 
 However, the final operations of arithmetic often _do_ cause high-schooled learners a bit of concern. And there is a good reason for that - they do not seem to fit as neatly in what we discussed so far.  
 
