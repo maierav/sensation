@@ -276,8 +276,6 @@ Why two inverses then? Well, exponentiation has two parts: the **base** and the 
 
 [for natural-number exponents and positive bases.]
 
-The logarithm can also be thought of as repeated division (in that we are counting how many times you can divide by the base before reaching 1).  
-
 % Inversion
 :::{div}
 :class: hidden dark:block
@@ -298,6 +296,8 @@ Arithmetic operations and their inverse.
 Arithmetic operations and their inverse.
 
 :::
+
+The logarithm can also be thought of as repeated division (in that we are counting how many times you can divide by the base before reaching 1).  
 
 This realization creates a _structure_ for arithmetic (in the broader sense that includes exponentiation, roots, and lograrithms) where each of these operations shares a relation to one or more of the other operations.
 
