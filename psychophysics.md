@@ -136,7 +136,16 @@ Let us take a moment and ponder that. Fechner did not only show that we can meas
 
 And that law takes the mathematical shape of a **logarithm**.  
 
-    S = k * ln(I/I0)
+$$
+  S = k \ln\!\left(\frac{I}{I_0}\right),
+  \quad
+  \begin{aligned}
+  S &:\ \text{perceived sensation magnitude} \\
+  I &:\ \text{physical stimulus intensity} \\
+  I_0 &:\ \text{absolute threshold} \\
+  k &:\ \text{modality-dependent constant}
+  \end{aligned}
+$$ (Fechner's Law)
 
 where _S_ is the _perceived_ magnitude
 _I_ is the physical stimulus
