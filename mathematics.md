@@ -24,7 +24,7 @@ Ask yourself: How does the logarithm relate to addition?
 
 There is a simple, fascinating, and structurally deep relation between these two operations that are conventionally taught in a somewhat isolated, successive manner. Grasping this relation might be a more intuitive, easier to understand and appreciate, manner of getting familiar with logarithms. And logarithms are a key step to understand the (neuro)science of perception.]
 
-The goal is still to read and understand mathematical formalism and descriptions, but with a focus on _meaning_ (the information, the _structure_, contained within) rather than computing or deriving a correct outcome by ourselves. Hopefully, this will also allow you to see mathematics "in a new light", and add a bit of _fun_, or at least make it all seem a bit more _interesting_.  
+The goal is still to read and understand mathematical formalism and descriptions, but with a focus on _meaning_ (the information, the _structure_, contained within) rather than computing or deriving a correct outcome by ourselves. Why compete with machines, such as pocket calculators, that are much better at that? It seems more fruitful to instead focus on those aspects of mathematics that machines struggle with - exploring and understanding how mathematics interconnects and forms a cohesive whole. Hopefully, this will also allow you to see mathematics "in a new light", and add a bit of _fun_, or at least make it all seem a bit more _interesting_.  
 
 ## FOUNDATIONS
 
