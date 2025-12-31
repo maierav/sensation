@@ -263,11 +263,11 @@ Now, deeper thought about multiplication leads us elsewhere. There is actually s
 
 Now - what about **division**?  
 
-Well, we can think of it as the _inverse_ to multiplication, of course. In a sense, it is simply undoing what multiplication does:
-
 $$
   25 : 5 = 5
 $$
+
+Well, we can think of it as the _inverse_ to multiplication, of course. In a sense, it is simply undoing what multiplication does:
 
 % Multiplication
 :::{div}
@@ -321,11 +321,15 @@ Specifically, **exponentiation** does _not_ have one inverse operation. It has _
 So, we just continue what we started: addition, repeated, becomes multiplication.  
 Multiplication repeated becomes exponentiation.  
 
-    base^exponent = power
+$$
+  \text{base}^{\text{exponent}} = \text{power}
+$$
 
 Taking a _base_ number to an _exponent_ just means that we multiply the base number with _itself_ as many times as prescribed by the exponent.  
 
-    5^3 = 5 x 5 x 5
+$$
+  5^{3} = 5 \cdot 5 \cdot 5
+$$
 
 Why two inverses then? Well, exponentiation has two parts: the **base** and the **exponent**. So, we need two operations to find one or the other.  
 
@@ -410,7 +414,9 @@ Logarithmic curve as inverse of an exponential function.[^4]
 
 We already established that when it comes to mental _calculation_, and multiplication in particular, we tend to struggle with large numbers. Logarithms come in handy in that they transform the multiplication of two very large numbers into simple addition. That is, if we know the logarithms (to the same base) of two large numbers, we can calculate (the logarithm of) their product by just adding the two logarithms:  
 
-    log(xy) = log(x) + log(y)
+$$
+  \log(xy) = \log(x) + \log(y)
+$$
 
 [as long as _x_ and _y_ are positive and the base is a positive number other than 1.]
 
