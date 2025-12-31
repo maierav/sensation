@@ -17,7 +17,7 @@ Science rests on mathematics, so we cannot completely avoid the topic. The follo
 As we already discussed, due to our schooling, we tend to think of mathematics as calculating, or solving equations. This can turn since into a competition of sorts, where there is a correct solution (that an "authority" such as a teacher or a textbook author) knows and we can either fail or succeed in finding out. Here we will do none of that. Instead, we will ponder a bit more about the fundamental assumptions and operations that _underly_ this process. We will "figure things out" by "connecting the dots". And by examining the resulting structure, we hope to find (literal) _insight_, as in seeing "math from the insde" or "what lies inside".  
 
 % Flammarion
-:::{figure} ./images/flammarion_colored.jpg
+:::{figure} ./images/flammarion_colored.png
 :label: fig:flammarion
 :width: 70%
 
