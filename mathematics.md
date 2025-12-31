@@ -344,3 +344,17 @@ How the pairwise operations of arithmetic relate.
 How the pairwise operations of arithmetic relate.
 
 :::
+
+And now we are almost done. As you will see in the next chapter, there is a good reason that we slowly built up to an understanding what a logarithm is by using simple addition as our starting point. Logarithms _rule_ much of our perception. So, it is good to know that all that really is - a logarithm of a number - boils down to an _exponent_, another number (that yet another number, the base, has to be raised by to produce the number that we started out with). It is just the inverse of exponentiation, which itself is just iterated multiplication (which is iterated addition) - if we limit ourselves to natural numbers.  
+
+This can be a helpful realization since logarithms result in curved graphs (functions), which are a bit more challenging to intuit than simple lines. But is exactly this property that makes logarithms interesting and powerful.  
+
+We already established that when it comes to mental _calculation_, and multiplication in particular, we tend to struggle with large numbers. Logarithms come in handy in that they transform the multiplication of two very large numbers into simple addition. That is, if we know the logarithms (to the same base) of two large numbers, we can calculate (the logarithm of) their product by just adding the two logarithms:  
+
+    log(xy) = log(x) + log(y)
+
+[as long as _x_ and _y_ are positive and the base is a positive number other than 1.]
+
+In practice, this means that if we have a long list, or table, of logarithms, we can quickly multiply two large numbers by converting them back-and-forth into their logarithms. You might find that unimpressive, but before we all had easy access to powerful electric calculators or computers, this technique was key for scientists and engineers alike. In fact, using this technique (applied to _slide rules_) was still common when **NASA** developed the rockets used for the **Apollo** moon landing program.  
+
+As we will see in the next chapter, discoverig a role for logarithms in perception science thus was especially exciting for the scientists at that time.  
