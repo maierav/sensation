@@ -355,7 +355,7 @@ This can be a helpful realization since logarithms result in curved graphs (func
 
 :::{figure} ./images/log_dark.gif
 :label: fig:log
-:width: 97%
+:width: 40%
 Logarithmic curve as inverse of an exponential function.[^4]
 
 :::
@@ -365,7 +365,7 @@ Logarithmic curve as inverse of an exponential function.[^4]
 
 :::{figure} ./images/log.gif
 :label: fig:log
-:width: 97%
+:width: 40%
 Logarithmic curve as inverse of an exponential function.[^4]
 
 :::
