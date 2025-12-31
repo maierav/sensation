@@ -239,11 +239,15 @@ Of course, that is not all. We also learned that we can convince ourselves that 
 
 And here in lies the key: We can find out what the outcome of multipication is by _adding_:
 
-    5 + 5 + 5 + 5 + 5 = 25
+$$
+  5 + 5 + 5 + 5 + 5 = 25
+$$
 
 So, at least in this sense, we can think of multiplication almost as a "shorthand" for _repeated addition_:
 
-    5 + 5 + 5 + 5 + 5 = 5 * 5
+$$
+  5 + 5 + 5 + 5 + 5 = 5 * 5
+$$
 
 It's just "less to write", if you will.
 
