@@ -311,7 +311,7 @@ $$
 Or, perhaps more commonly:
 
 $$
-  \frac{\text{numerator}}{\text{denominator}}
+  \frac{\text{numerator}}{\text{denominator}} = ratio (or, fraction)
 $$
 
 However, the final operations of arithmetic often _do_ cause high-schooled learners a bit of concern. And there is a good reason for that - they do not seem to fit as neatly in what we discussed so far.  
