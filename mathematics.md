@@ -270,11 +270,13 @@ Taking a _base_ number to an _exponent_ just means that we multiply the base num
 
 Why two inverses then? Well, exponentiation has two parts: the **base** and the **exponent**. So, we need two operations to find one or the other.  
 
-Root (with the exponent as index/degree) returns the base.  
+**Root (with the exponent as index/degree) returns the base.**  
 
-Logarithm (to that base) returns the exponent.  
+**Logarithm (to that base) returns the exponent.**  
 
 [for natural-number exponents and positive bases.]
+
+The logarithm can also be thought of as repeated division (in that we are counting how many times you can divide by the base before reaching 1).  
 
 % Inversion
 :::{div}
