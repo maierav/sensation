@@ -280,7 +280,7 @@ Logarithm (to that base) returns the exponent.
 :::{div}
 :class: hidden dark:block
 
-:::{figure} ./images/inversion_dark.png
+:::{figure} ./images/inverse_dark.png
 :label: fig:inversion
 :width: 97%
 Arithmetic operations and their inverse.
@@ -290,7 +290,7 @@ Arithmetic operations and their inverse.
 :::{div}
 :class: dark:hidden
 
-:::{figure} ./images/inversion.png
+:::{figure} ./images/inverse.png
 :label: fig:inversin
 :width: 97%
 Arithmetic operations and their inverse.
