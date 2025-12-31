@@ -158,4 +158,22 @@ Fechner realized that this meant that perception seemed to follow "laws of natur
 
 ## Methods
 
+You might feel a bit concerned at this point that, while we celebrated a mathematically rigorous law (Fechner's Law), we seemingly started without a rigorous experimental approach. After all, we just imagined a scenario where someone is blindfolded, we change the physical stimulus and await a response. But what if that person is lying (perhaps just because they find that funny)?  
+
+Psychophysics found clever ways around that potential problem. So, let's talk about that next.
+
+There are three "classical methods" that we will discuss first. After that, we will discuss some clever extensions that have become feasible thanks to additional mathematics and computer technology that further minimize unreliable data from untruthful - and even from just slightly biased - observers.  
+
+### Method of Constant Stimuli
+
+### Method of Adjustment
+
+### Method of Limits
+
 ## Extensions
+
+### Staircase Design
+
+### Signal Detection Theory
+
+### Magnitude Estimation
