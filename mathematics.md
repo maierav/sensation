@@ -113,7 +113,7 @@ We can just take these 2 apples away again. Undo addition - and get subtraction:
 
 :::{figure} ./images/addition_dark.png
 :label: fig:addition
-:width: 50%
+:width: 45%
 Addition and Subtraction are **inverse operations**.
 
 :::
@@ -123,7 +123,7 @@ Addition and Subtraction are **inverse operations**.
 
 :::{figure} ./images/addition.png
 :label: fig:addition
-:width: 50%
+:width: 45%
 Addition and Subtraction are **inverse operations**.
 
 :::
