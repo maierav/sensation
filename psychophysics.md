@@ -134,7 +134,7 @@ Fechner went to work and tested exactly that. Rather than a thought experiment, 
 
 Let us take a moment and ponder that. Fechner did not only show that we can measure (changes in) perception _numerically_, but that if we do so, the result _follows_ a mathematical law!
 
-And that law takes the mathematical shape of a **logarithm**.  
+And that law takes the mathematical shape of a **logarithm**:  
 
 $$
   S = k \ln\!\left(\frac{I}{I_0}\right),
