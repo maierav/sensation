@@ -19,9 +19,9 @@ As we already discussed, due to our schooling, we tend to think of mathematics a
 % Flammarion
 :::{figure} ./images/flammarion_colored.png
 :label: fig:flammarion
-:width: 70%
+:width: 90%
 
-The Flammarion engraving provides a metaphor for mathematization in science: Empirical observation corresponds to the contingent, perspectival that we are all familiar with. Mathematical structure corresponds to what lies beyond: invariant, non-perspectival. Mathematics strips away observer-specific phenomena and produces observer-invariant _relations_. Math provides statements that are unaffected by who observes, where, or when. In this sense, mathematics is not one science among others — it is the means by which science escapes subjectivity and achieves explanatory unification.
+The Flammarion engraving provides a metaphor for mathematization in science: Empirical observation corresponds to the contingent, and perspectival that we are all familiar with. Mathematical structure corresponds to what lies beyond: invariant, non-perspectival. Mathematics strips away observer-specific phenomena and produces observer-invariant _relations_. Math provides statements that are unaffected by who observes, where, or when. In this sense, mathematics is not one science among others — it is the means by which science escapes subjectivity and achieves explanatory unification.
 
 Using mathematics, science seemingly crosses the empirical horizon to access structure that is not itself observable, such as Hilbert spaces, manifolds, groups, probability measures, causal graphs. While debated, scientist seem unlikely to merely _invent_ this underlying structure, but seemingly _discover_ it when describing an underlying abstract order that is not readily apparent in ordinary observation (unknown artist, 1888).[^2]
 :::
