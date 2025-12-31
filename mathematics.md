@@ -260,13 +260,16 @@ And since division is repeated subtraction, we need to be careful about the orde
 
 However, the final operations of arithmetic often _do_ cause high-schooled learners a bit of concern. And there is a good reason for that - they do not seem to fit as neatly in what we discussed so far.  
 
-Specifically, **exponentiation** does _not_ have a simple inverse operation. It has _two_: the **logarithm**, and the **root**. This can seem arbitrary. However, nothing is arbitrary in mathematics. In fact, these operations fit perfectly inside our scheme, and the fact that there are two inverse operations then makes perfect sense.  
+Specifically, **exponentiation** does _not_ have one inverse operation. It has _two_: the **logarithm**, and the **root**. This can seem arbitrary. However, nothing is arbitrary in mathematics. In fact, these operations fit perfectly inside our scheme, and the fact that there are two inverse operations then makes perfect sense.  
 
-Exponentiation just repeated multiplication. So, we just continue what we started: addition, repeated, becomes multiplication. And multiplkication repeated becomes exponentiation.  
+So, we just continue what we started: addition, repeated, becomes multiplication.  
+Multiplication repeated becomes exponentiation.  
 
     base^exponent = power
 
 Taking a _base_ number to an _exponent_ just means that we multiply the base number with _itself_ as many times as prescribed by the exponent.  
+
+    5^3 = 5 x 5 x 5
 
 Why two inverses then? Well, exponentiation has two parts: the **base** and the **exponent**. So, we need two operations to find one or the other.  
 
