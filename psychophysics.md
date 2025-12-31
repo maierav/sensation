@@ -122,13 +122,17 @@ Why is this a big deal? Remember that we started out by pondering that we cannot
 
 Do you see why Fechner got excited? He just solved the problem. We can put numbers on our perception, they are not arbitrary but measure minimal perceptual increments, and we can do all that using experiments. All we have to do is to precisely measure when these thresholds occur - the respective change in physical stimulus is called the **just-noticeable difference**, or _JND_.  
 
-But there is more. We can also find out when you go from perceiving _nothing_ to perceiving _something_ using the same technique. This is just another threshold. For example, we can play very faint sounds or use very dim lights, make them stronger and find out when you hear or see the stimulus. These thresholds (the minimal stimulus intensities that you can perceive) are called **absolute thresholds** since they are believed to be more or less unchanging for the same individual (different people, such as when testing the faintest sound young or old people can hear, have very different absolute thresholds, of course).
+But there is more. We can also find out when you go from perceiving _nothing_ to perceiving _something_ using the same technique. This is just another threshold. For example, we can play very faint sounds or use very dim lights, make them stronger and find out when you hear or see the stimulus. These thresholds (the minimal stimulus intensities that you can perceive) are called **absolute thresholds** since they are believed to be more or less unchanging for the same individual (different people, such as when testing the faintest sound young or old people can hear, have very different absolute thresholds, of course). Stimuli that are just above the absolute threshold are called _just noticeable stimuli_. Different people tested at different times will have different absolute thresholds.  
 
-In contrast, the thresholds that occur when we start out with you already perceiving a stimulus (such as the weight of a single feather), and ramp up the stimulus intensity (e.g., buy adding more feather) are called **relative thresholds**. That implies that may not be constant. And indeed they are not. Showing that was Fechner's second major breakthrough.  
+In contrast, the thresholds that occur when we start out with you already perceiving a stimulus (such as the weight of a single feather), and ramp up the stimulus intensity (e.g., buy adding more feather) are called **relative thresholds**. That implies that may not be a constant, but instead what we experience as a relative threshold _depends on what we just experienced_. However, this does not imply that relative thresholds are random. Instead, they follow a rule (which we will discuss in the next section). Showing that this context-dependence is **not arbitrary** was Fechner's second major breakthrough. Stimuli that pass a relative threshold (and thus evoke a _change_ in perception) are called **just noticeable differences**, or **JNDs**.  
+
+The _measure_ of a JND is crucial for mathematizing perception. Since our perception is unchanged if we change a stimulus just barely so that it remains below a relative threshold means that our perception "jumps" in **discrete steps**, where each step up is a JND. In other words, perception seems to have **units** in which it increases in magnitude. We can count these steps and assign numbers to them. The result is a _staircase_ of sorts, where our perception is "flat" (unchanged) for small stimulus changes and then "steps up" at each relative threshold and thereby increases by one JND.  
+
+When we slightly change a stimulus and we do not experience a difference in our perception (despite the physically changed stimulus), we call these "flat" parts of the staircase **points of subjective equilibrium**. This is just a fanciful label for describing that our perception is unchanged, even though we changed stimulation.  
 
 Let's go back to our thought experiment. We established that if you hold your hand out, and we put the light weight of a piece of paper on top of it, you will likely feel the weight of a single feather that we lay on top of the paper (if you cannot imagine that, just imagine it being 10 feathers at once). Now imagine that we put several very big hardcover books on your hands and add the feather (or 10 feathers) again. Would you be able to feel that? No. Clearly. So, the threshold of, say a single (or 10) feathers now does not work anymore. We need a lot more feathers on top of the books before you feel the extra weight.
 
-## Psychometric Function
+## Fechner's Law
 
 Fechner went to work and tested exactly that. Rather than a thought experiment, he tested what the exact weights were that blindfolded people could detect. And he realized something astonishing: The relative thresholds increased _proportionally_ to the weight that the person already had in hand.  
 
@@ -166,7 +170,11 @@ There are three "classical methods" that we will discuss first. After that, we w
 
 ### Method of Constant Stimuli
 
+This technique is the most straightfoward. We prepare a set of stimuli of varying intensity (such as different weights), and **randomly** present them to a voluntary participant. Then, we determine which stimuli were above or below the _absolute threshold_ of detection in order to determine the _minimal detectable stimulus_, or _just detectable stimulus_. In order to obtain reliable data, we can _repeatedly_ present the stimuli to determine an average.  
+
 ### Method of Adjustment
+
+This technique is distinguished by the **participant** changing the stimulus themselves.  
 
 ### Method of Limits
 
