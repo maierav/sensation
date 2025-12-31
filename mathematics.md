@@ -127,11 +127,15 @@ One last thing - we need to also agree on (or accept) precise word for _describi
 
 Let's say we added 2 apples to 4 apples:
 
-    2 + 4 = 6
+$$
+  2 + 4 = 6
+$$
 
 We can just take these 2 apples away again. Undo addition - and get subtraction:  
 
-    6 - 2 = 4
+$$
+  6 - 2 = 4
+$$
 
 % Addition and Subtraction
 :::{div}
