@@ -160,11 +160,15 @@ Addition and Subtraction are **inverse operations**.
 
 But if subtraction is basically the same as addition, just the other way around, a kid who discovers all might be surprised that there is a big difference: Subtraction is not commutative.
 
-    6 - 4 = 2
+$$
+  6 - 4 = 2
+$$
 
 As a result, we have to be a little be more careful for the words we use to describe these numbers:
 
-    minuend - subtrahend = difference
+$$
+  minuend - subtrahend = difference
+$$
 
 Indeed, many people feel that addition is a bit more "easy" than subtraction. And the fact that additivity is a bit more "lax" in that you disregard order while subtraction requires you to make sure that you do not accidentally confuse the order might be part of that reason.  
 
