@@ -1013,7 +1013,7 @@ A simple, short equation can describe enormous complexity.[^18]
 
 [^18]:[public domain source](https://commons.wikimedia.org/wiki/File:Mandelbrot_Zoom_16_Fortran90.png)
 
-And, somewhat surprisingly, it takes rather little mathematical notation to describe this structure:
+And, somewhat surprisingly, it takes rather little mathematical notation to fully (completely; no "simplification") describe, or derive, this structure:
 
 $$
 \mathcal{M}
