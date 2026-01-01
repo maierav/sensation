@@ -1031,6 +1031,43 @@ Specifically, the image shows a small subset of the **Mandelbrot set**.
 
 [This is just an aside, but for completion's sake: A complex number $c$ is in the Mandelbrot set if, starting from $z_0 = 0$ and repeatedly applying the rule $z_{n+1} = z_n^2 + c$, the resulting values never grow too large. Crossing a distance of $2$ from the origin guarantees divergence, so remaining within this bound characterizes the set.]
 
+There are two lessons here are:
+
+    1. some models (1:1 models) are not wrong.
+
+as well as that
+
+    2. simple models can describe complex phenomena.
+
+Now, you might object that all of this is just mathematics. After all, we cannot find the Mandelbrot set in the real (physical) world.  
+
+So, let us focus on the second lesson (2) noted above, and explore it in a more scientific context. Here is here is another example of a simple model - taken from biology - that describes a counter-intutive amount of complexity:
+
+Let us start with a simple model of how a population of, say, rabbits develops over time (successive years). Rabbits procreate, so we can assume that a starting population of a certain size (_x_) increases or decreases by a certain amount, or factor (the growth rate _r_). The result is that our model predicts that the population next year is:
+
+$$
+    r * x
+$$
+
+However, there are also environmental factors, such as predators, limited food, and disease that will work in the opposite direction and decrease the population by a certain amount. We can account for that in our simple model by adding a term of population loss. An easy way to do so is by using (1 -_x_) as the loss that occurs due to environmental factors. This should be a fraction of the population, so we have to keep _x_ between 0 (no loss) and 1 (complete loss), By multiplying our current population with that term, we can derive the fraction of the population that can still support growth. We now have an extremely simple model (called the **discrete logistic growth model**):
+
+$$
+\[
+\begin{array}{rcl@{\qquad}l}
+x_{n+1} &=& r\,x_n\,(1 - x_n) 
+& x_n \;:\; \text{population (or population fraction) in year } n \\[4pt]
+&& 
+& x_{n+1} \;:\; \text{population in year } n+1 \\[4pt]
+&& 
+& r \;:\; \text{growth parameter} \\[4pt]
+&& 
+& (1 - x_n) \;:\; \text{environmental limitation}
+\end{array}
+\]
+$$
+
+While this model of population growth is definitely "wrong" in that it oversimplifies biological reality, it nonetheless reveals that even rather simple models can describe rather complex phenomena.
+
 The point here is that our intuition might suggest that "complex phenomena require complex descriptions", and hence "simple models" _must_ be incorrect. But that is not always the case.  
 
 Putting all of that in context with what we discusses above: We may never know for certain whether our (scientific) models are correct or complete. But there is no logically compelling reason to assume that finding accurate models _can never be the case_. There is no _fundamental_ limitation to describing the world, or our perception, using (mathematical) models. **Correct models can and do exist**, thus science is justified in aiming to find them. Whether science can succeed in this endeavour, or whether we would be able to identify a correct model as such is another question entirely (and we already committed to caution).  
