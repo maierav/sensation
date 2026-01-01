@@ -1031,6 +1031,8 @@ Specifically, the image shows a small subset of the **Mandelbrot set**.
 
 [This is just an aside, but for completion's sake: A complex number $c$ is in the Mandelbrot set if, starting from $z_0 = 0$ and repeatedly applying the rule $z_{n+1} = z_n^2 + c$, the resulting values never grow too large. Crossing a distance of $2$ from the origin guarantees divergence, so remaining within this bound characterizes the set.]
 
+The point here is that our intuition might suggest that "complex phenomena require complex descriptions", and hence "simplified models" _must_ be incorrect. But that is not always the case.  
+
 ### Intersubjective Coherence
 
 Another thought we need to take a moment reflecting on is the role of people _working together_ in science. This fact adds complications when we evaluate science, such as politics and sociology playing a role in how science is done _in practice_.  
