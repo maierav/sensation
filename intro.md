@@ -974,13 +974,19 @@ And there is a bit more philosophy that we need to discuss before we start with 
 
 ### Not "All Models are Wrong"
 
-The adage that "_all models are wrong, but some are useful_" has created some confusion. It is often taken as a proven truth that "it is impossible to derive correct theories", or even "many (or all) different theories are of equal value". Slogans, such as this one, can arrest deeper thought and critical examination by providing overly simplified (and sometimes deliberatly exaggerated notions) that have a tendency to become dogmatic over time. Somewhat pointedly, we can counter this slogan with another, in that _science progresses by leaving behind one slogan at a time_.
+The adage that "_all models are wrong, but some are useful_" (first used by George Box in 1976 while discussing **statistical models**) often arises in the context of discussing the limitations of science.  
 
-In this particular case, the confusion arises by the liberal use of the word "model". Careful examination reveals that the word "model" as various meanings (such as people wearing designer clothes during a fashion show). The slogan is **only defensible if one restricts the concept of a “model” to approximate descriptions**. In that case, we _defined_ all models to be "wrong" in that they are overly simplified and lack a full description.  
+It is important to note that confusion can arise when using the word "model" outside of this original context of statistics.  
 
-However, in mathematics and science, the word "model" also is used for exact representations under stipulated equivalence relations, counter-examples are routine. These Mmdels are not always approximations, but also include exact realizations of an abstract structure. A modern digital computer, for example, is a physical model (or realization - concrete implementation) of abstract two-element Boolean Algebra. And there is nothing "missing", and nothing "wrong". To restate this a bit more provocatively: If all models were wrong, computers would not work.  
+The word "model" has more than one meaning (such as people wearing designer clothes during a fashion show). And the slogan is **only defensible if one restricts the concept of a “model” to approximate descriptions**. In that case, we _defined_ all models to be "wrong" in that they are overly simplified and lack a full description.  
+
+However, in mathematics and science, the word "model" also is used for **exact representations**. These Mmdels are not always approximations, but also include exact realizations of an abstract structure (1:1 models, or _isomorphisms_).  
+
+A modern digital computer, for example, is a physical model (or realization - concrete implementation) of abstract two-element Boolean Algebra. And there is nothing "missing", and nothing "wrong". To restate this a bit more provocatively: If all models were wrong, computers would not work.  
 
 In other words, the slogan that "all models are wrong" only applies to approximate models, **not models in general**. And science is by no means limited to approximate models.  
+
+A common reaction to this discussion is that "many henomena are **too complex** to describe (or represent) in a simple way. Hence our models of complex phenomena _must be_ too simple (and hence "wrong").
 
 ### Intersubjective Coherence
 
