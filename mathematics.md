@@ -85,7 +85,32 @@ There is, fo course, a lot to say about ZFC. The Axiom of Choice, for example, i
     You’ll get five definitions.
     And all of them will be correct.
 
-So far we mostly discussed (or looked at) _geometric_ descriptions of math. Historically speaking, this makes sense since we established that modern axiomatic mathematics finds it origin in ancient Greece with Euclid. But just a brief look at Stonehenge leaves us with the impression that geometry has fascinated humans for much longer (at least all the way back to the _stone age_). One cannot help but wonder whether part of this fascination with geometry is partly rooted in its relation to _measurement_ (of astronomical events, such as the solstice) as well as in the fact that it is _tangible_. That is, a Euclidian geometric proof does _not_ just exist in the "abstract". Instead, we can convince ourselves that the proof "works" in the real world by using a compass and a ruler and literally draw out the proof (the various operations) on sand, a blackboard, or a piece of paper.  
+So far we mostly discussed (or looked at) _geometric_ descriptions of math. Historically speaking, this makes sense since we established that modern axiomatic mathematics finds it origin in ancient Greece with Euclid. But just a brief look at Stonehenge leaves us with the impression that geometry has fascinated humans for much longer (at least all the way back to the _stone age_).  
+
+% Stonehenge
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/stonehenge.jpg
+:label: fig:math
+:width: 65%
+Stonehenge is aligned with the sun's position during the solstices.[^4]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/stonehenge.png
+:label: fig:math
+:width: 65%
+Stonehenge is aligned with the sun's position during the solstices.[^4]
+
+:::
+
+[^4]: public domain sources: [4](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_II_geometria,_1707_%E2%80%93_BEIC_13369403.jpg)
+
+One cannot help but wonder whether part of this fascination with geometry is partly rooted in its relation to _measurement_ (of astronomical events, such as the solstice) as well as in the fact that it is _tangible_. That is, a Euclidian geometric proof does _not_ just exist in the "abstract". Instead, we can convince ourselves that the proof "works" in the real world by using a compass and a ruler and literally draw out the proof (the various operations) on sand, a blackboard, or a piece of paper.  
 
 But if it was pragmatic _usefulness_ (e.g., for predicting the solstice or delineating a piece of land that is under dispute between two farmers) that led to the study of geometry, we quickly come to appreciate a seemingly _separate_ part of mathematics: counting, calculating - using **numbers**. From a pragmatic standpoint, numbers become relevant the moment we think of _currency_, or money. Salaries, debt, wealth all needs to be handled by using numbers (nobody is surprised to find numbers when taking a look at their credit card bill or bank account).  
 
