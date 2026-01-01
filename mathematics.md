@@ -101,7 +101,7 @@ Stonehenge is aligned with the sun's position during the solstices.[^4]
 :::{div}
 :class: dark:hidden
 
-:::{figure} ./images/stonehenge.png
+:::{figure} ./images/stonehenge.jpg
 :label: fig:math
 :width: 65%
 Stonehenge is aligned with the sun's position during the solstices.[^4]
