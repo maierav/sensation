@@ -1033,7 +1033,7 @@ Specifically, the image shows a small subset of the **Mandelbrot set**.
 
 The point here is that our intuition might suggest that "complex phenomena require complex descriptions", and hence "simple models" _must_ be incorrect. But that is not always the case.  
 
-Putting all of that in context with what we discusses above: We may never know for certain whether our (scientific) models are correct or complete. But there is no logically compelling reason to assume that finding accurate models _can never be the case_. There is no _fundamental_ limitation to describing the world, or our perception, using (mathematical) models. **Correct models can and do exist**, thus science is justified in aiming to find them. Whether science can succeed in this endeavour, or whether we would be able to identify a correct model as such is another question entirely.  
+Putting all of that in context with what we discusses above: We may never know for certain whether our (scientific) models are correct or complete. But there is no logically compelling reason to assume that finding accurate models _can never be the case_. There is no _fundamental_ limitation to describing the world, or our perception, using (mathematical) models. **Correct models can and do exist**, thus science is justified in aiming to find them. Whether science can succeed in this endeavour, or whether we would be able to identify a correct model as such is another question entirely (and we already committed to caution).  
 
 ### Intersubjective Coherence
 
