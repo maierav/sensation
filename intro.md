@@ -988,6 +988,45 @@ In other words, the slogan that "all models are wrong" only applies to approxima
 
 A common reaction to this discussion is that "many henomena are **too complex** to describe (or represent) in a simple way. Hence our models of complex phenomena _must be_ too simple (and hence "wrong").
 
+Here, too, one can find counter-examples that challenge our intuition. Take a look at the enormous complexity of this structure:
+
+% Mandelbrot
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/mandelbrot_dark.png
+:label: fig:mandelbrot
+:width: 75%
+
+A simple, short equation can describe enormous complexity.[^18]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} images/mandelbrot.png
+:label: fig:mandelbrot
+:width: 75%
+
+A simple, short equation can describe enormous complexity.[^18]
+:::
+
+[^18]:[public domain source](https://commons.wikimedia.org/wiki/File:Mandelbrot_Zoom_16_Fortran90.png)
+
+And, somewhat surprisingly, it takes rather little mathematical notation to describe this structure:
+
+$$
+\mathcal{M}
+=
+\left\{
+c \in \mathbb{C}
+\;\middle|\;
+\forall n \ge 0,\; \lvert z_n \rvert \le 2
+\right\},
+\qquad
+z_{n+1} = z_n^2 + c,\; z_0 = 0
+$$
+
 ### Intersubjective Coherence
 
 Another thought we need to take a moment reflecting on is the role of people _working together_ in science. This fact adds complications when we evaluate science, such as politics and sociology playing a role in how science is done _in practice_.  
@@ -1083,7 +1122,7 @@ The first written account of this process we have is the book "Elements of Geome
 :label: fig:euclid
 :width: 60%
 
-The oldest (fragmentary) copy of Euclid's "Elements of Geometry" that is currently known. It is almost 2000 years old, dating back to the end of the first century. The diagram depicts Proposition (Axiom) 5 of Book II: _If a straight line be cut into equal and unequal segments, the rectangle contained by the unequal segments of the whole together with the square on the straight line between the points of section is equal to the square on the half_.[^18]
+The oldest (fragmentary) copy of Euclid's "Elements of Geometry" that is currently known. It is almost 2000 years old, dating back to the end of the first century. The diagram depicts Proposition (Axiom) 5 of Book II: _If a straight line be cut into equal and unequal segments, the rectangle contained by the unequal segments of the whole together with the square on the straight line between the points of section is equal to the square on the half_.[^19]
 :::
 
 :::{div}
@@ -1093,10 +1132,10 @@ The oldest (fragmentary) copy of Euclid's "Elements of Geometry" that is current
 :label: fig:euclid
 :width: 60%
 
-The oldest (fragmentary) copy of Euclid's "Elements of Geometry" that is currently known. It is almost 2000 years old, dating back to the end of the first century. The diagram depicts Proposition (Axiom) 5 of Book II: _If a straight line be cut into equal and unequal segments, the rectangle contained by the unequal segments of the whole together with the square on the straight line between the points of section is equal to the square on the half_.[^18]
+The oldest (fragmentary) copy of Euclid's "Elements of Geometry" that is currently known. It is almost 2000 years old, dating back to the end of the first century. The diagram depicts Proposition (Axiom) 5 of Book II: _If a straight line be cut into equal and unequal segments, the rectangle contained by the unequal segments of the whole together with the square on the straight line between the points of section is equal to the square on the half_.[^19]
 :::
 
-[^18]: [public domain source](https://en.wikipedia.org/wiki/File:P._Oxy._I_29.jpg)
+[^19]: [public domain source](https://en.wikipedia.org/wiki/File:P._Oxy._I_29.jpg)
 
 So let us take a brief look at some of that. Euclid starts with definitions. These are, in modern terms, axioms.
 
