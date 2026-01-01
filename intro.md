@@ -972,6 +972,16 @@ However, nothing we have discussed so far is science (yet). What we have done so
 
 And there is a bit more philosophy that we need to discuss before we start with the science of perception proper. A lot about what we learn about the science of perception will make more sense after that. In fact, you might want to come back here again often as you progress in learning about the science of perception in order to reevaluate your thoughts on the overarching philosophical questions that we will discuss next.
 
+### Not "All Models are Wrong"
+
+The adage that "_all models are wrong, but some are useful_" has created some confusion. It is often taken as a proven truth that "it is impossible to derive correct theories", or even "many (or all) different theories are of equal value". Slogans, such as this one, can arrest deeper thought and critical examination by providing overly simplified (and sometimes deliberatly exaggerated notions) that have a tendency to become dogmatic over time. Somewhat pointedly, we can counter this slogan with another, in that _science progresses by leaving behind one slogan at a time_.
+
+In this particular case, the confusion arises by the liberal use of the word "model". Careful examination reveals that the word "model" as various meanings (such as people wearing designer clothes during a fashion show). The slogan is **only defensible if one restricts the concept of a “model” to approximate descriptions**. In that case, we _defined_ all models to be "wrong" in that they are overly simplified and lack a full description.  
+
+However, in mathematics and science, the word "model" also is used for exact representations under stipulated equivalence relations, counter-examples are routine. These Mmdels are not always approximations, but also include exact realizations of an abstract structure. A modern digital computer, for example, is a physical model (or realization - concrete implementation) of abstract two-element Boolean Algebra. And there is nothing "missing", and nothing "wrong". To restate this a bit more provocatively: If all models were wrong, computers would not work.  
+
+In other words, the slogan that "all models are wrong" only applies to approximate models, **not models in general**. And science is by no means limited to approximate models.  
+
 ### Intersubjective Coherence
 
 Another thought we need to take a moment reflecting on is the role of people _working together_ in science. This fact adds complications when we evaluate science, such as politics and sociology playing a role in how science is done _in practice_.  
