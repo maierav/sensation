@@ -1053,16 +1053,13 @@ However, there are also environmental factors, such as predators, limited food, 
 
 $$
 \[
-\begin{array}{rcl@{\qquad}l}
-x_{n+1} &=& r\,x_n\,(1 - x_n) 
-& x_n \;:\; \text{population (or population fraction) in year } n \\[4pt]
-&& 
-& x_{n+1} \;:\; \text{population in year } n+1 \\[4pt]
-&& 
-& r \;:\; \text{growth parameter} \\[4pt]
-&& 
-& (1 - x_n) \;:\; \text{environmental limitation}
-\end{array}
+\begin{aligned}
+x_{n+1} &= r\,x_n\,(1 - x_n) \\[6pt]
+x_n &:\ \text{population (or population fraction) in year } n \\
+x_{n+1} &:\ \text{population in year } n+1 \\
+r &:\ \text{growth parameter} \\
+(1 - x_n) &:\ \text{environmental limitation}
+\end{aligned}
 \]
 $$
 
