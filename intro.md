@@ -1052,15 +1052,15 @@ $$
 However, there are also environmental factors, such as predators, limited food, and disease that will work in the opposite direction and decrease the population by a certain amount. We can account for that in our simple model by adding a term of population loss. An easy way to do so is by using (1 -_x_) as the loss that occurs due to environmental factors. This should be a fraction of the population, so we have to keep _x_ between 0 (no loss) and 1 (complete loss), By multiplying our current population with that term, we can derive the fraction of the population that can still support growth. We now have an extremely simple model (called the **discrete logistic growth model**):
 
 $$
-\[
-\begin{aligned}
-x_{n+1} &= r\,x_n\,(1 - x_n) \\[6pt]
-x_n &:\ \text{population (or population fraction) in year } n \\
-x_{n+1} &:\ \text{population in year } n+1 \\
-r &:\ \text{growth parameter} \\
-(1 - x_n) &:\ \text{environmental limitation}
-\end{aligned}
-\]
+  \[
+  \begin{aligned}
+  x_{n+1} &= r\,x_n\,(1 - x_n) \\[6pt]
+  x_n &:\ \text{population (or population fraction) in year } n \\
+  x_{n+1} &:\ \text{population in year } n+1 \\
+  r &:\ \text{growth parameter} \\
+  (1 - x_n) &:\ \text{environmental limitation}
+  \end{aligned}
+  \]
 $$
 
 While this model of population growth is definitely "wrong" in that it oversimplifies biological reality, it nonetheless reveals that even rather simple models can describe rather complex phenomena.
