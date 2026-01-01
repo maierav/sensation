@@ -85,13 +85,33 @@ There is, fo course, a lot to say about ZFC. The Axiom of Choice, for example, i
     You’ll get five definitions.
     And all of them will be correct.
 
-Now that we have gained a (very) basic understanding of set theory, which we identfied as the foundational basis of much of mathematics, we can explore the concept of numbers. "Why just now?", you might wonder. After all, (pre-)school mathematics tends to start with numbers, and builds from there, often teaching set theory at a much later stage.  
+So far we mostly discussed (or looked at) _geometric_ descriptions of math. Historically speaking, this makes sense since we established that modern axiomatic mathematics finds it origin in ancient Greece with Euclid. But just a brief look at Stonehenge leaves us with the impression that geometry has fascinated humans for much longer (at least all the way back to the _stone age_). One cannot help but wonder whether part of this fascination with geometry is partly rooted in its relation to _measurement_ (of astronomical events, such as the solstice) as well as in the fact that it is _tangible_. That is, a Euclidian geometric proof does _not_ just exist in the "abstract". Instead, we can convince ourselves that the proof "works" in the real world by using a compass and a ruler and literally draw out the proof (the various operations) on sand, a blackboard, or a piece of paper.  
 
-However, we needed to start from _foundations_, and numbers are commonly derived by modern mathematics using the axioms of set theory (ZFC). More so, since we already are at a point where we ponder things more deeply, numbers are not as simple as they look at first sight. Thinking about numbers (deeply) can quickly turn puzzling. And having set theory as a backdrop can help prevent a bit of that.  
+But if it was pragmatic _usefulness_ (e.g., for predicting the solstice or delineating a piece of land that is under dispute between two farmers) that led to the study of geometry, we quickly come to appreciate a seemingly _separate_ part of mathematics: counting, calculating - using **numbers**. From a pragmatic standpoint, numbers become relevant the moment we think of _currency_, or money. Salaries, debt, wealth all needs to be handled by using numbers (nobody is surprised to find numbers when taking a look at their credit card bill or bank account).  
+
+When it comes to the science of perception, then, we need to take a look at both - geometric structurs and numbers. An obvious question, after all, is that - if we want to be precise and mathematize - the science of perception in order to make it "as scientific" as, say, physics, which mathematics does best apply? Is it geometrical, structural descriptions or numerical measurement and description?  
+
+As we will see, these two seemingly _distinct_ fields of mathematics have long been _unified_,  
+
+Do you know by whom?  
+
+Descartes. And this won't be the last time that we will encounter his accomplishments.
+
+But, we can leave that aside for the moment, and take a closer look at what made _numbers_ seem so separate from the study of geometric _structure_ (again, luckily, Descartes and others demonstrated that we do not really have to choose one over the other). There is something peculiar about numbers in that it becomes more challenging to point to physical objects, like Euclid did for his geometrical proofs. Numbers can seem more "abstract", or, on some people's view: mind-made.  
+
+What can we point to in the real world to explain the number zero? Or the number -1?  
+
+In fact, it tends to be the discovery of numbers, such as the square root of 2 where students first encounter a nagging feeling (most of that have forgotten that this happened when we were young). And that feeling has justification. There is something non-trivial about a number, such as the square root of 2, allowing mathematicians to abandon precise calculations, and instead just "round up" or "approximate" (or just stick to a symbol) as a _correct answer_. This _is_ confusing. And by brushing over the confusion that arises at that point of learning mathematics can give rise to the feeling of "**not being good at math**" and eventually "**not liking math**".  
+
+Much of what follows aims to remedy this problem. And in order to do so, we will slowly and carefully go over elementary and middle school (as well asperhaps some high school, depending on modern corricula) mathematics again and stop whenever we encounter these moments of potential, justifiable, confusion. It may seem silly to discuss addition of, say 2 + 3 again, but stick with it. It is likely that you will learn something new. And at the same time get a better feeling that while 2 + 3 seems "easy" or even "trivial", taking the logarithm of 34 does not. But, if we succeed, it becomes clear there is a clear and surprisingly simple connection between the two operations. And then the notion of "easiness" that comes with addition of 2 and 3 hopefully will extend to taking the logarithm of 34. Or pondering a bit about the square root of 2.  
+
+So, now that we have gained a (very) basic understanding of set theory, which we identfied as the foundational basis of much of mathematics, we can explore the concept of numbers. "Why just now?", you might wonder. After all, (pre-)school mathematics tends to start with numbers, and builds from there, often teaching set theory at a much later stage.  
+
+However, we needed to start from _foundations_, and numbers are commonly derived by modern mathematics using the axioms of set theory (ZFC). More so, since we already are at a point where we ponder things more deeply, numbers are not as simple as they look at first sight. Thinking about numbers (deeply) can quickly turn things puzzling. And having set theory as a backdrop can help prevent a bit of that.  
 
 ### Arithmetic
 
-Now things get really interesting. Numbers by themselves just seem to "exist" and "not do anything". And when we were young, we probably quickly realized that numbers really show their usefulness once we add, subtract, multiply, or divide them.  
+Now things get really interesting. Numbers by themselves just seem to "be made up" and "not do anything". And when we were young, we probably quickly realized that numbers really show their usefulness once we add, subtract, multiply, or divide them.  
 
 And all of that seems to come quite naturally. After all, we can do the same thing with concrete objects: add one apple to two others, divide a pizza in half, and so on.  
 
