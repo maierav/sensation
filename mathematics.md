@@ -123,7 +123,7 @@ Thanks to our modern notation (the Hindu-Arabic numerals), you might have learne
 :::{div}
 :class: dark:hidden
 
-:::{figure} ./images/long_divison.png
+:::{figure} ./images/long_division.png
 :label: fig:math
 :width: 35%
 
