@@ -85,7 +85,7 @@ Perhaps surprisingly, we have learned that neither seems to be a fundamental pro
 
 The finding that we can make precise measurements of perception only goes back to 1850. On October 22 that year, Gustav Theodor Fechner made an entry in his diary that he had a conceptual breakthrough. We are still making use of that insight today, including people that have made millions of dollars based on it.  
 
-So, what Fechner find?
+So, what Fechner did find?
 
 His insight is best understood by a thought experiment:
 
@@ -102,7 +102,7 @@ Imagine being blindfolded with the aim to feel changing weights in your hands. [
 
 [^4]: [public domain source](https://commons.wikimedia.org/wiki/File:La_Justice_et_la_Religion_recouvrent_leurs_droits._G.33455.jpg)
 
-Now imagine that the other person silently places a large goos feather on your hand with the paper on it. Your task is to speak up when you feel that extra weight. If you think that you could probably detect that change in weight, you are probably right.  
+Now imagine that the other person silently places a large feather on your hand with the paper on it. Your task is to speak up when you feel that extra weight. If you think that you could probably detect that change in weight, you are probably right.  
 
 But now imagine that that person neatly placed 100 feathers on top of the paper. So, your hand now feels quite a bit heavier. And the task is now to detect a single extra feather. Would that be possible? What if we start with 500 feathers? Or 5000? Would you still be able to feel when a single extra feather is added? If your intuition is that this would be harder, if not impossible, you are correct.  
 
