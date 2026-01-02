@@ -476,7 +476,7 @@ Note that **perception can happen without sensation**, fully discoupled from the
 
 In this light, it could be argued that we should broaden what we mean by perception. And we might be left with (conscious) experience. Stretching this definition to the limit, we could even include beliefs, desires, and other seemingly non-sensory experiences as **perception in a broad sense**.  
 
-The lines definitely are blurry. Desire, for example, could be seen as the perception of the sensory process of certain chemicals (hormonones) within our blood. Belief, on the other hand, seems closer to seeing something in a dream in that there are no sensory counter parts. What belief and dreaming have in common, though, is that they are _experienced_.
+The lines definitely are blurry. Desire, for example, could be seen as the perception of the sensory process of certain chemicals (hormones) within our blood. Belief, on the other hand, seems closer to seeing something in a dream in that there are no sensory counterparts. What belief and dreaming have in common, though, is that they are _experienced_.
 
 _Science_ is the practice of applying logical reasoning and observations to answering questions about the world.  
 
@@ -499,7 +499,7 @@ Do you agree with these definitions? How would you define these terms?
 :::{div}
 :class: dark:hidden
 
-::{figure} images/naiverealism.png
+:::{figure} images/naiverealism.png
 :label: fig:naive
 :alt: Naive Realism
 :width: 85%
