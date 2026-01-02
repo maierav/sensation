@@ -105,7 +105,6 @@ When it comes to the science of perception, then, we need to take a look at both
 As we will see, these two seemingly _distinct_ fields of mathematics have long been _unified_,  
 
 :::{admonition} ❓ Question
-:open: true
 :icon: false
 Do you know by whom?
 :::  
