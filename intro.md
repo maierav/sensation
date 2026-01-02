@@ -599,7 +599,6 @@ However, as we will see, there are many, quite different, worldviews that all cl
 An attempt at illustrating the modern naturalistic worldview (**scientific realism**). Rather than equating our perception with the world, scientists see the world as a complex dynamic system following mathematical laws, much of which is not directly perceived, and some of it not perceivable at all. The challenge then becomes to _explain_ how the world of our perception relates and comes about from the physical world.  
 :::  
 
-
 :::{div}
 :class: dark:hidden
 
