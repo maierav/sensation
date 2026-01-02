@@ -964,8 +964,8 @@ This ration of likelihoods between alternative theories is called the Bayes' fac
 
 The important lesson to draw from all of this is that:
 
-    1. Even if we do not know what is true, we can _know_. With varying degrees of certainty.
-    2. Even if we lack full certainty, what we believe may still be true.[^9]
+1. Even if we do not know what is true, we can _know_. With varying degrees of certainty.
+2. Even if we lack full certainty, what we believe may still be true.[^9]
 
 [^9: There are varying definitions of what we mean by "true". For now, we will adopt the most common and perhaps simplest notion in that we define "true" any belief or statements that _corresponds_ to reality (**correspondence theory**). Such as the belief or statement "it is raining outside right now" being true if there is water falling from the sky at this location and that point in time. We will revisit this notion again later.]  
 
