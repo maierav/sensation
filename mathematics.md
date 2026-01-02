@@ -278,7 +278,7 @@ This seems like a minor step. But we will keep expanding our notion of numbers a
 
 :::{figure} ./images/natural_numbers_dark.jpg
 :label: fig:sum
-:width: 100%
+:width: 95%
 So far we only used **counting numbers**, such as {1, 2, 3, ...}. As the name suggests, these numbers are easy to understand since we use them to count things - real world objects. Mathematicians denote the set of counting numbers with the "blackboard" letter $\mathbb{N}^+$. Technically speaking, this notation stands for "natural numbers excluding zero" - probably because counting numbers sounds a bit too childish.
 
 By adding the concept of 0 to our numbers, we technically create a larger set of numbers. The resulting number system is usually called the **natural numbers**, and is denoted as $\mathbb{N}_0$ (which makes clear that we include 0). As you can see from the notation, it is a bit unclear whether we include or do not include the number 0 when we speak about natural numbers, so it is best practice to disambiguate like we did here. In school, you might have also learned that the natural numbers (with zero included) are called the **whole numbers**.  
@@ -289,7 +289,7 @@ By adding the concept of 0 to our numbers, we technically create a larger set of
 
 :::{figure} ./images/natural_numbers.png
 :label: fig:sum
-:width: 100%
+:width: 95%
 So far we only used **counting numbers**, such as {1, 2, 3, ...}. As the name suggests, these numbers are easy to understand since we use them to count things - real world objects. Mathematicians denote the set of counting numbers with the "blackboard" letter $\mathbb{N}^+$. Technically speaking, this notation stands for "natural numbers excluding zero" - probably because counting numbers sounds a bit too childish.
 
 By adding the concept of 0 to our numbers, we technically create a larger set of numbers. The resulting number system is usually called the **natural numbers**, and is denoted as $\mathbb{N}_0$ (which makes clear that we include 0). As you can see from the notation, it is a bit unclear whether we include or do not include the number 0 when we speak about natural numbers, so it is best practice to disambiguate like we did here. In school, you might have also learned that the natural numbers (with zero included) are called the **whole numbers**.  
@@ -311,7 +311,7 @@ Now, we need to expand our concept of numbers once more. And we end up with _int
 
 :::{figure} ./images/integers_dark.jpg
 :label: fig:sum
-:width: 100%
+:width: 95%
 Including _negative numbers_ in our exploration of numbers, we expanded our number system yet again. We now face an even larger set of numbers, called the **integers**. We use the blackboard letter $\mathbb{Z}$ as notation for this superset of numbers (and we are far from being done creating larger and larger sets of numbers).
 :::
 
@@ -320,7 +320,7 @@ Including _negative numbers_ in our exploration of numbers, we expanded our numb
 
 :::{figure} ./images/integers.png
 :label: fig:sum
-:width: 100%
+:width: 95%
 Including _negative numbers_ in our exploration of numbers, we expanded our number system yet again. We now face an even larger set of numbers, called the **integers**. We use the blackboard letter $\mathbb{Z}$ as notation for this superset of numbers (and we are far from being done creating larger and larger sets of numbers).
 :::
 
