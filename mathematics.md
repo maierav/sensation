@@ -20,6 +20,16 @@ Science rests on mathematics, so we cannot avoid the topic. The following is a b
 
 We thus will look at much about what learned about mathematics which an eye on: why might learning about this have caused some of us to dislike it? One issue we will identify are potential moments of confusion that occur mostly whenever our intiution is challenged. Standard math education tends to gloss over these potential obstacles of thought by teaching proven mathematics as disjointed "facts" that are handed down by authority and have to be accepted.  
 
+% Cardioid Construction
+:::{figure} ./images/cardioid_circle.gif
+:label: fig:cardioid_construction
+:width: 75%
+
+Geometric construction of a **cardioid** - a heart-shaped object that by itself does not seem very interesting. This can be taught, and seen, as a random mathematical fact. But there is more. Keep reading.[^2]
+:::
+
+[^2]: [public domain source](https://commons.wikimedia.org/wiki/File:Cardioid30.gif)
+
 Even some of the best mathematicians experience such moments of befuddlement, with one of the best mathematicians of all time, John von Neumann, admitting that he just had to "get used to it". But we do not want to do that. We want to see how every step fits into a bigger picture. Rather than examining isolated stones by themselves, we want to step back and see the entire mosaic - even when it still has gaps and remains unfinished. And, as we will see, these moments of potential confusion occur as early as going from addition to subtraction (they tend to peak among students when learning about division and fractions). Hence, we will start from scratch and even examine such basic operations, and reflect on where we might have experienced brief moments of potential bewilderement that lie in our past so that we can revisit them as adults and remedy these feelings - or at least acknowledge that they were justified. It will be worth it.  
 
 If you never felt that way, you might at least gain some insight into how we might be able to improve on the dissemination and public perception of mathematics. How can mathematicians share their passion? Their love for mathematics? The awe, thrill, and excitment that they experience when learning about mathematical insight? And, as we will see, there is an enticing connection between our perception being not up to our own whim (our experience is not shaped by what we _want_ or _will_ it to be) and mathematics following necessity rather than arbitrariness (mathematics does not follow what we _want_ or _will_ it to be).  
@@ -42,10 +52,10 @@ As we already discussed, due to our schooling, we tend to think of mathematics a
 
 The Flammarion engraving provides a metaphor for mathematization in science: Empirical observation corresponds to the contingent, and perspectival that we are all familiar with. Mathematical structure corresponds to what lies beyond: invariant, non-perspectival. Mathematics strips away observer-specific phenomena and produces observer-invariant _relations_. Math provides statements that are unaffected by who observes, where, or when. In this sense, mathematics is not one science among others — it is the means by which science escapes subjectivity and achieves explanatory unification.
 
-Using mathematics, science seemingly crosses the empirical horizon to access structure that is not itself observable, such as Hilbert spaces, manifolds, groups, probability measures, causal graphs. While debated, scientist seem unlikely to merely _invent_ this underlying structure, but seemingly _discover_ it when describing an underlying abstract order that is not readily apparent in ordinary observation (unknown artist, 1888).[^2]
+Using mathematics, science seemingly crosses the empirical horizon to access structure that is not itself observable, such as Hilbert spaces, manifolds, groups, probability measures, causal graphs. While debated, scientist seem unlikely to merely _invent_ this underlying structure, but seemingly _discover_ it when describing an underlying abstract order that is not readily apparent in ordinary observation (unknown artist, 1888).[^4]
 :::
 
-[^2]: [public domain source](https://commons.wikimedia.org/wiki/File:Colourflamarion33.jpg)
+[^4]: [public domain source](https://commons.wikimedia.org/wiki/File:Colourflamarion33.jpg)
 
 To put it a bit more high brow: We will focus less on _mathematics_, the _human_ (mind-dependent) activity that leads to symbols (notation), proofs, calculations and equation solving. What the following aims to instill is to, in some sense, look past all that and focus on what all that _describes_. The _structure_, the laws, rules, order, or patterns that all this points to, or follows. Following P. Freyd, we will call this **subject of mathematics** the **mathematical**. If you see mathematics as a _language_, then the mathematical is that which this languages describes.  
 
@@ -72,7 +82,7 @@ The goal is still to read and understand mathematical formalism and descriptions
 :::{figure} ./images/math_dark.jpg
 :label: fig:math
 :width: 65%
-Mathematics has been taught to students for thousands of years.[^3]
+Mathematics has been taught to students for thousands of years.[^5]
 
 :::
 
@@ -82,11 +92,11 @@ Mathematics has been taught to students for thousands of years.[^3]
 :::{figure} ./images/math.png
 :label: fig:math
 :width: 65%
-Mathematics has been taught to students for thousands of years.[^3]
+Mathematics has been taught to students for thousands of years.[^5]
 
 :::
 
-[^3]: public domain sources: [1](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_II_geometria,_1707_%E2%80%93_BEIC_13369403.jpg), [2](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_I_geometria,_1715_%E2%80%93_BEIC_13386284.jpg)
+[^5]: public domain sources: [1](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_II_geometria,_1707_%E2%80%93_BEIC_13369403.jpg), [2](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_I_geometria,_1715_%E2%80%93_BEIC_13386284.jpg)
 
 We already discussed that modern mathematics starts with one or more _axioms_ that one has to accept without further questioning. So, what are the axioms that underly _all_ of mathematics (or, since one can always drop or add axioms and thus change mathematics, the largest body of mathematics)?  
 
@@ -159,10 +169,10 @@ So far we mostly discussed (or looked at) _geometric_ descriptions of math. Hist
 :::{figure} ./images/stonehenge.jpg
 :label: fig:stonehenge
 :width: 85%
-Stonehenge is aligned with the sun's position during the solstices.[^4]
+Stonehenge is aligned with the sun's position during the solstices.[^6]
 :::
 
-[^4]: [public domain source](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_II_geometria,_1707_%E2%80%93_BEIC_13369403.jpg)
+[^6]: [public domain source](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_II_geometria,_1707_%E2%80%93_BEIC_13369403.jpg)
 
 One cannot help but wonder whether part of this fascination with geometry is partly rooted in its relation to _measurement_ (of astronomical events, such as the solstice) as well as in the fact that it is _tangible_. That is, a Euclidian geometric proof does _not_ just exist in the "abstract". Instead, we can convince ourselves that the proof "works" in the real world by using a compass and a ruler and literally draw out the proof (the various operations) on sand, a blackboard, or a piece of paper.  
 
@@ -220,7 +230,7 @@ The fancy word for this property of addition is **commutativity**.
 :::{figure} ./images/sum_dark.png
 :label: fig:sum
 :width: 80%
-Summing does not care about the order of operations. No matter whether we add one apple to two or two apples to one, we will always end up with three apples. This seems trivial. We all know that. But let us take note of this regardless. As we will see, this is not always the case when we do math, so it is not quite that trivial after all.[^5]
+Summing does not care about the order of operations. No matter whether we add one apple to two or two apples to one, we will always end up with three apples. This seems trivial. We all know that. But let us take note of this regardless. As we will see, this is not always the case when we do math, so it is not quite that trivial after all.[^7]
 :::
 
 :::{div}
@@ -229,10 +239,10 @@ Summing does not care about the order of operations. No matter whether we add on
 :::{figure} ./images/sum.png
 :label: fig:sum
 :width: 80%
-Summing does not care about the order of operations. No matter whether we add one apple to two or two apples to one, we will always end up with three apples. This seems trivial. We all know that. But let us take note of this regardless. As we will see, this is not always the case when we do math, so it is not quite that trivial after all.[^5]
+Summing does not care about the order of operations. No matter whether we add one apple to two or two apples to one, we will always end up with three apples. This seems trivial. We all know that. But let us take note of this regardless. As we will see, this is not always the case when we do math, so it is not quite that trivial after all.[^7]
 :::
 
-[^5]: [public domain source](https://commons.wikimedia.org/wiki/File:Green_Apple_Icon.png)
+[^7]: [public domain source](https://commons.wikimedia.org/wiki/File:Green_Apple_Icon.png)
 
 This small observation is worth pausing for. What is that? What does that mean that we can disregard order in this way? This is clearly not _always_ the case:  
 
@@ -607,7 +617,7 @@ This can be a helpful realization since logarithms result in curved graphs (func
 :::{figure} ./images/log_dark.gif
 :label: fig:log
 :width: 40%
-Logarithmic curve as inverse of an exponential function.[^4]
+Logarithmic curve as inverse of an exponential function.[^8]
 
 :::
 
@@ -617,11 +627,11 @@ Logarithmic curve as inverse of an exponential function.[^4]
 :::{figure} ./images/log.gif
 :label: fig:log
 :width: 40%
-Logarithmic curve as inverse of an exponential function.[^4]
+Logarithmic curve as inverse of an exponential function.[^8]
 
 :::
 
-[^4]: [public domain source](https://commons.wikimedia.org/wiki/File:Function-log-animation.gif)
+[^8]: [public domain source](https://commons.wikimedia.org/wiki/File:Function-log-animation.gif)
 
 We already established that when it comes to mental _calculation_, and multiplication in particular, we tend to struggle with large numbers. Logarithms come in handy in that they transform the multiplication of two very large numbers into simple addition. That is, if we know the logarithms (to the same base) of two large numbers, we can calculate (the logarithm of) their product by just adding the two logarithms:  
 
