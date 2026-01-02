@@ -152,7 +152,7 @@ The fancy word for this property of addition is **commutativity**.
 :::{figure} ./images/sum_dark.jpg
 :label: fig:sum
 :width: 80%
-Summing does not care about the order of operations. No matter whether we add one apple to two or two apples to one, we will always end up with three apples. This seems trivial. We all know that. But let us take note of this regardless. As we will see, this is not always the case when we do math, so it is not quite that trivial after all.[^3]
+Summing does not care about the order of operations. No matter whether we add one apple to two or two apples to one, we will always end up with three apples. This seems trivial. We all know that. But let us take note of this regardless. As we will see, this is not always the case when we do math, so it is not quite that trivial after all.[^5]
 :::
 
 :::{div}
@@ -170,7 +170,7 @@ This small observation is worth pausing for. What is that? What does that mean t
 
 If you pick up a book so that you look at its cover, and then _rotate forward_, and you now look at the bottom of the book. Now you _rotate to the left_, and you will look at the side of the book, and see all its pages.  
 
-But if we start again by wlooking at the book's frontcover, and then you _rotate to the left_, you will look at the side of the book and see all its pages. Then _rotate forward_, so that we reversed the sequence in which we perform the operation. But now you do do not see all of the books pages on one of its sides, like you did before. Instead, you look at its bottom.
+But if we start again by looking at the book's frontcover, and then you _rotate to the left_, you will look at the side of the book and see all its pages. Then _rotate forward_, so that we reversed the sequence in which we perform the operation. But now you do do not see all of the books pages on one of its sides, like you did before. Instead, you look at its bottom.
 
 So, rotating a book does not _commute_. You cannot just change the order and end up with the same outcome. Tbus it is worth noting that addition of whole numbers _is_ commutative in that we can reverse the order of which number we add to the other. Either way, we end up with the same sum.  
 
@@ -225,7 +225,30 @@ $$
   6 - 4 = 2
 $$
 
-As a result, we have to be a little be more careful for the words we use to describe these numbers:
+We all know this already, of course. But let's reflect more a moment. We just looked at subtraction as the _inverse_, the undoing, of addition. This notion of a simple _reversal_ seems to imply _symmetry_. But addition is commytative and does not care about the order of what we add, while subtraction does. Anyone who would have expected perfect symmetry thus might be a bit surprised.  
+
+If kids feel that subtraction is a bit "more difficult" than addition, this might be one of the reasons why. Yet, we usually do not teach subtraction in a way that _acknowledges_ that the fact that we might have expected for it to be commutative, yet it is not. Acknowledging this fact might be helpful in avoiding a vague sense of confusion, or "I am not not good at that".  Well, now we did. And this might prove helpful as we delve deeper into arithmetic and discuss logarithms towards the end.  
+
+% Differences
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/subtraction_dark.jpg
+:label: fig:sum
+:width: 80%
+Subtraction is not commutative. We end up with a different amount of apples when either taking one or two away. We all know this, but it is a bit surprising that - despite being the inverse of addition - subtraction does not follow the same rules, or laws as addition.[^5]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/subtraction.png
+:label: fig:sum
+:width: 80%
+Subtraction is not commutative. We end up with a different amount of apples when either taking one or two away. We all know this, but it is a bit surprising that - despite being the inverse of addition - subtraction does not follow the same rules, or laws as addition.[^5]
+:::
+
+As a result of the fact that subtraction is non-commutative, we have to be a little be more careful for the words we use to describe these numbers:
 
 $$
   minuend - subtrahend = difference
