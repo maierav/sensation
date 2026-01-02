@@ -424,11 +424,11 @@ Thinkers have long realized that this is interesting. These thinkers have come t
 
 (3) We could also opt for just keeping the "But why?" inquiry going on forever (such as going on about why we think that animals sleep and why we think that this tells us what is the case and why we believe that things are the case and so on). This solution to the problem of seemingly ending "But why?" questions is to counter them with never ending answers. This stance is called **Infinite Regress**. This may seem satisfying at first sight, but there is a certain absurdity that comes with the assumption that there is no starting point to knowledge. the psychologist William James explains this with a joke:  
 
-“The old lady said that the world rests on a big turtle.
-The scientist asked what the turtle rested on.
-‘Another turtle.’
-‘And what does that turtle rest on?’
-‘You can’t fool me, young man—it’s turtles all the way down!’ ”
+    “The old lady said that the world rests on a big turtle.
+    The scientist asked what the turtle rested on.
+    ‘Another turtle.’
+    ‘And what does that turtle rest on?’
+    ‘You can’t fool me, young man—it’s turtles all the way down!’ ”
 
 It is important to note that all three of these potential outcomes are on equal footing: There is no way to logically argue why one of them is preferable over the others. This realization is known as **Agrippa's Trilemma** (also called the Munchhausen Trilemma)[^12]. It is a dilemma, or more accurately - a trilemma, because none of these three options seem satisfying. Neither for kids, mnor for adults.
 
@@ -568,8 +568,9 @@ You might immediately think about science, especially since we argued for its pr
 
 Indeed, the scientific worldview differs widely from naïve realism. What exactly the scientific worldview is, or which worldviews are the most compatible with science is an ongoing debate. However, there are some common notions that are widely appreciated. For example, scientist tend to agree on mathematical descriptions of observable phenomena. Scientists also tend to agree that causal powers rule physical interactions, and that we have not found hard evidence for causal interactions that cannot be explained by sticking to physics. Most importantly, scientists tend to agree that there is a world, a universe, a cosmos that follows these mathematical rules and where causality seems to be confined within (again, we have not good evidence of non-causal events such as a teacup suddenly vanishing from existence). That is, scientists tend to agree that there is one reality (i.e., _what is real really is real_), and that much of that reality is best described using mathematics. This view does not claim that we _know_ the truth for certain, but that there is one mind-independent reality. This view is often labeled "**scientific realism**" (though that label often is associated with a narrower scope of ideas that are more contentious).  
 
-    realism is ... the only philosophy that doesn’t make the success of science a miracle.
-    H. Putnam
+> realism is ... the only philosophy that doesn’t make the success of science a miracle.
+>
+> -- H. Putnam
 
 However, as we will see, there are a large number of quite different worldviews that all claim to be compatible with science (though several of these alternatives - especially those that remain skeptical about science providing _any_ insight into reality, or even deny the existence of an objective reality altogether - tend to struggle with Putnam's challenge to explain scientific success). Several of these diverging worldviews differ in how they think about perception, so we will have to touch on those as well.
 
