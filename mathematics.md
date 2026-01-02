@@ -33,9 +33,9 @@ If you never felt that way, you might at least gain some insight into how we mig
 :align: left
 :class: grid grid-cols-2 items-end gap-4
 
-![cardoid construction] ./images/newton.jpg
+:::{figure} ./images/newton.jpg
 
-! ./images/newton.jpg
+:::{figure} ./images/newton.jpg
 
 Cardioids.
 :::
