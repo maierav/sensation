@@ -107,16 +107,16 @@ So you see the challenge?
 Thanks to our modern notation (the Hindu-Arabic numerals), we can do things like:
 
 $$
-begin{array}{r|l}
-7 & 847 \\
-  & \overline{121} \\
-  & -700 \\
-  & \ \ 147 \\
-  & -140 \\
-  & \ \ \ 7 \\
-  & -\ \ \ 7 \\
-  & \ \ \ 0
-end{array}
+\begin{aligned}
+      &\phantom{7\,)\,}121 \\
+7\,)\,&847 \\
+      &\underline{-700} \\
+      &147 \\
+      &\underline{-140} \\
+      &\phantom{1}7 \\
+      &\underline{-\phantom{1}7} \\
+      &\phantom{1}0
+\end{aligned}
 $$
 
 ### Numbers
