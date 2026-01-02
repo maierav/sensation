@@ -34,7 +34,6 @@ If you never felt that way, you might at least gain some insight into how we mig
 :class: grid grid-cols-2 items-end gap-4
 
 :::{figure} ./images/newton.jpg
-:::
 
 :::{figure} ./images/newton.jpg
 :::
