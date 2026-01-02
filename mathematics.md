@@ -79,7 +79,7 @@ You might feel that you understand all these things already, so why bother? In f
 
 There is, fo course, a lot to say about ZFC. The Axiom of Choice, for example, is highly contentious. There is also an alternative proposal for a foundation of mathematics called **category theory**. We will consider the difference between these two starting points of mathematics in a bit since it might be relevant for how we approach mathematics in the context of perception. But for now, let us stick to set theory since - as you will see - it can help us to somewhat intuitovely derive the basic mathematics we require.  
 
-## Notation
+### Notation
 
 Before we start discussing numbers and the various things we can do with them, it is worth taking a brief moment and talk about all the various symbols - the notation - that will come with that. Notation can feel a bit like a secret code that one has to learn and apply correctly to be granted entrance into math. This can feel daunting, and lingering questions regarding why some symbols are chosen or why sometimes more than one type of symbol or notation is "allowed" can cause further unease.  
 
@@ -119,7 +119,7 @@ begin{array}{r|l}
 end{array}
 $$
 
-## Numbers
+### Numbers
 
     Ask three mathematicians what a number is. 
     You’ll get five definitions.
@@ -169,7 +169,7 @@ So, now that we have gained a (very) basic understanding of set theory, which we
 
 However, we needed to start from _foundations_, and numbers are commonly derived by modern mathematics using the axioms of set theory (ZFC). More so, since we already are at a point where we ponder things more deeply, numbers are not as simple as they look at first sight. Thinking about numbers (deeply) can quickly turn things puzzling. And having set theory as a backdrop can help prevent a bit of that.  
 
-### Arithmetic
+## Arithmetic
 
 Now things get really interesting. Numbers by themselves just seem to "be made up" and "not do anything". And when we were young, we probably quickly realized that numbers really show their usefulness once we add, subtract, multiply, or divide them.  
 
