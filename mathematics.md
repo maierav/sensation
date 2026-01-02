@@ -114,16 +114,18 @@ Thanks to our modern notation (the Hindu-Arabic numerals), you might have learne
 
 $$
 \begin{aligned}
-&\phantom{7)}\!\!121 \\
+&\phantom{7)}121 \\
 7)\,&847 \\
-&\underline{-700} \\
-&147 \\
-&\underline{-140} \\
-&\phantom{1}7 \\
-&\underline{-\phantom{1}7} \\
-&\phantom{1}0
+&\underline{-7} \\
+&\phantom{0}14 \\
+&\underline{-14} \\
+&\phantom{00}7 \\
+&\underline{-\phantom{0}7} \\
+&\phantom{00}0
 \end{aligned}
 $$
+
+No worries if you forgot (or never learned) this way of long division. As promised, this textbook will not require any calculations. This demonstration was just to show that notation is not "boring" or "ugly", but interesting. And if you feel a bit intimidated by the calculation above, you will enjoy the pace and material of what comes next. If the above seemed easy to you, you will hopefully still enjoy our discussion in the next sections, as basic as it might see, since it might nonetheless shine a new light (or at keast add some interesting tidbits) on some of these basic concepts.  
 
 ### Numbers
 
