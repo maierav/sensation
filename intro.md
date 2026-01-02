@@ -477,7 +477,7 @@ Our _senses_ detect and quantify _changes_ in our _physical_ environment.
 :::
 
 _Perception_  
-: is what we _experience_. That is perception is conscious (arguably the biggest part, or even all of our conscious experience). The most common notion of perception is that it is the _conscious_ experience following the process of sensation. Let's call that **perception in a narrow sense**.  
+: is what we _experience_. That is perception is conscious (arguably the biggest part, or even all of our conscious experience). The most common notion of perception is that it is the _conscious_ experience following the process of sensation. Let's call that sensation-linked type of perception _perception in a narrow sense_.  
 
 **Sensation can happen without perception**. Sensation often _precedes_ perception. We do not consciously experience what we sense. Once we become consciously aware of a sensation, we perceive. Consider the following question, for example; _Can you feel the clothes on your skin?_ You do now. In other words, you now experience the perception of your clothes touching your skin. But this is only possible because your body senses it all along. In a few minutes, when your mind focuses on the rest of the text again, you will lose the conscious experience (the perception) of your clothes against your skin again (until you might remind yourself of the fact that you can consciously feel your clothes), but your brain will continue to sense your clothes until they are removed.  
 
