@@ -483,7 +483,7 @@ _Perception_
 
 Note that **perception can happen without sensation**, fully discoupled from the real world, such as when we hallucinate or dream. You can see a face either looking at a physical stimulus, such as another person or photograph. But you can also see a face in dream sleep, with your eyes closed in darkness.  
 
-In this light, it could be argued that we should broaden what we mean by perception. And we might be left with (conscious) experience. Stretching this definition to the limit, we could even include beliefs, desires, and other seemingly non-sensory experiences as **perception in a broad sense**.  
+In this light, it could be argued that we should broaden what we mean by perception. And we might be left with (conscious) experience. Stretching this definition to the limit, we could even include beliefs, desires, and other seemingly non-sensory experiences as _perception in a broad sense_.  
 
 The lines definitely are blurry. Desire, for example, could be seen as the perception of the sensory process of certain chemicals (hormones) within our blood. Belief, on the other hand, seems closer to seeing something in a dream in that there are no sensory counterparts. What belief and dreaming have in common, though, is that they are _experienced_.
 
