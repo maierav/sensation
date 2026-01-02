@@ -72,7 +72,6 @@ We get glimpses of that challenge when we encounter perceptual _illusions_, or p
 :class: hidden dark:block
 
 :::{figure} images/Mach_dark.png
-:label: fig:Mach_dark
 :width: 60%
 
 Sketch of Ernst Mach (1838–1916) of visual perception with the right eye closed.[^5]
