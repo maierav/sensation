@@ -145,4 +145,4 @@ This definition raises a lot of questions about what exactly defines "a machine"
 
 ### Information Integration
 
-The rise of {abbr}'LMMs (Large Language Models)' has given many people pause as to the assumption that classical computations, as discussed above, support perception. While {abbr}'LMMs (Large Language Models)' compel us to admit that much of their written output resembles that of thinking humans, there is lingering debate (and in fact, much doubt) about whether LMM's perceive _anything_ in the process.  
+The rise of {abbr}`LMMs (Large Language Models, such as ChatPGT)` has given many people pause as to the assumption that classical computations, as discussed above, support perception. While {abbr}`LMMs (Large Language Models, such as ChatPGT)` compel us to admit that much of their written output resembles that of thinking humans, there is lingering debate (and in fact, much doubt) about whether LMM's perceive _anything_ in the process.  
