@@ -1177,6 +1177,7 @@ And third:
 There are 23 of these definitions, but we can ignore them for now.
 
 He then proceeds with his most famous five axioms (he called them postulates). The first one is often paraphrased as
+
     A straight line is the shortest distance between two points.
 
 The interesting part about all that is that we (1) tend to agree that these non-proven (in fact, unprovable) statements seem reasonable for us to agree to. As we stated above, this may be because they reflect something about our _experience_, or perception. In particular about what our senses of vision (seeing) and haptics (touch) seem to obey by. But the important part is that one can already see how we can _proceed_ from these axioms towards more of that which we call geometry.
