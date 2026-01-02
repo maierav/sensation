@@ -473,9 +473,26 @@ Note that, technically, division as subtraction works by subtracting the _diviso
 
 And, once again we find: _While multiplication is commutative, its inverse (division) is not._  
 
-This asymmetry, here too, may be why students often find division a bit more challenging than multiplication. But there is an added reason: Division is where often are first introduced to numbers that are not _natural numbers_.  
+This asymmetry, here too, may be why students often find division a bit more challenging than multiplication. But there is an added reason: Division is where often are first introduced to numbers that are not _integers_. Since **fractions** can represent divison and **ratios**, we now encounter a new type of number called the **rationals** (such as the number 1/2 that lies half-way between the integers 0 and 1).  
 
-This happens when we learn about division that lead to fractions such as 7 / 3. The result has a "**remainder**, and we eventually learn that writing down the result in decimal points never ends. In other words, we encounter **infinity** for the first time. We also learn that we can get seemingly around that problem by **rounding** or **approximating** (e.g., 7:3 ≈ 2.33). None of that is trivial, and some of the feeling of confusion that we might have first experienced at this point of our math education might have started us to feel like we are "not good" at math from this very point on (and resurfaced when we encounter infinity again at later stages).  
+% Multiplication
+:::{div}
+:class: hidden dark:block
+:::{figure} ./images/rationals_dark.png
+:label: fig:multiplication
+:width: 95%
+The **rational numbers** expand our concept of numbers even further. Note that only a few example rationals are shown here. There are many more fractions in between the ones shown.  
+:::
+
+:::{div}
+:class: dark:hidden
+:::{figure} ./images/rationals.png
+:label: fig:multiplication
+:width: 95%
+The **rational numbers** expand our concept of numbers even further. Note that only a few example rationals are shown here. There are many more fractions in between the ones shown.  
+:::
+
+The most challenging realization about rational numbers happens when we learn about division that lead to fractions such as 7 / 3. The result has a "**remainder**, and we eventually learn that writing down the result in decimal points never ends. In other words, we encounter **infinity** for the first time. We also learn that we can get seemingly around that problem by **rounding** or **approximating** (e.g., 7:3 ≈ 2.33). None of that is trivial, and some of the feeling of confusion that we might have first experienced at this point of our math education might have started us to feel like we are "not good" at math from this very point on (and resurfaced when we encounter infinity again at later stages).  
 
 [Not making things any less confusin, the _notation_ of division can be confusing in that we use **_a_ : _b_**, and **_a_ ÷ _b_**, and **_a_ / _b_**, and **$\frac{a}{b}$** alike.]
 
@@ -487,7 +504,7 @@ $$
   dividend : divisor = quotient
 $$
 
-Or, perhaps more commonly:
+Or, perhaps more commonly as a **fraction**:
 
 $$
   \frac{\text{numerator}}{\text{denominator}} = \text{quotient}
