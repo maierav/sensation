@@ -34,9 +34,9 @@ If you never felt that way, you might at least gain some insight into how we mig
 :class: grid grid-cols-2 items-end gap-4
 
 (cardioid)=
-./images/newton.jpg
+! ./images/newton.jpg
 
-./images/newton.jpg
+! ./images/newton.jpg
 
 Cardioids.
 :::
