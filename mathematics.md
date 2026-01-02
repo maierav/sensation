@@ -18,7 +18,7 @@ Science rests on mathematics, so we cannot avoid the topic. The following is a b
     Most of mathematics is about structure.
     Most people are good at reasoning about structure. 
 
-We thus will look at much about what learned about mathematics which an eye on: why might learning about this have caused some of us to dislike it? One issue we will identify are potential moments of confusion that occur mostly whenever our intiution is challenged. Standard math education tends to gloss over these potential obstacles of thought by teaching proven mathematics as disjointed "facts" that are handed down by authority and have to be accepted.  
+We thus will look at much about what learned about mathematics which an eye on: why might learning about this have caused some of us to dislike it? One issue we will identify are potential moments of confusion that occur mostly whenever our intuition is challenged. Standard math education tends to gloss over these potential obstacles of thought by teaching proven mathematics as disjointed "facts" that are handed down by authority and have to be accepted.  
 
 % Cardioid Construction
 :::{div}
@@ -42,9 +42,9 @@ Geometric construction of a **cardioid** (red) - a heart-shaped object that by i
 
 [^2]: [public domain source](https://commons.wikimedia.org/wiki/File:Cardioid30.gif)
 
-Even some of the best mathematicians experience such moments of befuddlement, with one of the best mathematicians of all time, John von Neumann, admitting that he just had to "get used to it". But we do not want to do that. We want to see how every step fits into a bigger picture. Rather than examining isolated stones by themselves, we want to step back and see the entire mosaic - even when it still has gaps and remains unfinished. And, as we will see, these moments of potential confusion occur as early as going from addition to subtraction (they tend to peak among students when learning about division and fractions). Hence, we will start from scratch and even examine such basic operations, and reflect on where we might have experienced brief moments of potential bewilderement that lie in our past so that we can revisit them as adults and remedy these feelings - or at least acknowledge that they were justified. It will be worth it.  
+Even some of the best mathematicians experience such moments of befuddlement, with one of the best mathematicians of all time, John von Neumann, admitting that he just had to "get used to it". But we do not want to do that. We want to see how every step fits into a bigger picture. Rather than examining isolated stones by themselves, we want to step back and see the entire mosaic - even when it still has gaps and remains unfinished. And, as we will see, these moments of potential confusion occur as early as going from addition to subtraction (they tend to peak among students when learning about division and fractions). Hence, we will start from scratch and even examine such basic operations, and reflect on where we might have experienced brief moments of potential bewilderment that lie in our past so that we can revisit them as adults and remedy these feelings - or at least acknowledge that they were justified. It will be worth it.  
 
-If you never felt that way, you might at least gain some insight into how we might be able to improve on the dissemination and public perception of mathematics. How can mathematicians share their passion? Their love for mathematics? The awe, thrill, and excitment that they experience when learning about mathematical insight? And, as we will see, there is an enticing connection between our perception being not up to our own whim (our experience is not shaped by what we _want_ or _will_ it to be) and mathematics following necessity rather than arbitrariness (mathematics does not follow what we _want_ or _will_ it to be).  
+If you never felt that way, you might at least gain some insight into how we might be able to improve on the dissemination and public perception of mathematics. How can mathematicians share their passion? Their love for mathematics? The awe, thrill, and excitement that they experience when learning about mathematical insight? And, as we will see, there is an enticing connection between our perception being not up to our own whim (our experience is not shaped by what we _want_ or _will_ it to be) and mathematics following necessity rather than arbitrariness (mathematics does not follow what we _want_ or _will_ it to be).  
 
 > the poet tries to get his head into the heavens  
 > the mathematician tries to get the heavens into his head
@@ -78,7 +78,7 @@ We will start by assuming zero knowledge about mathematics, and then built up qu
 
     No calculations required.
 
-As we already discussed, due to our schooling, we tend to think of mathematics as calculating, or solving equations. This can turn since into a competition of sorts, where there is a correct solution (that an "authority" such as a teacher or a textbook author) knows and we can either fail or succeed in finding out. Here we will do none of that. Instead, we will ponder a bit more about the fundamental assumptions and operations that _underly_ this process. We will "figure things out" by "connecting the dots". And by examining the resulting structure, we hope to find (literal) _insight_, as in seeing "math from the insde" or "what lies inside".  
+As we already discussed, due to our schooling, we tend to think of mathematics as calculating, or solving equations. This can turn since into a competition of sorts, where there is a correct solution (that an "authority" such as a teacher or a textbook author) knows, and we can either fail or succeed in finding out. Here we will do none of that. Instead, we will ponder a bit more about the fundamental assumptions and operations that _underlie_ this process. We will "figure things out" by "connecting the dots". And by examining the resulting structure, we hope to find (literal) _insight_, as in seeing "math from the inside" or "what lies inside".  
 
 % Flammarion
 :::{figure} ./images/flammarion_colored.png
@@ -133,7 +133,7 @@ Mathematics has been taught to students for thousands of years.[^5]
 
 [^5]: public domain sources: [1](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_II_geometria,_1707_%E2%80%93_BEIC_13369403.jpg), [2](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_I_geometria,_1715_%E2%80%93_BEIC_13386284.jpg)
 
-We already discussed that modern mathematics starts with one or more _axioms_ that one has to accept without further questioning. So, what are the axioms that underly _all_ of mathematics (or, since one can always drop or add axioms and thus change mathematics, the largest body of mathematics)?  
+We already discussed that modern mathematics starts with one or more _axioms_ that one has to accept without further questioning. So, what are the axioms that underlie _all_ of mathematics (or, since one can always drop or add axioms and thus change mathematics, the largest body of mathematics)?  
 
 ### Set theory
 
@@ -147,15 +147,15 @@ No worries - we will not have to go over all of these axioms. Instead, we will j
 
 You might feel that you understand all these things already, so why bother? In fact, we will assume that you already do. However, remember that we started out with _radical doubt_, and deriving some certainty from a combination of experience and logic. We also started out by striving for _coherentism_ in our knowledge in probing for the possibility of a unified whole of science. We thus need to explore whether mathematics, which might have been taught to us as an isolated fragment of knowledge fits in our _singular_ approach that we have started. In other words, you probably already know much more about numbers, addition, and even logarithms than we discuss here, but we will aim to look at them from a perspective, a new light perhaps, that unifies all them in some sense rather than a diverse set of lenses that we have to choose from and wear one-at-a-time.  
 
-There is, fo course, a lot to say about ZFC. The Axiom of Choice, for example, is highly contentious. There is also an alternative proposal for a foundation of mathematics called **category theory**. We will consider the difference between these two starting points of mathematics in a bit since it might be relevant for how we approach mathematics in the context of perception. But for now, let us stick to set theory since - as you will see - it can help us to somewhat intuitovely derive the basic mathematics we require.  
+There is, of course, a lot to say about ZFC. The Axiom of Choice, for example, is highly contentious. There is also an alternative proposal for a foundation of mathematics called **category theory**. We will consider the difference between these two starting points of mathematics in a bit since it might be relevant for how we approach mathematics in the context of perception. But for now, let us stick to set theory since - as you will see - it can help us to somewhat intuitively derive the basic mathematics we require.  
 
 ### Notation
 
 Before we start discussing numbers and the various things we can do with them, it is worth taking a brief moment and talk about all the various symbols - the notation - that will come with that. Notation can feel a bit like a secret code that one has to learn and apply correctly to be granted entrance into math. This can feel daunting, and lingering questions regarding why some symbols are chosen or why sometimes more than one type of symbol or notation is "allowed" can cause further unease.  
 
-The first thing to know is that notation is just convention. More so, this convention can and often does get violated. Anyone can come up and use their own idiosyncratic notation, as long as this is made clear and well defined. We will use some of the most commonly used notation here, but make note of other commonly used conventions and ponder for a moment how this plurality can rightfully cause confusion.  
+The first thing to know is that notation is just convention. More so, this convention can and often does get violated. Anyone can come up and use their own idiosyncratic notation, as long as this is made clear and well-defined. We will use some of the most commonly used notation here, but make note of other commonly used conventions and ponder for a moment how this plurality can rightfully cause confusion.  
 
-More so, notation, as annoying as it might be to learn, is actually quite interesting. You might think that notation is seemingly arbitrary, sometimes ugly, and fulluy replaceable by any other set of symbols. Yet, the history of mathemmatics tells us otherwise. Some notation is more "useful" than others. The notation itself can provide _functionality_ in that it can help _shape our thoughts_. Some notation does not merely record thought. It creates new kinds of thought.
+More so, notation, as annoying as it might be to learn, is actually quite interesting. You might think that notation is seemingly arbitrary, sometimes ugly, and fully replaceable by any other set of symbols. Yet, the history of mathematics tells us otherwise. Some notation is more "useful" than others. The notation itself can provide _functionality_ in that it can help _shape our thoughts_. Some notation does not merely record thought. It creates new kinds of thought.
 
     Notation as a tool for thought
     K.E. Iverson
@@ -190,7 +190,7 @@ Thanks to our modern notation (the Hindu-Arabic numerals), you might have learne
 :width: 25%
 :::
 
-No worries if you forgot (or never learned) this way of long division. As promised, this textbook will not require any calculations. This demonstration was just to show that notation is not "boring" or "ugly", but interesting. And if you feel a bit intimidated by the calculation above, you will enjoy the pace and material of what comes next. If the above seemed easy to you, you will hopefully still enjoy our discussion in the next sections, as basic as it might see, since it might nonetheless shine a new light (or at keast add some interesting tidbits) on some of these basic concepts.  
+No worries if you forgot (or never learned) this way of long division. As promised, this textbook will not require any calculations. This demonstration was just to show that notation is not "boring" or "ugly", but interesting. And if you feel a bit intimidated by the calculation above, you will enjoy the pace and material of what comes next. If the above seemed easy to you, you will hopefully still enjoy our discussion in the next sections, as basic as it might see, since it might nonetheless shine a new light (or at least add some interesting tidbits) on some of these basic concepts.  
 
 ### Numbers
 
@@ -198,7 +198,7 @@ No worries if you forgot (or never learned) this way of long division. As promis
     You’ll get five definitions.
     And all of them will be correct.
 
-So far we mostly discussed (or looked at) _geometric_ descriptions of math. Historically speaking, this makes sense since we established that modern axiomatic mathematics finds it origin in ancient Greece with Euclid. But just a brief look at Stonehenge leaves us with the impression that geometry has fascinated humans for much longer (at least all the way back to the _stone age_).  
+So far we mostly discussed (or looked at) _geometric_ descriptions of math. Historically speaking, this makes sense since we established that modern axiomatic mathematics finds it origin in Ancient Greece with Euclid. But just a brief look at Stonehenge leaves us with the impression that geometry has fascinated humans for much longer (at least all the way back to the _stone age_).  
 
 % Stonehenge
 :::{figure} ./images/stonehenge.jpg
@@ -209,11 +209,11 @@ Stonehenge is aligned with the sun's position during the solstices.[^6]
 
 [^6]: [public domain source](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_II_geometria,_1707_%E2%80%93_BEIC_13369403.jpg)
 
-One cannot help but wonder whether part of this fascination with geometry is partly rooted in its relation to _measurement_ (of astronomical events, such as the solstice) as well as in the fact that it is _tangible_. That is, a Euclidian geometric proof does _not_ just exist in the "abstract". Instead, we can convince ourselves that the proof "works" in the real world by using a compass and a ruler and literally draw out the proof (the various operations) on sand, a blackboard, or a piece of paper.  
+One cannot help but wonder whether part of this fascination with geometry is partly rooted in its relation to _measurement_ (of astronomical events, such as the solstice) as well as in the fact that it is _tangible_. That is, an Euclidian geometric proof does _not_ just exist in the "abstract". Instead, we can convince ourselves that the proof "works" in the real world by using a compass and a ruler and literally draw out the proof (the various operations) on sand, a blackboard, or a piece of paper.  
 
 But if it was pragmatic _usefulness_ (e.g., for predicting the solstice or delineating a piece of land that is under dispute between two farmers) that led to the study of geometry, we quickly come to appreciate a seemingly _separate_ part of mathematics: counting, calculating - using **numbers**. From a pragmatic standpoint, numbers become relevant the moment we think of _currency_, or money. Salaries, debt, wealth all needs to be handled by using numbers (nobody is surprised to find numbers when taking a look at their credit card bill or bank account).  
 
-When it comes to the science of perception, then, we need to take a look at both - geometric structurs and numbers. An obvious question, after all, is that - if we want to be precise and mathematize - the science of perception in order to make it "as scientific" as, say, physics, which mathematics does best apply? Is it geometrical, structural descriptions or numerical measurement and description?  
+When it comes to the science of perception, then, we need to take a look at both - geometric structures and numbers. An obvious question, after all, is that - if we want to be precise and mathematize - the science of perception in order to make it "as scientific" as, say, physics, which mathematics does best apply? Is it geometrical, structural descriptions or numerical measurement and description?  
 
 As we will see, these two seemingly _distinct_ fields of mathematics have long been _unified_,  
 
@@ -236,15 +236,15 @@ What can we point to in the real world to explain the number zero? Or the number
 
 In fact, it tends to be the discovery of numbers, such as the square root of 2 where students first encounter a nagging feeling (most of that have forgotten that this happened when we were young). And that feeling has justification. There is something non-trivial about a number, such as the square root of 2, allowing mathematicians to abandon precise calculations, and instead just "round up" or "approximate" (or just stick to a symbol) as a _correct answer_. This _is_ confusing. And by brushing over the confusion that arises at that point of learning mathematics can give rise to the feeling of "**not being good at math**" and eventually "**not liking math**".  
 
-Much of what follows aims to remedy this problem. And in order to do so, we will slowly and carefully go over elementary and middle school (as well asperhaps some high school, depending on modern corricula) mathematics again and stop whenever we encounter these moments of potential, justifiable, confusion. It may seem silly to discuss addition of, say 2 + 3 again, but stick with it. It is likely that you will learn something new. And at the same time get a better feeling that while 2 + 3 seems "easy" or even "trivial", taking the logarithm of 34 does not. But, if we succeed, it becomes clear there is a clear and surprisingly simple connection between the two operations. And then the notion of "easiness" that comes with addition of 2 and 3 hopefully will extend to taking the logarithm of 34. Or pondering a bit about the square root of 2.  
+Much of what follows aims to remedy this problem. And in order to do so, we will slowly and carefully go over elementary and middle school (as well as perhaps some high school, depending on modern curricula) mathematics again and stop whenever we encounter these moments of potential, justifiable, confusion. It may seem silly to discuss addition of, say 2 + 3 again, but stick with it. It is likely that you will learn something new. And at the same time get a better feeling that while 2 + 3 seems "easy" or even "trivial", taking the logarithm of 34 does not. But, if we succeed, it becomes clear there is a clear and surprisingly simple connection between the two operations. And then the notion of "easiness" that comes with addition of 2 and 3 hopefully will extend to taking the logarithm of 34. Or pondering a bit about the square root of 2.  
 
-So, now that we have gained a (very) basic understanding of set theory, which we identfied as the foundational basis of much of mathematics, we can explore the concept of numbers. "Why just now?", you might wonder. After all, (pre-)school mathematics tends to start with numbers, and builds from there, often teaching set theory at a much later stage.  
+So, now that we have gained a (very) basic understanding of set theory, which we identified as the foundational basis of much of mathematics, we can explore the concept of numbers. "Why just now?", you might wonder. After all, (pre-)school mathematics tends to start with numbers, and builds from there, often teaching set theory at a much later stage.  
 
 However, we needed to start from _foundations_, and numbers are commonly derived by modern mathematics using the axioms of set theory (ZFC). More so, since we already are at a point where we ponder things more deeply, numbers are not as simple as they look at first sight. Thinking about numbers (deeply) can quickly turn things puzzling. And having set theory as a backdrop can help prevent a bit of that.  
 
 ## ARITHMETIC
 
-Now things get really interesting. Numbers by themselves just seem to "be made up" and "not do anything". And when we were young, we probably quickly realized that numbers really show their usefulness once we add, subtract, multiply, or divide them.  
+Now things get fascinating. Numbers by themselves just seem to "be made up" and "not do anything". And when we were young, we probably quickly realized that numbers really show their usefulness once we add, subtract, multiply, or divide them.  
 
 And all of that seems to come quite naturally. After all, we can do the same thing with concrete objects: add one apple to two others, divide a pizza in half, and so on.  
 
