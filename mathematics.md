@@ -110,18 +110,18 @@ $$
 
 So you see the challenge?
 
-Thanks to our modern notation (the Hindu-Arabic numerals), we can do things like:
+Thanks to our modern notation (the Hindu-Arabic numerals), you might have learned the following way to solve this long division at school:
 
 $$
 \begin{aligned}
-      &\phantom{7\,)\,}121 \\
-7\,)\,&847 \\
-      &\underline{-700} \\
-      &147 \\
-      &\underline{-140} \\
-      &\phantom{1}7 \\
-      &\underline{-\phantom{1}7} \\
-      &\phantom{1}0
+&\phantom{7)}\!\!121 \\
+7)\,&847 \\
+&\underline{-700} \\
+&147 \\
+&\underline{-140} \\
+&\phantom{1}7 \\
+&\underline{-\phantom{1}7} \\
+&\phantom{1}0
 \end{aligned}
 $$
 
