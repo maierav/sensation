@@ -104,41 +104,30 @@ DCCCXLVII is the number 847 in Roman numerals. VII is the number 7.
 
 Now try solving:  
 
-$$
-  DCCCXLVII ÷ VII = ?
-$$
+    DCCCXLVII ÷ VII = ?
 
 Do you see the challenge?
 
 Thanks to our modern notation (the Hindu-Arabic numerals), you might have learned the following way to solve this long division at school:
 
-$$
-\begin{tikzpicture}[x=1em,y=1.4em,baseline=(base)]
-  % Anchor for baseline alignment in surrounding math
-  \node (base) at (0,0) {};
+% Long Division
+:::{div}
+:class: hidden dark:block
 
-  % Top (quotient and bar)
-  \node[anchor=west] at (0,8) {\Large 7)};
-  \node[anchor=west] at (3,8) {\Large 847};
-  \node[anchor=west] at (3,9.3) {\Large 121};
-  \draw[line width=0.6pt] (3,8.9) -- (8.2,8.9);
+:::{figure} ./images/long_division_dark.jpg
+:label: fig:longdivision
+:width: 75%
 
-  % Step 1
-  \node[anchor=west] at (4.4,6.9) {\Large $-7$};
-  \draw[line width=0.6pt] (4.0,6.5) -- (8.2,6.5);
-  \node[anchor=west] at (4.4,5.5) {\Large 14};
+:::
 
-  % Step 2
-  \node[anchor=west] at (4.0,4.2) {\Large $-14$};
-  \draw[line width=0.6pt] (4.0,3.8) -- (8.2,3.8);
-  \node[anchor=west] at (4.4,2.7) {\Large 07};
+:::{div}
+:class: dark:hidden
 
-  % Step 3
-  \node[anchor=west] at (4.0,1.5) {\Large $-\phantom{0}7$};
-  \draw[line width=0.6pt] (4.0,1.1) -- (8.2,1.1);
-  \node[anchor=west] at (4.4,0.0) {\Large 0};
-\end{tikzpicture}
-$$
+:::{figure} ./images/long_divison.png
+:label: fig:math
+:width: 75%
+
+:::
 
 No worries if you forgot (or never learned) this way of long division. As promised, this textbook will not require any calculations. This demonstration was just to show that notation is not "boring" or "ugly", but interesting. And if you feel a bit intimidated by the calculation above, you will enjoy the pace and material of what comes next. If the above seemed easy to you, you will hopefully still enjoy our discussion in the next sections, as basic as it might see, since it might nonetheless shine a new light (or at keast add some interesting tidbits) on some of these basic concepts.  
 
