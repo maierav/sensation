@@ -30,11 +30,17 @@ Using mathematics, science seemingly crosses the empirical horizon to access str
 
 To put it a bit more high brow: We will focus less on _mathematics_, the _human_ (mind-dependent) activity that leads to symbols (notation), proofs, calculations and equation solving. What the following aims to instill is to, in some sense, look past all that and focus on what all that _describes_. The _structure_, the laws, rules, order, or patterns that all this points to, or follows. Following P. Freyd, we will call this **subject of mathematics** the **mathematical**. If you see mathematics as a _language_, then the mathematical is that which this languages describes.  
 
-[So, even is you already feel quite familiar, or well-versed, with the topics of this chapter (starting with basic arithmetic and leading up to logarithms), you are well advised to nonetheless read along. In fact, much of what follows assumes that you already know what, say, addition is. The emphasis is elsewhere - seeing addition in a "new light".  
+[So, even is you already feel quite familiar, or well-versed, with the topics of this chapter (starting with basic arithmetic and leading up to logarithms), you are well advised to nonetheless read along. In fact, much of what follows assumes that you already know what, say, addition is. The emphasis is elsewhere - seeing addition in a "new light".]  
 
+:::{admonition} ❓ Question
+:icon: false
 Ask yourself: How does the logarithm relate to addition?
+:::
 
-There is a simple, fascinating, and structurally deep relation between these two operations that are conventionally taught in a somewhat isolated, successive manner. Grasping this relation might be a more intuitive, easier to understand and appreciate, manner of getting familiar with logarithms. And logarithms are a key step to understand the (neuro)science of perception.]
+:::{highlight}
+:class: dropdown
+There is a simple, fascinating, and structurally deep relation between these two operations that are conventionally taught in a somewhat isolated, successive manner. Grasping this relation might be a more intuitive, easier to understand and appreciate, manner of getting familiar with logarithms. And logarithms are a key step to understand the (neuro)science of perception.
+:::
 
 The goal is still to read and understand mathematical formalism and descriptions, but with a focus on _meaning_ (the information, the _structure_, contained within) rather than computing or deriving a correct outcome by ourselves. Why compete with machines, such as pocket calculators, that are much better at that? It seems more fruitful to instead focus on those aspects of mathematics that machines struggle with - exploring and understanding how mathematics interconnects and forms a cohesive whole. Hopefully, this will also allow you to see mathematics "in a new light", and add a bit of _fun_, or at least make it all seem a bit more _interesting_.  
 
