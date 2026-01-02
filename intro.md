@@ -771,9 +771,9 @@ The most common, or "classical" laws of logic are just 3:
 (2) Means that a statement cannot be both true and false within the same context.
 (3) Means that a statement must be either true or false.
 
-Another interesting discovery in the history of logic is that the 3. law might not be needed (the result is called _intuitonistic logic_). And there are also attempts (hotly debated) about dropping one or more of the other laws [^15]. But for most applications of logic, such as in the overwhelming majority of mathematics, _classical logic_ is all and everything that is needed (which gained these three rules "the laws of thought").  
+Another interesting discovery in the history of logic is that the 3. law might not be needed (the result is called _intuitionistic logic_). And there are also attempts (hotly debated) about dropping one or more of the other laws [^15]. But for most applications of logic, such as in the overwhelming majority of mathematics, _classical logic_ is all and everything that is needed (which gained these three rules "the laws of thought").  
 
-[^15]: **Intuitonistic logic** drops the law of the excluded middle and allows for statements to take on more values other than just "true" and "false". The statement "it will rain tomorrow", for example, is then deemed "undecided" - until it is tomorrow. **Paraconsistent logic** drops the law of non-contradiction. This sometimes causes confusion since it seems to allow for a worldview full of contradictions. However, paraconsistent logic is _indistinguishable_ from classical logic _most of the time_ (i.e., in all non-paradoxical, consistent situations). The only difference between classical logic logical systems that allow for contradiction is when we encounter a _paradox_, such as when a liar states that they are a liar. In these cases, a paraconsistent logician "allows" for the paradox to be _neither true nor false_. A classical logician aims for different solutions, such as deeming the paradox as a nonsenical, useless statement such as "this apple is a banana". An intuitonistic logician might just deem such a paradox "undecidable", in that we just do not know whether a liar is lying when they say they do.  
+[^15]: **Intuitionistic logic** drops the law of the excluded middle and allows for statements to take on more values other than just "true" and "false". The statement "it will rain tomorrow", for example, is then deemed "undecided" - until it is tomorrow. **Paraconsistent logic** drops the law of non-contradiction. This sometimes causes confusion since it seems to allow for a worldview full of contradictions. However, paraconsistent logic is _indistinguishable_ from classical logic _most of the time_ (i.e., in all non-paradoxical, consistent situations). The only difference between classical logic logical systems that allow for contradiction is when we encounter a _paradox_, such as when a liar states that they are a liar. In these cases, a paraconsistent logician "allows" for the paradox to be _neither true nor false_. A classical logician aims for different solutions, such as deeming the paradox as a nonsenical, useless statement such as "this apple is a banana". An intuitionistic logician might just deem such a paradox "undecidable", in that we just do not know whether a liar is lying when they say they do.  
 IMPORTANTLY: What does not follow, even on the paraconsistent logicians view, is that a paradox is _true_. In other words, a statement such as **"there is no such thing as truth"** will _not_ lead a paraconsistent logician to conclude that "there is no truth". Instead, the sentence is treated as a statement that is _neither_ true nor false - and hence somewhat _meaningless_, which means it is unhelpful when deciding on the bigger question whether there is truth (a paraconsistent logician does, in fact, believe in decidable truth since all non-paradoxical statements are either true or false). Paradoxes are just rare edge cases, of course, and for most statements of logic, both sides agree that classical logic - akin to using all three laws - rules. We thus can safely proceed on the grounds of classical logic.
 
 :::{caution}
@@ -787,7 +787,7 @@ This idea is appealing because it seems to allow us to avoid all argument and he
 
 When arguing for this view, it is often pointed out that even science frequently revises its theoretical views, such as when experiments failed to provide evidence for the idea that the universe is filled with an invisible substance (the aether, or ether) that propagates electric and magnetic forces. It thus _seems_ to follow that there _is_ no Truth since not even science seems to agree on Truth.  
 
-However, we already noted that there is a difference between the _epistemic_ and the _ontic_: what we _know_ is different from what _is_ (since we we know can be wrong about what is). Even if humans were fundamentally incapable of finding Truth (epistemically), this does not imply that Truth does not exist (ontologically). Moreoever, we already established that the scientific method has proven more powerful both in explaining and predicting events in the physical world than, say, the magical thinking of a toddler. Some truths seem to "better" fit our experience of nature than others, even if they may might still be flawed. Why is that?
+However, we already noted that there is a difference between the _epistemic_ and the _ontic_: what we _know_ is different from what _is_ (since we know can be wrong about what is). Even if humans were fundamentally incapable of finding Truth (epistemically), this does not imply that Truth does not exist (ontologically). Moreover, we already established that the scientific method has proven more powerful both in explaining and predicting events in the physical world than, say, the magical thinking of a toddler. Some truths seem to "better" fit our experience of nature than others, even if they might still be flawed. Why is that?
 
 But the main challenge to the notion of there no being a universal, all-ruling Truth is that denying so breaks classical logic (and we have no other reason to do so). Consider the sentence:
 
@@ -795,7 +795,7 @@ But the main challenge to the notion of there no being a universal, all-ruling T
 
 Now ask yourself - is this really true?
 
-If it were true, than there is a Truth. If we assume that this sentence is true, at least one thing is objectively true - that very sentence. But then we were wrong to assume that there is no Truth.
+If it were true, then there is a Truth. If we assume that this sentence is true, at least one thing is objectively true - that very sentence. But then we were wrong to assume that there is no Truth.
 
 In other words, this sentence contradicts itself (Plato termed it "peritropē", or turning back on itself). It violates the second law we identified that "a statement cannot be both true and false within the same context" (the Law of Non-Contradiction). This means that in classical logic, we can identify this sentence as non-logical non-sense. A trap of incoherent thought, if you will, that logic helps us to detect as unreasonable and hence dismissable.
 
@@ -805,7 +805,7 @@ There are two good reasons for that:
 
 First, we have not yet found physical, or any natural, phenomena in science that contradict themselves. Even Schrödinger's cat, which paradoxically seems dead and alive at the same time is a fully coherent, non-contradictory phenomenon when considered mathematically.  
 
-Second, and more importantly, the Law of Non-Contradiction is key to save us from undesirable real-life consequences. Consider this: You have a serious medical concern, and your physician runs an important laboratory test to see whether you need treatment. The lab send back their finding and it states that the test was positive. And also not positive.  
+Second, and more importantly, the Law of Non-Contradiction is key to save us from undesirable real-life consequences. Consider this: You have a serious medical concern, and your physician runs an important laboratory test to see whether you need treatment. The lab send back their finding, and it states that the test was positive. And also not positive.  
 
 This is impossible - in classical logic. If such a contradiction appeared, we would treat it as an error to be resolved immediately. But imagine we have abandoned the law of non-contradiction. In this new logic, contradictions are not only allowed but viewed as legitimate states of information. The laboratory therefore sees no logical problem. And yet, a decisive action is required, but logic no longer permits a decisive conclusion.
 
@@ -818,7 +818,7 @@ our medical, legal, financial, and computational systems rely on mutually exclus
 :alt: Goya
 :width: 50%
 
-Plate 43 from Francisco Goya's (1746–1828) 'Los Caprichos': **The sleep of reason produces monsters** (El sueño de la razon produce monstruos),1799.[^16] Goya aims to remind us that when we abandon reason (logic), the consequences can be disastruous.
+Plate 43 from Francisco Goya's (1746–1828) 'Los Caprichos': **The sleep of reason produces monsters** (El sueño de la razon produce monstruos),1799.[^16] Goya aims to remind us that when we abandon reason (logic), the consequences can be disastrous.
 :::
 
 [^16]: [public domain source](https://commons.wikimedia.org/wiki/File:Plate_43_from_%27Los_Caprichos%27-_The_sleep_of_reason_produces_monsters_(El_sue%C3%B1o_de_la_razon_produce_monstruos)_MET_DT652.jpg)
