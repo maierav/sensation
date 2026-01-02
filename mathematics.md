@@ -21,7 +21,19 @@ Science rests on mathematics, so we cannot avoid the topic. The following is a b
 We thus will look at much about what learned about mathematics which an eye on: why might learning about this have caused some of us to dislike it? One issue we will identify are potential moments of confusion that occur mostly whenever our intiution is challenged. Standard math education tends to gloss over these potential obstacles of thought by teaching proven mathematics as disjointed "facts" that are handed down by authority and have to be accepted.  
 
 % Cardioid Construction
-:::{figure} ./images/cardioid_circle.gif
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/cardioid_circle_dark.gif
+:label: fig:cardioid_construction
+:width: 45%
+
+Geometric construction of a **cardioid** - a heart-shaped object that by itself does not seem very interesting. This can be taught, and seen, as a random mathematical fact. But there is more. Keep reading.[^2]
+:::
+
+:::{div}
+:class: dark:hidden
+:::{figure} ./images/cardioid_circle_dark.gif
 :label: fig:cardioid_construction
 :width: 45%
 
@@ -43,7 +55,7 @@ If you never felt that way, you might at least gain some insight into how we mig
 :::{div}
 :class: hidden dark:block
 
-:::{figure} ./images/more_cardioid_dark.gif
+:::{figure} ./images/more_cardioids_dark.png
 :label: fig:log
 :width: 95%
 More cardioids. Finding this shape across so many instances is interesting. **Leftmost**: Cardioid construction using modular arithmetic. **Center**: A cardioidal shape within the _Mandelbrot set_. **Rightmost**: Cardioidal shape of a shadow.[^3]
@@ -53,7 +65,7 @@ More cardioids. Finding this shape across so many instances is interesting. **Le
 :::{div}
 :class: dark:hidden
 
-:::{figure} ./images/more_cardioid.gif
+:::{figure} ./images/more_cardioids.png
 :label: fig:log
 :width: 95%
 More cardioids. Finding this shape across so many instances is interesting. **Leftmost**: Cardioid construction using modular arithmetic. **Center**: A cardioidal shape within the _Mandelbrot set_. **Rightmost**: Cardioidal shape of a shadow.[^3]
