@@ -749,8 +749,9 @@ Talking in broad strokes, the next step is _science_. In fact, we already are en
 
 ### Logic
 
-    Logic is not a theory but a reflection of the world.
-    L. Wittgenstein
+> Logic is not a theory but a reflection of the world.
+>
+> -- L. Wittgenstein
 
 One step we took from doubt to observation and thought (about our observation) is that we snug in, well, thought. And no tany kind of thought, to be precise, but reasoned thought. After all, unreasonable nonsense, such as "Banana jumps pengiun leads to glory" does not seem to be helpful or get us very far in working our way out of radical doubt.  
 
