@@ -79,6 +79,46 @@ You might feel that you understand all these things already, so why bother? In f
 
 There is, fo course, a lot to say about ZFC. The Axiom of Choice, for example, is highly contentious. There is also an alternative proposal for a foundation of mathematics called **category theory**. We will consider the difference between these two starting points of mathematics in a bit since it might be relevant for how we approach mathematics in the context of perception. But for now, let us stick to set theory since - as you will see - it can help us to somewhat intuitovely derive the basic mathematics we require.  
 
+## Notation
+
+Before we start discussing numbers and the various things we can do with them, it is worth taking a brief moment and talk about all the various symbols - the notation - that will come with that. Notation can feel a bit like a secret code that one has to learn and apply correctly to be granted entrance into math. This can feel daunting, and lingering questions regarding why some symbols are chosen or why sometimes more than one type of symbol or notation is "allowed" can cause further unease.  
+
+The first thing to know is that notation is just convention. More so, this convention can and often does get violated. Anyone can come up and use their own idiosyncratic notation, as long as this is made clear and well defined. We will use some of the most commonly used notation here, but make note of other commonly used conventions and ponder for a moment how this plurality can rightfully cause confusion.  
+
+More so, notation, as annoying as it might be to learn, is actually quite interesting. You might think that notation is seemingly arbitrary, sometimes ugly, and fulluy replaceable by any other set of symbols. Yet, the history of mathemmatics tells us otherwise. Some notation is more "useful" than others. The notation itself can provide _functionality_ in that it can help _shape our thoughts_. Some notation does not merely record thought. It creates new kinds of thought.
+
+    Notation as a tool for thought
+    K.E. Iverson
+
+For example, there is good reason that we still use the letters of the Roman alphabet, but stopped using their _numerals_ (their symbols for numbers) and use Hindu-Arabic numerals instead.  
+
+Roman numerals make some calculations much more challenging:
+
+DCCCXLVII is the number 847 in Roman numerals. VII is the number 7.
+
+Now try solving:  
+
+$$
+  DCCCXLVII ÷ VII = ?
+$$
+
+So you see the challenge?
+
+Thanks to our modern notation (the Hindu-Arabic numerals), we can do things like:
+
+$$
+begin{array}{r|l}
+7 & 847 \\
+  & \overline{121} \\
+  & -700 \\
+  & \ \ 147 \\
+  & -140 \\
+  & \ \ \ 7 \\
+  & -\ \ \ 7 \\
+  & \ \ \ 0
+end{array}
+$$
+
 ## Numbers
 
     Ask three mathematicians what a number is. 
