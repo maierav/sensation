@@ -24,9 +24,10 @@ Even some of the best mathematicians experience such moments of befuddlement, wi
 
 If you never felt that way, you might at least gain some insight into how we might be able to improve on the dissemination and public perception of mathematics. How can mathematicians share their passion? Their love for mathematics? The awe, thrill, and excitment that they experience when learning about mathematical insight? And, as we will see, there is an enticing connection between our perception being not up to our own whim (our experience is not shaped by what we _want_ or _will_ it to be) and mathematics following necessity rather than arbitrariness (mathematics does not follow what we _want_ or _will_ it to be).  
 
-    “the poet tries to get his head into the heavens 
-    the mathematician tries to get the heavens into his head.”
-    G.K. Chesterton
+> the poet tries to get his head into the heavens  
+> the mathematician tries to get the heavens into his head
+>
+>-- G.K. Chesterton
 
 We will start by assuming zero knowledge about mathematics, and then built up quickly from there. If you feel, at any step, that we moved to quickly, this may signify that there is need to brush up a bit via self-study. A few, hopefully helpful, sources and references are provided to do just that.  
 
