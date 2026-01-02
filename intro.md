@@ -361,7 +361,7 @@ The homunculus problem of assuming that we perceive sensory information that _co
 The homunculus problem of assuming that we perceive sensory information that _converges_ somewhere in the brain evokes the notion of another observer, or brain registering that information. This leads to an infinite chain of increasingly smaller versions of you, or your brain, sitting inside each other.
 :::
 
-After learning about the fact that all senses start with the same type of signal (action potentials), one might intuit that there is a "central" point of convergence in the brain where all these signals come together and "transformed" into our perceptual experience. But what would happen at that location in your brain? Is there a little cinema for a "mini-you" where vision, sound and so on are turned into a movie (following Descartes, we call this idea a _Cartesian Theater_)? This sounds absurd, but there is a deeper problem with this intuition. After all, this mini-you (a little human, or _homunculus_) would need another sense apparatus and brain to make sense of that "movie". And this brain would need another mini-me (or homunculus), and so on. We run into an infinite series, or infinte regress, of homonculi inside each other, akin to a Russian doll. This is obviously not the case. We will learn that there is no such point of convergence of sense signals in the brain. But then, why is it that you experience unified sight and sound _as if_ their sense signals come together somewhere in the brain? As we will see, science does not yet know the answer to this question (though there are some promising theories).
+After learning about the fact that all senses start with the same type of signal (action potentials), one might intuit that there is a "central" point of convergence in the brain where all these signals come together and "transformed" into our perceptual experience. But what would happen at that location in your brain? Is there a little cinema for a "mini-you" where vision, sound and so on are turned into a movie (following Descartes, we call this idea a _Cartesian Theater_)? This sounds absurd, but there is a deeper problem with this intuition. After all, this mini-you (a little human, or _homunculus_) would need another sense apparatus and brain to make sense of that "movie". And this brain would need another mini-me (or homunculus), and so on. We run into an infinite series, or infinite regress, of homunculi inside each other, akin to a Russian doll. This is obviously not the case. We will learn that there is no such point of convergence of sense signals in the brain. But then, why is it that you experience unified sight and sound _as if_ their sense signals come together somewhere in the brain? As we will see, science does not yet know the answer to this question (though there are some promising theories).
 
 This insight is called the **Homunculus Problem**. And it leaved with a puzzle. If that cannot be - how does it happen then that we see and hear and feel all at the same time and seemingly "in one"?  
 
@@ -369,7 +369,7 @@ This insight is called the **Homunculus Problem**. And it leaved with a puzzle. 
 
 ## FOUNDATIONS
 
-Now that we acknowledge that there is something puzzlingabout our perception - especially when taking the role of our brains into account - it should feel more enticing to learn about the science of perception.  
+Now that we acknowledge that there is something puzzling about our perception - especially when taking the role of our brains into account - it should feel more enticing to learn about the science of perception.  
 
 You may burn to start learning about the neuroscience of perception. After all, the brain is very interesting, and there is indeed a lot of fascinating material to learn there. However, as you will see, once you learned about what modern day neuroscientists know, the deepest puzzles of perception **will remain**, or even get worse.  
 
@@ -379,11 +379,11 @@ So, let us start with **philosophy** since that is the discipline that has studi
 
     A route of many roads leading from nowhere to nothing.
 
-However, as we will see, this is not a fair characterization. There is much to learn from philosophy that is helpful, and in fact necessary for science, even if it does not aways provide results that everyone agrees with.  
+However, as we will see, this is not a fair characterization. There is much to learn from philosophy that is helpful, and in fact necessary for science, even if it does not always provide results that everyone agrees with.  
 
 ### Epistemology
 
-Epistemology is the philsosophical discipline that is interested in finding out if and how we can know anything. That seems like a good start when embarking on a journey of gaining greater knowledge. We first should ask ourselves if we can know anything in the first place, and then clarify how we can know anything, and where the limits of knowability might lie.
+Epistemology is the philosophical discipline that is interested in finding out if and how we can know anything. That seems like a good start when embarking on a journey of gaining greater knowledge. We first should ask ourselves if we can know anything in the first place, and then clarify how we can know anything, and where the limits of knowability might lie.
 
 To make that a bit more tangible, let us do a quick thought experiment:
 
@@ -406,7 +406,7 @@ Kids sometimes go through a phase where they keep asking "But why?". Something i
 
 Imagine a parent tells a kid that is time to go to sleep. The kid asks "But why?"  
 
-The parent might reply "Because it is late and you are tired."
+The parent might reply "Because it is late, and you are tired."
 
 "But why?"
 
