@@ -463,9 +463,7 @@ Multiplication and Divsion are **inverse operations**. And both are just repeate
 :::{figure} ./images/multiplication.png
 :label: fig:multiplication
 :width: 55%
-Multiplication and Divsion are **inverse operations**. And both are just repeated Addition and Subtraction, respectively.  
-
-Note that, technically, division as subtraction works by subtracting the _divisor_ until you reach zero (or a number less than the divisor), and count the steps of subtraction (i.e., the minus signs in the resukting equation). So, the correct formalism for _4_ : _2_ would be: _4_ **-** _2_ **-** _2_ = 0, with the result being _2_.
+Multiplication and Divsion are **inverse operations**. And both are just repeated Addition and Subtraction, respectively. Division as subtraction works by subtracting the _divisor_ until you reach zero (or a number less than the divisor), and count the steps of subtraction (i.e., the minus signs in the resukting equation). So, the correct formalism for _4_ : _2_ would be: _4_ **-** _2_ **-** _2_ = 0, with the result being _2_.
 
 :::
 
