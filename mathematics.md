@@ -109,28 +109,21 @@ Now try solving:
 Do you see the challenge?
 
 Thanks to our modern notation (the Hindu-Arabic numerals), you might have learned the following way to solve this long division at school:
-
 % Long Division
 :::{div}
 :class: hidden dark:block
-
 :::{figure} ./images/long_division_dark.png
 :label: fig:longdivision
 :align: left
 :width: 25%
-
 :::
-
 :::{div}
 :class: dark:hidden
-
 :::{figure} ./images/long_division.png
 :label: fig:math
 :align: left
 :width: 25%
-
 :::
-
 No worries if you forgot (or never learned) this way of long division. As promised, this textbook will not require any calculations. This demonstration was just to show that notation is not "boring" or "ugly", but interesting. And if you feel a bit intimidated by the calculation above, you will enjoy the pace and material of what comes next. If the above seemed easy to you, you will hopefully still enjoy our discussion in the next sections, as basic as it might see, since it might nonetheless shine a new light (or at keast add some interesting tidbits) on some of these basic concepts.  
 
 ### Numbers
