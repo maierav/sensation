@@ -362,7 +362,11 @@ The homunculus problem of assuming that we perceive sensory information that _co
 The homunculus problem of assuming that we perceive sensory information that _converges_ somewhere in the brain evokes the notion of another observer, or brain registering that information. This leads to an infinite chain of increasingly smaller versions of you, or your brain, sitting inside each other.
 :::
 
-After learning about the fact that all senses start with the same type of signal (action potentials), one might intuit that there is a "central" point of convergence in the brain where all these signals come together and "transformed" into our perceptual experience. But what would happen at that location in your brain? Is there a little cinema for a "mini-you" where vision, sound and so on are turned into a movie (following Descartes, we call this idea a _Cartesian Theater_)? This sounds absurd, but there is a deeper problem with this intuition. After all, this mini-you (a little human, or _homunculus_) would need another sense apparatus and brain to make sense of that "movie". And this brain would need another mini-me (or homunculus), and so on. We run into an infinite series, or infinite regress, of homunculi inside each other, akin to a Russian doll. This is obviously not the case. We will learn that there is no such point of convergence of sense signals in the brain. But then, why is it that you experience unified sight and sound _as if_ their sense signals come together somewhere in the brain? As we will see, science does not yet know the answer to this question (though there are some promising theories).
+After learning about the fact that all senses start with the same type of signal (action potentials), one might intuit that there is a "central" point of convergence in the brain where all these signals come together and "transformed" into our perceptual experience.  
+
+But what would happen at that location in your brain? Is there a little cinema for a "mini-you" where vision, sound and so on are turned into a movie (following Descartes, we call this idea a _Cartesian Theater_)? This sounds absurd, but there is a deeper problem with this intuition. After all, this mini-you (a little human, or _homunculus_) would need another sense apparatus and brain to make sense of that "movie". And this brain would need another mini-me (or homunculus), and so on. We run into an infinite series, or infinite regress, of homunculi inside each other, akin to a Russian doll. This is obviously not the case.  
+
+We will learn that there is no such point of convergence of sense signals in the brain. But then, why is it that you experience unified sight and sound _as if_ their sense signals come together somewhere in the brain? As we will see, science does not yet know the answer to this question (though there are some promising theories).
 
 This insight is called the **Homunculus Problem**. And it leaved with a puzzle. If that cannot be - how does it happen then that we see and hear and feel all at the same time and seemingly "in one"?  
 
@@ -423,7 +427,9 @@ Thinkers have long realized that this is interesting. These thinkers have come t
 
 (2) We end up going around in circles. That is, we embrace circular logic. We might end up saying that at the end of "But why?" questions we find two statements that support each other (such as: "all animals sleep" and that is because "without sleep animals cannot stay awake"). Supporting this outcome is called **Coherentism**.  
 
-(3) We could also opt for just keeping the "But why?" inquiry going on forever (such as going on about why we think that animals sleep and why we think that this tells us what is the case and why we believe that things are the case and so on). This solution to the problem of seemingly ending "But why?" questions is to counter them with never ending answers. This stance is called **Infinite Regress**. This may seem satisfying at first sight, but there is a certain absurdity that comes with the assumption that there is no starting point to knowledge. The psychologist William James explains this with a joke:  
+(3) We could also opt for just keeping the "But why?" inquiry going on forever (such as going on about why we think that animals sleep and why we think that this tells us what is the case and why we believe that things are the case and so on). This solution to the problem of seemingly ending "But why?" questions is to counter them with never ending answers. This stance is called **Infinite Regress**.  
+
+This solution may seem satisfying at first, but there is a certain absurdity that comes with the assumption that there is no starting point to knowledge. The psychologist William James explains this with a joke:  
 
     “The old lady said that the world rests on a big turtle.
     The scientist asked what the turtle rested on.
@@ -462,14 +468,16 @@ As we will see, mathematics seems to choose Foundationalism over the other two p
 
 #### Preliminary Definitions
 
-_Sensation_ is the process our bodies undergo when acquiring information from our environment, such as when a touch sensor in our skin gets depressed. We are not aware of these processes, and many of them occur even when we are in dreamless sleep, coma, or general anesthesia. Sensation is an _unconscious_ process.
+_Sensation_  
+: is the process our bodies undergo when acquiring information from our environment, such as when a touch sensor in our skin gets depressed. We are not aware of these processes, and many of them occur even when we are in dreamless sleep, coma, or general anesthesia. Sensation is an _unconscious_ process.
 
 :::{note}✍️ Note
 :icon: false
 Our _senses_ detect and quantify _changes_ in our _physical_ environment.  
 :::
 
-_Perception_ is what we _experience_. The most common notion of perception is that it is the _conscious_ experience following the process of sensation. That is perception is conscious (arguably the biggest part, or even all of our conscious experience). Let's call that **perception in a narrow sense**.  
+_Perception_  
+: is what we _experience_. The most common notion of perception is that it is the _conscious_ experience following the process of sensation. That is perception is conscious (arguably the biggest part, or even all of our conscious experience). Let's call that **perception in a narrow sense**.  
 
 **Sensation can happen without perception**. Sensation often _precedes_ perception. We do not consciously experience what we sense. Once we become consciously aware of a sensation, we perceive. Consider the following question, for example; _Can you feel the clothes on your skin?_ You do now. In other words, you now experience the perception of your clothes touching your skin. But this is only possible because your body senses it all along. In a few minutes, when your mind focuses on the rest of the text again, you will lose the conscious experience (the perception) of your clothes against your skin again (until you might remind yourself of the fact that you can consciously feel your clothes), but your brain will continue to sense your clothes until they are removed.  
 
