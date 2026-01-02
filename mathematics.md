@@ -28,22 +28,6 @@ If you never felt that way, you might at least gain some insight into how we mig
     the mathematician tries to get the heavens into his head.”
     G.K. Chesterton
 
-:::{figure}
-:label: cardioid
-:align: left
-:class: grid grid-cols-2 items-end gap-4
-
-:::{figure} ./images/newton.jpg
-:width: 25%
-:::
-
-:::{figure} ./images/newton.jpg
-:width: 25%
-:::
-
-Cardioids.
-:::
-
 We will start by assuming zero knowledge about mathematics, and then built up quickly from there. If you feel, at any step, that we moved to quickly, this may signify that there is need to brush up a bit via self-study. A few, hopefully helpful, sources and references are provided to do just that.  
 
     No calculations required.
