@@ -1128,8 +1128,10 @@ This thought may seem unintuitive, radical, or even revolutionary, but is not en
 ### Axioms and Theorems
 
 Archaeogical evidence suggests that humans have been counting, measuring, and calculating for thousands of years. We intuit that _this_ is what we mean by "mathematics". But the scholarly discipline of mathematics is surprisingly little concerned with all the above. What professional mathematicians actually do is _proving_. And what is that? It is the process of showing how a statement that is suspected to be provable can indeed be logically shown to be _true_ within a fixed system of thought.  
-    Mathematics is the science which draws necessary conclusions.
-    B. Peirce
+
+> Mathematics is the science which draws necessary conclusions.
+>
+> -- B. Peirce
 
 Once such a statement is proven, it is called a _theorem_. But did we not ponder that any statement eventually leads us to Agrippa's Trilemma? Indeed, mathematics rests on a set of unproven statements - unfounded beliefs - called _axioms_. Mathematics, at its core, thus is creating a "tree" of statements (theorems) that can be logically derived from a small set of initial assumptions, or axioms.  
 
