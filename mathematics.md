@@ -26,16 +26,16 @@ We thus will look at much about what learned about mathematics which an eye on: 
 
 :::{figure} ./images/cardioid_circle_dark.gif
 :label: fig:cardioid_construction
-:width: 35%
+:width: 25%
 
 Geometric construction of a **cardioid** - a heart-shaped object that by itself does not seem very interesting. This can be taught, and seen, as a random mathematical fact. But there is more. Keep reading.[^2]
 :::
 
 :::{div}
 :class: dark:hidden
-:::{figure} ./images/cardioid_circle_dark.gif
+:::{figure} ./images/cardioid_circle.gif
 :label: fig:cardioid_construction
-:width: 35%
+:width: 25%
 
 Geometric construction of a **cardioid** - a heart-shaped object that by itself does not seem very interesting. This can be taught, and seen, as a random mathematical fact. But there is more. Keep reading.[^2]
 :::
