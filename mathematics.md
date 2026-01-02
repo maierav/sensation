@@ -92,7 +92,6 @@ So far we mostly discussed (or looked at) _geometric_ descriptions of math. Hist
 :label: fig:math
 :width: 85%
 Stonehenge is aligned with the sun's position during the solstices.[^4]
-
 ::
 
 [^4]: public domain sources: [4](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_II_geometria,_1707_%E2%80%93_BEIC_13369403.jpg)
@@ -105,13 +104,22 @@ When it comes to the science of perception, then, we need to take a look at both
 
 As we will see, these two seemingly _distinct_ fields of mathematics have long been _unified_,  
 
-Do you know by whom?  
+:::{question}
+:class: dropdown
+:open: true
+Do you know by whom?
+:::  
 
-Descartes. And this won't be the last time that we will encounter his accomplishments.
+:::{tip}
+:class: dropdown
+Descartes. And this won't be the last time that we will encounter him.
+:::
 
 But, we can leave that aside for the moment, and take a closer look at what made _numbers_ seem so separate from the study of geometric _structure_ (again, luckily, Descartes and others demonstrated that we do not really have to choose one over the other). There is something peculiar about numbers in that it becomes more challenging to point to physical objects, like Euclid did for his geometrical proofs. Numbers can seem more "abstract", or, on some people's view: mind-made.  
 
+:::{question}
 What can we point to in the real world to explain the number zero? Or the number -1?  
+:::
 
 In fact, it tends to be the discovery of numbers, such as the square root of 2 where students first encounter a nagging feeling (most of that have forgotten that this happened when we were young). And that feeling has justification. There is something non-trivial about a number, such as the square root of 2, allowing mathematicians to abandon precise calculations, and instead just "round up" or "approximate" (or just stick to a symbol) as a _correct answer_. This _is_ confusing. And by brushing over the confusion that arises at that point of learning mathematics can give rise to the feeling of "**not being good at math**" and eventually "**not liking math**".  
 
@@ -136,6 +144,27 @@ $$
 $$ (1)
 
 The fancy word for this property of addition is **commutativity**.
+
+% Math
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/sum_dark.jpg
+:label: fig:math
+:width: 65%
+Summing does not care about the order of operations.[^3]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/sum.png
+:label: fig:math
+:width: 65%
+Summing does not care about the order of operations.[^5]
+:::
+
+[^5]: [public domain source:](https://commons.wikimedia.org/wiki/File:Green_Apple_Icon.png)
 
 This small observation is worth pausing for. What is that? What does that mean that we can disregard order in this way? This is clearly not _always_ the case:  
 
