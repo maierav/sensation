@@ -508,7 +508,7 @@ The **rational numbers** expand our concept of numbers even further. Note that o
 
 The most challenging realization about rational numbers happens when we learn about division that lead to fractions such as 7 / 3. The result has a "**remainder**, and we eventually learn that writing down the result in decimal points never ends. In other words, we encounter **infinity** for the first time. We also learn that we can get seemingly around that problem by **rounding** or **approximating** (e.g., 7:3 ≈ 2.33). None of that is trivial, and some of the feeling of confusion that we might have first experienced at this point of our math education might have started us to feel like we are "not good" at math from this very point on (and resurfaced when we encounter infinity again at later stages).  
 
-[Not making things any less confusin, the _notation_ of division can be confusing in that we use **_a_ : _b_**, and **_a_ ÷ _b_**, and **_a_ / _b_**, and **$\frac{a}{b}$** alike.]
+[Not making things any less confusing, the _notation_ of division can be confusing in that we use **_a_ : _b_**, and **_a_ ÷ _b_**, and **_a_ / _b_**, and **$\frac{a}{b}$** alike.]
 
 Still, we all probably feel like we do not feel confused by these four basic operations of arithmetic (addition, subtraction, multiplication, and division). So, so far the only interesting observation may be how they related via repetition (at least, this is usually not made as obvious when teaching these techniques).  
 
