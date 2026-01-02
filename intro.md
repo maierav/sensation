@@ -1073,7 +1073,7 @@ When we think about science, including biology, geology, chemistry, and especial
 According to Lewis Wolper, one connection about math and science is that both often explain the _unfamiliar with the familiar_ (and vice versa).
 
 $$
-  F = m \cdot a  
+  \mathbf{F} = m\,\mathbf{a}
 $$
 
 explains force as the product of mass and acceleration
