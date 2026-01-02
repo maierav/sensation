@@ -58,7 +58,7 @@ If you never felt that way, you might at least gain some insight into how we mig
 :::{figure} ./images/more_cardioids_dark.png
 :label: fig:log
 :width: 95%
-More cardioids. Finding this shape across so many instances is interesting. **Leftmost**: Cardioid construction using modular arithmetic. **Center**: A cardioidal shape within the _Mandelbrot set_. **Rightmost**: Cardioidal shape of a shadow.[^3]
+More **cardioids**. While learning about the single instance of how cardioids can arise seemed uninteresting, realizing how cardioids occur under a wide variety of circumstances makes them seem much more worthy of consideration. **Leftmost**: Cardioid construction using modular arithmetic. **Center**: A cardioidal shape within the _Mandelbrot set_. **Rightmost**: Cardioidal shape of a shadow.[^3]
 
 :::
 
@@ -68,7 +68,7 @@ More cardioids. Finding this shape across so many instances is interesting. **Le
 :::{figure} ./images/more_cardioids.png
 :label: fig:log
 :width: 95%
-More cardioids. Finding this shape across so many instances is interesting. **Leftmost**: Cardioid construction using modular arithmetic. **Center**: A cardioidal shape within the _Mandelbrot set_. **Rightmost**: Cardioidal shape of a shadow.[^3]
+More **cardioids**. While learning about the single instance of how cardioids can arise seemed uninteresting, realizing how cardioids occur under a wide variety of circumstances makes them seem much more worthy of consideration. **Leftmost**: Cardioid construction using modular arithmetic. **Center**: A cardioidal shape within the _Mandelbrot set_. **Rightmost**: Cardioidal shape of a shadow.[^3]
 
 :::
 
