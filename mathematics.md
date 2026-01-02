@@ -153,7 +153,7 @@ The fancy word for this property of addition is **commutativity**.
 
 :::{figure} ./images/sum_dark.jpg
 :label: fig:math
-:width: 65%
+:width: 80%
 Summing does not care about the order of operations.[^3]
 :::
 
@@ -162,7 +162,7 @@ Summing does not care about the order of operations.[^3]
 
 :::{figure} ./images/sum.png
 :label: fig:math
-:width: 65%
+:width: 80%
 Summing does not care about the order of operations.[^5]
 :::
 
