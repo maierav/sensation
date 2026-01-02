@@ -10,7 +10,25 @@ William Blake's Newton as a Geometer (1795).[^1]
 
 [^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Newton-WilliamBlake_crop.jpg)
 
-Science rests on mathematics, so we cannot completely avoid the topic. The following is a brief refresher for the (very limited) mathematics that we will use later on this course. We will start by assuming zero knowledge about mathematics, and then built up quickly from there. If you feel, at any step, that we moved to quickly, this may signify that there is need to brush up a bit via self-study. A few, hopefully helpful, sources and references are provided to do just that.  
+Science rests on mathematics, so we cannot avoid the topic. The following is a brief refresher for the (very limited) mathematics that we will use later on this course. However, the deeper, hidden goal is to _not_ just do that - review basic mathematics. Why? Because many people have no warm, fond memories of learning about basic mathematics in the first place. This chapter is meant to change that. Or at least, reflect on why this happened to so many of us. The central idea is something like the following:
+
+    Most people (including some of the best mathematicians) are bad at calculating.
+    Most of mathematics is not calculating.
+
+    Most of mathematics is about structure.
+    Most people are good at reasoning about structure. 
+
+We thus will look at much about what learned about mathematics which an eye on: why might learning about this have caused some of us to dislike it? One issue we will identify are potential moments of confusion that occur mostly whenever our intiution is challenged. Standard math education tends to gloss over these potential obstacles of thought by teaching proven mathematics as disjointed "facts" that are handed down by authority and have to be accepted.  
+
+Even some of the best mathematicians experience such moments of befuddlement, with one of the best mathematicians of all time, John von Neumann, admitting that he just had to "get used to it". But we do not want to do that. We want to see how every step fits into a bigger picture. Rather than examining isolated stones by themselves, we want to step back and see the entire mosaic - even when it still has gaps and remains unfinished. And, as we will see, these moments of potential confusion occur as early as going from addition to subtraction (they tend to peak among students when learning about division and fractions). Hence, we will start from scratch and even examine such basic operations, and reflect on where we might have experienced brief moments of potential bewilderement that lie in our past so that we can revisit them as adults and remedy these feelings - or at least acknowledge that they were justified. It will be worth it.  
+
+If you never felt that way, you might at least gain some insight into how we might be able to improve on the dissemination and public perception of mathematics. How can mathematicians share their passion? Their love for mathematics? The awe, thrill, and excitment that they experience when learning about mathematical insight? And, as we will see, there is an enticing connection between our perception being not up to our own whim (our experience is not shaped by what we _want_ or _will_ it to be) and mathematics following necessity rather than arbitrariness (mathematics does not follow what we _want_ or _will_ it to be).  
+
+    “the poet tries to get his head into the heavens 
+    the mathematician tries to get the heavens into his head.”
+    G.K. Chesterton
+
+We will start by assuming zero knowledge about mathematics, and then built up quickly from there. If you feel, at any step, that we moved to quickly, this may signify that there is need to brush up a bit via self-study. A few, hopefully helpful, sources and references are provided to do just that.  
 
     No calculations required.
 
