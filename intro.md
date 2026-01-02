@@ -520,14 +520,14 @@ What do you think? Is naïve realism correct or wrong? What arguments do you hav
 
 In fact, the starting point of the science of perception is the realization that what we feel, see, hear, smell, or taste is not to be confused with what the world is _actually_ like.
 
-This realization can be made inuitive with visual illusions, where we understand that what we _see_ is "wrong" in that our perception deviates from reality of the physical stimulus.
+This realization can be made intuitive with visual illusions, where we understand that what we _see_ is "wrong" in that our perception deviates from reality of the physical stimulus.
 
 % Lilac Chaser Illusion
 :::{div}
 :class: hidden dark:block
 
 :::{figure} images/lilac_chaser_dark.gif
-:label: fig:relilac_chaser
+:label: fig:lilac_chaser
 :alt: The Lilac Chaser illusion
 :width: 80%
 
