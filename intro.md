@@ -14,7 +14,7 @@ Throughout the book, pop-up boxes aim at providing moments for pause and reflect
 
 % Teaching Philosophy
 :::{figure} ./images/meme.png
-:label: fig:MAE
+:label: fig:meme
 :width: 80%
 
 The didactic goal of this book of this book is to inspire a perpetual cycle that alternates between reading and thinking.
