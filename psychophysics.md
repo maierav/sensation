@@ -111,9 +111,9 @@ This seems trivial. But Fechner realized that something very interesting happene
 % Feather
 :::{figure} images/feather.png
 :label: fig: feather
-:width: 80%
+:width: 60%
 
-How many feathers can a blindfolded person tell apart?[^5]
+How many feathers can a blindfolded person tell apart if they are slowly added to a plate they hold in their hand?[^5]
 :::
 
 [^5]: [public domain source](https://commons.wikimedia.org/wiki/File:-Chicken_Feathers-_MET_DP167354.jpg)
