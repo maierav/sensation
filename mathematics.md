@@ -92,7 +92,7 @@ So far we mostly discussed (or looked at) _geometric_ descriptions of math. Hist
 :label: fig:math
 :width: 85%
 Stonehenge is aligned with the sun's position during the solstices.[^4]
-::
+:::
 
 [^4]: [public domain source](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_II_geometria,_1707_%E2%80%93_BEIC_13369403.jpg)
 
