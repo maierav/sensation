@@ -141,7 +141,7 @@ So far we mostly discussed (or looked at) _geometric_ descriptions of math. Hist
 
 % Stonehenge
 :::{figure} ./images/stonehenge.jpg
-:label: fig:math
+:label: fig:stonehenge
 :width: 85%
 Stonehenge is aligned with the sun's position during the solstices.[^4]
 :::
@@ -286,7 +286,7 @@ If kids feel that subtraction is a bit "more challenging" than addition, this mi
 :class: hidden dark:block
 
 :::{figure} ./images/subtraction_dark.png
-:label: fig:sum
+:label: fig:diff
 :width: 80%
 Subtraction is not commutative. We end up with a different amount of apples when either taking one or two away. We all know this, but it is a bit surprising that - despite being the inverse of addition - subtraction does not follow the same rules, or laws as addition.[^5]
 :::
@@ -295,7 +295,7 @@ Subtraction is not commutative. We end up with a different amount of apples when
 :class: dark:hidden
 
 :::{figure} ./images/subtraction.png
-:label: fig:sum
+:label: fig:diff
 :width: 80%
 Subtraction is not commutative. We end up with a different amount of apples when either taking one or two away. We all know this, but it is a bit surprising that - despite being the inverse of addition - subtraction does not follow the same rules, or laws as addition.[^5]
 :::
@@ -329,7 +329,7 @@ This seems like a minor step. But we will keep expanding our notion of numbers a
 :class: hidden dark:block
 
 :::{figure} ./images/natural_numbers_dark.png
-:label: fig:sum
+:label: fig:N
 :width: 95%
 So far we only used **counting numbers**, such as {1, 2, 3, ...}. As the name suggests, these numbers are easy to understand since we use them to count things - real world objects. Mathematicians denote the set of counting numbers with the "blackboard" letter $\mathbb{N}^+$. Technically speaking, this notation stands for "natural numbers excluding zero" - probably because counting numbers sounds a bit too childish.
 
@@ -340,7 +340,7 @@ By adding the concept of 0 to our numbers, we technically create a larger set of
 :class: dark:hidden
 
 :::{figure} ./images/natural_numbers.png
-:label: fig:sum
+:label: fig:N
 :width: 95%
 So far we only used **counting numbers**, such as {1, 2, 3, ...}. As the name suggests, these numbers are easy to understand since we use them to count things - real world objects. Mathematicians denote the set of counting numbers with the "blackboard" letter $\mathbb{N}^+$. Technically speaking, this notation stands for "natural numbers excluding zero" - probably because counting numbers sounds a bit too childish.
 
@@ -362,7 +362,7 @@ Now, we need to expand our concept of numbers once more. And we end up with _int
 :class: hidden dark:block
 
 :::{figure} ./images/integers_dark.png
-:label: fig:sum
+:label: fig:Z
 :width: 95%
 Including _negative numbers_ in our exploration of numbers, we expanded our number system yet again. We now face an even larger set of numbers, called the **integers**. We use the blackboard letter $\mathbb{Z}$ as notation for this superset of numbers (and we are far from being done creating larger and larger sets of numbers).
 :::
@@ -371,7 +371,7 @@ Including _negative numbers_ in our exploration of numbers, we expanded our numb
 :class: dark:hidden
 
 :::{figure} ./images/integers.png
-:label: fig:sum
+:label: fig:Z
 :width: 95%
 Including _negative numbers_ in our exploration of numbers, we expanded our number system yet again. We now face an even larger set of numbers, called the **integers**. We use the blackboard letter $\mathbb{Z}$ as notation for this superset of numbers (and we are far from being done creating larger and larger sets of numbers).
 :::
