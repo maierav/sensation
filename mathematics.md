@@ -88,25 +88,12 @@ There is, fo course, a lot to say about ZFC. The Axiom of Choice, for example, i
 So far we mostly discussed (or looked at) _geometric_ descriptions of math. Historically speaking, this makes sense since we established that modern axiomatic mathematics finds it origin in ancient Greece with Euclid. But just a brief look at Stonehenge leaves us with the impression that geometry has fascinated humans for much longer (at least all the way back to the _stone age_).  
 
 % Stonehenge
-:::{div}
-:class: hidden dark:block
-
 :::{figure} ./images/stonehenge.jpg
 :label: fig:math
 :width: 85%
 Stonehenge is aligned with the sun's position during the solstices.[^4]
 
-:::
-
-:::{div}
-:class: dark:hidden
-
-:::{figure} ./images/stonehenge.jpg
-:label: fig:math
-:width: 85%
-Stonehenge is aligned with the sun's position during the solstices.[^4]
-
-:::
+::
 
 [^4]: public domain sources: [4](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_II_geometria,_1707_%E2%80%93_BEIC_13369403.jpg)
 
