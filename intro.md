@@ -639,8 +639,8 @@ Plato's story goes on, but the key insight can already be made here. Plato makes
 
 What does any of that have to do with perception? Well, one corollary of us establishing that
 
-1) There is a real world "outside" our perception
-2) Our perception seems to be more like a reflection, or "shadow" of that world
+    1: There is a real world "outside" our perception
+    2: Our perception seems to be more like a reflection, or "shadow" of that world
 
 is that we are in a similar position as these people inside the cave: We only know the "shadows", a reflection, of the world and not the world itself. Our skulls, our brains, seem to be similar to that cave in that our perception arises from "inside" these structures.  
 
