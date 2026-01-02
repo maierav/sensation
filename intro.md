@@ -538,7 +538,7 @@ The Lilac Chaser illusion[^14]: Keep looking at the center cross and watch the a
 :class: dark:hidden
 
 :::{figure} images/lilac_chaser.gif
-:label: fig:relilac_chaser
+:label: fig:lilac_chaser
 :alt: The Lilac Chaser illusion
 :width: 80%
 
@@ -554,7 +554,7 @@ The consequence of this insight is that there seem to be two different things, o
     1. The physical world consisting of the universe, our environment, and our own bodies.
     2. Our conscious subjective perception of our environment and bodies.
 
-There are many corrolaries from that view, many of which raise deep questions that humanity has not found satisfying answers for yet.  
+There are many corollaries from that view, many of which raise deep questions that humanity has not found satisfying answers for yet.  
 
 ### Ontology
 
