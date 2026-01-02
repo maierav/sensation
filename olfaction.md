@@ -25,7 +25,7 @@ Smell is not a physical, but a chemical sense.[^1]
 
 [^1]: [public domain image source](https://upload.wikimedia.org/wikipedia/commons/7/73/Zintuig_reuk_Vijf_zintuigen_%28serietitel%29%2C_RP-P-BI-5098.jpg)
 
-We do not know as much about how we smell as we do about our other senes.  
+We do not know as much about how we smell as we do about our other senses.  
 
 ## CHEMISTRY
 

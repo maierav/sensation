@@ -29,7 +29,7 @@ You made it to the final chapter. Congratulations!
 
 At this point, you will, in fact, have learned all the basics that are usually covered in US colleges about the science of sensation and perception. Plus a bit more regarding the wider considerations and implications that we started out with. And, as promised, we will now briefly return to this bigger picture. Think of it as a somewhat personal view on _ongoing and future work_.  
 
-The hope is to provide some relief to the interested reader who is left with a sense of frustration due to all of the reviewed knowledge failing to provide satisfying answer to the "big", philosophical questions that we started out with. To say it with Goethe's "Faust":
+The hope is to provide some relief to the interested reader who is left with a sense of frustration due to all the reviewed knowledge failing to provide satisfying answer to the "big", philosophical questions that we started out with. To say it with Goethe's "Faust":
 
     I've studied now Philosophy And Jurisprudence, Medicine, ...
     From end to end, with labor keen; And here, ...
@@ -52,7 +52,7 @@ And the related:
 
 And perception (which we defined as conscious experience) plays a key part in all that. Only your conscious experience is _directly accessible_ to you. The world is accessed _via_ your senses and ultimately your perception. When you ask: "What is all of this?", the first thing you encounter that "all of this" seems to be (inside) your conscious experience.  
 
-Our knowledge about the world, such as what we learned about physics, also plays a part. But much of our knowledge plays little of a role unless it enters our conscious experience. You might _know_ what you ate for dinner last night, but that knowledge lay dormant. Now that you recall and consciouscly experience this knowledhe, the information contained within takes on a new form of usefulness. It could help you decide on whether you want to eat the same food again, for example.  
+Our knowledge about the world, such as what we learned about physics, also plays a part. But much of our knowledge plays little of a role unless it enters our conscious experience. You might _know_ what you ate for dinner last night, but that knowledge lay dormant. Now that you recall and consciously experience this knowledge, the information contained within takes on a new form of usefulness. It could help you decide on whether you want to eat the same food again, for example.  
 
 It follows that a scientific understanding of the _how_ of perception also provided answers about the _how_ of reality, and even existence. And from that it follows understanding _how_ perception _is_, seems a question tied to the "bigger" questions outlined above.  
 
