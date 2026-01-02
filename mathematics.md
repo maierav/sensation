@@ -305,6 +305,25 @@ $$
 
 Now, we need to expand our concept of numbers once more. And we end up with _integers_ (..., -3, -2, -1, 0, 1, 2, 3, ...). Again, most adults have become used to the concept to negative numbers, but for a kid this is another challenging concept: "How can there be _less_ than _nothing_?"
 
+% Integers
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/integers_dark.jpg
+:label: fig:sum
+:width: 80%
+Including _negative numbers_ in our exploration of numbers, we expanded our number system yet again. We now face an even larger set of numbers, called the **integers**. We use the blackboard letter $\mathbb{Z}$ as notation for this superset of numbers (and we are far from being done creating larger and larger sets of numbers).
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/integers.png
+:label: fig:sum
+:width: 80%
+Including _negative numbers_ in our exploration of numbers, we expanded our number system yet again. We now face an even larger set of numbers, called the **integers**. We use the blackboard letter $\mathbb{Z}$ as notation for this superset of numbers (and we are far from being done creating larger and larger sets of numbers).
+:::
+
 All of this is just to remind ourselves that there are (minor) conceptual obstacles and counter-intuitive notions amidst some of the most basic math. And becoming aware of that can be helpful both for re-grounding and re-convincing ourselves that we had good reason to accept these notions, and that we should be careful in shrugging off math that we have become very used to as "trivial".  
 
 In fact, it could be argued that some of these conceptual challenges, as small as thy may seem_ are actually _larger_ than what we face at higher levels of mathematical abstraction. And - if we were struggling with some of these conceptual hurdles (such as: _what could be smaller than nothing_) at first when we were taught basic mathematics, we hopefully did not just "accept" these notions and move on. Doing so risks that we start to just "trust" mathematics and what people who are more educated in mathematics tell us rather than doing that which mathematics offers and demands: not to trust, but to convince yourself through reasoning. So let us keep doing just that.  
