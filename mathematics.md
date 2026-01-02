@@ -225,9 +225,9 @@ $$
   6 - 4 = 2
 $$
 
-We all know this already, of course. But let's reflect more a moment. We just looked at subtraction as the _inverse_, the undoing, of addition. This notion of a simple _reversal_ seems to imply _symmetry_. But addition is commytative and does not care about the order of what we add, while subtraction does. Anyone who would have expected perfect symmetry thus might be a bit surprised.  
+We all know this already, of course. But let's reflect more a moment. We just looked at subtraction as the _inverse_, the undoing, of addition. This notion of a simple _reversal_ seems to imply _symmetry_. But addition is commytative and does not care about the order of what we add, while subtraction does. Anyone who would have expected perfect symmetry thus might feel a bit surprised.  
 
-If kids feel that subtraction is a bit "more difficult" than addition, this might be one of the reasons why. Yet, we usually do not teach subtraction in a way that _acknowledges_ that the fact that we might have expected for it to be commutative, yet it is not. Acknowledging this fact might be helpful in avoiding a vague sense of confusion, or "I am not not good at that".  Well, now we did. And this might prove helpful as we delve deeper into arithmetic and discuss logarithms towards the end.  
+If kids feel that subtraction is a bit "more challenging" than addition, this might be one of the reasons why. Yet, we usually do not teach subtraction in a way that _acknowledges_ that the fact that we might have expected for it to be commutative, yet it is not. Acknowledging this fact might be helpful in avoiding a vague sense of confusion, or "I am not not good at that".  Well, now we did. And this might prove helpful as we delve deeper into arithmetic and discuss logarithms towards the end.  
 
 % Differences
 :::{div}
@@ -254,21 +254,48 @@ $$
   minuend - subtrahend = difference
 $$
 
-Indeed, many people feel that addition is a bit more "easy" than subtraction. And the fact that additivity is a bit more "lax" in that you disregard order while subtraction requires you to make sure that you do not accidentally confuse the order might be part of that reason.  
+Indeed, many people feel that addition is a bit "easier" than subtraction. And the fact that additivity is a bit more "lax" in that you disregard order while subtraction requires you to make sure that you do not accidentally confuse the order might be part of that reason.  
 
 For now, all we should do is put an earmark in this very simple observation. Arithemtic seems easy since we can think of subtraction as the inverse of addition. And yet, there is an added bit of complexity in that these two operations are not quite as fully _symmetric_ as it seems. Different rules apply for each.  
 
 _While addition is commutative, its inverse (subtraction) is not._
 
-And there is another reason why students often find addition more "intuitive", or "easy" than subtraction: Subtraction often is where we learn that there are more than the _whole numbers_ (1, 2, 3, 4, ...).  
+And there is another reason why students often find addition more "intuitive", or "easy" than subtraction: Subtraction often is where we learn that there are more than the _counting numbers_ (1, 2, 3, 4, ...).  
 
-First, we might get confronted with 0:
+First, we might get confronted with the fact that we can end up with nothing - zero:
 
 $$
   5 - 5 = 0
 $$
 
-0 expands the _while numbers_ (1, 2, 3, ...) to the _natural numbers (0, 1, 2, 3, ...). Few adults worry about that fact, but zero is not a trivial concept and it took humanity a long time in history to accept it as mathematically valid. After all, _nothing_ just seems to be "absence of anything", so how can there - how can it - be _something_, like zero?  
+0 expands the _counting numbers_ (1, 2, 3, ...) to the _natural numbers_ (0, 1, 2, 3, ...).  
+
+This seems like a minor step. But we will keep expanding our notion of numbers as we will go along, so it is important to note that this can be done. Realizing that there are not "just" numbers, but many different sets of numbers, of _number systems_ is also not commonly taught at an early level. Yet, doing so deliberately can help clear up some further potential confusion (in particular as we discuss division). In fact, it might be the introduction of new number systems rather than a new mathematical operation (such as division), or the fact that both happens at the same time, which can get some students frustrated. Let's try to avoid that and take deliberate note of us introducing new number systems each time we do so.  
+
+% Natural Numbers
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/natural_numbers_dark.jpg
+:label: fig:sum
+:width: 80%
+So far we only used **counting numbers**, such as {1, 2, 3, ...}. As the name suggests, these numbers are easy to understand since we use them to count things - real world objects. Mathematicians denote the set of counting numbers with the "blackboard" letter $\mathbb{N}^+$. Technically speaking, this notation stands for "natural numbers excluding zero" - probably because counting numbers sounds a bit too childish.
+
+By adding the concept of 0 to our numbers, we technically create a larger set of numbers. The resulting number system is usually called the **natural numbers**, and is denoted as $\mathbb{N}_0$ (which makes clear that we include 0). As you can see from the notation, it is a bit unclear whether we include or do not include the number 0 when we speak about natural numbers, so it is best practice to disambiguate like we did here. In school, you might have also learned that the natural numbers (with zero included) are called the **whole numbers**.  
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/natural_numbers.png
+:label: fig:sum
+:width: 80%
+So far we only used **counting numbers**, such as {1, 2, 3, ...}. As the name suggests, these numbers are easy to understand since we use them to count things - real world objects. Mathematicians denote the set of counting numbers with the "blackboard" letter $\mathbb{N}^+$. Technically speaking, this notation stands for "natural numbers excluding zero" - probably because counting numbers sounds a bit too childish.
+
+By adding the concept of 0 to our numbers, we technically create a larger set of numbers. The resulting number system is usually called the **natural numbers**, and is denoted as $\mathbb{N}_0$ (which makes clear that we include 0). As you can see from the notation, it is a bit unclear whether we include or do not include the number 0 when we speak about natural numbers, so it is best practice to disambiguate like we did here. In school, you might have also learned that the natural numbers (with zero included) are called the **whole numbers**.  
+:::
+
+Few adults worry about the fact that sometimes we can end up with nothing, or zero, during calculations. We probably also do not feel baffled anymore that _something_ (the numeral 0) can be used for (represent) _nothing_. But zero is not a trivial concept and it took humanity a long time in history to accept it as mathematically valid. After all, _nothing_ just seems to be "absence of anything", so how can there - how can it - be _something_, like zero?  
 
 But subtraction leads us deeper:
 
