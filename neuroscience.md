@@ -21,19 +21,19 @@ Mid-line section of a human brain.[^1]
 
 [^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray720.png)
 
-Before we examine each of our senses in isolation, we first need to briefly review the common demoniator - the basic physiological function of the brain. The goal is to introduce anyone to the foundations of how neuroscientists currently think about brain function. The focus will be on **neurophysiology**, which is mostly interested in the biological and biochechemical action that underlies brain activity. That is, we will review neuronal _communication_, or _interaction_.  
+Before we examine each of our senses in isolation, we first need to briefly review the common denominator - the basic physiological function of the brain. The goal is to introduce anyone to the foundations of how neuroscientists currently think about brain function. The focus will be on **neurophysiology**, which is mostly interested in the biological and biochechemical action that underlies brain activity. That is, we will review neuronal _communication_, or _interaction_.  
 
 Neuronal **activation** is only half of the story when it comes to understanding the link between sensation, perception and the brain. We will also need to briefly examine neuronal **connectivity**. After all, if we isolate each neuron of interest in a dish, and observe the same patterns of neuronal activation for each of these isolated neurons, we would not expect perception to arise. It is only because neurons form a _causal network_ that the brain does more than host individual, isolated ON/OFF switches.  
 
-If you already have basic training in systems neuroscience, you can probably skip this chapter since we will merely go over the very basics of neuronal function and neuroanatomy. Hlwever, you might want to browse through this page to ensure that we are not covering anything that you might want a quick refresher for. You might also want to check out the end of this chapter, where we briefly discuss the difference between the _computational_ metaphor of brain function and _information processing_ since this distinction is not usually taught, or made explicit, in neuroscience courses.  
+If you already have basic training in systems neuroscience, you can probably skip this chapter since we will merely go over the very basics of neuronal function and neuroanatomy. However, you might want to browse through this page to ensure that we are not covering anything that you might want a quick refresher for. You might also want to check out the end of this chapter, where we briefly discuss the difference between the _computational_ metaphor of brain function and _information processing_ since this distinction is not usually taught, or made explicit, in neuroscience courses.  
 
 ## NEURONAL ACTIVITY
 
-Alcohol and other drugs can strongly alter our perception. Few people dispute that these chemicals do so by altering the chemistry of our brain. In the same vein, certain brain disorders and lesions that alter perception, such as losing the ability to see color or motion (we will discuss these clinical cases in detail at a later stage of the book) lead us to the same conclusion. If we undergo a major surgery, we find relief in the fact that an anaesthesiologist will use chemicals in an attempt to alleviate us from consciously experiencing the associated pain. The same goes for dentists using chemicals locally to disrupt nervous funtion. Even a simple cold that robs us of our sense of smell seems clearly linked to the physiology of the nose and its link to the rest of our nervous system. The link between the brain and perception thus seems obvious.  
+Alcohol and other drugs can strongly alter our perception. Few people dispute that these chemicals do so by altering the chemistry of our brain. In the same vein, certain brain disorders and lesions that alter perception, such as losing the ability to see color or motion (we will discuss these clinical cases in detail at a later stage of the book) lead us to the same conclusion. If we undergo a major surgery, we find relief in the fact that an anesthesiologist will use chemicals in an attempt to alleviate us from consciously experiencing the associated pain. The same goes for dentists using chemicals locally to disrupt nervous function. Even a simple cold that robs us of our sense of smell seems clearly linked to the physiology of the nose and its link to the rest of our nervous system. The link between the brain and perception thus seems obvious.  
 
 Once someone interested in perception appreciates the link between brain mechanisms and conscious experience, their focus tends to shift to _neuronal activation_. Not surprisingly, then, most of systems neuroscience (the subfield of neuroscience that studies brain function), has focused on **measuring brain activation**.  
 
-There are many ways to study brain activity. Most of them have one assumption in common: they are fundamentally interested in the activation of sets of _single neurons_ (in the form of action potentials). That is, even techniques that do not measure single neurons directly, resort to _mechanistically_ explain their measures as _collective action_ (**mass action**) of large sets of individually activated neurons. We thus will first (superficially) review what is know about single neuron activation, followed by a brief discussion of some of the most common techniques and measures that systems neuroscientists, pyschologists, and cognitive scientists use to record neuronal activation.  
+There are many ways to study brain activity. Most of them have one assumption in common: they are fundamentally interested in the activation of sets of _single neurons_ (in the form of action potentials). That is, even techniques that do not measure single neurons directly, resort to _mechanistically_ explain their measures as _collective action_ (**mass action**) of large sets of individually activated neurons. We thus will first (superficially) review what is known about single neuron activation, followed by a brief discussion of some of the most common techniques and measures that systems neuroscientists, psychologists, and cognitive scientists use to record neuronal activation.  
 
 ### Neurons
 
@@ -70,7 +70,7 @@ Sketch of a single brain cell (neuron). Neurons are generally divided into three
 
 ## NEURONAL CONNECTIVITY
 
-Now that we discussed neuronal activation, let us take a moment and ponder whether the study of neuronal activation (which seems _nevessary_ for perception) is _sufficient_ to uncover the link to perception. The reason to do so is that the massive focus on activation risks forgetfulness about other contributing factors.  
+Now that we discussed neuronal activation, let us take a moment and ponder whether the study of neuronal activation (which seems _necessary_ for perception) is _sufficient_ to uncover the link to perception. The reason to do so is that the massive focus on activation risks forgetfulness about other contributing factors.  
 
 Imagine that we find all neurons in our brain that correlate in a certain type of activity with the smell of banana. Now imagine that in the future it will be possible to create perfect copies - molecularly identical clones - of these neurons and let them grow as a cell culture on a Petri dish. The only difference between these clones and the neurons in your brain are their connections: while the neurons in your brain are connected via axons and dendrites, the neurons in the cell culture are all isolated.  
 
@@ -78,7 +78,7 @@ Now imagine that we are able to electrically stimulate the neurons in the cell c
 
 This thought experiment evokes the notion that, no, activity _alone_ does not seem to be sufficient for a unified experience of the smell of banana. Their connectivity and signal exchange seems equally, or perhaps more, relevant.  
 
-This conclusion leads us to an appreciation of **neuroanatomy** - the study of neuronal connectivity (and, on a deeper level, the question of what exactly signal exchange between neurons _does_ that seems to _add_ to neurons getting activated in a certain sequence). Let us do so next.  
+This conclusion leads us to an appreciation of **neuroanatomy** - the study of neuronal connectivity (and, on a deeper level, the question of what exactly signal exchange between neurons _does_ which seems to _add_ to neurons getting activated in a certain sequence). Let us do so next.  
 
 ### Neuroanatomy
 
@@ -88,8 +88,9 @@ This conclusion leads us to an appreciation of **neuroanatomy** - the study of n
 
 #### Brain
 
-    Brain, noun. An apparatus with which we think that we think.
-    A. Bierce (1911): 'The Devil's Dictionary'
+> Brain, noun. An apparatus with which we think that we think.
+>
+> -- A. Bierce (1911): 'The Devil's Dictionary'
 
 #### Thalamus
 
@@ -124,7 +125,7 @@ However, we can distill two perhaps overlapping, or perhaps contrasting, views t
 
 The first view is that neuronal interactions are **computations**. This view raises the question of what that is exactly - a computation (and if and how neuronal computations relate to what a computer does). What follows from this view that our search for a link between brain mechanisms and perception should be guided by looking for _computational mechanisms_ that support perception.  
 
-The second view is that neuronal interactions are a form of **information exchange**, or **information processing**. This view can be reconciled with seeing computations as fundamental in that one can interpret as information processing as well. However, one can also interpret information processing as a broader terms that goes beyond the classic definition of computation (to which a computationalist might reply with a broader definition of computation). One of the most common views of a separability between computations and information processing is the view that the brain performs **information integration**, and that it is this process that supports perception - with the main difference between the two is that computations focus on change (state **transitions**) while information integrations focuses on static **states** (the start and endpoint of transitions). This view raises additional questions surrounding what we mean by "information" as well as by "integration". Let us unpack all that.  
+The second view is that neuronal interactions are a form of **information exchange**, or **information processing**. This view can be reconciled with seeing computations as fundamental in that one can interpret as information processing as well. However, one can also interpret information processing as a broader term that goes beyond the classic definition of computation (to which a computationalist might reply with a broader definition of computation). One of the most common views of a separability between computations and information processing is the view that the brain performs **information integration**, and that it is this process that supports perception - with the main difference between the two is that computations focus on change (state **transitions**) while information integrations focuses on static **states** (the start and endpoint of transitions). This view raises additional questions surrounding what we mean by "information" as well as by "integration". Let us unpack all that.  
 
 ### Computations
 
@@ -132,7 +133,7 @@ We tend to take the term "computation" for granted and well-defined. In a simple
 
 In our section on _Logic_, we already discussed that classical logic only allows for two states: _false_ and _true_. Boolean logic simply uses 0 for _false_ and 1 for _true_. As a result, Boolean Logic is a **binary logic** that only allows for two values.  
 
-You might remember that there are also **multi-valued logics**, such as intuitionist logic, which allows for a value "in-between" true and false (such as "undecided"). If we base brain function on Boolean Logic exclusively (as our modern computers do), we  might miss something important in case the brain (neurons) operate on multi-valued logic. This is worth keeping in mind. However, remember that human brain cells seemingly use _all-or-none_ activation in terms of action potentials, so it does not seem unreasonable that the exchange of action potentials gives rise to a Boolean Logic in the brain. More so, the rise of AI and LMM's in particular seems to suggest that we can get machines to mimic human cognitive function to some degree using the same basic principle of Boolean Logic (realized _in silico_ rather than _in vivo_). So, for now let us assume this to be the case. We will revisit this assumption at a later stage.  
+You might remember that there are also **multi-valued logics**, such as intuitionist logic, which allows for a value "in-between" true and false (such as "undecided"). If we base brain function on Boolean Logic exclusively (as our modern computers do), we might miss something important in case the brain (neurons) operate on multi-valued logic. This is worth keeping in mind. However, remember that human brain cells seemingly use _all-or-none_ activation in terms of action potentials, so it does not seem unreasonable that the exchange of action potentials gives rise to a Boolean Logic in the brain. More so, the rise of AI and LMM's in particular seems to suggest that we can get machines to mimic human cognitive function to some degree using the same basic principle of Boolean Logic (realized _in silico_ rather than _in vivo_). So, for now let us assume this to be the case. We will revisit this assumption at a later stage.  
 
 The next step to understand Boolean is to incorporate what we learned about _set theory_. There is an interesting parallel between the _operations_ of Boolean Logic (i.e., what happens to the 0's and 1's in a Boolean Logic Circuit) and the mathematical principles of set theory.  
 
@@ -144,4 +145,4 @@ This definition raises a lot of questions about what exactly defines "a machine"
 
 ### Information Integration
 
-The rise of LMM's has given many pause as to the assumption that classical computations, as discussed above, support perception. While LMM's compell us to admit that much of their written output resembles that of thinking humans, there is lingering debate (and in fact, much doubt) about whether LMM's perceive _anything_ in the process.  
+The rise of {abbr}'LMMs (Large Language Models)' has given many people pause as to the assumption that classical computations, as discussed above, support perception. While LMMs compel us to admit that much of their written output resembles that of thinking humans, there is lingering debate (and in fact, much doubt) about whether LMM's perceive _anything_ in the process.  
