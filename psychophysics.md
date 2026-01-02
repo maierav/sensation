@@ -108,6 +108,16 @@ But now imagine that that person neatly placed 100 feathers on top of the paper.
 
 This seems trivial. But Fechner realized that something very interesting happened here.  
 
+% Feather
+:::{figure} images/feather.png
+:label: fig: feather
+:width: 80%
+
+How many feathers can a blindfolded person tell apart?[^5]
+:::
+
+[^5]: [public domain source](https://commons.wikimedia.org/wiki/File:-Chicken_Feathers-_MET_DP167354.jpg)
+
 Let us imagine that when we added the first feather you sensed a difference in weight. And we already established that once there are many (hundreds or thousands of feathers), you cannot sense the same difference in weight. What this means is that if we imagine that we just add one feather at a time and your task is to detect and say when that happened, we will go from you sensing every physical change (each added feather) to - at some point - *having the **same (constant) perception despite the physical stimulus increasing**.  
 
 Again, this may seem trivial, but we are not quite done yet. Now, imagine that we added so many feathers to your hand that you do not feel anymore when a single feather is silently added. But if we keep adding feathers, at some point you will! After all, only because your hand feels heavier now and you cannot feel a single feather being added anymore does not mean that you lost all sense of weight. Maybe we need to add 10 more feathers or 100, but at some point you will say "Now it feels heavier again".  
@@ -151,11 +161,11 @@ The **leftmost** images show 10 and 20 dots, respectively. We can immediately te
 :label: fig: pse
 :width: 50%
 
-The **leftmost** images show 10 and 20 dots, respectively. We can immediately tell that the bottom image shows _more_ dots (a higher quantity) than the one above. Psychophysically speaking, the two images must be two stimuli separated by one or more just-noticeable-differences (JNDs) for us to be able to tell that they are different (in amount of dots). However, the **rightmost** two images _look_ like they are of the _amount_ - even though the bottom image again features 10 dots more than the image above. Psychophysically speaking, these two images fall inside a _point of subjective equality_ (PSE). That is, we experience them as being of the same amount, despite the fact that the actual physical amount differs (interestingly enough by the same amount, 10 dots, that we were able to immediately detect as added).[^5]
+The **leftmost** images show 10 and 20 dots, respectively. We can immediately tell that the bottom image shows _more_ dots (a higher quantity) than the one above. Psychophysically speaking, the two images must be two stimuli separated by one or more just-noticeable-differences (JNDs) for us to be able to tell that they are different (in amount of dots). However, the **rightmost** two images _look_ like they are of the _amount_ - even though the bottom image again features 10 dots more than the image above. Psychophysically speaking, these two images fall inside a _point of subjective equality_ (PSE). That is, we experience them as being of the same amount, despite the fact that the actual physical amount differs (interestingly enough by the same amount, 10 dots, that we were able to immediately detect as added).[^6]
 
 :::
 
-[5]: [public domain image source](https://commons.wikimedia.org/wiki/File:Weber-Fechner_law_demo_-_dots.svg)
+[6]: [public domain image source](https://commons.wikimedia.org/wiki/File:Weber-Fechner_law_demo_-_dots.svg)
 
 Let's go back to our thought experiment. We established that if you hold your hand out, and we put the light weight of a piece of paper on top of it, you will likely feel the weight of a single feather that we lay on top of the paper (if you cannot imagine that, just imagine it being 10 feathers at once). Now imagine that we put several very big hardcover books on your hands and add the feather (or 10 feathers) again. Would you be able to feel that? No. Clearly. So, the threshold of, say a single (or 10) feathers now does not work anymore. We need a lot more feathers on top of the books before you feel the extra weight.
 
