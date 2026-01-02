@@ -39,6 +39,29 @@ If you never felt that way, you might at least gain some insight into how we mig
 >
 >-- G.K. Chesterton
 
+% More Cardioid
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/more_cardioid_dark.gif
+:label: fig:log
+:width: 95%
+More cardioids. Finding this shape across so many instances is interesting. **Leftmost**: Cardioid construction using modular arithmetic. **Center**: A cardioidal shape within the _Mandelbrot set_. **Rightmost**: Cardioidal shape of a shadow.[^3]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/more_cardioid.gif
+:label: fig:log
+:width: 95%
+More cardioids. Finding this shape across so many instances is interesting. **Leftmost**: Cardioid construction using modular arithmetic. **Center**: A cardioidal shape within the _Mandelbrot set_. **Rightmost**: Cardioidal shape of a shadow.[^3]
+
+:::
+
+[^3]: [public domain source](https://commons.wikimedia.org/wiki/File:Mandelbrot_set_for_complex_quadratic_polynomial_with_parameter_rays_of_root_points.jpg)
+
 We will start by assuming zero knowledge about mathematics, and then built up quickly from there. If you feel, at any step, that we moved to quickly, this may signify that there is need to brush up a bit via self-study. A few, hopefully helpful, sources and references are provided to do just that.  
 
     No calculations required.
