@@ -558,7 +558,7 @@ There are many corollaries from that view, many of which raise deep questions th
 
 ### Ontology
 
-We talked already about how philosophers call thinking about the limits of what we can know _epistemology_. Thinking about that what  exists is called _ontology_. Together, these two types of thinking form an interplay of that which exists (the ontic) and what we can know about it (the epistemic). Our perception seems to be neither - it is not knowledge and it does not seem to be what really exists, so we call thinking about our perception _phenomenology_.
+We talked already about how philosophers call thinking about the limits of what we can know _epistemology_. Thinking about that what exists is called _ontology_. Together, these two types of thinking form an interplay of that which exists (the ontic) and what we can know about it (the epistemic). Our perception seems to be neither - it is not knowledge, and it does not seem to be what really exists, so we call thinking about our perception _phenomenology_.
 
 Naïve realism, in a way, is a simple epistemology where phenomenology is equated with ontology, Realizing that we do not perceive the world as it is leads to a more sophisticated epistemology that differentiates between our phenomenology and ontology. But what can we know about ontology? Metaphorically speaking, if our phenomenology is akin to shadows, how can we find out what is actually going on outside the cave?
 
@@ -572,7 +572,7 @@ Indeed, the scientific worldview differs widely from naïve realism. What exactl
 >
 > -- H. Putnam
 
-However, as we will see, there are a large number of quite different worldviews that all claim to be compatible with science (though several of these alternatives - especially those that remain skeptical about science providing _any_ insight into reality, or even deny the existence of an objective reality altogether - tend to struggle with Putnam's challenge to explain scientific success). Several of these diverging worldviews differ in how they think about perception, so we will have to touch on those as well.
+However, as we will see, there are many, quite different, worldviews that all claim to be compatible with science (though several of these alternatives - especially those that remain skeptical about science providing _any_ insight into reality, or even deny the existence of an objective reality altogether - tend to struggle with Putnam's challenge to explain scientific success). Several of these diverging worldviews differ in how they think about perception, so we will have to touch on those as well.
 
 % The naturalistic worldview
 :::{div}
@@ -599,10 +599,10 @@ An attempt at illustrating the modern naturalistic worldview (**scientific reali
 If our perception is different from the world (i.e., what and how we perceive things is not the same as the physical reality of these things), the question arises if each of us perceives the world _differently_.  
 
 :::{admonition} QUESTION
-Ask yourself: Is it possible that what I call "red" in fact might look to me like what you call "green"? If I would see green where you see red, would we ever be able to find that out? How?  
+Ask yourself: Is it possible that what I call "red" in fact might look to me like what you call "green"? If I saw green where you see red, would we ever be able to find that out? How?  
 :::
 
-As we will see, the answer is a bit mixed. There are, of course, individual differences in, say, how we perceive color since some of us are what we colloquially call "color blind" (we will see why this is a misleading term). However, as we go along, we will see that we generally seem to perceive very much alike.  
+As we will see, the answer is a bit mixed. There are, of course, individual differences in, say, how we perceive color since some of us are what we colloquially call "color-blind" (we will see why this is a misleading term). However, as we go along, we will see that we generally seem to perceive very much alike.  
 
 :::{admonition} QUESTION
 Is it surprising that most of us seem to perceive colors similarly? Why does that or does that not surprise you?
