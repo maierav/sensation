@@ -107,6 +107,7 @@ As we will see, these two seemingly _distinct_ fields of mathematics have long b
 :::{admonition}
 :class: dropdown
 :open: true
+:icon: false
 Do you know by whom?
 :::  
 
@@ -117,7 +118,8 @@ Descartes. And this won't be the last time that we will encounter him.
 
 But, we can leave that aside for the moment, and take a closer look at what made _numbers_ seem so separate from the study of geometric _structure_ (again, luckily, Descartes and others demonstrated that we do not really have to choose one over the other). There is something peculiar about numbers in that it becomes more challenging to point to physical objects, like Euclid did for his geometrical proofs. Numbers can seem more "abstract", or, on some people's view: mind-made.  
 
-:::{admonition}
+:::{admonition} ❓ Question
+:icon: false
 What can we point to in the real world to explain the number zero? Or the number -1?  
 :::
 
