@@ -276,7 +276,7 @@ This seems like a minor step. But we will keep expanding our notion of numbers a
 :::{div}
 :class: hidden dark:block
 
-:::{figure} ./images/natural_numbers_dark.jpg
+:::{figure} ./images/natural_numbers_dark.png
 :label: fig:sum
 :width: 95%
 So far we only used **counting numbers**, such as {1, 2, 3, ...}. As the name suggests, these numbers are easy to understand since we use them to count things - real world objects. Mathematicians denote the set of counting numbers with the "blackboard" letter $\mathbb{N}^+$. Technically speaking, this notation stands for "natural numbers excluding zero" - probably because counting numbers sounds a bit too childish.
@@ -309,7 +309,7 @@ Now, we need to expand our concept of numbers once more. And we end up with _int
 :::{div}
 :class: hidden dark:block
 
-:::{figure} ./images/integers_dark.jpg
+:::{figure} ./images/integers_dark.png
 :label: fig:sum
 :width: 95%
 Including _negative numbers_ in our exploration of numbers, we expanded our number system yet again. We now face an even larger set of numbers, called the **integers**. We use the blackboard letter $\mathbb{Z}$ as notation for this superset of numbers (and we are far from being done creating larger and larger sets of numbers).
