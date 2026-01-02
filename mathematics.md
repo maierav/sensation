@@ -169,7 +169,7 @@ So, now that we have gained a (very) basic understanding of set theory, which we
 
 However, we needed to start from _foundations_, and numbers are commonly derived by modern mathematics using the axioms of set theory (ZFC). More so, since we already are at a point where we ponder things more deeply, numbers are not as simple as they look at first sight. Thinking about numbers (deeply) can quickly turn things puzzling. And having set theory as a backdrop can help prevent a bit of that.  
 
-## Arithmetic
+## ARITHMETIC
 
 Now things get really interesting. Numbers by themselves just seem to "be made up" and "not do anything". And when we were young, we probably quickly realized that numbers really show their usefulness once we add, subtract, multiply, or divide them.  
 
