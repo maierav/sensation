@@ -357,7 +357,6 @@ Now, we need to expand our concept of numbers once more. And we end up with _int
 % Integers
 :::{div}
 :class: hidden dark:block
-
 :::{figure} ./images/integers_dark.png
 :label: fig:Z
 :width: 95%
@@ -366,7 +365,6 @@ Including _negative numbers_ in our exploration of numbers, we expanded our numb
 
 :::{div}
 :class: dark:hidden
-
 :::{figure} ./images/integers.png
 :label: fig:Z
 :width: 95%
