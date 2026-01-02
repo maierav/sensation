@@ -233,7 +233,7 @@ If kids feel that subtraction is a bit "more challenging" than addition, this mi
 :::{div}
 :class: hidden dark:block
 
-:::{figure} ./images/subtraction_dark.jpg
+:::{figure} ./images/subtraction_dark.png
 :label: fig:sum
 :width: 80%
 Subtraction is not commutative. We end up with a different amount of apples when either taking one or two away. We all know this, but it is a bit surprising that - despite being the inverse of addition - subtraction does not follow the same rules, or laws as addition.[^5]
