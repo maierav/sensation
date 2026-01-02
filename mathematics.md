@@ -149,7 +149,7 @@ The fancy word for this property of addition is **commutativity**.
 :::{div}
 :class: hidden dark:block
 
-:::{figure} ./images/sum_dark.jpg
+:::{figure} ./images/sum_dark.png
 :label: fig:sum
 :width: 80%
 Summing does not care about the order of operations. No matter whether we add one apple to two or two apples to one, we will always end up with three apples. This seems trivial. We all know that. But let us take note of this regardless. As we will see, this is not always the case when we do math, so it is not quite that trivial after all.[^5]
