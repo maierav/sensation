@@ -116,6 +116,7 @@ Thanks to our modern notation (the Hindu-Arabic numerals), you might have learne
 
 :::{figure} ./images/long_division_dark.png
 :label: fig:longdivision
+:align: left
 :width: 25%
 
 :::
@@ -125,6 +126,7 @@ Thanks to our modern notation (the Hindu-Arabic numerals), you might have learne
 
 :::{figure} ./images/long_division.png
 :label: fig:math
+:align: left
 :width: 25%
 
 :::
