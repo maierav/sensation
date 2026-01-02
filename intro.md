@@ -551,7 +551,7 @@ One interesting fact about visual illusions is that they often persist even when
 
 The consequence of this insight is that there seem to be two different things, or domains that are not identical (since one can deviate from the other):  
 
-    1. The physical world consisting of the universe, our local environment, and our own bodies.
+    1. The physical world consisting of the universe, our environment, and our own bodies.
     2. Our conscious subjective perception of our environment and bodies.
 
 There are many corrolaries from that view, many of which raise deep questions that humanity has not found satisfying answers for yet.  
@@ -884,8 +884,10 @@ For many scientists, it seems plausible that this process - in face of what seem
 
 **Science starts with (and ends in) doubt**: The cornerstone of science is that _anything can be (and in fact, should be) doubted_. That is, the starting point of science is to not take any statement about the world for granted. Science assumes that _we know nothing for sure_. In other words, science assumes that _everything we know_ is just an assumption. At the same time, science assumes
 that _not all assumptions are valid_. Science does not assume that _we know nothing_, or that _we will never know anything_. Instead, science assumes that:
-    1. There is one reality, and hence absolute (objective, mind-independent) truth, a completely matching, accurate description, about what this reality is like.
-    2. We can gain insight into some assumptions about this reality being _more likely_ than others. In other words, we can make progress in finding assunmption about the world that are very unlikely to be correct, or true.
+
+1. There is one reality, and hence absolute (objective, mind-independent) truth, a completely matching, accurate description, about what this reality is like.
+
+2. We can gain insight into some assumptions about this reality being _more likely_ than others. In other words, we can make progress in finding assunmption about the world that are very unlikely to be correct, or true.
 
 **Science leverages reason (logic) and observations (empirical/experimental data)**: The scientific method, at its core, consists of a constant interplay, or iteration, between reasoning (theorizing) about the world, and testing consequences (predictions) that arise from these theoretical assumptions. New observations (data) can require theories to be adjusted to the answer that nature provides to our interrogations. And, on the flip side, theories ought to provide new suggestions for empirical tests to probe the theories for their predictive and explanatory power. _This process does not have a defined end point_. Science does not claim that it can ever find truth. All it claims is that we can progress on detecting wrong assumptions of ours, and use that realization to hone and improve on our theoretical assumptions.  
     To say it with P. Hein: The idea of science is that **we err. But less and less and less.**
