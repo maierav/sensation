@@ -34,8 +34,10 @@ If you never felt that way, you might at least gain some insight into how we mig
 :class: grid grid-cols-2 items-end gap-4
 
 :::{figure} ./images/newton.jpg
+:width: 25%
 
 :::{figure} ./images/newton.jpg
+:width: 25%
 :::
 
 Cardioids.
