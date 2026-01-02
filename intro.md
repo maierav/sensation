@@ -949,7 +949,7 @@ By embracing logic and observation, we ended up rejecting the notion that our ex
 
 Yet, we also found arguments that prevent us from concluding from the fact that we _only_ find our experience when doubting everything that "_nothing_ is it what it seems" (i.e., like Alice in Wonderland). Instead, we were able to find a middle ground by establishing that the scientific method can be helpful in determining what (and how) else there may be (the world, nature, physical reality) other than our perception.  
 
-And once we appreciate that our perception is not entirely ruled by ourselves (i.e., you cannot make your perception of a laptop hover in mid air using only your mind), we come close to the notion that perception is ruled - structured - in a way that probably finds its source in physical reality. Since herein lies the ultimate answer to the puzzle of linking our brains to our perception, we will return to this thought at the end of this book.  
+And once we appreciate that our perception is not entirely ruled by ourselves (i.e., you cannot make your perception of a laptop hover in midair using only your mind), we come close to the notion that perception is ruled - structured - in a way that probably finds its source in physical reality. Since herein lies the ultimate answer to the puzzle of linking our brains to our perception, we will return to this thought at the end of this book.  
 
 However, we had to acknowledge that this process does not lead to _certainty_. Science does not allow us to prove that something, anything, is true or correct. In fact, science struggles to even prove that something is incorrect. Instead, we came to see that science means that we "err - just less and less and less". But how so?  
 
@@ -957,8 +957,9 @@ If we can never find truth or falsehood with certainty in science, why do it?
 
 The answer is that we do not need to be 100% certain about things and still make progress in our understanding. You are not 100% certain that you will survive the night rather than have a surprise stroke or heart attack. And yet, it makes little sense to live as if this were your last day on earth today. Knowing that there is an extremely high likelihood that you will be alive tomorrow seems well and sufficient.
 
-    proportion ... belief to the evidence
-    D. Hume
+>proportion ... belief to the evidence
+>
+> -- D. Hume
 
 And that is what science seems to do: It provides us with varying degrees of certainty about what seems correct or wrong. Finding little empirical evidence for unicorns does not imply that we know with 100% certainty that there are no unicorns. Perhaps some crazy amateur scientists created them using genetic engineering in their garage. But we can put a much greater _likelihood_ over there not being unicorns over the likelihood of the alternative being true.  
 
@@ -973,7 +974,9 @@ The important lesson to draw from all of this is that:
 
 The resulting view that science yields us _likelihoods_ of correctness or incorrectness rather than absolutely ruling out or confirming assumptions about the world is called **Bayesian Epistemology**. Not everyone who has thought about science, or who conducts science concurs with this intellectual stance of intellectual _humility_ (the acknowledgment that even the outcomes of science are valid subjects to doubt). This stance reflects abundant intellectual humility without struggling with a somewhat contradictory notion of "all (or many) views are equal" (contradictory, since that view espouses that it is the _only_ correct view). Hence, we will adopt it here. Which leads us to end our discussion of science with the following insight:
 
-    Science is not about proof. Science is about plausibilty.
+:::{pull-quote}
+Science is not about proof. Science is about plausibility.
+:::
 
 However, nothing we have discussed so far is science (yet). What we have done so far is reasoning that _precedes_ science, or meta-science. In other words, we are in the realm of philosophy.  
 
@@ -983,17 +986,17 @@ And there is a bit more philosophy that we need to discuss before we start with 
 
 The adage that "_all models are wrong, but some are useful_" (first used by George Box in 1976 while discussing **statistical models**) often arises in the context of discussing the limitations of science.  
 
-It is important to note that confusion can arise when using the word "model" outside of this original context of statistics.  
+It is important to note that confusion can arise when using the word "model" outside this original context of statistics.  
 
 The word "model" has more than one meaning (such as people wearing designer clothes during a fashion show). And the slogan is **only defensible if one restricts the concept of a “model” to approximate descriptions**. In that case, we _defined_ all models to be "wrong" in that they are overly simplified and lack a full description.  
 
-However, in mathematics and science, the word "model" also is used for **exact representations**. These Mmdels are not always approximations, but also include exact realizations of an abstract structure (1:1 models, or _isomorphisms_).  
+However, in mathematics and science, the word "model" also is used for **exact representations**. These Models are not always approximations, but also include exact realizations of an abstract structure (1:1 models, or _isomorphisms_).  
 
 A modern digital computer, for example, is a physical model (or realization - concrete implementation) of abstract two-element Boolean Algebra. And there is nothing "missing", and nothing "wrong". To restate this a bit more provocatively: If all models were wrong, computers would not work.  
 
 In other words, the slogan that "all models are wrong" only applies to approximate models, **not models in general**. And science is by no means limited to approximate models.  
 
-A common reaction to this discussion is that "many henomena are **too complex** to describe (or represent) in a simple way. Hence our models of complex phenomena _must be_ too simple (and hence "wrong").
+A common reaction to this discussion is that "many phenomena are **too complex** to describe (or represent) in a simple way. Hence, our models of complex phenomena _must be_ too simple (and hence "wrong").
 
 Here, too, one can find counter-examples that challenge our intuition. Take a look at the enormous complexity of this structure:
 
