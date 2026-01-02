@@ -612,19 +612,19 @@ Is it surprising that most of us seem to perceive colors similarly? Why does tha
 
 Another puzzle that arises from our realization that we can fall pray to perceptual illusions is that this seems to put into question how we can _know_ that to be the case. DO we only know the world only from our perception? How else can we learn about the world? Can we know for certain that there really _is_ a world "outside" our perception?
 
-This line of questioning may seem ludicruous at first. We all seem to agree that there is a "real world out there". How could this be questioned? And, at first, there does not seem to be a problem to know what that world _is like_. Is that not what physics and other sciences do - tell us what the world "really is", even if different and independent of our own perception?
+This line of questioning may seem ludicrous at first. We all seem to agree that there is a "real world out there". How could this be questioned? And, at first, there does not seem to be a problem to know what that world _is like_. Is that not what physics and other sciences do - tell us what the world "really is", even if different and independent of our own perception?
 
 But deeper reflection makes clear that this is not, in fact, so easy. Let us unpack that.
 
 ##### PLATO'S CAVE
 
-You might have heard about Plato's allegory of the cave. In this ancient ficticious story, a group of people is held hostage inside a cave. They grew up there and never were able to step outside. In fact, these people do not even know that there is an outside. Since they grew up inside that cave, they have no reason to believe that the world is much more than that one place - the only place - that they know Plato wants us to imagine what things would be like for these people.  
+You might have heard about Plato's allegory of the cave. In this ancient fictitious story, a group of people is held hostage inside a cave. They grew up there and never were able to step outside. In fact, these people do not even know that there is an outside. Since they grew up inside that cave, they have no reason to believe that the world is much more than that one place - the only place - that they know Plato wants us to imagine what things would be like for these people.  
 
 Plato goes on that we should imagine that these people are chained to a wall so that they cannot turn around and see what is behind them. Again, he asks us to just imagine the scenario and put ourselves into the shoes of these people to make an interesting point.
 
 He then goes on to describe that there is gap in the walls of that cave - a window of sorts. Light falls through that gap and the people that grew up inside that cave can only see that light on a wall opposite to that opening.
 
-Here comes the kicker: Plato now describes that the people inside the cave can sometimes see shadows on that wall that is illuminated by the gap behind them. Now, imagine that you are one of the people that grew up in that position. For you, the shadows cannot be understood as shadows. That is, because you have no concept of shadows. You just see sillhouettes opposite to you. They are part of your world. They are "real" to you as much as anything else inside the cave.
+Here comes the kicker: Plato now describes that the people inside the cave can sometimes see shadows on that wall that is illuminated by the gap behind them. Now, imagine that you are one of the people that grew up in that position. For you, the shadows cannot be understood as shadows. That is, because you have no concept of shadows. You just see silhouettes opposite to you. They are part of your world. They are "real" to you as much as anything else inside the cave.
 
 % Plato's Cave
 :::{figure} images/platos_cave.png
@@ -646,7 +646,7 @@ is that we are in a similar position as these people inside the cave: We only kn
 
 Finding out what the real world, that is responsible for the "shadows" of our perception, is actually like then seems to become challenging: We have to _reason_ about what this world might be like since we cannot go by our perception alone.
 
-This may still sound a bit confusing at this point. After all, we have not talked about what role our brains play in all of that (and since brains are obviously also part of that world that we perceive). We all share to some degree the notion that our brains are linked to our feelings, our ability to see, hear, smell, or taste. But what we will learn soon is _how closely_ linked the actions of our brain are to what we perceive. For now, it is only important to follow the logic of Plato's allegory: _If_ our direct acquintance with the world is our perception, and that perception can be unreliable (as in the existence of illusions), the problem arises that we have to find additional ways other than our perception to learn about the world.
+This may still sound a bit confusing at this point. After all, we have not talked about what role our brains play in all of that (and since brains are obviously also part of that world that we perceive). We all share to some degree the notion that our brains are linked to our feelings, our ability to see, hear, smell, or taste. But what we will learn soon is _how closely_ linked the actions of our brain are to what we perceive. For now, it is only important to follow the logic of Plato's allegory: _If_ our direct acquaintance with the world is our perception, and that perception can be unreliable (as in the existence of illusions), the problem arises that we have to find additional ways other than our perception to learn about the world.
 
 ##### SUBJECTIVE PERCEPTION vs. OBJECTIVE WORLD
 
@@ -658,7 +658,7 @@ One possible solution is that there really is only one thing. That is, the assum
 
 The actual ideas are a bit more complex, but they do not deviate far from the sentence above. The technical terms we use for these ideas are:
 
->_MATERIALISM_ (SUBSTANTIALISM): On this view, there is only the (physical) world. The world of space and time is filled with combinations of _substance_ (mass/energy; usually thought of as atomistic spheres, or _corpuscles_). There is no perception (since it is _immaterial_). If you think that you perceive something, what really happens is that you _behave_ or _function_ according to what you call  perception (which is why this view is related to radical forms of _BEHAVIORISM_ and _FUNCTIONALISM_). You thinking that you perceive things beyond behaving and functioning according to physics, is _illusory_. You _believe_ you perceive, say the color "red", but that is a false belief. You just act as if you do. Some proponents of this view prefer the term "physicalism" to demonstrate that they agree with modern physics in that "mass" is not a substance in the sense of "matter" (modern physics describes mass as "an interaction" between the immaterial Higgs field and other immaterial quantum fields - but you do not need to worry that you need to know about all of this).  
+>_MATERIALISM_ (SUBSTANTIALISM): On this view, there is only the (physical) world. The world of space and time is filled with combinations of _substance_ (mass/energy; usually thought of as atomistic spheres, or _corpuscles_). There is no perception (since it is _immaterial_). If you think that you perceive something, what really happens is that you _behave_ or _function_ according to what you call "perception" (which is why this view is related to radical forms of _BEHAVIORISM_ and _FUNCTIONALISM_). You thinking that you perceive things beyond behaving and functioning according to physics, is _illusory_. You _believe_ you perceive, say the color "red", but that is a false belief. You just act as if you do. Some proponents of this view prefer the term "physicalism" to demonstrate that they agree with modern physics in that "mass" is not a substance in the sense of "matter" (modern physics describes mass as "an interaction" between the immaterial Higgs field and other immaterial quantum fields - but you do not need to worry that you need to know about all of this).  
 
 The opposing view is:  
 
@@ -675,9 +675,9 @@ Another possible solution is that there really are two different things: a world
 
 There is also:
 
->ASPECT DUALISM: This idea takes a bit of a middle ground. It does assume that there "really" only is one thing, and thus subscribes to monism. However, it suggests that one and the same thing can have different aspects, or properties when viewed from different percectives - somewhat like a coin can look very different if one only looks at heads or tails. Aspect dualism assumes that there is a real world that may well be physical, but that our perception is what some physical systems, like our brains, _are like_ from the "inside". This view explains why brain damage can affect perception since they are just "two sides of the same coin".  
+>ASPECT DUALISM: This idea takes a bit of a middle ground. It does assume that there "really" only is one thing, and thus subscribes to monism. However, it suggests that one and the same thing can have different aspects, or properties when viewed from different perspectives - somewhat like a coin can look very different if one only looks at heads or tails. Aspect dualism assumes that there is a real world that may well be physical, but that our perception is what some physical systems, like our brains, _are like_ from the "inside". This view explains why brain damage can affect perception since they are just "two sides of the same coin".  
 
-There are many more ideas on that problem, some of which cannot neatly be placed within the taxonomy above. However, these cateogories provide a somewhat sufficient survey of the field since most ideas come close to, or combine, these distinct schools of thought. To give you an example, some scholars will state that they are "_REDUCTIONIST PHYSICALIST_", for example. A popular version of this view is that "there is only the physical universe" and that perception "emerges" from some physical system in a way that can be explained by physical laws. Note, how this notion comes close to our option of _ASPECT DUALISM_.
+There are many more ideas on that problem, some of which cannot neatly be placed within the taxonomy above. However, these categories provide a somewhat sufficient survey of the field since most ideas come close to, or combine, these distinct schools of thought. To give you an example, some scholars will state that they are "_REDUCTIONIST PHYSICALIST_", for example. A popular version of this view is that "there is only the physical universe" and that perception "emerges" from some physical system in a way that can be explained by physical laws. Note, how this notion comes close to our option of _ASPECT DUALISM_.
 
 % A Graveyard of Isms
 :::{div}
@@ -688,7 +688,7 @@ There are many more ideas on that problem, some of which cannot neatly be placed
 :alt: Isms
 :width: 80%
 
-A simplified logical space of possible views regarding conscious perception and the material (physical) world. Note that not every Philosopher of Science would agree with this taxonomy and that there are many more suggested solutions. However, when thinking about the problem in broad-strokes, disallowing for nuance, excemptions, and complications, there is a limited set of possibilities regarding if one or both exists, and how they may relate causally.
+A simplified logical space of possible views regarding conscious perception and the material (physical) world. Note that not every Philosopher of Science would agree with this taxonomy and that there are many more suggested solutions. However, when thinking about the problem in broad-strokes, disallowing for nuance, exemptions, and complications, there is a limited set of possibilities regarding if one or both exists, and how they may relate causally.
 :::  
 
 :::{div}
@@ -699,14 +699,14 @@ A simplified logical space of possible views regarding conscious perception and 
 :alt: Isms
 :width: 80%
 
-A simplified logical space of possible views regarding conscious perception and the material (physical) world. Note that not every Philosopher of Science would agree with this taxonomy and that there are many more suggested solutions. However, when thinking about the problem in broad-strokes, disallowing for nuance, excemptions, and complications, there is a limited set of possibilities regarding if one or both exists, and how they may relate causally.
+A simplified logical space of possible views regarding conscious perception and the material (physical) world. Note that not every Philosopher of Science would agree with this taxonomy and that there are many more suggested solutions. However, when thinking about the problem in broad-strokes, disallowing for nuance, exemptions, and complications, there is a limited set of possibilities regarding if one or both exists, and how they may relate causally.
 :::  
 
 :::{admonition} QUESTION
 WHICH OF THESE IDEAS BEST DESCRIBE YOUR OWN VIEW? WHY DO YOU DISMISS THE OTHER VIEWS?
 :::
 
-For the purpose of this course, we will adopt a somewhat neutral dualistic stance. That is, we will base our knowledge about the world on the natural sciences such as physics, chemistry, and biology. At the same time, we will treat perception as a real phenomenon that goes beyond its behavioral or functional corrolaries. At the end of the semester, we will re-examine this view, and discuss how what we learned can also be applied to other views. As we will see, the scientific knowledge that we will gain will end up as largely compatible with _most_, if not all, of these views. At the same time, you will have learned new facts and logical insights that pose challenges to each of these views, thus making it even more interesting to ponder about their validity.
+For the purpose of this course, we will adopt a somewhat neutral dualistic stance. That is, we will base our knowledge about the world on the natural sciences such as physics, chemistry, and biology. At the same time, we will treat perception as a real phenomenon that goes beyond its behavioral or functional corollaries. At the end of the semester, we will re-examine this view, and discuss how what we learned can also be applied to other views. As we will see, the scientific knowledge that we will gain will end up as largely compatible with _most_, if not all, of these views. At the same time, you will have learned new facts and logical insights that pose challenges to each of these views, thus making it even more interesting to ponder about their validity.
 
 ---
 
@@ -721,7 +721,7 @@ Why science? And what is science, exactly? Let us examine this before reviewing 
 
 ### Radical Doubt
 
-Why should we spend time learning about science? is there a reason to put more trust in science than in other explanations of the world? Let's go to the extreme and apply these questions to _everything_. Let us first take on a stance of radical distrust, or doubt.  
+Why should we spend time learning about science? Don't we know already? Is there a reason to put more trust in science than in other explanations of the world? Let's go to the extreme and apply these questions to _everything_. Let us first take on a stance of radical distrust, or doubt.  
 
 This is an interesting exercise, really. If we apply doubt to everything we know - when we question: "How do I know that really? Can I be really sure of that?", we find that there is good reason to doubt almost everything we believe.
 
@@ -729,7 +729,7 @@ It seems extremely challenging to rule out, for example, that we live inside a c
 
 Does that mean that such radical doubt leaves us with zero certainty? Is everything we believe potentially completely wrong?
 
-Thinkers across the millenia have struggled with this issue. One of them, René Descartes, proposes an interesting answer: No matter how much you doubt, you cannot doubt away that there is _something_. This something is your perception (technically, Descartes argued that there is thought - but we made the case above that us having a thought could be seen as us perceiving that thought). You can doubt that your perception is accurate (it could be part of a computer simulation after all). But the fact that _there is something_ that remains stubbornly when you question _everything_ seems immune to all criticism, attempts of elimination, and radical doubt.  
+Thinkers across the millennia have struggled with this issue. One of them, René Descartes, proposes an interesting answer: No matter how much you doubt, you cannot doubt away that there is _something_. This something is your perception (technically, Descartes argued that there is thought - but we made the case above that us having a thought could be seen as us perceiving that thought). You can doubt that your perception is accurate (it could be part of a computer simulation after all). But the fact that _there is something_ that remains stubbornly when you question _everything_ seems immune to all criticism, attempts of elimination, and radical doubt.  
 
 Or, to paraphrase Philip K. Dick:
 
@@ -739,9 +739,9 @@ Or, to paraphrase Philip K. Dick:
 
 Here we see why perception is an interesting phenomenon. The existence of perception - the colors that you see right now seem indubitable - while everything else (including what your perception is about) seems to be questionable.
 
-Let us take a moment and appreciate this argument. Descartes tells us that radical doubt - doubting _everything_ - does not result in us finding out that "we know that we do not know anything". Instead, we seem to find _something_ (argubaly perception itself) that survives this radical intellectual exercise. This seems like good news. We might have found a satisfying solution to Agrippa's Trilemma by finding some sense of certainty in making a fundamental assumption: **your conscious experience exists**. Its exists _resists_ doubt (it is _indubitable_).  
+Let us take a moment and appreciate this argument. Descartes tells us that radical doubt - doubting _everything_ - does not result in us finding out that "we know that we do not know anything". Instead, we seem to find _something_ (arguably perception itself) that survives this radical intellectual exercise. This seems like good news. We might have found a satisfying solution to Agrippa's Trilemma by finding some sense of certainty in making a fundamental assumption: **your conscious experience exists**. Its exists _resists_ doubt (it is _indubitable_).  
 
-And there is a deeper corollary in that realization: Things are **not arbitrary**. We cannot just think our conscious experience away. It is given to us, and it is given to us in a certain way (a structured way, as we will see) that we do not have influence over. For example, no matter how hard you try, you cannot achieve 360 degree vision around your head. And this will be the case for your entire lifetime, _What_ you see constantly changes, but a large part of _how_ you see it, such as only what is in front of you, stays fixed. So, not only does _something_ exist, but it comes with _uinversal_ abstract laws, order, structure - beyond our ability to change. These abstract laws exist in tandem with the existence of your conscious experience. This will be important as we explore how to do a science of perception, which requires us to ponder the possibility of a mathematics of consciousness. Since _mathematics is about non-arbitrariness_. And keeping in mind that we established that our conscious is non-arbitrary helps solve potential confusion about where mathematical abstract rules might find their origin, as well as the bigger question as to whether they are just "labels" we come up with or find grounding in what undoubtedly exists.
+And there is a deeper corollary in that realization: Things are **not arbitrary**. We cannot just think our conscious experience away. It is given to us, and it is given to us in a certain way (a structured way, as we will see) that we do not have influence over. For example, no matter how hard you try, you cannot achieve 360 degree vision around your head. And this will be the case for your entire lifetime, _What_ you see constantly changes, but a large part of _how_ you see it, such as only what is in front of you, stays fixed. So, not only does _something_ exist, but it comes with _universal_ abstract laws, order, structure - beyond our ability to change. These abstract laws exist in tandem with the existence of your conscious experience. This will be important as we explore how to do a science of perception, which requires us to ponder the possibility of a mathematics of consciousness. Since _mathematics is about non-arbitrariness_. And keeping in mind that we established that our conscious is non-arbitrary helps solve potential confusion about where mathematical abstract rules might find their origin, as well as the bigger question whether they are just "labels" we come up with or find grounding in what undoubtedly exists.
 
 But where do we go from there?
 
@@ -753,9 +753,9 @@ Talking in broad strokes, the next step is _science_. In fact, we already are en
 >
 > -- L. Wittgenstein
 
-One step we took from doubt to observation and thought (about our observation) is that we snuck in, well, thought. And not any kind of thought, to be precise, but reasoned thought. After all, unreasonable nonsense, such as "Banana jumps pengiun leads to glory" does not seem to be helpful or get us very far in working our way out of radical doubt.  
+One step we took from doubt to observation and thought (about our observation) is that we snuck in, well, thought. And not any kind of thought, to be precise, but reasoned thought. After all, unreasonable nonsense, such as "Banana jumps penguin leads to glory" does not seem to be helpful or get us very far in working our way out of radical doubt.  
 
-But what is that, reasoning? This is another long-pondered question and it found its answer in _logic_.
+But what is that, reasoning? This is another long-pondered question, and it found its answer in _logic_.
 
 Now, you might be aware that you can take classes in logic that last a semester or more. And indeed there is much to say (since much has been found out) about what logic is (technically: a system of formal relations) and what it entails. After all, it is what computers do - they are just logic machines. But one of the most surprising results of all this study is that there is a surprising simplicity at the heart of logic. That simplicity lies in the fact that there are very few laws that we need to explain the _structure_ of logic.  
 
