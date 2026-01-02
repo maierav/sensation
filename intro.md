@@ -8,8 +8,9 @@ This Jupyter book provides an open source, opinionated[^1], principled, and stru
 
 Throughout the book, pop-up boxes aim at providing moments for pause and reflection. Together with the  at times deliberatively provocative or humorous presentation of some ideas and concepts, these exercises are meant to stimulate deeper engagement. In other words, this book is not just meant to be read, but to be interacted with. Research suggests that the result is not just better memorization, but a more profound creation of knowledge by relating new information with what the reader already knows.  
 
-    The use, not the reading, of books makes us wise.
-    G. Whitney
+> The use, not the reading, of books makes us wise.  
+>
+> -- G. Whitney
 
 % Teaching Philosophy
 :::{figure} ./images/meme.png
