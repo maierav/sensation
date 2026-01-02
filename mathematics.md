@@ -37,7 +37,7 @@ To put it a bit more high brow: We will focus less on _mathematics_, the _human_
 Ask yourself: How does the logarithm relate to addition?
 :::
 
-:::{highlight}
+:::{tip}
 :class: dropdown
 There is a simple, fascinating, and structurally deep relation between these two operations that are conventionally taught in a somewhat isolated, successive manner. Grasping this relation might be a more intuitive, easier to understand and appreciate, manner of getting familiar with logarithms. And logarithms are a key step to understand the (neuro)science of perception.
 :::
