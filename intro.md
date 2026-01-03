@@ -755,7 +755,7 @@ Or, to paraphrase Philip K. Dick:
 
 So, when it comes to experience, we seem forced to accept that it _exists_. Doubting everything does not end in question, but in a certain degree of certainty about (our conscious) existence. At least when it comes to our conscious experience in this current moment, _to be, or not to be?_ is not an open question. We can find a clear answer.  
 
-Here we see why perception is an interesting phenomenon. The existence of perception - the colors that you see right seem indubitable - while everything else (including what your perception is about) seems to be questionable.
+Now we see why perception is an interesting phenomenon. The existence of perception - the colors that you see right seem indubitable - while everything else (including what your perception is about) seems to be questionable.
 
 Let us take a moment and appreciate this argument. Descartes tells us that radical doubt - doubting _everything_ - does not result in us finding out that "we know that we do not know anything". Instead, we seem to find _something_ (arguably perception itself) that survives this radical intellectual exercise. This seems like good news. We might have found a satisfying solution to Agrippa's Trilemma by finding some sense of certainty in making a fundamental assumption: **your conscious experience exists**. Its exists _resists_ doubt (it is _indubitable_).  
 
