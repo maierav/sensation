@@ -753,7 +753,7 @@ Plotting exponentially increasing data on a semilog and a loglog scale.[^12]
 :::{div}
 :class: dark:hidden
 
-:::{figure} ./images/logscale.png
+:::{figure} ./images/logscale.jpg
 :label: fig:logscale
 :width: 70%
 Plotting exponentially increasing data on a semilog and a loglog scale.[^12]
