@@ -659,7 +659,29 @@ How the pairwise operations of arithmetic relate.
 
 And now we are almost done. As you will see in the next chapter, there is a good reason that we slowly built up to an understanding what a logarithm is by using simple addition as our starting point. Logarithms _rule_ much of our perception. So, it is good to know that all that really is - a logarithm of a number - boils down to an _exponent_, another number (that yet another number, the base, has to be raised by to produce the number that we started out with). It is just the inverse of exponentiation, which itself is just iterated multiplication (which is iterated addition) - if we limit ourselves to natural numbers.  
 
-This can be a helpful realization since logarithms result in curved graphs (functions), which are a bit more challenging to intuit than simple lines. But is exactly this property that makes logarithms interesting and powerful.  
+### COORDINATES
+
+We started our discussion of mathematics with the study of structure in the form of geometry (Euclid). We then proceeded to examine set theoretic foundations that give rise to numerical mathematics in the form of arithmetic. We also hinted early on at the fact that these two fields of mathematics are not entirely separate, but can be unified. Historically speaking, it was **analytic geometry** that accomplished this feat. You are already familiar with much of it.  
+
+The basic idea is that of a **coordinate system** and thus most of the figures and graphs that represent data make use of this unification in mathematics. There are many such graphs that we will need to make use of as we explore the neuroscience of sensation and perception. Accordingly, we will briefly go over the basics here again. Not only to complete our exploration of basic mathematics (and to ensure that we covered the monumental achievement of unifying the two biggest and oldest branches of math), but also to ensure that nothing gets missed in interpreting the various figures and graphs that we will encounter from here on out.  
+
+We already mentioned René Descartes several times.  
+
+Descartes needs to be mentioned when discussing the _homunculus problem_. The notion that your sense organs deliver information to some kind of convergence point inside your brain, where sight, sound and all other sensory signals unite, goes back to him and thus often is referred to as a _Cartesian Theater_.  
+
+We also encountered Descartes when we pondered what happens when we doubt everything we believe to know (_radical doubt_). Descartes argued that something survives this process, some kind of existence, or being that cannot be doubted away. This idea is encapsulated in his famous **_cogito, ergo sum_**, even though this identifies "thought" (rather than experience, or consciousness) as that which survives doubt, and concluded that this means that the _thinker_ exists without doubt.
+
+We then encountered Descartes again when we discussed how mind and the world relate. Descartes thought that our mind has no physical substance (he argued it has no spatial extent), while the physical world consists of things that take up or make up spatial extent. This distinction between mind (and hence conscious experience) and the physical world is credited to him as the _Cartesian Cut_. And notions of a clear separation between conscious mind and the physical world is referred to as _Cartesian Dualism_.
+
+These intellectual contributions of Descartes have all withstood the test of time. However, it could be argued that his most impactful intellectual contribution is less well known - or at least, less well known to be of his making as well. This contribution is not in philosophy, but mathematics (though, Descartes might not have seen philosophy and mathematics as separate disciplines, as we tend to today). We still pay credit to these contributions using terms, such as "Cartesian coordinates", and "Cartesian product". In fact, Descartes was first in doing both, inventing the modern notation used in **algebra**, where we use Latin letters to denote known and variable quantities. In doing so, he also came up with the modern notation of exponentiation by _raising_ a number over another. But, the most important new idea was that of the **coordinate system**.  
+
+We already introduced in passing the notion of placing numbers in a line (the **number line**) - though we carefully kept the number systems we encountered so far discrete. You probably encountered the number line early on in your math education as well. Typically, we think of the number line as having 0 at its center, with the left side extending to negative infinity, and the right side extending to positive infinity.  
+
+Descartes' idea boils down to adding a second number line ***orthogonal** (perpendicular, or at a right angle) so that both lines share 0 as a common origin. We all are so familiar with the resulting plane using an _x_-axis and _y_-axis that it can be challenging to think about how radical and revolutionary this idea must have been. The surprising effect of this technique is that we now can describe _geometric_ objects, such as triangles, using _numbers_, such as by writing down the _x_- and _y_-coordinates of all three of their corners (vertices).  
+
+### SCIENTIFIC GRAPHS
+
+Putting everything we discussed so far, we need to revisit logarithms again. Logarithms result in curved graphs (functions), which are a bit more challenging to intuit than simple lines. But is exactly this property that makes logarithms interesting and powerful.  
 
 % Log
 :::{div}
