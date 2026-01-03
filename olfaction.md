@@ -157,7 +157,7 @@ the olfactory bulb.[^6]
 :label: fig: olfactory_bulb
 :width: 50%
 
-the olfactory bulb.[^6]
+the olfactory bulbs and the olfactory tract.[^6]
 
 :::
 
