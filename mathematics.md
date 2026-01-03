@@ -736,3 +736,28 @@ A slide rule in space.[^11]
 [^11]: [public domain source](https://en.wikipedia.org/wiki/File:Buzz_and_his_pipe.jpg)
 
 As we will see in the next chapter, discoverig a role for logarithms in perception science thus was especially exciting for the scientists at that time.  
+
+Another reason why logarithms will reappear throughout our studies is that they are useful for making sense of data when we plot them and inspect them visually. In particular, using a _logarithmic scale_ for the _x_- or _y_-axis (or both) when plotting data that follows exponential laws, the result becomes much esier to inspect and interpet. This happens frequently in science and engineering, including several chapters of this book. 
+
+% Log Scale
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/logscale_dark.png
+:label: fig:logscale
+:width: 60%
+Plotting exponentially increasing data on a semilog and a loglog scale.[^12]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/logscale.png
+:label: fig:logscale
+:width: 60%
+Plotting exponentially increasing data on a semilog and a loglog scale.[^12]
+
+:::
+
+[^12]: [public domain source](https://commons.wikimedia.org/wiki/File:Julia_log1.jpg)
