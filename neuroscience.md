@@ -88,7 +88,8 @@ This conclusion leads us to an appreciation of **neuroanatomy** - the study of n
 
 #### Brain
 
-> Brain, noun. An apparatus with which we think that we think.
+> Brain, noun.  
+> An apparatus with which we think that we think.
 >
 > -- A. Bierce (1911): 'The Devil's Dictionary'
 
