@@ -97,7 +97,9 @@ To put it a bit more high brow: We will focus less on _mathematics_, the _human_
 :::{tip}
 Even is you already feel quite familiar, or well-versed, with the topics of this chapter (starting with basic arithmetic and leading up to logarithms), you are well advised to nonetheless read along.  
 
-In fact, much of what follows assumes that you already know what, say, addition is. The emphasis is elsewhere - seeing addition in a "new light". As with much of the rest of this book, the goal is to detect _casual thought_ about what we deem "commonplace", and scrutinize our ideas upon deeper reflection and broader context.  
+In fact, much of what follows assumes that you already know what, say, addition is. The emphasis is elsewhere - re-examining what we have been taught in order to fill any possible gaps.  
+
+As with much of the rest of this book, the goal is to detect _casual thought_, and scrutinize all associated ideas in the light of deeper reflection and broader context.  
 :::
 
 :::{admonition} ❓ Question
