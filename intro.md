@@ -745,15 +745,13 @@ It seems extremely challenging to rule out, for example, that we live inside a c
 
 Does that mean that such radical doubt leaves us with zero certainty? Is everything we believe potentially completely wrong?
 
-Thinkers across the millennia have struggled with this issue. One of them, René Descartes, proposes an interesting answer: No matter how much you doubt, you cannot doubt away that there is _something_. This something is your perception (technically, Descartes argued that there is thought - but we made the case above that us having a thought could be seen as us perceiving that thought). You can doubt that your perception is accurate (it could be part of a computer simulation after all). But the fact that _there is something_ that remains stubbornly when you question _everything_ seems immune to all criticism, attempts of elimination, and radical doubt.  
-
-When it comes to experience, we seem forced to accept that it _exists_. Doubting everything does not end in question then, but in a certain degree of certainty about (our conscious) existence. At least when it comes to our consciousness in this current moment, _to be, or not to be?_ is not an open question. We can find a clear answer.  
-
-Or, to paraphrase Philip K. Dick:
+Thinkers across the millennia have struggled with this issue. One of them, René Descartes, proposes an interesting answer: No matter how much you doubt, you cannot doubt away that there is _something_. This something is your perception (technically, Descartes argued that there is thought - but we made the case above that us having a thought could be seen as us perceiving that thought). You can doubt that your perception is accurate (it could be part of a computer simulation after all). But the fact that _there is something_ that remains stubbornly when you question _everything_ seems immune to all criticism, attempts of elimination, and radical doubt. Or, to paraphrase Philip K. Dick:
 
     Conscious experience is 
     that which does not go away
     when you stop believing in it.
+
+When it comes to experience, we seem forced to accept that it _exists_. Doubting everything does not end in question then, but in a certain degree of certainty about (our conscious) existence. At least when it comes to our consciousness in this current moment, _to be, or not to be?_ is not an open question. We can find a clear answer.  
 
 Here we see why perception is an interesting phenomenon. The existence of perception - the colors that you see right seem indubitable - while everything else (including what your perception is about) seems to be questionable.
 
