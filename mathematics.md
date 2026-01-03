@@ -761,7 +761,7 @@ Putting everything we discussed so far, we need to revisit logarithms again. Log
 :::{figure} ./images/log_dark.gif
 :label: fig:exp_log
 :width: 40%
-Logarithmic curve as inverse of an exponential function.[^8]
+Logarithmic curve as inverse of an exponential function.[^11]
 
 :::
 
@@ -771,11 +771,11 @@ Logarithmic curve as inverse of an exponential function.[^8]
 :::{figure} ./images/log.gif
 :label: fig:exp_log
 :width: 40%
-Logarithmic curve as inverse of an exponential function.[^8]
+Logarithmic curve as inverse of an exponential function.[^11]
 
 :::
 
-[^8]: [public domain source](https://commons.wikimedia.org/wiki/File:Function-log-animation.gif)
+[^11]: [public domain source](https://commons.wikimedia.org/wiki/File:Function-log-animation.gif)
 
 We already established that when it comes to mental _calculation_, and multiplication in particular, we tend to struggle with large numbers. Logarithms come in handy in that they transform the multiplication of two very large numbers into simple addition. That is, if we know the logarithms (to the same base) of two large numbers, we can calculate (the logarithm of) their product by just adding the two logarithms:  
 
@@ -792,7 +792,7 @@ $$
 :::{figure} ./images/slide_rule_dark.png
 :label: fig:slide_rule
 :width: 60%
-A slide rule uses logarithms to multiply large numbers via addition.[^9]
+A slide rule uses logarithms to multiply large numbers via addition.[^12]
 
 :::
 
@@ -802,11 +802,11 @@ A slide rule uses logarithms to multiply large numbers via addition.[^9]
 :::{figure} ./images/slide_rule.png
 :label: fig:slide_rule
 :width: 60%
-A slide rule uses logarithms to multiply large numbers via addition.[^9]
+A slide rule uses logarithms to multiply large numbers via addition.[^12]
 
 :::
 
-[^9]: [public domain source](https://commons.wikimedia.org/wiki/File:Slide_Rule_(PSF).png)
+[^12]: [public domain source](https://commons.wikimedia.org/wiki/File:Slide_Rule_(PSF).png)
 
 In practice, this means that if we have a long list, or table, of logarithms, we can quickly multiply two large numbers by converting them back-and-forth into their logarithms.  
 
@@ -817,7 +817,7 @@ In practice, this means that if we have a long list, or table, of logarithms, we
 :::{figure} ./images/slide_rule_function_dark.png
 :label: fig:slide_rule_function
 :width: 60%
-A slide rule uses logarithms to multiply large numbers via addition.[^10]
+A slide rule uses logarithms to multiply large numbers via addition.[^13]
 
 :::
 
@@ -827,11 +827,11 @@ A slide rule uses logarithms to multiply large numbers via addition.[^10]
 :::{figure} ./images/slide_rule_function.png
 :label: fig:slide_rule_function
 :width: 60%
-A slide rule uses logarithms to multiply large numbers via addition.[^10]
+A slide rule uses logarithms to multiply large numbers via addition.[^13]
 
 :::
 
-[^10]: [public domain source](https://commons.wikimedia.org/wiki/File:Multiplication_slide_rule2.jpg)
+[^13]: [public domain source](https://commons.wikimedia.org/wiki/File:Multiplication_slide_rule2.jpg)
 
 You might find that unimpressive, but before we all had easy access to powerful electric calculators or computers, this technique was key for scientists and engineers alike. In fact, using this technique (applied to _slide rules_) was still common when **NASA** developed the rockets used for the **Apollo** moon landing program.  
 
@@ -839,10 +839,10 @@ You might find that unimpressive, but before we all had easy access to powerful 
 :::{figure} ./images/NASA.png
 :label: fig:NASA
 :width: 60%
-A slide rule in space.[^11]
+A slide rule in space.[^14]
 :::
 
-[^11]: [public domain source](https://en.wikipedia.org/wiki/File:Buzz_and_his_pipe.jpg)
+[^14]: [public domain source](https://en.wikipedia.org/wiki/File:Buzz_and_his_pipe.jpg)
 
 As we will see in the next chapter, discoverig a role for logarithms in perception science thus was especially exciting for the scientists at that time.  
 
@@ -855,7 +855,7 @@ Another reason why logarithms will reappear throughout our studies is that they 
 :::{figure} ./images/logscale_dark.png
 :label: fig:logscale
 :width: 70%
-Plotting exponentially increasing data on a semilog and a loglog scale.[^12]
+Plotting exponentially increasing data on a semilog and a loglog scale.[^15]
 
 :::
 
@@ -865,11 +865,11 @@ Plotting exponentially increasing data on a semilog and a loglog scale.[^12]
 :::{figure} ./images/logscale.jpg
 :label: fig:logscale
 :width: 70%
-Plotting exponentially increasing data on a semilog and a loglog scale.[^12]
+Plotting exponentially increasing data on a semilog and a loglog scale.[^15]
 
 :::
 
-[^12]: [public domain source](https://commons.wikimedia.org/wiki/File:Julia_log1.jpg)
+[^15]: [public domain source](https://commons.wikimedia.org/wiki/File:Julia_log1.jpg)
 
 Here is an example of how a _semilog_ representation of the same data can be helpful.
 
@@ -880,7 +880,7 @@ Here is an example of how a _semilog_ representation of the same data can be hel
 :::{figure} ./images/semilog_dark.png
 :label: fig:semilog
 :width: 60%
-A semilog plot.[^13]
+A semilog plot.[^16]
 
 :::
 
@@ -890,8 +890,8 @@ A semilog plot.[^13]
 :::{figure} ./images/semilog.png
 :label: fig:semilog
 :width: 60%
-A semilog plot.[^13]
+A semilog plot.[^16]
 
 :::
 
-[^13]: [public domain source](https://commons.wikimedia.org/wiki/File:Wind_generation-with_semilog_plot.png)
+[^16]: [public domain source](https://commons.wikimedia.org/wiki/File:Wind_generation-with_semilog_plot.png)
