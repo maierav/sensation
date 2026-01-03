@@ -681,9 +681,9 @@ We already introduced in passing the notion of placing numbers in a line (the **
 :::{div}
 :class: hidden dark:block
 
-:::{figure} ./images/coordinates_dark.png
+:::{figure} ./images/variable_dark.png
 :label: fig:algebra_number_line
-:width: 60%
+:width: 50%
 The number line the variable _x_.[^8]
 
 :::
@@ -691,16 +691,16 @@ The number line the variable _x_.[^8]
 :::{div}
 :class: dark:hidden
 
-:::{figure} ./images/coordinates.png
+:::{figure} ./images/variable.png
 :label: fig:algebra_number_line
-:width: 60%
+:width: 50%
 The number line the variable _x_.[^8]
 
 :::
 
 [^8]: [public domain source](https://commons.wikimedia.org/wiki/File:1D_Cartesian.svg)
 
-Descartes' idea boils down to adding a second number line ***orthogonal** (perpendicular, or at a right angle) so that both lines share 0 as a common origin.  
+Descartes' idea boils down to adding a second number line **orthogonal** (perpendicular, or at a right angle) so that both lines share 0 as a common origin.  
 
 % Cartesian Grid
 :::{div}
@@ -708,7 +708,7 @@ Descartes' idea boils down to adding a second number line ***orthogonal** (perpe
 
 :::{figure} ./images/Cartesian_dark.png
 :label: fig:Cartesian
-:width: 60%
+:width: 40%
 A Cartesian coordinate system.[^9]
 
 :::
@@ -718,7 +718,7 @@ A Cartesian coordinate system.[^9]
 
 :::{figure} ./images/Cartesian.png
 :label: fig:Cartesian
-:width: 60%
+:width: 40%
 A Cartesian coordinate system.[^9]
 
 :::
@@ -733,7 +733,7 @@ We all are so familiar with the resulting plane using an _x_-axis and _y_-axis t
 
 :::{figure} ./images/Cartesian_xy_dark.png
 :label: fig:Cartesian
-:width: 60%
+:width: 40%
 Cartesian coordinates.[^10]
 
 :::
@@ -743,7 +743,7 @@ Cartesian coordinates.[^10]
 
 :::{figure} ./images/Cartesian_xy.png
 :label: fig:Cartesian
-:width: 60%
+:width: 40%
 Cartesian coordinates.[^10]
 
 :::
