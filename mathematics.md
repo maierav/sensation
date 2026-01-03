@@ -761,3 +761,28 @@ Plotting exponentially increasing data on a semilog and a loglog scale.[^12]
 :::
 
 [^12]: [public domain source](https://commons.wikimedia.org/wiki/File:Julia_log1.jpg)
+
+Here is an example of how a _semilog_ representation of the same data can be helpful.
+
+% Semilog
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/lsemilog_dark.png
+:label: fig:semilog
+:width: 60%
+A semilog plot.[^13]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/lsemilog_dark.png
+:label: fig:semilog
+:width: 60%
+A semilog plot.[^13]
+
+:::
+
+[^13]: [public domain source](https://commons.wikimedia.org/wiki/File:Wind_generation-with_semilog_plot.png)
