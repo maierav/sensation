@@ -28,7 +28,7 @@ We thus will look at much about what learned about mathematics which an eye on: 
 :label: fig:cardioid_construction
 :width: 30%
 
-Geometric construction of a **cardioid** (red) - a heart-shaped object that by itself does not seem very interesting. This can be taught, and seen, as a random mathematical fact. But there is more. Keep reading.[^2]
+Geometric construction of a **cardioid** (green) - a heart-shaped object that by itself does not seem very interesting. This can be taught, and seen, as a random mathematical fact. But there is more. Keep reading.[^2]
 :::
 
 :::{div}
