@@ -747,13 +747,15 @@ Does that mean that such radical doubt leaves us with zero certainty? Is everyth
 
 Thinkers across the millennia have struggled with this issue. One of them, René Descartes, proposes an interesting answer: No matter how much you doubt, you cannot doubt away that there is _something_. This something is your perception (technically, Descartes argued that there is thought - but we made the case above that us having a thought could be seen as us perceiving that thought). You can doubt that your perception is accurate (it could be part of a computer simulation after all). But the fact that _there is something_ that remains stubbornly when you question _everything_ seems immune to all criticism, attempts of elimination, and radical doubt.  
 
+When it comes to experience, we seem forced to accept that it _exists_. Doubting everything does not end in question then, but in a certain degree of certainty about (our conscious) existence. At least when it comes to our consciousness, _to be, or not to be?_ is not a valid question. Or at least there seems a clear answer.  
+
 Or, to paraphrase Philip K. Dick:
 
     Conscious experience is 
     that which does not go away
     when you stop believing in it.
 
-Here we see why perception is an interesting phenomenon. The existence of perception - the colors that you see right now seem indubitable - while everything else (including what your perception is about) seems to be questionable.
+Here we see why perception is an interesting phenomenon. The existence of perception - the colors that you see right seem indubitable - while everything else (including what your perception is about) seems to be questionable.
 
 Let us take a moment and appreciate this argument. Descartes tells us that radical doubt - doubting _everything_ - does not result in us finding out that "we know that we do not know anything". Instead, we seem to find _something_ (arguably perception itself) that survives this radical intellectual exercise. This seems like good news. We might have found a satisfying solution to Agrippa's Trilemma by finding some sense of certainty in making a fundamental assumption: **your conscious experience exists**. Its exists _resists_ doubt (it is _indubitable_).  
 
