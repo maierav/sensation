@@ -691,7 +691,7 @@ The number line the variable _x_.[^8]
 :::{div}
 :class: dark:hidden
 
-:::{figure} ./images/coordinates_dark.png
+:::{figure} ./images/coordinates.png
 :label: fig:algebra_number_line
 :width: 60%
 The number line the variable _x_.[^8]
@@ -716,7 +716,7 @@ A Cartesian coordinate system.[^9]
 :::{div}
 :class: dark:hidden
 
-:::{figure} ./images/Cartesian_dark.png
+:::{figure} ./images/Cartesian.png
 :label: fig:Cartesian
 :width: 60%
 A Cartesian coordinate system.[^9]
@@ -726,6 +726,29 @@ A Cartesian coordinate system.[^9]
 [^9]: [public domain source](https://commons.wikimedia.org/wiki/File:1D_Cartesian.svg)
 
 We all are so familiar with the resulting plane using an _x_-axis and _y_-axis that it can be challenging to think about how radical and revolutionary this idea must have been. The surprising effect of this technique is that we now can describe _geometric_ objects, such as triangles, using _numbers_, such as by writing down the _x_- and _y_-coordinates of all three of their corners (vertices).  
+
+% Cartesian Coordinates
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/Cartesian_xy_dark.png
+:label: fig:Cartesian
+:width: 60%
+Cartesian coordinates.[^10]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/Cartesian_xy.png
+:label: fig:Cartesian
+:width: 60%
+Cartesian coordinates.[^10]
+
+:::
+
+[^10]: [public domain source](https://commons.wikimedia.org/wiki/File:1D_Cartesian.svg)
 
 ### SCIENTIFIC GRAPHS
 
