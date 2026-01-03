@@ -726,4 +726,13 @@ A slide rule uses logarithms to multiply large numbers via addition.[^10]
 
 You might find that unimpressive, but before we all had easy access to powerful electric calculators or computers, this technique was key for scientists and engineers alike. In fact, using this technique (applied to _slide rules_) was still common when **NASA** developed the rockets used for the **Apollo** moon landing program.  
 
+% NASA
+:::{figure} ./images/NASA.png
+:label: fig:NASA
+:width: 60%
+A slide rule in space.[^11]
+:::
+
+[^11]: [public domain source](https://en.wikipedia.org/wiki/File:Buzz_and_his_pipe.jpg)
+
 As we will see in the next chapter, discoverig a role for logarithms in perception science thus was especially exciting for the scientists at that time.  
