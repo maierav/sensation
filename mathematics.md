@@ -659,7 +659,7 @@ How the pairwise operations of arithmetic relate.
 
 And now we are almost done. As you will see in the next chapter, there is a good reason that we slowly built up to an understanding what a logarithm is by using simple addition as our starting point. Logarithms _rule_ much of our perception. So, it is good to know that all that really is - a logarithm of a number - boils down to an _exponent_, another number (that yet another number, the base, has to be raised by to produce the number that we started out with). It is just the inverse of exponentiation, which itself is just iterated multiplication (which is iterated addition) - if we limit ourselves to natural numbers.  
 
-### COORDINATES
+## COORDINATES
 
 We started our discussion of mathematics with the study of structure in the form of geometry (Euclid). We then proceeded to examine set theoretic foundations that give rise to numerical mathematics in the form of arithmetic. We also hinted early on at the fact that these two fields of mathematics are not entirely separate, but can be unified. Historically speaking, it was **analytic geometry** that accomplished this feat. You are already familiar with much of it.  
 
@@ -750,7 +750,7 @@ Cartesian coordinates.[^10]
 
 [^10]: [public domain source](https://commons.wikimedia.org/wiki/File:1D_Cartesian.svg)
 
-### SCIENTIFIC GRAPHS
+## PLOTS
 
 Putting everything we discussed so far, we need to revisit logarithms again. Logarithms result in curved graphs (functions), which are a bit more challenging to intuit than simple lines. But is exactly this property that makes logarithms interesting and powerful.  
 
