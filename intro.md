@@ -753,7 +753,7 @@ Or, to paraphrase Philip K. Dick:
     that which does not go away
     when you stop believing in it.
 
-So, when it comes to experience, we seem forced to accept that it _exists_. Doubting everything does not end in question then, but in a certain degree of certainty about (our conscious) existence. At least when it comes to our consciousness in this current moment, _to be, or not to be?_ is not an open question. We can find a clear answer.  
+So, when it comes to experience, we seem forced to accept that it _exists_. Doubting everything does not end in question, but in a certain degree of certainty about (our conscious) existence. At least when it comes to our conscious experience in this current moment, _to be, or not to be?_ is not an open question. We can find a clear answer.  
 
 Here we see why perception is an interesting phenomenon. The existence of perception - the colors that you see right seem indubitable - while everything else (including what your perception is about) seems to be questionable.
 
