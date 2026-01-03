@@ -747,7 +747,7 @@ Does that mean that such radical doubt leaves us with zero certainty? Is everyth
 
 Thinkers across the millennia have struggled with this issue. One of them, René Descartes, proposes an interesting answer: No matter how much you doubt, you cannot doubt away that there is _something_. This something is your perception (technically, Descartes argued that there is thought - but we made the case above that us having a thought could be seen as us perceiving that thought). You can doubt that your perception is accurate (it could be part of a computer simulation after all). But the fact that _there is something_ that remains stubbornly when you question _everything_ seems immune to all criticism, attempts of elimination, and radical doubt.  
 
-When it comes to experience, we seem forced to accept that it _exists_. Doubting everything does not end in question then, but in a certain degree of certainty about (our conscious) existence. At least when it comes to our consciousness, _to be, or not to be?_ is not an open question. We can find a clear answer.  
+When it comes to experience, we seem forced to accept that it _exists_. Doubting everything does not end in question then, but in a certain degree of certainty about (our conscious) existence. At least when it comes to our consciousness in this current moment, _to be, or not to be?_ is not an open question. We can find a clear answer.  
 
 Or, to paraphrase Philip K. Dick:
 
