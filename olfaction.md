@@ -43,7 +43,7 @@ We do not know as much about how we smell as we do about our other senses.
 :::{div}
 :class: hidden dark:block
 
-:::{figure} images/cartilage.png
+:::{figure} images/cartilage_dark.png
 :label: fig: cartilage
 :width: 50%
 Cartilage of the nose.[^2]
@@ -60,7 +60,7 @@ Cartilage of the nose.[^2]
 
 :::
 
-[^2]: [public domain image source](https://commons.wikimedia.org/wiki/File:Gray771.png)
+[^2]: [public domain image source](https://commons.wikimedia.org/wiki/File:Gray852.png)
 
 % Turbinates
 :::{div}
