@@ -683,7 +683,7 @@ We already introduced in passing the notion of placing numbers in a line (the **
 
 :::{figure} ./images/variable_dark.png
 :label: fig:algebra_number_line
-:width: 50%
+:width: 40%
 The number line the variable _x_.[^8]
 
 :::
@@ -693,7 +693,7 @@ The number line the variable _x_.[^8]
 
 :::{figure} ./images/variable.png
 :label: fig:algebra_number_line
-:width: 50%
+:width: 40%
 The number line the variable _x_.[^8]
 
 :::
