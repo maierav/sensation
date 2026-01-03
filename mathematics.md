@@ -778,7 +778,7 @@ A semilog plot.[^13]
 :::{div}
 :class: dark:hidden
 
-:::{figure} ./images/semilog_dark.png
+:::{figure} ./images/semilog.png
 :label: fig:semilog
 :width: 60%
 A semilog plot.[^13]
