@@ -139,4 +139,28 @@ Neuronal circuitry of **olfactory sensory neurons** (OSN). OSN's that respond to
 
 ### Olfactory Bulb
 
+% Olfactory Bulb
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/olfactory_bulb_dark.png
+:label: fig: olfactory_bulb
+:width: 50%
+
+the olfactory bulb.[^6]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} images/olfactory_bulb.png
+:label: fig: olfactory_bulb
+:width: 50%
+
+the olfactory bulb.[^6]
+
+:::
+
+[^6]: [public domain image source](https://commons.wikimedia.org/wiki/File:Gray724.png)
+
 ### Olfactory Areas
