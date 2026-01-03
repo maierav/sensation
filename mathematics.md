@@ -676,6 +676,29 @@ $$
 
 [as long as _x_ and _y_ are positive and the base is a positive number other than 1.]
 
+% Slide Rule
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/slide_rule_dark.png
+:label: fig:slide_rule
+:width: 60%
+A slide rule uses logarithms to multiply large numbers via addition.[^9]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/slide_rule.png
+:label: fig:slide_rule
+:width: 60%
+A slide rule uses logarithms to multiply large numbers via addition.[^9]
+
+:::
+
+[^9]: [public domain source](https://commons.wikimedia.org/wiki/File:Function-log-animation.gif)
+
 In practice, this means that if we have a long list, or table, of logarithms, we can quickly multiply two large numbers by converting them back-and-forth into their logarithms. You might find that unimpressive, but before we all had easy access to powerful electric calculators or computers, this technique was key for scientists and engineers alike. In fact, using this technique (applied to _slide rules_) was still common when **NASA** developed the rockets used for the **Apollo** moon landing program.  
 
 As we will see in the next chapter, discoverig a role for logarithms in perception science thus was especially exciting for the scientists at that time.  
