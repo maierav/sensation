@@ -487,7 +487,7 @@ $$
 So, at least in this sense, we can think of multiplication almost as a "shorthand" for _repeated addition_:
 
 $$
-  5 + 5 + 5 + 5 + 5 = 5 * 5
+  5 + 5 + 5 + 5 + 5 = 5 \times 5
 $$
 
 It's just "less to write", if you will.
