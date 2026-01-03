@@ -697,8 +697,33 @@ A slide rule uses logarithms to multiply large numbers via addition.[^9]
 
 :::
 
-[^9]: [public domain source](https://commons.wikimedia.org/wiki/File:Function-log-animation.gif)
+[^9]: [public domain source](https://commons.wikimedia.org/wiki/File:Slide_Rule_(PSF).png)
 
-In practice, this means that if we have a long list, or table, of logarithms, we can quickly multiply two large numbers by converting them back-and-forth into their logarithms. You might find that unimpressive, but before we all had easy access to powerful electric calculators or computers, this technique was key for scientists and engineers alike. In fact, using this technique (applied to _slide rules_) was still common when **NASA** developed the rockets used for the **Apollo** moon landing program.  
+In practice, this means that if we have a long list, or table, of logarithms, we can quickly multiply two large numbers by converting them back-and-forth into their logarithms.  
+
+% Slide Rule Function
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/slide_rule_function_dark.png
+:label: fig:slide_rule_function
+:width: 40%
+A slide rule uses logarithms to multiply large numbers via addition.[^10]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/slide_rule_function.png
+:label: fig:slide_rule_function
+:width: 40%
+A slide rule uses logarithms to multiply large numbers via addition.[^10]
+
+:::
+
+[^10]: [public domain source](https://commons.wikimedia.org/wiki/File:Multiplication_slide_rule2.jpg)
+
+You might find that unimpressive, but before we all had easy access to powerful electric calculators or computers, this technique was key for scientists and engineers alike. In fact, using this technique (applied to _slide rules_) was still common when **NASA** developed the rockets used for the **Apollo** moon landing program.  
 
 As we will see in the next chapter, discoverig a role for logarithms in perception science thus was especially exciting for the scientists at that time.  
