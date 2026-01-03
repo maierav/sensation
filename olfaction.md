@@ -68,7 +68,7 @@ Cartilage of the nose.[^2]
 
 :::{figure} images/turbinates_dark.png
 :label: fig: turbinates
-:width: 70%
+:width: 55%
 Turbinates of the nose.[^3]
 
 :::
@@ -78,7 +78,7 @@ Turbinates of the nose.[^3]
 
 :::{figure} images/turbinates.png
 :label: fig: turbinates
-:width: 70%
+:width: 55%
 Turbinates of the nose.[^3]
 
 :::
