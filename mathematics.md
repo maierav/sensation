@@ -584,7 +584,7 @@ $$
 Taking a _base_ number to an _exponent_ just means that we multiply the base number with _itself_ as many times as prescribed by the exponent.  
 
 $$
-  5^{3} = 5 \cdot 5 \cdot 5
+  5^{3} = 5 \times 5 \times 5
 $$
 
 Why two inverses then? Well, exponentiation has two parts: the **base** and the **exponent**. So, we need two operations to find one or the other.  
