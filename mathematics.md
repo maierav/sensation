@@ -768,7 +768,7 @@ Here is an example of how a _semilog_ representation of the same data can be hel
 :::{div}
 :class: hidden dark:block
 
-:::{figure} ./images/lsemilog_dark.png
+:::{figure} ./images/semilog_dark.png
 :label: fig:semilog
 :width: 60%
 A semilog plot.[^13]
@@ -778,7 +778,7 @@ A semilog plot.[^13]
 :::{div}
 :class: dark:hidden
 
-:::{figure} ./images/lsemilog_dark.png
+:::{figure} ./images/semilog_dark.png
 :label: fig:semilog
 :width: 60%
 A semilog plot.[^13]
