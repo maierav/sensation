@@ -497,7 +497,7 @@ It's just "less to write", if you will.
 Now, since multiplication is just repeated addition, we can rotate the numbers that are added (or multipled) around again without changing the result. Accordingly, the words we use to describe these numbers are one and the same again for the numbers that we multiply:
 
 $$
-  factor * factor = product
+  factor \times factor = product
 $$
 
 Now, deeper thought about multiplication leads us elsewhere. There is actually something more interesting about what a (Cartesian) **product** is. It is a unique kind of combination, in fact. But for our current context, it is more helpful to grasp that there is a _link_ between addition (which many feel is relatively "easy" to do) and multiplication (which "feels" a bit more involved; partly because we quickly end up with much larger numbers).  
