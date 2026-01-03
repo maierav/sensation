@@ -254,7 +254,9 @@ Now things get fascinating. Numbers by themselves just seem to "be made up" and 
 
 And all of that seems to come quite naturally. After all, we can do the same thing with concrete objects: add one apple to two others, divide a pizza in half, and so on.  
 
-But things can become a bit confusing, or non-intuitive rather quickly:
+But things can become a bit confusing, or non-intuitive rather quickly.
+
+### Addition
 
 **Addition** allows us to disregard order: 2 + 4 is the same as 4 + 2. Both is 6.  
 
@@ -302,6 +304,8 @@ One last thing - we need to also agree on (or accept) precise word for _describi
 ```{math}
   addend + addend = sum
 ```
+
+### Subtraction
 
 **Subtraction** seems to be a simple inverse process. We just reverse what we just did.  
 
@@ -445,7 +449,9 @@ All of this is just to remind ourselves that there are (minor) conceptual obstac
 
 In fact, it could be argued that some of these conceptual challenges, as small as thy may seem_ are actually _larger_ than what we face at higher levels of mathematical abstraction. And - if we were struggling with some of these conceptual hurdles (such as: _what could be smaller than nothing_) at first when we were taught basic mathematics, we hopefully did not just "accept" these notions and move on. Doing so risks that we start to just "trust" mathematics and what people who are more educated in mathematics tell us rather than doing that which mathematics offers and demands: not to trust, but to convince yourself through reasoning. So let us keep doing just that.  
 
- Let us move on to **multiplication**. [Yes, this slow walk may seem a bit silly, but keep going. There is a bigger point we will get to in a moment.]
+### Multiplication
+
+Let us move on to **multiplication**. [Yes, this slow walk may seem a bit silly, but keep going. There is a bigger point we will get to in a moment.]
 
 One way we might have been taught multiplication is to treat it as something _entirely_ different than addition (or subtraction). This is often done by learning "by heart" (akin to a poem) a _multiplication table_ so that we can immediately recall the answer to something like:
 
@@ -514,7 +520,9 @@ $$
   25 : 5 = 5
 $$
 
-Well, we can think of it as the _inverse_ to multiplication, of course. In a sense, it is simply undoing what multiplication does:
+Well, we can think of it as the _inverse_ to multiplication, of course. In a sense, it is simply undoing what multiplication does.
+
+### Division
 
 % Multiplication
 :::{div}
@@ -577,6 +585,8 @@ $$
 $$
 
 However, the final operations of arithmetic often _do_ cause high-schooled learners a bit of concern. And there is a good reason for that - they do not seem to fit as neatly in what we discussed so far.  
+
+### Exponentiation
 
 Specifically, **exponentiation** does _not_ have one inverse operation. It has _two_: the **logarithm**, and the **root**. This can seem arbitrary. However, nothing is arbitrary in mathematics. In fact, these operations fit perfectly inside our scheme, and the fact that there are two inverse operations then makes perfect sense.  
 
