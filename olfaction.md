@@ -62,6 +62,29 @@ Cartilage of the nose.[^2]
 
 [^2]: [public domain image source](https://commons.wikimedia.org/wiki/File:Gray771.png)
 
+% Turbinates
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/turbinates_dark.png
+:label: fig: turbinates
+:width: 70%
+Turbinates of the nose.[^3]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} images/turbinates.png
+:label: fig: turbinates
+:width: 70%
+Turbinates of the nose.[^3]
+
+:::
+
+[^3]: [public domain image source](https://commons.wikimedia.org/wiki/File:Gray771.png)
+
 #### Olfactory Epithelium
 
 % Olfactory Epithelium
@@ -71,7 +94,7 @@ Cartilage of the nose.[^2]
 :::{figure} images/olfactory_epithelium_dark.png
 :label: fig: olfactory epithelium
 :width: 50%
-The sensory area of the nose is called the "olfactory epithelium" (blue).[^3]
+The sensory area of the nose is called the "olfactory epithelium" (blue).[^4]
 
 :::
 
@@ -81,11 +104,11 @@ The sensory area of the nose is called the "olfactory epithelium" (blue).[^3]
 :::{figure} images/olfactory_epithelium.png
 :label: fig: olfactory epithelium
 :width: 50%
-The sensory area of the nose is called the "olfactory epithelium" (yellow).[^3]
+The sensory area of the nose is called the "olfactory epithelium" (yellow).[^4]
 
 :::
 
-[^3]: [public domain image source](https://commons.wikimedia.org/wiki/File:Gray771.png)
+[^4]: [public domain image source](https://commons.wikimedia.org/wiki/File:Gray771.png)
 
 ## BRAIN
 
@@ -99,7 +122,7 @@ The sensory area of the nose is called the "olfactory epithelium" (yellow).[^3]
 :label: fig: glomeruli
 :width: 50%
 
-Neuronal circuitry of **olfactory sensory neurons** (OSN). OSN's that respond to (are _tuned_ for) the same **olfactants** (chemicals), converge (meet) at the same **glomerulus** (plural: glomeruli).[^4]
+Neuronal circuitry of **olfactory sensory neurons** (OSN). OSN's that respond to (are _tuned_ for) the same **olfactants** (chemicals), converge (meet) at the same **glomerulus** (plural: glomeruli).[^5]
 :::
 
 :::{div}
@@ -108,11 +131,11 @@ Neuronal circuitry of **olfactory sensory neurons** (OSN). OSN's that respond to
 :::{figure} images/glomeruli.png
 :label: fig: glomeruli
 :width: 50%
-Neuronal circuitry of **olfactory sensory neurons** (OSN). OSN's that respond to (are _tuned_ for) the same **olfactants** (chemicals), converge (meet) at the same **glomerulus** (plural: glomeruli).[^4]
+Neuronal circuitry of **olfactory sensory neurons** (OSN). OSN's that respond to (are _tuned_ for) the same **olfactants** (chemicals), converge (meet) at the same **glomerulus** (plural: glomeruli).[^5]
 
 :::
 
-[^4]: [public domain image source](https://commons.wikimedia.org/wiki/File:Gray771.png)
+[^5]: [public domain image source](https://commons.wikimedia.org/wiki/File:Gray771.png)
 
 ### Olfactory Bulb
 
