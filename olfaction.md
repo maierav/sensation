@@ -45,7 +45,7 @@ We do not know as much about how we smell as we do about our other senses.
 
 :::{figure} images/cartilage_dark.png
 :label: fig: cartilage
-:width: 40%
+:width: 25%
 Cartilage of the nose.[^2]
 
 :::
@@ -55,7 +55,7 @@ Cartilage of the nose.[^2]
 
 :::{figure} images/cartilage.png
 :label: fig: cartilage
-:width: 40%
+:width: 25%
 Cartilage of the nose.[^2]
 
 :::
