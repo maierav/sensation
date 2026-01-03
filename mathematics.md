@@ -745,7 +745,7 @@ Another reason why logarithms will reappear throughout our studies is that they 
 
 :::{figure} ./images/logscale_dark.png
 :label: fig:logscale
-:width: 80%
+:width: 70%
 Plotting exponentially increasing data on a semilog and a loglog scale.[^12]
 
 :::
@@ -755,7 +755,7 @@ Plotting exponentially increasing data on a semilog and a loglog scale.[^12]
 
 :::{figure} ./images/logscale.png
 :label: fig:logscale
-:width: 80%
+:width: 70%
 Plotting exponentially increasing data on a semilog and a loglog scale.[^12]
 
 :::
