@@ -707,7 +707,7 @@ In practice, this means that if we have a long list, or table, of logarithms, we
 
 :::{figure} ./images/slide_rule_function_dark.png
 :label: fig:slide_rule_function
-:width: 40%
+:width: 60%
 A slide rule uses logarithms to multiply large numbers via addition.[^10]
 
 :::
@@ -717,7 +717,7 @@ A slide rule uses logarithms to multiply large numbers via addition.[^10]
 
 :::{figure} ./images/slide_rule_function.png
 :label: fig:slide_rule_function
-:width: 40%
+:width: 60%
 A slide rule uses logarithms to multiply large numbers via addition.[^10]
 
 :::
