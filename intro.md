@@ -6,7 +6,7 @@ In contrast to our everyday use of the word, perception in this context is not a
 
 If you are unsure whether this exercise will be worth it, or interesting: Think of the study of perception as a study of _being_ at the most elementary level. In particular, we examine _being you_ - not as a person, but as _a conscious being_ or _being aware_: the fact that you experience something at each wake moment.  
 
-Put in other words, perception is about _feeling_. Where "feeling" is not limited to an "emotion", such as sadness. But about feeling _anything at all_, such as feeling the clothes on your skin, or _what it feels like_ to see or hear something.  
+Put in other words, perception is about _feeling_. Where "feeling" is **not** just refering to an "emotion", such as sadness. But about feeling _anything at all_, such as feeling the clothes on your skin, or _what it feels like_ to see or hear something.  
 
 "Feeling" in this broad sense equates to (conscious) **experience**. And by this we do not mean experience in the sense of "things that have happened to us in the past". We are interested in what, how, and why we experience _right now_ - the feeling, consciousness, or awareness of seeing, smelling, hearing and becoming aware of the pull of gravity by feeling of our own body's weight. Perception is that "inner life" of ours that most other physical objects so not seem to possess (at least not to the same degree).  
 
