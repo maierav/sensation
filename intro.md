@@ -2,7 +2,7 @@
 
 This Jupyter book provides an open source, opinionated[^1], principled, and structured broad strokes introduction to the (neuro)science of sensation and perception. Select scholarly references are provided for additional self-study[^2].  
 
-In contrast to our everyday use of the word, perception in this context is not about how our viewpoints, or perspectives on certain matters differ. In a way, it is the exact opposite: **the science of perception is concerned with what we have in common when we see, hear, or smell something**.  
+In contrast to our everyday use of the word, perception in this context is not about how our viewpoints, or perspectives on certain matters differ. In a way, it is the exact opposite: **the science of perception is concerned with what we (and our brains) have in common when we see, hear, or smell something**.  
 
 If you are unsure whether this exercise will be worth it, or interesting: Think of the study of perception as a study of _being_ at the most elementary level. In particular, we examine _being you_ - not as a person, but as _a conscious being_ or _being aware_: the fact that you experience something at each wake moment.  
 
