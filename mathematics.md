@@ -217,7 +217,7 @@ Boolean logic depicted in set theory.[^7]
 
 [^7]: [public domain sources](https://commons.wikimedia.org/wiki/File:Boolean_operations_on_shapes-en.svg)
 
-While the above only pertains to _logic_, you may already see how thinking about sets and their interrelations seems both somewhat basic (fundamental) and yet powerful in terms of what can be described. With this in mind, let's start to consider the most common mathematics (so common that many people mistakenly believe it is _all mathematics_): calculating with **numbers**.  
+While the above only pertains to _logic_, you may already see how thinking about sets and their interrelations seems both somewhat basic (fundamental) and yet powerful in terms of what can be described. With this in mind, let's start to consider the most common mathematics (so common that many people mistakenly believe it is _the entirety of mathematics_): calculating with **numbers**.  
 
 ### Notation
 
