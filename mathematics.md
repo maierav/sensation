@@ -161,6 +161,62 @@ You might feel that you understand all these things already, so why bother? In f
 
 There is, of course, a lot to say about ZFC. The Axiom of Choice, for example, is highly contentious. There is also an alternative proposal for a foundation of mathematics called **category theory**. We will consider the difference between these two starting points of mathematics in a bit since it might be relevant for how we approach mathematics in the context of perception. But for now, let us stick to set theory since - as you will see - it can help us to somewhat intuitively derive the basic mathematics we require.  
 
+Now, what is a "**set**"? We can think of it as just a collection, or grouping, of things. When teaching set theory, textbooks often liken a set to a box, or a basket that we can place objects inside. This is just a metaphor, of course. The notion of a set is more general and abstract. We will use set theory in one of the next chapters to group all positive numbers in a set (you could not do that with a basket).
+
+Sets are often visualized as an area delineated by a circle. What lies inside that circle belongs to that set.  
+
+Set theory starts with the notion of an _empty_ set, which in our metaphor corresponds to an empty basket before we place any objects inside. The empty set could be visualized as an empty circle, though really it just means "nothing" and could also be visualized by not drawing anything at all. Once we add something inside that set, this something becomes and **element** of that set.  
+
+The interesting part happens when we realize that some elements of a set can also belong to another set. If we stick to circles as a visualization of sets, the result is a **Venn diagram**, where the overlap between circles tells us which elements belong to two (or more) sets. Here is an example of that:  
+
+% Venn
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/venn_dark.png
+:label: fig:venn
+:width: 55%
+This **Venn diagram** depicts elements of three overlapping sets: Individual letters (graphemes) from the Russian, the Greek, and the Latin alphabets, Each set is delineated by a circle. The letters that lie inside the overlap of all three circles are letters that are shared by all three alphabets.[^6]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/venn.png
+:label: fig:venn
+:width: 55%
+This **Venn diagram** depicts elements of three overlapping sets: Individual letters (graphemes) from the Russian, the Greek, and the Latin alphabets, Each set is delineated by a circle. The letters that lie inside the overlap of all three circles are letters that are shared by all three alphabets.[^6]
+
+:::
+
+[^6]: [public domain sources](https://commons.wikimedia.org/wiki/File:Venn_diagram_gr_la_ru.svg)
+
+This might  trivial, but it turns out that we can use this technique to describe all **Boolean Logic** (the formal basis of modern computing) in just the same simple way:
+
+% Boolean Logic
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/boolean_dark.png
+:label: fig:booleansets
+:width: 55%
+Boolean logic depicted in set theory.[^7]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/boolean.png
+:label: fig:booleansets
+:width: 55%
+Boolean logic depicted in set theory.[^7]
+
+:::
+
+[^7]: [public domain sources](https://commons.wikimedia.org/wiki/File:Boolean_operations_on_shapes-en.svg)
+
 ### Notation
 
 Before we start discussing numbers and the various things we can do with them, it is worth taking a brief moment and talk about all the various symbols - the notation - that will come with that. Notation can feel a bit like a secret code that one has to learn and apply correctly to be granted entrance into math. This can feel daunting, and lingering questions regarding why some symbols are chosen or why sometimes more than one type of symbol or notation is "allowed" can cause further unease.  
