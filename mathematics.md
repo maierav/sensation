@@ -10,6 +10,11 @@ William Blake's Newton as a Geometer (1795).[^1]
 
 [^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Newton-WilliamBlake_crop.jpg)
 
+:::{pull-quote}
+Mathematics has something to do with the physical world. How is this possible?
+How can we learn something important about the physical world by reflection?  
+:::
+
 Science rests on mathematics, so we cannot avoid the topic. The following is a brief refresher for the (very limited) mathematics that we will use later on this course. However, the deeper, hidden goal is to _not_ just do that - review basic mathematics. Why? Because many people have no warm, fond memories of learning about basic mathematics in the first place. This chapter is meant to change that. Or at least, reflect on why this happened to so many of us. The central idea is something like the following:
 
     Most people (including some of the best mathematicians) are bad at calculating.
