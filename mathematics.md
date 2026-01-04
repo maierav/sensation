@@ -472,7 +472,17 @@ $$
   5 \times 5 = 25
 $$
 
-The reason for us not _actually_ calculating the result of this equation in our head, but just recall from memory, is quite interesting. It seems to be _not_ a limitation of mathematical _ability_. Instead, it find its root in our _perception_. In particular, we can easily look at a small amount of objects and determine their **quantity** - and thus assign a number. However, the more objects there are, the harder this gets. As we will see in the next chapter, this is one of the most fundamental insights not about mathematics, but about _perception_. And yet, this perceptual limitation, or property, affects our approach to some of the most basic mathematics, such as addition and multiplication.  
+The reason for us not _actually_ calculating the result of this equation in our head, but just recall from memory, is quite interesting. It seems to be _not_ a limitation of mathematical _ability_. Instead, it find its root in our _perception_. That is an interesting insight. There seems to be a link, or relation, between mathematics and our experience. If you still wonder why we spend so much time on reviewing the basics of mathematics, you might now see a hint of where this might be going - mathematics is an important part of the science of perception, not only because science seems to end in mathematics (finding _laws of nature_, such as F = ma, or E=mc^2), but because mathematics might find its _roots_ in the structure of our perception - and hence should be applicable.  
+
+:::{pull-quote}
+According to Kant, mathematics relates to the forms of our ordinary perception
+On this view, mathematics applies to the physical world
+because it concerns the ways that we perceive the physical world.
+
+S. Shapiro
+:::
+
+In particular, we can easily look at a small amount of objects and determine their **quantity** - and thus assign a number. However, the more objects there are, the harder this gets. As we will see in the next chapter, this is one of the most fundamental insights not about mathematics, but about _perception_. And yet, this perceptual limitation, or property, affects our approach to some of the most basic mathematics, such as addition and multiplication.  
 
 % Large Numbers
 :::{div}
