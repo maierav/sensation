@@ -464,7 +464,17 @@ Agrippa's Trilemma: Repeated asking of the question "Why?" during an argument wi
 Agrippa's Trilemma: Repeated asking of the question "Why?" during an argument will end in one of three outcomes: Circular Reasoning, Infinite Regress, or Unfounded Belief (Dogma / Axiom).
 :::
 
-As we will see, mathematics seems to choose Foundationalism over the other two possibilities. And as we will see, mathematics is _indispensable_ for science. We hence will aim to start with a foundationalist stance. That is, we will start with a few statements that are hopefully agreeable as non-questionable starting points. We will earmark them as "preliminary", however. That is, once we arrived at deeper insight we might want to come back to these foundational beliefs and examine whether we still agree with the assumptions that we started from.
+As we will see, mathematics seems to choose Foundationalism over the other two possibilities. And as we will see, mathematics is _indispensable_ for science (such as the science of perception), and perhaps even any attempt at gaining knowledge that satisfies reason and thereby holds up to scrutiny.  
+
+:::{pull-quote}
+Mathematics is a central part of our best efforts at knowledge.
+
+Indeed, mathematics seems essential to any sort of reasoning at all.
+
+S. Shapiro
+:::
+
+We hence will aim to start with a foundationalist stance. That is, we will start with a few statements that are hopefully agreeable as non-questionable starting points. We will earmark them as "preliminary", however. That is, once we arrived at deeper insight we might want to come back to these foundational beliefs and examine whether we still agree with the assumptions that we started from.
 
 #### Preliminary Definitions
 
