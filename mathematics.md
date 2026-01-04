@@ -221,7 +221,9 @@ While the above only pertains to _logic_, you may already see how thinking about
 
 ### Notation
 
-Before we start discussing numbers and the various things we can do with them, it is worth taking a brief moment and talk about all the various symbols - the notation - that will come with that. Notation can feel a bit like a secret code that one has to learn and apply correctly to be granted entrance into math. This can feel daunting, and lingering questions regarding why some symbols are chosen or why sometimes more than one type of symbol or notation is "allowed" can cause further unease.  
+Before we start discussing numbers and the various things we can do with them, it is worth taking a brief moment and talk about all the various symbols - the notation - that will come with that. This comprises the + sign as well as symbols such as: 2. We tend to think of "2" as a number, but it is just a symbol of course that points to, or depicts (represents) the number 2. What "2" actually is is a **numeral**. After all, we can also represent "two" as II (the way that the Romans did), and many other ways. Numerals are part of mathematical **notation**.  
+
+Notation can feel a bit like a secret code that one has to learn and apply correctly to be granted entrance into math. This can feel daunting, and lingering questions regarding why some symbols are chosen or why sometimes more than one type of symbol or notation is "allowed" can cause further unease.  
 
 The first thing to know is that notation is just convention. More so, this convention can and often does get violated. Anyone can come up and use their own idiosyncratic notation, as long as this is made clear and well-defined. We will use some of the most commonly used notation here, but make note of other commonly used conventions and ponder for a moment how this plurality can rightfully cause confusion.  
 
