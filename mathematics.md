@@ -272,10 +272,10 @@ So far we mostly discussed (or looked at) _geometric_ descriptions of math. Hist
 :::{figure} ./images/stonehenge.jpg
 :label: fig:stonehenge
 :width: 85%
-Stonehenge is aligned with the sun's position during the solstices.[^6]
+Stonehenge is aligned with the sun's position during the solstices.[^8]
 :::
 
-[^6]: [public domain source](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_II_geometria,_1707_%E2%80%93_BEIC_13369403.jpg)
+[^8]: [public domain source](https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_II_geometria,_1707_%E2%80%93_BEIC_13369403.jpg)
 
 One cannot help but wonder whether part of this fascination with geometry is partly rooted in its relation to _measurement_ (of astronomical events, such as the solstice) as well as in the fact that it is _tangible_. That is, an Euclidian geometric proof does _not_ just exist in the "abstract". Instead, we can convince ourselves that the proof "works" in the real world by using a compass and a ruler and literally draw out the proof (the various operations) on sand, a blackboard, or a piece of paper.  
 
@@ -335,7 +335,7 @@ The fancy word for this property of addition is **commutativity**.
 :::{figure} ./images/sum_dark.png
 :label: fig:sum
 :width: 80%
-Summing does not care about the order of operations. No matter whether we add one apple to two or two apples to one, we will always end up with three apples. This seems trivial. We all know that. But let us take note of this regardless. As we will see, this is not always the case when we do math, so it is not quite that trivial after all.[^7]
+Summing does not care about the order of operations. No matter whether we add one apple to two or two apples to one, we will always end up with three apples. This seems trivial. We all know that. But let us take note of this regardless. As we will see, this is not always the case when we do math, so it is not quite that trivial after all.[^9]
 :::
 
 :::{div}
@@ -344,10 +344,10 @@ Summing does not care about the order of operations. No matter whether we add on
 :::{figure} ./images/sum.png
 :label: fig:sum
 :width: 80%
-Summing does not care about the order of operations. No matter whether we add one apple to two or two apples to one, we will always end up with three apples. This seems trivial. We all know that. But let us take note of this regardless. As we will see, this is not always the case when we do math, so it is not quite that trivial after all.[^7]
+Summing does not care about the order of operations. No matter whether we add one apple to two or two apples to one, we will always end up with three apples. This seems trivial. We all know that. But let us take note of this regardless. As we will see, this is not always the case when we do math, so it is not quite that trivial after all.[^9]
 :::
 
-[^7]: [public domain source](https://commons.wikimedia.org/wiki/File:Green_Apple_Icon.png)
+[^9]: [public domain source](https://commons.wikimedia.org/wiki/File:Green_Apple_Icon.png)
 
 This small observation is worth pausing for. What is that? What does that mean that we can disregard order in this way? This is clearly not _always_ the case:  
 
@@ -421,7 +421,7 @@ If kids feel that subtraction is a bit "more challenging" than addition, this mi
 :::{figure} ./images/subtraction_dark.png
 :label: fig:diff
 :width: 80%
-Subtraction is not commutative. We end up with a different amount of apples when either taking one or two away. We all know this, but it is a bit surprising that - despite being the inverse of addition - subtraction does not follow the same rules, or laws as addition.[^5]
+Subtraction is not commutative. We end up with a different amount of apples when either taking one or two away. We all know this, but it is a bit surprising that - despite being the inverse of addition - subtraction does not follow the same rules, or laws as addition.[^9]
 :::
 
 :::{div}
@@ -430,7 +430,7 @@ Subtraction is not commutative. We end up with a different amount of apples when
 :::{figure} ./images/subtraction.png
 :label: fig:diff
 :width: 80%
-Subtraction is not commutative. We end up with a different amount of apples when either taking one or two away. We all know this, but it is a bit surprising that - despite being the inverse of addition - subtraction does not follow the same rules, or laws as addition.[^5]
+Subtraction is not commutative. We end up with a different amount of apples when either taking one or two away. We all know this, but it is a bit surprising that - despite being the inverse of addition - subtraction does not follow the same rules, or laws as addition.[^9]
 :::
 
 As a result of the fact that subtraction is non-commutative, we have to be a little be more careful for the words we use to describe these numbers:
@@ -756,7 +756,7 @@ We already introduced in passing the notion of placing numbers in a line (the **
 :::{figure} ./images/variable_dark.png
 :label: fig:algebra_number_line
 :width: 40%
-The number line the variable _x_.[^8]
+The number line the variable _x_.[^10]
 
 :::
 
@@ -766,11 +766,11 @@ The number line the variable _x_.[^8]
 :::{figure} ./images/variable.png
 :label: fig:algebra_number_line
 :width: 40%
-The number line the variable _x_.[^8]
+The number line the variable _x_.[^10]
 
 :::
 
-[^8]: [public domain source](https://commons.wikimedia.org/wiki/File:1D_Cartesian.svg)
+[^10]: [public domain source](https://commons.wikimedia.org/wiki/File:1D_Cartesian.svg)
 
 Descartes' idea boils down to adding a second number line **orthogonal** (perpendicular, or at a right angle) so that both lines share 0 as a common origin.  
 
@@ -781,7 +781,7 @@ Descartes' idea boils down to adding a second number line **orthogonal** (perpen
 :::{figure} ./images/Cartesian_dark.png
 :label: fig:Cartesian
 :width: 40%
-A Cartesian coordinate system.[^9]
+A Cartesian coordinate system.[^11]
 
 :::
 
@@ -791,11 +791,11 @@ A Cartesian coordinate system.[^9]
 :::{figure} ./images/Cartesian.png
 :label: fig:Cartesian
 :width: 40%
-A Cartesian coordinate system.[^9]
+A Cartesian coordinate system.[^11]
 
 :::
 
-[^9]: [public domain source](https://commons.wikimedia.org/wiki/File:1D_Cartesian.svg)
+[^11]: [public domain source](https://commons.wikimedia.org/wiki/File:1D_Cartesian.svg)
 
 We all are so familiar with the resulting plane using an _x_-axis and _y_-axis that it can be challenging to think about how radical and revolutionary this idea must have been. The surprising effect of this technique is that we now can describe _geometric_ objects, such as triangles, using _numbers_, such as by writing down the _x_- and _y_-coordinates of all three of their corners (vertices).  
 
@@ -806,7 +806,7 @@ We all are so familiar with the resulting plane using an _x_-axis and _y_-axis t
 :::{figure} ./images/Cartesian_xy_dark.png
 :label: fig:Cartesian
 :width: 40%
-Cartesian coordinates.[^10]
+Cartesian coordinates.[^12]
 
 :::
 
@@ -816,11 +816,11 @@ Cartesian coordinates.[^10]
 :::{figure} ./images/Cartesian_xy.png
 :label: fig:Cartesian
 :width: 40%
-Cartesian coordinates.[^10]
+Cartesian coordinates.[^12]
 
 :::
 
-[^10]: [public domain source](https://commons.wikimedia.org/wiki/File:1D_Cartesian.svg)
+[^12]: [public domain source](https://commons.wikimedia.org/wiki/File:1D_Cartesian.svg)
 
 ## PLOTS
 
@@ -833,7 +833,7 @@ Putting everything we discussed so far, we need to revisit logarithms again. Log
 :::{figure} ./images/log_dark.gif
 :label: fig:exp_log
 :width: 40%
-Logarithmic curve as inverse of an exponential function.[^11]
+Logarithmic curve as inverse of an exponential function.[^13]
 
 :::
 
@@ -843,11 +843,11 @@ Logarithmic curve as inverse of an exponential function.[^11]
 :::{figure} ./images/log.gif
 :label: fig:exp_log
 :width: 40%
-Logarithmic curve as inverse of an exponential function.[^11]
+Logarithmic curve as inverse of an exponential function.[^13]
 
 :::
 
-[^11]: [public domain source](https://commons.wikimedia.org/wiki/File:Function-log-animation.gif)
+[^13]: [public domain source](https://commons.wikimedia.org/wiki/File:Function-log-animation.gif)
 
 We already established that when it comes to mental _calculation_, and multiplication in particular, we tend to struggle with large numbers. Logarithms come in handy in that they transform the multiplication of two very large numbers into simple addition. That is, if we know the logarithms (to the same base) of two large numbers, we can calculate (the logarithm of) their product by just adding the two logarithms:  
 
@@ -864,7 +864,7 @@ $$
 :::{figure} ./images/slide_rule_dark.png
 :label: fig:slide_rule
 :width: 60%
-A slide rule uses logarithms to multiply large numbers via addition.[^12]
+A slide rule uses logarithms to multiply large numbers via addition.[^14]
 
 :::
 
@@ -874,11 +874,11 @@ A slide rule uses logarithms to multiply large numbers via addition.[^12]
 :::{figure} ./images/slide_rule.png
 :label: fig:slide_rule
 :width: 60%
-A slide rule uses logarithms to multiply large numbers via addition.[^12]
+A slide rule uses logarithms to multiply large numbers via addition.[^14]
 
 :::
 
-[^12]: [public domain source](https://commons.wikimedia.org/wiki/File:Slide_Rule_(PSF).png)
+[^14]: [public domain source](https://commons.wikimedia.org/wiki/File:Slide_Rule_(PSF).png)
 
 In practice, this means that if we have a long list, or table, of logarithms, we can quickly multiply two large numbers by converting them back-and-forth into their logarithms.  
 
@@ -889,7 +889,7 @@ In practice, this means that if we have a long list, or table, of logarithms, we
 :::{figure} ./images/slide_rule_function_dark.png
 :label: fig:slide_rule_function
 :width: 60%
-A slide rule uses logarithms to multiply large numbers via addition.[^13]
+A slide rule uses logarithms to multiply large numbers via addition.[^15]
 
 :::
 
@@ -899,11 +899,11 @@ A slide rule uses logarithms to multiply large numbers via addition.[^13]
 :::{figure} ./images/slide_rule_function.png
 :label: fig:slide_rule_function
 :width: 60%
-A slide rule uses logarithms to multiply large numbers via addition.[^13]
+A slide rule uses logarithms to multiply large numbers via addition.[^15]
 
 :::
 
-[^13]: [public domain source](https://commons.wikimedia.org/wiki/File:Multiplication_slide_rule2.jpg)
+[^15]: [public domain source](https://commons.wikimedia.org/wiki/File:Multiplication_slide_rule2.jpg)
 
 You might find that unimpressive, but before we all had easy access to powerful electric calculators or computers, this technique was key for scientists and engineers alike. In fact, using this technique (applied to _slide rules_) was still common when **NASA** developed the rockets used for the **Apollo** moon landing program.  
 
@@ -911,10 +911,10 @@ You might find that unimpressive, but before we all had easy access to powerful 
 :::{figure} ./images/NASA.png
 :label: fig:NASA
 :width: 60%
-A slide rule in space.[^14]
+A slide rule in space.[^16]
 :::
 
-[^14]: [public domain source](https://en.wikipedia.org/wiki/File:Buzz_and_his_pipe.jpg)
+[^16]: [public domain source](https://en.wikipedia.org/wiki/File:Buzz_and_his_pipe.jpg)
 
 As we will see in the next chapter, discoverig a role for logarithms in perception science thus was especially exciting for the scientists at that time.  
 
@@ -927,7 +927,7 @@ Another reason why logarithms will reappear throughout our studies is that they 
 :::{figure} ./images/logscale_dark.png
 :label: fig:logscale
 :width: 70%
-Plotting exponentially increasing data on a semilog and a loglog scale.[^15]
+Plotting exponentially increasing data on a semilog and a loglog scale.[^17]
 
 :::
 
@@ -937,11 +937,11 @@ Plotting exponentially increasing data on a semilog and a loglog scale.[^15]
 :::{figure} ./images/logscale.jpg
 :label: fig:logscale
 :width: 70%
-Plotting exponentially increasing data on a semilog and a loglog scale.[^15]
+Plotting exponentially increasing data on a semilog and a loglog scale.[^17]
 
 :::
 
-[^15]: [public domain source](https://commons.wikimedia.org/wiki/File:Julia_log1.jpg)
+[^17]: [public domain source](https://commons.wikimedia.org/wiki/File:Julia_log1.jpg)
 
 Here is an example of how a _semilog_ representation of the same data can be helpful.
 
@@ -952,7 +952,7 @@ Here is an example of how a _semilog_ representation of the same data can be hel
 :::{figure} ./images/semilog_dark.png
 :label: fig:semilog
 :width: 60%
-A semilog plot.[^16]
+A semilog plot.[^18]
 
 :::
 
@@ -962,8 +962,8 @@ A semilog plot.[^16]
 :::{figure} ./images/semilog.png
 :label: fig:semilog
 :width: 60%
-A semilog plot.[^16]
+A semilog plot.[^18]
 
 :::
 
-[^16]: [public domain source](https://commons.wikimedia.org/wiki/File:Wind_generation-with_semilog_plot.png)
+[^18]: [public domain source](https://commons.wikimedia.org/wiki/File:Wind_generation-with_semilog_plot.png)
