@@ -175,7 +175,7 @@ The interesting part happens when we realize that some elements of a set can als
 
 :::{figure} ./images/venn_dark.png
 :label: fig:venn
-:width: 55%
+:width: 45%
 This **Venn diagram** depicts elements of three overlapping sets: Individual letters (graphemes) from the Russian, the Greek, and the Latin alphabets, Each set is delineated by a circle. The letters that lie inside the overlap of all three circles are letters that are shared by all three alphabets.[^6]
 
 :::
@@ -185,7 +185,7 @@ This **Venn diagram** depicts elements of three overlapping sets: Individual let
 
 :::{figure} ./images/venn.png
 :label: fig:venn
-:width: 55%
+:width: 45%
 This **Venn diagram** depicts elements of three overlapping sets: Individual letters (graphemes) from the Russian, the Greek, and the Latin alphabets, Each set is delineated by a circle. The letters that lie inside the overlap of all three circles are letters that are shared by all three alphabets.[^6]
 
 :::
@@ -200,7 +200,7 @@ This might  trivial, but it turns out that we can use this technique to describe
 
 :::{figure} ./images/boolean_dark.png
 :label: fig:booleansets
-:width: 55%
+:width: 75%
 Boolean logic depicted in set theory.[^7]
 
 :::
@@ -210,12 +210,14 @@ Boolean logic depicted in set theory.[^7]
 
 :::{figure} ./images/boolean.png
 :label: fig:booleansets
-:width: 55%
+:width: 75%
 Boolean logic depicted in set theory.[^7]
 
 :::
 
 [^7]: [public domain sources](https://commons.wikimedia.org/wiki/File:Boolean_operations_on_shapes-en.svg)
+
+While the above only pertains to _logic_, you may already see how thinking about sets and their interrelations seems both somewhat basic (fundamental) and yet powerful in terms of what can be described. With this in mind, let's start to consider the most common mathematics (so common that many people mistakenly believe it is _all mathematics_): calculating with **numbers**.  
 
 ### Notation
 
