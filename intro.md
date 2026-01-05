@@ -2,13 +2,13 @@
 
 This Jupyter book provides an open source, opinionated[^1], principled, and structured broad strokes introduction to the (neuro)science of sensation and perception. Select scholarly references are provided for additional self-study[^2].  
 
-In contrast to our everyday use of the word, perception in this context is not about how our viewpoints, or perspectives on certain matters differ. In a way, it is the exact opposite: **the science of perception is concerned with what we (and our brains) have in common when we see, hear, or smell something**.  
+In contrast to our everyday use of the word, perception in this context is not about how our viewpoints, or perspectives on certain matters differ. In a way, it is the exact opposite: the science of perception is concerned with **what we (and our brains) have in common when we see, hear, or smell something**.  
 
-If you are unsure whether this exercise will be worth it, or interesting: Think of the study of perception as a study of _being_ at the most elementary level. In particular, we examine _being you_ - not as a person, but as _a conscious being_ or _being aware_: the fact that you experience something at each wake moment.  
+If you are unsure whether this exercise will be worth it, or interesting: Think of the study of perception as a study of _being_ at the most elementary level. In particular, we examine _being you_ - not as a person, but as _a conscious being_ or _being aware_: the fact that you experience something at each waking moment.  
 
-Put in other words, perception is about _feeling_. Where "feeling" is **not** just referring to an "emotion", such as sadness. But about feeling _anything at all_, such as feeling the clothes on your skin, or _what it feels like_ to see or hear something. And our guiding question will be how all this can be explained by science (in particular, by brain activity).  
+Put in other words, perception is about _feeling_. Where "feeling" is _not_ just referring to an "emotion", such as sadness. But about feeling _anything at all_, such as feeling the clothes on your skin, or _what it feels like_ to see or hear something. And our guiding question will be how all this can be explained by science (in particular, by brain activity).  
 
-"Feeling" in this broad sense equates to (conscious) **experience**. And by this we do not mean experience in the sense of "things that have happened to us in the past". We are interested in what, how, and why we experience _right now_ - the feeling, consciousness, or awareness of seeing, smelling, hearing and becoming aware of the pull of gravity by feeling of our own body's weight. Perception is that "inner life" of ours that most other physical objects so not seem to possess (at least not to the same degree).  
+"Feeling" in this broad sense equates to (conscious) **experience**. And by this we do not mean experience in the sense of "things that have happened to us in the past". We are interested in what, how, and why we experience _right now_ - the feeling, consciousness, or awareness of seeing, smelling, hearing and becoming aware of the pull of gravity by feeling of our own body's weight. Perception is the basis of that "inner life" of ours which most other physical objects so not seem to possess (at least not to the same degree).  
 
 Thinking of it this way, perception is at once both **the most ordinary** (you probably do not wonder about _seeing_ these letters as you read them) as well as **the most remarkable** (once we pay attention to it).
 
