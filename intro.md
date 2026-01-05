@@ -8,7 +8,7 @@ If you are unsure whether this exercise will be worth it, or interesting: Think 
 
 Put in other words, perception is about _feeling_. Not about feeling an "emotion", such as sadness. But about feeling _anything at all_, such as feeling the clothes on your skin, or _what it feels like_ to see or hear something. And our guiding question will be how all this can be explained by science (in particular, by brain activity).  
 
-"Feeling" in this broad sense equates to (conscious) **experience**. Not experience in the sense of "things that have happened to us in the past". We are interested in what, how, and why we experience _right now_ - the feeling, consciousness, or awareness of seeing, smelling, hearing and becoming aware of the pull of gravity by feeling our own body's weight. Perception is the basis of that "inner life" of ours which most other physical objects so not seem to possess (at least not to the same degree).  
+"Feeling" in this broad sense equates to (conscious) **experience**. Not experience in the sense of "things that have happened to us in the past". We are interested in what, how, and why we experience _right now_ - the feeling, consciousness, or awareness of seeing, smelling, hearing and becoming aware of the pull of gravity by feeling our own body's weight. Perception is the basis of that "inner life" of ours which most other physical objects do not seem to possess (at least not to the same degree).  
 
 Thinking of it this way, perception is at once both **the most ordinary** (you probably do not wonder about _seeing_ these letters as you read them) as well as **the most remarkable** (once we pay attention to it).
 
