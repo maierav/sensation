@@ -8,7 +8,7 @@ In contrast to our everyday use of the word, perception in the scientific contex
 
 [^2]: Books on expert topics often go out of print and/or are expensive. Websites sometimes get abandoned go offline. In an attempt to provide free resources with some hope of permanence, we will largely limit external links to documents that have been associated with a Digital Object Identifier, or DOI. Exceptions are made for public domain sources and scholarly or academic websites that have an established history of maintenance.
 
-Throughout the book, pop-up boxes aim at providing moments for pause and reflection. Together with the at times deliberately provocative or humorous presentation of some ideas and concepts, these exercises are meant to stimulate deeper engagement. In other words, this book is not just meant to be read, but to be interacted with. Research suggests that the result is not just better memorization, but a more profound creation of knowledge by relating new information with what the reader already knows.  
+Throughout the book, pop-up boxes aim at providing moments for pause and reflection. In other words, this book is not just meant to be read, but to be interacted with. Research suggests that the result is not just better memorization, but a more profound creation of knowledge by relating new information with what the reader already knows.  
 
 > The use, not the reading, of books makes us wise.  
 >
