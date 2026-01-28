@@ -135,6 +135,27 @@ Diagram of an action potential. Action potentials are brief (~1ms) all-or-none i
 
 ## NEURONAL CONNECTIVITY
 
+% Reflex
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/reflex_dark.png
+:label: fig:neuron
+:width: 50%
+Reflex loop.[^6]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/reflex.png
+:label: fig:neuron
+:width: 50%
+Reflex loop.[^6]
+:::
+
+[^6]: [public domain source](https://commons.wikimedia.org/wiki/File:Afferent_(PSF).png)
+
 Now that we discussed neuronal activation, let us take a moment and ponder whether the study of neuronal activation (which seems _necessary_ for perception) is _sufficient_ to uncover the link to perception. The reason to do so is that the massive focus on activation risks forgetfulness about other contributing factors.  
 
 Imagine that we find all neurons in our brain that correlate in a certain type of activity with the smell of banana. Now imagine that in the future it will be possible to create perfect copies - molecularly identical clones - of these neurons and let them grow as a cell culture on a Petri dish. The only difference between these clones and the neurons in your brain are their connections: while the neurons in your brain are connected via axons and dendrites, the neurons in the cell culture are all isolated.  
@@ -169,7 +190,7 @@ This conclusion leads us to an appreciation of **neuroanatomy** - the study of n
 :::{figure} ./images/lobes_dark.png
 :label: fig:neuron
 :width: 60%
-The four main lobes of the cerebral cortex.[^6]
+The four main lobes of the cerebral cortex.[^7]
 :::
 
 :::{div}
@@ -178,10 +199,10 @@ The four main lobes of the cerebral cortex.[^6]
 :::{figure} ./images/lobes.png
 :label: fig:neuron
 :width: 60%
-The four main lobes of the human cerebral cortex.[^6]
+The four main lobes of the human cerebral cortex.[^7]
 :::
 
-[^6]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray728.png)
+[^7]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray728.png)
 
 ## NEURONAL INTERACTIONS
 
