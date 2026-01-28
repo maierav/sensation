@@ -104,6 +104,27 @@ The flow of electric signals across neurons is from **synapses** at the **dendri
 
 [^4]: [public domain source](https://commons.wikimedia.org/wiki/File:ANN_neuron.svg)
 
+% Neuron Signals
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/action_potential_dark.png
+:label: fig:neuron
+:width: 50%
+Diagram of an action potential.[^5]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/action_potential.png
+:label: fig:neuron
+:width: 50%
+Diagram of an action potential.[^5]
+:::
+
+[^5]: [public domain source](https://commons.wikimedia.org/wiki/File:Action_potential_schematic.svg)
+
 ### Synapses
 
 ### Neurophysiology
@@ -148,7 +169,7 @@ This conclusion leads us to an appreciation of **neuroanatomy** - the study of n
 :::{figure} ./images/lobes_dark.png
 :label: fig:neuron
 :width: 60%
-The four main lobes of the cerebral cortex.[^5]
+The four main lobes of the cerebral cortex.[^6]
 :::
 
 :::{div}
@@ -157,10 +178,10 @@ The four main lobes of the cerebral cortex.[^5]
 :::{figure} ./images/lobes.png
 :label: fig:neuron
 :width: 60%
-The four main lobes of the human cerebral cortex.[^5]
+The four main lobes of the human cerebral cortex.[^6]
 :::
 
-[^5]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray728.png)
+[^6]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray728.png)
 
 ## NEURONAL INTERACTIONS
 
