@@ -66,7 +66,7 @@ Neurons come in many shapes and sizes, even within the same part of the brain. H
 
 :::{figure} ./images/neuron_parts_dark.png
 :label: fig:neuron
-:width: 50%
+:width: 60%
 The main parts of a neuron.[^3]
 :::
 
@@ -75,7 +75,7 @@ The main parts of a neuron.[^3]
 
 :::{figure} ./images/neuron_parts.png
 :label: fig:neuron
-:width: 50%
+:width: 60%
 The main parts of a neuron.[^3]
 :::
 
