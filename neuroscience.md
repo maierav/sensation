@@ -110,7 +110,7 @@ The flow of electric signals across neurons is from **synapses** at the **dendri
 
 :::{figure} ./images/action_potential_dark.png
 :label: fig:neuron
-:width: 50%
+:width: 60%
 Diagram of an action potential. Action potentials are brief (~1ms) all-or-none impulses. That means they either occur or do not occur. And if they occur, they always more or less take on the same shape (they "look the same" on an oscilloscope). However, they are not just brief blips. Instead of a singular, brief, vertical line, they take on a somewhat more complex curved shape that contains several distinct periods of time. These main periods are: **depolarisation**: The brief period where the neuron changes in the _polarity_ of its charge (i.e., neurons go from being negatively charged at rest to briefly having positive charge). **repolarization**: Following this brief rise in positive charge, the neuron returns to its usual negative charge (the _resting potential_). Interestingly, however, there is a brief period where this process "overshoots" and the neuron goes (even) more negative in charge than during rest. This period, where the neuron goes too negative and then returns to the _resting potential_ is called **hyperpolarization**. Another term used for the time period of hyperpolarization is the **refractory period**, which indicates that the neuron cannot get excited again during this time. Only once the refractory period is over, can a neuron start another action potential (i.e., fire another spike).[^5]
 :::
 
@@ -119,7 +119,7 @@ Diagram of an action potential. Action potentials are brief (~1ms) all-or-none i
 
 :::{figure} ./images/action_potential.png
 :label: fig:neuron
-:width: 50%
+:width: 60%
 Diagram of an action potential. Action potentials are brief (~1ms) all-or-none impulses. That means they either occur or do not occur. And if they occur, they always more or less take on the same shape (they "look the same" on an oscilloscope). However, they are not just brief blips. Instead of a singular, brief, vertical line, they take on a somewhat more complex curved shape that contains several distinct periods of time. These main periods are: **depolarisation**: The brief period where the neuron changes in the _polarity_ of its charge (i.e., neurons go from being negatively charged at rest to briefly having positive charge). **repolarization**: Following this brief rise in positive charge, the neuron returns to its usual negative charge (the _resting potential_). Interestingly, however, there is a brief period where this process "overshoots" and the neuron goes (even) more negative in charge than during rest. This period, where the neuron goes too negative and then returns to the _resting potential_ is called **hyperpolarization**. Another term used for the time period of hyperpolarization is the **refractory period**, which indicates that the neuron cannot get excited again during this time. Only once the refractory period is over, can a neuron start another action potential (i.e., fire another spike).[^5]
 :::
 
