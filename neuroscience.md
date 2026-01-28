@@ -163,7 +163,7 @@ A sequence of spikes in response to constant stimulation (a "spike train").[^6]
 :::{figure} ./images/reflex_dark.png
 :label: fig:reflex
 :width: 50%
-Reflex loop.[^7]
+A reflex loop.[^7]
 :::
 
 :::{div}
@@ -172,7 +172,7 @@ Reflex loop.[^7]
 :::{figure} ./images/reflex.png
 :label: fig:reflex
 :width: 50%
-Reflex loop.[^7]
+A reflex loop.[^7]
 :::
 
 [^7]: [public domain source](https://commons.wikimedia.org/wiki/File:Afferent_(PSF).png)
