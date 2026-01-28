@@ -129,6 +129,27 @@ Diagram of an action potential. Action potentials are brief (~1ms) all-or-none i
 
 ### Neurophysiology
 
+% Neuron Signals
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/spike_sequence_dark.png
+:label: fig:spike_sequence
+:width: 55%
+A sequence of spikes in response to constant stimulation (a "spike train").[^6]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/spike_sequence.png
+:label: fig:spike_sequence
+:width: 55%
+A sequence of spikes in response to constant stimulation (a "spike train").[^6]
+:::
+
+[^6]: [public domain source](https://commons.wikimedia.org/wiki/File:Action_potential_schematic.svg)
+
 ### EEG / MEG
 
 ### fMRI
