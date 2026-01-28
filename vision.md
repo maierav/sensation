@@ -241,7 +241,7 @@ Illustration of the process of **Accommodation**: The lens of our eyes gets defo
 :label: fig:vision
 :width: 40%
 
-The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^6]
+The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^7]
 :::
 
 :::{div}
@@ -258,6 +258,29 @@ The primary visual pathway, colored coded by _visual field_ (not by eye). Neuron
 
 ### Optic Nerve
 
+% Visual Nerve in Pathway
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/nerve_pathway_dark.png
+:label: fig:vision
+:width: 40%
+
+The visual nerve links the eyes to the rest of the brain.[^8]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/nerve_pathway.png
+:label: fig:vision
+:width: 40%
+
+The visual nerve links the eyes to the rest of the brain.[^8]
+:::
+
+[^8]: [public domain source](https://commons.wikimedia.org/wiki/File:Lawrence_1960_9.3.png)
+
 ### Optic Chiasm
 
 % Optic Chiasm
@@ -268,7 +291,7 @@ The primary visual pathway, colored coded by _visual field_ (not by eye). Neuron
 :label: fig:optic chiasm
 :width: 40%
 
-The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^7]
+The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^9]
 :::
 
 :::{div}
@@ -278,7 +301,7 @@ The optic nerves of both eyes meet at an x-formed structure called the **optic c
 :label: fig:optic chiasm
 :width: 40%
 
-The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^8]
+The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^9]
 :::
 
-[^8]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray773.png)
+[^9]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray773.png)
