@@ -89,7 +89,7 @@ The main parts of a neuron.[^3]
 
 :::{figure} ./images/neuron_signals_dark.png
 :label: fig:neuron
-:width: 50%
+:width: 30%
 The flow of electric signals across neurons is from **synapses** at the **dendrites** (where most signals from other neurons arrive) to the **soma** (cell body) to **axons** until they terminate in **synapses** that connect to other neurons.[^4]
 :::
 
@@ -98,7 +98,7 @@ The flow of electric signals across neurons is from **synapses** at the **dendri
 
 :::{figure} ./images/neuron_signals.png
 :label: fig:neuron
-:width: 50%
+:width: 30%
 The flow of electric signals across neurons is from **synapses** at the **dendrites** (where most signals from other neurons arrive) to the **soma** (cell body) to **axons** until they terminate in **synapses** that connect to other neurons.[^4]
 :::
 
