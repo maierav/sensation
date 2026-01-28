@@ -148,7 +148,7 @@ This conclusion leads us to an appreciation of **neuroanatomy** - the study of n
 :::{figure} ./images/lobes_dark.png
 :label: fig:neuron
 :width: 60%
-The four main lobes of the cerebral cortex.[^4]
+The four main lobes of the cerebral cortex.[^5]
 :::
 
 :::{div}
@@ -157,10 +157,10 @@ The four main lobes of the cerebral cortex.[^4]
 :::{figure} ./images/lobes.png
 :label: fig:neuron
 :width: 60%
-The four main lobes of the human cerebral cortex.[^4]
+The four main lobes of the human cerebral cortex.[^5]
 :::
 
-[^4]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray728.png)
+[^5]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray728.png)
 
 ## NEURONAL INTERACTIONS
 
