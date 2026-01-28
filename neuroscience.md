@@ -177,6 +177,27 @@ Reflex loop.[^7]
 
 [^7]: [public domain source](https://commons.wikimedia.org/wiki/File:Afferent_(PSF).png)
 
+% James
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/James_dark.png
+:label: fig:James
+:width: 55%
+The **sensory-motor loop** that starts with sensing a physical stimulus, followed by the associated sensory-evoked neuronal excitation spreading across the brain from sensory to cognitive and motor areas, ending in motor areas activating muscles in our bodies, can be thought of as a very large and complex reflex loop.[^8]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/James.png
+:label: fig:James
+:width: 55%
+The **sensory-motor loop** that starts with sensing a physical stimulus, followed by the associated sensory-evoked neuronal excitation spreading across the brain from sensory to cognitive and motor areas, ending in motor areas activating muscles in our bodies, can be thought of as a very large and complex reflex loop.[^8]
+:::
+
+[^8]: [public domain source](https://commons.wikimedia.org/wiki/File:Principles_of_Psychology_(James)_v1_p25b.png)
+
 Now that we discussed neuronal activation, let us take a moment and ponder whether the study of neuronal activation (which seems _necessary_ for perception) is _sufficient_ to uncover the link to perception. The reason to do so is that the massive focus on activation risks forgetfulness about other contributing factors.  
 
 Imagine that we find all neurons in our brain that correlate in a certain type of activity with the smell of banana. Now imagine that in the future it will be possible to create perfect copies - molecularly identical clones - of these neurons and let them grow as a cell culture on a Petri dish. The only difference between these clones and the neurons in your brain are their connections: while the neurons in your brain are connected via axons and dendrites, the neurons in the cell culture are all isolated.  
@@ -211,7 +232,7 @@ This conclusion leads us to an appreciation of **neuroanatomy** - the study of n
 :::{figure} ./images/lobes_dark.png
 :label: fig:lobes
 :width: 60%
-The four main lobes of the cerebral cortex.[^8]
+The four main lobes of the cerebral cortex.[^9]
 :::
 
 :::{div}
@@ -220,10 +241,10 @@ The four main lobes of the cerebral cortex.[^8]
 :::{figure} ./images/lobes.png
 :label: fig:lobes
 :width: 60%
-The four main lobes of the human cerebral cortex.[^8]
+The four main lobes of the human cerebral cortex.[^9]
 :::
 
-[^8]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray728.png)
+[^9]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray728.png)
 
 ## NEURONAL INTERACTIONS
 
