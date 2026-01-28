@@ -264,7 +264,7 @@ The primary visual pathway, colored coded by _visual field_ (not by eye). Neuron
 
 :::{figure} ./images/nerve_pathway_dark.png
 :label: fig:vision
-:width: 40%
+:width: 60%
 
 The visual nerve links the eyes to the rest of the brain.[^8]
 :::
@@ -274,7 +274,7 @@ The visual nerve links the eyes to the rest of the brain.[^8]
 
 :::{figure} ./images/nerve_pathway.png
 :label: fig:vision
-:width: 40%
+:width: 60%
 
 The visual nerve links the eyes to the rest of the brain.[^8]
 :::
