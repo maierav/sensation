@@ -58,6 +58,29 @@ Sketch of a single brain cell (neuron). Neurons are generally divided into three
 
 [^2]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray627.png)
 
+Neurons come in many shapes and sizes, even within the same part of the brain. However, we can identify the main parts of neurons across almost all of these cell types.
+
+% Neuronal Parts
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/neuron_parts_dark.png
+:label: fig:neuron
+:width: 50%
+The main parts of a neuron.[^3]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/neuron_parts.png
+:label: fig:neuron
+:width: 50%
+The main parts of a neuron.[^3]
+:::
+
+[^3]: [public domain source](https://commons.wikimedia.org/wiki/File:Dendrites_(PSF).png)
+
 ### Action Potentials
 
 ### Synapses
@@ -84,7 +107,7 @@ This conclusion leads us to an appreciation of **neuroanatomy** - the study of n
 
 #### Nervous System
 
-#### Sensory Epithels
+#### Sensory Epithelia
 
 #### Brain
 
@@ -104,7 +127,7 @@ This conclusion leads us to an appreciation of **neuroanatomy** - the study of n
 :::{figure} ./images/lobes_dark.png
 :label: fig:neuron
 :width: 60%
-The four main lobes of the cerebral cortex.[^3]
+The four main lobes of the cerebral cortex.[^4]
 :::
 
 :::{div}
@@ -113,10 +136,10 @@ The four main lobes of the cerebral cortex.[^3]
 :::{figure} ./images/lobes.png
 :label: fig:neuron
 :width: 60%
-The four main lobes of the human cerebral cortex.[^3]
+The four main lobes of the human cerebral cortex.[^4]
 :::
 
-[^3]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray728.png)
+[^4]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray728.png)
 
 ## NEURONAL INTERACTIONS
 
