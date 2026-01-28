@@ -5,7 +5,7 @@
 :class: hidden dark:block
 
 :::{figure} ./images/basic_brain_dark.png
-:label: fig:basic brain
+:label: fig:basic_brain
 :width: 60%
 Mid-line section of a human brain.[^1]
 :::
@@ -14,7 +14,7 @@ Mid-line section of a human brain.[^1]
 :class: dark:hidden
 
 :::{figure} ./images/basic_brain.png
-:label: fig:basic brain
+:label: fig:basic_brain
 :width: 60%
 Mid-line section of a human brain.[^1]
 :::
@@ -65,7 +65,7 @@ Neurons come in many shapes and sizes, even within the same part of the brain. H
 :class: hidden dark:block
 
 :::{figure} ./images/neuron_parts_dark.png
-:label: fig:neuron
+:label: fig:neuronal_parts
 :width: 60%
 The main parts of a neuron.[^3]
 :::
@@ -74,7 +74,7 @@ The main parts of a neuron.[^3]
 :class: dark:hidden
 
 :::{figure} ./images/neuron_parts.png
-:label: fig:neuron
+:label: fig:neuronal_parts
 :width: 60%
 The main parts of a neuron.[^3]
 :::
@@ -88,7 +88,7 @@ The main parts of a neuron.[^3]
 :class: hidden dark:block
 
 :::{figure} ./images/neuron_signals_dark.png
-:label: fig:neuron
+:label: fig:neuronal_signals
 :width: 30%
 The flow of electric signals across neurons is from **synapses** at the **dendrites** (where most signals from other neurons arrive) to the **soma** (cell body) to **axons** until they terminate in **synapses** that connect to other neurons.[^4]
 :::
@@ -97,19 +97,19 @@ The flow of electric signals across neurons is from **synapses** at the **dendri
 :class: dark:hidden
 
 :::{figure} ./images/neuron_signals.png
-:label: fig:neuron
+:label: fig:neuronal_signals
 :width: 30%
 The flow of electric signals across neurons is from **synapses** at the **dendrites** (where most signals from other neurons arrive) to the **soma** (cell body) to **axons** until they terminate in **synapses** that connect to other neurons.[^4]
 :::
 
 [^4]: [public domain source](https://commons.wikimedia.org/wiki/File:ANN_neuron.svg)
 
-% Neuron Signals
+% Action Potentials
 :::{div}
 :class: hidden dark:block
 
 :::{figure} ./images/action_potential_dark.png
-:label: fig:neuron
+:label: fig:action_potential
 :width: 55%
 Diagram of an action potential. Action potentials are brief (~1ms) all-or-none impulses. That means they either occur or do not occur. And if they occur, they always more or less take on the same shape (they "look the same" on an oscilloscope). However, they are not just brief blips. Instead of a singular, brief, vertical line, they take on a somewhat more complex curved shape that contains several distinct periods of time. These main periods are: **depolarisation**: The brief period where the neuron changes in the _polarity_ of its charge (i.e., neurons go from being negatively charged at rest to briefly having positive charge). **repolarization**: Following this brief rise in positive charge, the neuron returns to its usual negative charge (the _resting potential_). Interestingly, however, there is a brief period where this process "overshoots" and the neuron goes (even) more negative in charge than during rest. This period, where the neuron goes too negative and then returns to the _resting potential_ is called **hyperpolarization**. Another term used for the time period of hyperpolarization is the **refractory period**, which indicates that the neuron cannot get excited again during this time. Only once the refractory period is over, can a neuron start another action potential (i.e., fire another spike).[^5]
 :::
@@ -118,7 +118,7 @@ Diagram of an action potential. Action potentials are brief (~1ms) all-or-none i
 :class: dark:hidden
 
 :::{figure} ./images/action_potential.png
-:label: fig:neuron
+:label: fig:action_potential
 :width: 55%
 Diagram of an action potential. Action potentials are brief (~1ms) all-or-none impulses. That means they either occur or do not occur. And if they occur, they always more or less take on the same shape (they "look the same" on an oscilloscope). However, they are not just brief blips. Instead of a singular, brief, vertical line, they take on a somewhat more complex curved shape that contains several distinct periods of time. These main periods are: **depolarisation**: The brief period where the neuron changes in the _polarity_ of its charge (i.e., neurons go from being negatively charged at rest to briefly having positive charge). **repolarization**: Following this brief rise in positive charge, the neuron returns to its usual negative charge (the _resting potential_). Interestingly, however, there is a brief period where this process "overshoots" and the neuron goes (even) more negative in charge than during rest. This period, where the neuron goes too negative and then returns to the _resting potential_ is called **hyperpolarization**. Another term used for the time period of hyperpolarization is the **refractory period**, which indicates that the neuron cannot get excited again during this time. Only once the refractory period is over, can a neuron start another action potential (i.e., fire another spike).[^5]
 :::
@@ -148,7 +148,7 @@ A sequence of spikes in response to constant stimulation (a "spike train").[^6]
 A sequence of spikes in response to constant stimulation (a "spike train").[^6]
 :::
 
-[^6]: [public domain source](https://commons.wikimedia.org/wiki/File:Action_potential_schematic.svg)
+[^6]: [public domain source](https://commons.wikimedia.org/wiki/File:CBRD_for_Wiki.png)
 
 ### EEG / MEG
 
@@ -161,21 +161,21 @@ A sequence of spikes in response to constant stimulation (a "spike train").[^6]
 :class: hidden dark:block
 
 :::{figure} ./images/reflex_dark.png
-:label: fig:neuron
+:label: fig:reflex
 :width: 50%
-Reflex loop.[^6]
+Reflex loop.[^7]
 :::
 
 :::{div}
 :class: dark:hidden
 
 :::{figure} ./images/reflex.png
-:label: fig:neuron
+:label: fig:reflex
 :width: 50%
-Reflex loop.[^6]
+Reflex loop.[^7]
 :::
 
-[^6]: [public domain source](https://commons.wikimedia.org/wiki/File:Afferent_(PSF).png)
+[^7]: [public domain source](https://commons.wikimedia.org/wiki/File:Afferent_(PSF).png)
 
 Now that we discussed neuronal activation, let us take a moment and ponder whether the study of neuronal activation (which seems _necessary_ for perception) is _sufficient_ to uncover the link to perception. The reason to do so is that the massive focus on activation risks forgetfulness about other contributing factors.  
 
@@ -209,21 +209,21 @@ This conclusion leads us to an appreciation of **neuroanatomy** - the study of n
 :class: hidden dark:block
 
 :::{figure} ./images/lobes_dark.png
-:label: fig:neuron
+:label: fig:lobes
 :width: 60%
-The four main lobes of the cerebral cortex.[^7]
+The four main lobes of the cerebral cortex.[^8]
 :::
 
 :::{div}
 :class: dark:hidden
 
 :::{figure} ./images/lobes.png
-:label: fig:neuron
+:label: fig:lobes
 :width: 60%
-The four main lobes of the human cerebral cortex.[^7]
+The four main lobes of the human cerebral cortex.[^8]
 :::
 
-[^7]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray728.png)
+[^8]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray728.png)
 
 ## NEURONAL INTERACTIONS
 
