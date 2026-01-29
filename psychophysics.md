@@ -175,6 +175,27 @@ Fechner went to work and tested exactly that. Rather than a thought experiment, 
 
 Let us take a moment and ponder that. Fechner did not only show that we can measure (changes in) perception _numerically_, but that if we do so, the result _follows_ a mathematical law!
 
+% PSE
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/numerosity_psychometric_dark.png
+:label: fig: psychometric_function
+:width: 50%
+
+**Psychometric Function** for numerosity.
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} images/numerosity_psychometric.png
+:label: fig: psychometric_function
+:width: 50%
+
+**Psychometric Function** for numerosity.
+:::
+
 And that law takes the mathematical shape of a **logarithm**:  
 
 $$
@@ -195,7 +216,7 @@ _k_ is a constant that changes depending on the type of sense or stimulus
 
 There is a mathematically precise law that allows us to predict how perception changes as we increase or decrease the strength (magnitude) of a physical stimulus. And that relationship, or mapping, between physical stimuli and perceptual experience is _logarithmic_ (in most cases - we will discuss exceptions later).  
 
-Fechner realized that this meant that perception seemed to follow "laws of nature", just like the classical Newtonian physics that he was familiar with. That is, we can describe perceptual measurement with _equations_, just like we can describe motion with equations (such as F=ma). Fechner thus called his approach **Psychphysics** since it really seemed to be a "physics of the psyche" in that it is an approach of precise measurement resulting in lawful relations (and hence predictions).
+Fechner realized that this meant that perception seemed to follow "laws of nature", just like the classical Newtonian physics that he was familiar with. That is, we can describe perceptual measurement with _equations_, just like we can describe motion with equations (such as F=ma). Fechner thus called his approach **Psychophysics** since it really seemed to be a "physics of the psyche" in that it is an approach of precise measurement resulting in lawful relations (and hence predictions).
 
 ## Methods
 
