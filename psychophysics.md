@@ -165,7 +165,7 @@ The **leftmost** images show 10 and 20 dots, respectively. We can immediately te
 
 :::
 
-[6]: [public domain image source](https://commons.wikimedia.org/wiki/File:Weber-Fechner_law_demo_-_dots.svg)
+[^6]: [public domain image source](https://commons.wikimedia.org/wiki/File:Weber-Fechner_law_demo_-_dots.svg)
 
 Let's go back to our thought experiment. We established that if you hold your hand out, and we put the light weight of a piece of paper on top of it, you will likely feel the weight of a single feather that we lay on top of the paper (if you cannot imagine that, just imagine it being 10 feathers at once). Now imagine that we put several very big hardcover books on your hands and add the feather (or 10 feathers) again. Would you be able to feel that? No. Clearly. So, the threshold of, say a single (or 10) feathers now does not work anymore. We need a lot more feathers on top of the books before you feel the extra weight.
 
