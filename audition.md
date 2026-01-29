@@ -45,6 +45,30 @@ Anatomy of vocalization.[^2]
 
 #### Inner Ear
 
+% TYMPANIC MEMBRANE AND INNER EAR
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/tympanic_inner_dark.png
+:label: fig: tympanic_inner
+:width: 70%
+
+View of the tympanic membrane and the rest of the middle ear.[^3]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} images/tympanic_inner.png
+:label: fig: tympanic_inner
+:width: 70%
+
+View of the tympanic membrane and the rest of the middle ear.[^3]
+:::
+
+[^3]: [public domain source](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sobo_1911_803.png/640px-Sobo_1911_803.png)
+
 #### Cochlea
 
 The cochlear is the retina of the ear.  
@@ -59,7 +83,7 @@ ORGAN OF CORTI
 :label: fig: corti
 :width: 70%
 
-Cross-section of the **Organ of Corti**.[^3]
+Cross-section of the **Organ of Corti**.[^4]
 
 :::
 
@@ -70,11 +94,11 @@ Cross-section of the **Organ of Corti**.[^3]
 :label: fig: corti
 :width: 70%
 
-Cross-section of the **Organ of Corti**.[^3]
+Cross-section of the **Organ of Corti**.[^4]
 
 :::
 
-[^3]: [public domain image source](https://commons.wikimedia.org/wiki/File:Anatomie_Descriptive_Et_Dissection,_Casa_de_Oswaldo_Cruz_(170725),_page_672.jpg)
+[^4]: [public domain image source](https://commons.wikimedia.org/wiki/File:Anatomie_Descriptive_Et_Dissection,_Casa_de_Oswaldo_Cruz_(170725),_page_672.jpg)
 
 #### Auditory Nerve
 
