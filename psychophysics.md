@@ -181,7 +181,7 @@ Let us take a moment and ponder that. Fechner did not only show that we can meas
 
 :::{figure} images/numerosity_psychometric_dark.png
 :label: fig: psychometric_function
-:width: 80%
+:width: 70%
 
 **Psychometric Function** for numerosity.
 :::
@@ -191,7 +191,7 @@ Let us take a moment and ponder that. Fechner did not only show that we can meas
 
 :::{figure} images/numerosity_psychometric.png
 :label: fig: psychometric_function
-:width: 80%
+:width: 70%
 
 **Psychometric Function** for numerosity.
 :::
