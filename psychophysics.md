@@ -301,5 +301,27 @@ For example, the pain elicited by electric shock, which is challenging to measur
 And yet, all of these experiences that do not follow Weber's Law, or Fechner's Law still follow a law.
 
 Named after the discoverer, Stevens, we now know that there is **just one law**, or equation, that describes **all of these psychophysical curves**. That is, one equation - now called **Steven's Law** - can account for linear perceptual phenomena (corresponding to Weber's Law), logarithmic perceptual experiences (corresponding to Fechner's Law; and by far the most common type of perceptual experiences we have), as well as for the few exponential experiences, such as electric shock:
-    _I_ = _c_ x  s^a
-where _I_ is perceptual intensity, _c_ a constant that depends on the modality (sense), _s_ stands for the physical stimulus magnitude, and _a_ is a number ranging from negative to positive.
+
+$$
+S = k\, I^{\,a},
+\quad
+\begin{aligned}
+S &:\ \text{perceived sensation magnitude} \\
+I &:\ \text{physical stimulus intensity} \\
+a &:\ \text{modality-dependent exponent} \\
+k &:\ \text{scaling constant}
+\end{aligned}
+$$ (Steven's Law)
+
+Note that depending on _a_, the resulting function will look like the (linear) Weber's Law, the (logarithmic) Fechner's Law, or it can even account for exponential curves:
+
+a<1 (compressive growth: Fechner's Law)
+Sensation increases more slowly than intensity.
+
+a≈1
+a≈1 (linear growth: Weber's Law)
+Sensation tracks intensity proportionally.
+
+a>1
+a>1 (expansive growth)
+Sensation increases faster than intensity.
