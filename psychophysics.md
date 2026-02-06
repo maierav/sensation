@@ -246,6 +246,19 @@ The most popular technique in modern research is arguably the Method of Limits. 
 
 The first most common extension of the Method of Limits is called a **staricase design**. As the name suggests, this technique rests on a "staircase" of sorts in which stimuli are chosen at each step to be presented next. In other words, each stimulus is chosen to be either one slight amount larger or smaller (or less or more intense) than the previous stimulus, depending on - and this is important - _the report of the observer/study participant_. The result is a starircase that goes up, then down, then up, and down again and so on.
 
+**Staircase Design** for measuring psychophysical thresholds. Each box shows a single stimulus presentation, followed by a yes (Y) or no (N) response. When the response was negative (Y), the stimulus gets reduced in intensity until the response turns negative (N) several times in a row, indicating that the threshold got crossed. In that case, the stimulus intensity is raised again. Once the threshold is crossed again, responses will turn positive (Y) again. This triggers a reversal of stimulus intensity again. This ascending and descending pattern is repeated until the 50% Y/N threshold can be computed as an average (mean).
+:::
+
+What is the point of all that? The main idea is to move stimuli around the threshold (which could be absolute or relative) in question. If stimuli are below a threshold, a staircase technique "steps up" in stimulus intensity until the threshold is reached, then goes on a bit more to ensure that the threshold has been crossed, and then reverses direction and "steps down" until the threshold is crossed again.  
+    You can probably see how this technique allows for very precise measurements  
+    as we can adjust the "step size" to become smaller and smaller in the process.
+
+### Two-Alternative Forced Choice (2-AFC)
+The second extensional technique that enhances precision and rigor in psychophysics is to severely limit _what_ a study participant can report at any point in time. The most common experiment of this kind uses two main components:  
+1. participants have to report when prompted
+2. participants have to respond using just one of two possible choices (e.g., **yes or no**).
+We call the resulting experimental design: **two-alternative** (since there are only two alternatives, such as yes or no) **forced choice** (since one of the two choices has to be picked; there is no option to obstain). Two-alternative forced choice (commonly abbreviated to **2-AFC**) is one of the most common experimental techniques in all of experimental psychology, and not just psychophysics. The main reason for this popularity lies in the fact that it allows for a simple, but useful data analysis technique that we will discuss in the next section.
+
 % STAIRCASE DESIGN
 :::{div}
 :class: hidden dark:block
@@ -264,22 +277,21 @@ The first most common extension of the Method of Limits is called a **staricase 
 :label: fig: starircase_design
 :width: 100%
 
-**Staircase Design** for measuring psychophysical thresholds. Each box shows a single stimulus presentation, followed by a yes (Y) or no (N) response. When the response was negative (Y), the stimulus gets reduced in intensity until the response turns negative (N) several times in a row, indicating that the threshold got crossed. In that case, the stimulus intensity is raised again. Once the threshold is crossed again, responses will turn positive (Y) again. This triggers a reversal of stimulus intensity again. This ascending and descending pattern is repeated until the 50% Y/N threshold can be computed as an average (mean).
-:::
-
-What is the point of all that? The main idea is to move stimuli around the threshold (which could be absolute or relative) in question. If stimuli are below a threshold, a staircase technique "steps up" in stimulus intensity until the threshold is reached, then goes on a bit more to ensure that the threshold has been crossed, and then reverses direction and "steps down" until the threshold is crossed again.  
-    You can probably see how this technique allows for very precise measurements  
-    as we can adjust the "step size" to become smaller and smaller in the process.
-
-### Two-Alternative Forced Choice (2-AFC)
-The second extensional technique that enhances precision and rigor in psychophysics is to severely limit _what_ a study participant can report at any point in time. The most common experiment of this kind uses two main components:  
-1. participants have to report when prompted
-2. participants have to respond using just one of two possible choices (e.g., **yes or no**).
-We call the resulting experimental design: **two-alternative** (since there are only two alternatives, such as yes or no) **forced choice** (since one of the two choices has to be picked; there is no option to obstain). Two-alternative forced choice (commonly abbreviated to **2-AFC**) is one of the most common experimental techniques in all of experimental psychology, and not just psychophysics. The main reason for this popularity lies in the fact that it allows for a simple, but useful data analysis technique that we will discuss in the next section.
-
 ### Signal Detection Theory
 
 There is a lot to say about Signal Detection Theory, or SDT. But the only important fact about it in our context is that it can be used to quantify the **bias** of study participants when it comes to reporting their perception - particulary when a 2-AFC experiment was used.
+
+The basic idea is the following:
+
+If a study participant is more biased towards saying "yes" when they are not quite sure, this implies that they will do better in detecting an actual stimulus or an actual change in a stimulus under difficult conditions (i.e., a faint stimulus or a slight change). We call this correct detections **hits**.
+
+However, if we sometimes confront that observer with a condition for which we know the correct answer should be "no" (i.e., we do not present a stimulus, or we do not present a change in the stimulus), they will now also be more likely to say "yes". After all, to them this may just seem as another challenging condition, and they are leaning towards saying "yes" in that case. We just "caught" them in doing so, and we thus call such presentations (where there is no stimulus or no physical stimulus change) a **catch trial**. And we call these incorrect detections **false alarms**.
+
+Note how someone who is more prone to answer "yes" whenever they are in doubt leaves a footprint of sorts in the results (the data) of our experiments: they have a lot of hits _and_ a lot of false alarms. The fact that they do so is a direct consequence of their bias, or **report criterion** (which causes them to more freely, or **liberally** apply towards saying "yes"): Imagine someone simply always saying "yes" - they will correctly detect all possible hits in our task, but also incorrectly produce all possible false alarms when we employed catch trials. Someone who is not quite that extrem will just do that to a lesser degree.
+
+Now, let us consider someone doing the exact opposite - and being much more likely to say "no" when they are unsure whether they detected something or not. In jargon, we call someone like that as having a more **conservative report criterion** in that they are more likely to deny that something has changed (such as there being a stimulus or a physical change to a stimulus). In this case, we find the opposite pattern in the data they produce: Their hits will be diminished since saying "no" more often decreases the chance of correctly detecting a challenging stimulus. At the same time, their false alarms _also_ are decreased since they were more prone to correctly say "no" on those occassions as well. What _does_ go up for someone like that are **misses**, where they should have detected a stimulus and yet did not do so. At the same time, tehy also excel at correctly indicating that a catch trial took place where there was no stimulus or not stimulus change. We call that event a **correct rejection**.
+
+Signal Detection Theory provides mathematical formalism that allows for precise quantification of how liberal or conservative someone was in their report criterion when deciding on whether they detected a stimulus (or stimulus change) ubder difficult conditions. The mathematics used to do so is beyond our scope for now, but you can imagine that it must make use of the above by relating an observer's hits to false alarms.
 
 ### Magnitude Estimation
 
