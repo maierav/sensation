@@ -246,6 +246,27 @@ The most popular technique in modern research is arguably the Method of Limits. 
 
 The first most common extension of the Method of Limits is called a **staricase design**. As the name suggests, this technique rests on a "staircase" of sorts in which stimuli are chosen at each step to be presented next. In other words, each stimulus is chosen to be either one slight amount larger or smaller (or less or more intense) than the previous stimulus, depending on - and this is important - _the report of the observer/study participant_. The result is a starircase that goes up, then down, then up, and down again and so on.
 
+% STAIRCASE DESIGN
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/staircase_dark.png
+:label: fig: starircase_design
+:width: 70%
+
+**Staircase Design** for measuring psychophysical threshold.
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} images/staircase.png
+:label: fig: starircase_design
+:width: 70%
+
+**Staircase Design** for measuring psychophysical threshold.
+:::
+
 What is the point of all that? The main idea is to move stimuli around the threshold (which could be absolute or relative) in question. If stimuli are below a threshold, a staircase technique "steps up" in stimulus intensity until the threshold is reached, then goes on a bit more to ensure that the threshold has been crossed, and then reverses direction and "steps down" until the threshold is crossed again.  
     You can probably see how this technique allows for very precise measurements  
     as we can adjust the "step size" to become smaller and smaller in the process.
