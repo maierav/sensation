@@ -293,6 +293,27 @@ Now, let us consider someone doing the exact opposite - and being much more like
 
 Signal Detection Theory provides mathematical formalism that allows for precise quantification of how liberal or conservative someone was in their report criterion when deciding on whether they detected a stimulus (or stimulus change) ubder difficult conditions. The mathematics used to do so is beyond our scope for now, but you can imagine that it must make use of the above by relating an observer's hits to false alarms.
 
+% SDT
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/sdt_dark.png
+:label: fig: sdt
+:width: 100%
+
+**Signal Detection Theory** is a mathematical tool to find out whether an observer whose perceptual report we are measuring for (absolute or relative) thresholds is more prone to say "yes" versus "no" whenever they are in doubt because their perception was subtle.
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} images/sdt.png
+:label: fig: sdt
+:width: 100%
+
+**Signal Detection Theory** is a mathematical tool to find out whether an observer whose perceptual report we are measuring for (absolute or relative) thresholds is more prone to say "yes" versus "no" whenever they are in doubt because their perception was subtle.
+:::
+
 ### Magnitude Estimation
 
 Following all the above, you might have come to appreciate that psychophysics can provide quite accurate-seeming measures of perception indeed. The basic idea of measuring *change* as *discrete events* in the form of *thresholds* already seems somewhat rigorous and creates a notion of *numerosity*, or *countability* of perceptual intensity. Adding to that a *staircase method*, *2-AFC*, and *SDT* also allows for accounting for potential *response bias* of study participants, let alone randomly produced or deliberately inaccurate perceptual reports.  
