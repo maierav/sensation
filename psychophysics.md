@@ -299,7 +299,7 @@ Signal Detection Theory provides mathematical formalism that allows for precise 
 
 :::{figure} images/SDT_dark.png
 :label: fig: sdt
-:width: 100%
+:width: 80%
 
 **Signal Detection Theory** is a mathematical tool to find out whether an observer whose perceptual report we are measuring for (absolute or relative) thresholds is more prone to say "yes" versus "no" whenever they are in doubt because their perception was subtle.
 :::
@@ -309,7 +309,7 @@ Signal Detection Theory provides mathematical formalism that allows for precise 
 
 :::{figure} images/SDT.png
 :label: fig: sdt
-:width: 100%
+:width: 80%
 
 **Signal Detection Theory** is a mathematical tool to find out whether an observer whose perceptual report we are measuring for (absolute or relative) thresholds is more prone to say "yes" versus "no" whenever they are in doubt because their perception was subtle.
 :::
