@@ -318,10 +318,8 @@ Note that depending on _a_, the resulting function will look like the (linear) W
 a<1 (compressive growth: Fechner's Law)
 Sensation increases more slowly than intensity.
 
-a≈1
 a≈1 (linear growth: Weber's Law)
 Sensation tracks intensity proportionally.
 
-a>1
 a>1 (expansive growth)
 Sensation increases faster than intensity.
