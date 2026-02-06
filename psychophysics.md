@@ -262,7 +262,7 @@ We call the resulting experimental design: **two-alternative** (since there are 
 
 :::{figure} images/staircase_dark.png
 :label: fig: starircase_design
-:width: 100%
+:width: 95%
 
 **Staircase Design** for measuring psychophysical thresholds. Each box shows a single stimulus presentation, followed by a yes (Y) or no (N) response. When the response was negative (Y), the stimulus gets reduced in intensity until the response turns negative (N) several times in a row, indicating that the threshold got crossed. In that case, the stimulus intensity is raised again. Once the threshold is crossed again, responses will turn positive (Y) again. This triggers a reversal of stimulus intensity again. This ascending and descending pattern is repeated until the 50% Y/N threshold can be computed as an average (mean).
 :::
@@ -272,7 +272,7 @@ We call the resulting experimental design: **two-alternative** (since there are 
 
 :::{figure} images/staircase.png
 :label: fig: starircase_design
-:width: 100%
+:width: 95%
 
 **Staircase Design** for measuring psychophysical thresholds. Each box shows a single stimulus presentation, followed by a yes (Y) or no (N) response. When the response was negative (Y), the stimulus gets reduced in intensity until the response turns negative (N) several times in a row, indicating that the threshold got crossed. In that case, the stimulus intensity is raised again. Once the threshold is crossed again, responses will turn positive (Y) again. This triggers a reversal of stimulus intensity again. This ascending and descending pattern is repeated until the 50% Y/N threshold can be computed as an average (mean).
 :::
@@ -299,7 +299,7 @@ Signal Detection Theory provides mathematical formalism that allows for precise 
 
 :::{figure} images/SDT_dark.png
 :label: fig: sdt
-:width: 80%
+:width: 85%
 
 **Signal Detection Theory** is a mathematical tool to find out whether an observer whose perceptual report we are measuring for (absolute or relative) thresholds is more prone to say "yes" versus "no" whenever they are in doubt because their perception was subtle.
 :::
@@ -309,7 +309,7 @@ Signal Detection Theory provides mathematical formalism that allows for precise 
 
 :::{figure} images/SDT.png
 :label: fig: sdt
-:width: 80%
+:width: 85%
 
 **Signal Detection Theory** is a mathematical tool to find out whether an observer whose perceptual report we are measuring for (absolute or relative) thresholds is more prone to say "yes" versus "no" whenever they are in doubt because their perception was subtle.
 :::
