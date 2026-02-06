@@ -405,7 +405,7 @@ Sensation increases faster than intensity.
 
 :::{figure} images/stevens_dark.png
 :label: fig: stevens_law
-:width: 80%
+:width: 85%
 
 **Steven's Law** is a short equation that explains psychophysical data that follows Weber's Law, Fechner's Law or exponential laws. It thus is the most simple and general rule that describes how perceptual intensity scales with stimulus intensity.
 :::
@@ -415,7 +415,7 @@ Sensation increases faster than intensity.
 
 :::{figure} images/stevens.png
 :label: fig: stevens_law
-:width: 80%
+:width: 85%
 
 **Steven's Law** is a short equation that explains psychophysical data that follows Weber's Law, Fechner's Law or exponential laws. It thus is the most simple and general rule that describes how perceptual intensity scales with stimulus intensity.
 :::
