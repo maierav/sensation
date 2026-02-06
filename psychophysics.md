@@ -297,7 +297,7 @@ Signal Detection Theory provides mathematical formalism that allows for precise 
 :::{div}
 :class: hidden dark:block
 
-:::{figure} images/sdt_dark.png
+:::{figure} images/SDT_dark.png
 :label: fig: sdt
 :width: 100%
 
@@ -307,7 +307,7 @@ Signal Detection Theory provides mathematical formalism that allows for precise 
 :::{div}
 :class: dark:hidden
 
-:::{figure} images/sdt.png
+:::{figure} images/SDT.png
 :label: fig: sdt
 :width: 100%
 
