@@ -246,9 +246,6 @@ The most popular technique in modern research is arguably the Method of Limits. 
 
 The first most common extension of the Method of Limits is called a **staricase design**. As the name suggests, this technique rests on a "staircase" of sorts in which stimuli are chosen at each step to be presented next. In other words, each stimulus is chosen to be either one slight amount larger or smaller (or less or more intense) than the previous stimulus, depending on - and this is important - _the report of the observer/study participant_. The result is a starircase that goes up, then down, then up, and down again and so on.
 
-**Staircase Design** for measuring psychophysical thresholds. Each box shows a single stimulus presentation, followed by a yes (Y) or no (N) response. When the response was negative (Y), the stimulus gets reduced in intensity until the response turns negative (N) several times in a row, indicating that the threshold got crossed. In that case, the stimulus intensity is raised again. Once the threshold is crossed again, responses will turn positive (Y) again. This triggers a reversal of stimulus intensity again. This ascending and descending pattern is repeated until the 50% Y/N threshold can be computed as an average (mean).
-:::
-
 What is the point of all that? The main idea is to move stimuli around the threshold (which could be absolute or relative) in question. If stimuli are below a threshold, a staircase technique "steps up" in stimulus intensity until the threshold is reached, then goes on a bit more to ensure that the threshold has been crossed, and then reverses direction and "steps down" until the threshold is crossed again.  
     You can probably see how this technique allows for very precise measurements  
     as we can adjust the "step size" to become smaller and smaller in the process.
@@ -276,6 +273,9 @@ We call the resulting experimental design: **two-alternative** (since there are 
 :::{figure} images/staircase.png
 :label: fig: starircase_design
 :width: 100%
+
+**Staircase Design** for measuring psychophysical thresholds. Each box shows a single stimulus presentation, followed by a yes (Y) or no (N) response. When the response was negative (Y), the stimulus gets reduced in intensity until the response turns negative (N) several times in a row, indicating that the threshold got crossed. In that case, the stimulus intensity is raised again. Once the threshold is crossed again, responses will turn positive (Y) again. This triggers a reversal of stimulus intensity again. This ascending and descending pattern is repeated until the 50% Y/N threshold can be computed as an average (mean).
+:::
 
 ### Signal Detection Theory
 
