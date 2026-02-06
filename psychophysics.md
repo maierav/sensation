@@ -337,7 +337,7 @@ In fact, the latter (asking someone to rate their intensity of pain experience) 
 
 :::{figure} images/pain_scale_dark.png
 :label: fig: magnitude_estimation
-:width: 65%
+:width: 80%
 
 **Magnitude Estimation** is the technique of having observers directly assign a value to the intensity of their experience, such as describing the level of pain they are in when arriving as a patient at a hospital.
 :::
@@ -347,7 +347,7 @@ In fact, the latter (asking someone to rate their intensity of pain experience) 
 
 :::{figure} images/pain_scale.png
 :label: fig: magnitude_estimation
-:width: 65%
+:width: 80%
 
 **Magnitude Estimation** is the technique of having observers directly assign a value to the intensity of their experience, such as describing the level of pain they are in when arriving as a patient at a hospital.
 :::
