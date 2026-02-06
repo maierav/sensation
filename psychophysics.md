@@ -236,10 +236,70 @@ This technique is distinguished by the **participant** changing the stimulus the
 
 ### Method of Limits
 
+This technique does not used fixed stimuli, but instead an experimenter **gradually** (_non-randomly_) increases or decreases the intensity of a stimulus until a change is detected.
+
 ## Extensions
+
+The most popular technique in modern research is arguably the Method of Limits. The main reason for this choice probably lies in the fact that computers have made it easy to automatically adjust stimuli following a participant's response. Another reason for the popularity of this psychophysical technique lies in the fact that when the Method of Limits is used in combination with other techniques, the result is both increased rigor (precision) as well as heightened confidence in the report of subjects. How is that possible?  
 
 ### Staircase Design
 
+The first most common extension of the Method of Limits is called a **staricase design**. As the name suggests, this technique rests on a "staircase" of sorts in which stimuli are chosen at each step to be presented next. In other words, each stimulus is chosen to be either one slight amount larger or smaller (or less or more intense) than the previous stimulus, depending on - and this is important - _the report of the observer/study participant_. The result is a starircase that goes up, then down, then up, and down again and so on.
+
+What is the point of all that? The main idea is to move stimuli around the threshold (which could be absolute or relative) in question. If stimuli are below a threshold, a staircase technique "steps up" in stimulus intensity until the threshold is reached, then goes on a bit more to ensure that the threshold has been crossed, and then reverses direction and "steps down" until the threshold is crossed again.  
+    You can probably see how this technique allows for very precise measurements  
+    as we can adjust the "step size" to become smaller and smaller in the process.
+
+### Two-Alternative Forced Choice (2-AFC)
+The second extensional technique that enhances precision and rigor in psychophysics is to severely limit _what_ a study participant can report at any point in time. The most common experiment of this kind uses two main components:  
+1. participants have to report when prompted
+2. participants have to respond using just one of two possible choices (e.g., **yes or no**).
+We call the resulting experimental design: **two-alternative** (since there are only two alternatives, such as yes or no) **forced choice** (since one of the two choices has to be picked; there is no option to obstain). Two-alternative forced choice (commonly abbreviated to **2-AFC**) is one of the most common experimental techniques in all of experimental psychology, and not just psychophysics. The main reason for this popularity lies in the fact that it allows for a simple, but useful data analysis technique that we will discuss in the next section.
+
 ### Signal Detection Theory
 
+There is a lot to say about Signal Detection Theory, or SDT. But the only important fact about it in our context is that it can be used to quantify the **bias** of study participants when it comes to reporting their perception - particulary when a 2-AFC experiment was used.
+
 ### Magnitude Estimation
+
+Following all the above, you might have come to appreciate that psychophysics can provide quite accurate-seeming measures of perception indeed. The basic idea of measuring *change* as *discrete events* in the form of *thresholds* already seems somewhat rigorous and creates a notion of *numerosity*, or *countability* of perceptual intensity. Adding to that a *staircase method*, *2-AFC*, and *SDT* also allows for accounting for potential *response bias* of study participants, let alone randomly produced or deliberately inaccurate perceptual reports.  
+
+Given all that you might feel surprised that several decades ago, some psychophysicists decided to move into the exact opposite direction and drop all rigour (and everything we discussed above). Instead, they wondered, what would happen if we just assume that study participants are able and willing to accurately tell us what they experience. No need for thresholds, catch trials, or any other means of ensuring that we can trust what someone reports about their experience.
+
+Somewhat surprisingly, this avenue has also proven extremely successful, and further provided insights into what we know about perceptual experience.
+
+In the simplest case, this novel way of doing psychophysics amounts to the simple question of asking:
+    How much?
+or maybe more precisely, asking something like:
+    On a scale from 1 to 10, how much would you say it is?
+
+The answer to these question is called **magnitude estimation** (of course, these questions can be modified, such as using a scale from 1 to 100 rather than 1 to 10). We can do that for any sense and experience, of course. We can ask how loud someone might rate a sound in this way. We can ask how much they feel that they are in love. Or how much they are in pain, for example.  
+
+In fact, the latter (asking someone to rate their intensity of pain experience) is what is most commonly used in emergency room **triage**, where rapid decisions have to be made about which patient needs the attention of physicians most quickly. In other words, we trust people to make **life-or-death decisions** using simple psychophysical magnitude estimation.  
+
+### Cross-Modality Matching
+
+Another technique that is closely related to magnitude estimation (and was in fact invented around the same time) is called cross-modality matching. This technique also just asks study participants to rate their experience - except it uses other senses (modalities) as reference points, or comparisons.
+
+So, for example, a cross-modailty matching question might be
+    Does your pain feel more like the sound of  
+    a silent whisper,  
+    a room full of people at a cocktail party,  
+    standing nearby a heavily trafficked highway?
+    or an airplane engine?
+
+The main idea is to gain some kind of measure in the sense of = (equal, or about the same), > (larger), < (less), or >> (much larger), << (much less)>>, and so on.
+
+## Steven's Law
+
+One resulting finding of dropping all the rigor that can be gained from measuring thresholds, and using precise techniques, such as staircase designs, 2-AFC and so on, and using just magnitude estimation or cross-modality matching instead is that we now can measure **even more**. In other words, this extended form of psychophysics now can also measure what may not follow clear thresholds. And the result has been surprising:
+
+        Some perceptual experiences do not follow Fechner's Law.
+
+For example, the pain elicited by electric shock, which is challenging to measure by classic threshold techniques, is reported by subjects using magnitude estimation to _not be logarithmic at all_. In fact, the pain that arises by increasingly strong electric shocks follows the exact opposite pattern: it increases _exponentially_.
+
+And yet, all of these experiences that do not follow Weber's Law, or Fechner's Law still follow a law.
+
+Named after the discoverer, Stevens, we now know that there is **just one law**, or equation, that describes **all of these psychophysical curves**. That is, one equation - now called **Steven's Law** - can account for linear perceptual phenomena (corresponding to Weber's Law), logarithmic perceptual experiences (corresponding to Fechner's Law; and by far the most common type of perceptual experiences we have), as well as for the few exponential experiences, such as electric shock:
+    _I_ = _c_ x  s^a
+where _I_ is perceptual intensity, _c_ a constant that depends on the modality (sense), _s_ stands for the physical stimulus magnitude, and _a_ is a number ranging from negative to positive.
