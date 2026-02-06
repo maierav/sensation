@@ -252,7 +252,7 @@ The first most common extension of the Method of Limits is called a **staricase 
 
 :::{figure} images/staircase_dark.png
 :label: fig: starircase_design
-:width: 70%
+:width: 90%
 
 **Staircase Design** for measuring psychophysical threshold.
 :::
@@ -262,7 +262,7 @@ The first most common extension of the Method of Limits is called a **staricase 
 
 :::{figure} images/staircase.png
 :label: fig: starircase_design
-:width: 70%
+:width: 90%
 
 **Staircase Design** for measuring psychophysical threshold.
 :::
