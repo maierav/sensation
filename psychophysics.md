@@ -331,6 +331,27 @@ The answer to these question is called **magnitude estimation** (of course, thes
 
 In fact, the latter (asking someone to rate their intensity of pain experience) is what is most commonly used in emergency room **triage**, where rapid decisions have to be made about which patient needs the attention of physicians most quickly. In other words, we trust people to make **life-or-death decisions** using simple psychophysical magnitude estimation.  
 
+% MAGNITUDE ESTIMATION
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/pain_scale_dark.png
+:label: fig: magnitude_estimation
+:width: 85%
+
+**Magnitude Estimation** is the technique of having observers directly assign a value to the intensity of their experience, such as describing the level of pain they are in when arriving as a patient at a hospital.
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} images/pain_scale.png
+:label: fig: magnitude_estimation
+:width: 85%
+
+**Magnitude Estimation** is the technique of having observers directly assign a value to the intensity of their experience, such as describing the level of pain they are in when arriving as a patient at a hospital.
+:::
+
 ### Cross-Modality Matching
 
 Another technique that is closely related to magnitude estimation (and was in fact invented around the same time) is called cross-modality matching. This technique also just asks study participants to rate their experience - except it uses other senses (modalities) as reference points, or comparisons.
