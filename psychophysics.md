@@ -254,7 +254,7 @@ The first most common extension of the Method of Limits is called a **staricase 
 :label: fig: starircase_design
 :width: 100%
 
-**Staircase Design** for measuring psychophysical threshold.
+**Staircase Design** for measuring psychophysical thresholds. Each box shows a single stimulus presentation, followed by a yes (Y) or no (N) response. When the response was negative (Y), the stimulus gets reduced in intensity until the response turns negative (N) several times in a row, indicating that the threshold got crossed. In that case, the stimulus intensity is raised again. Once the threshold is crossed again, responses will turn positive (Y) again. This triggers a reversal of stimulus intensity again. This ascending and descending pattern is repeated until the 50% Y/N threshold can be computed as an average (mean).
 :::
 
 :::{div}
@@ -264,7 +264,7 @@ The first most common extension of the Method of Limits is called a **staricase 
 :label: fig: starircase_design
 :width: 100%
 
-**Staircase Design** for measuring psychophysical threshold.
+**Staircase Design** for measuring psychophysical thresholds. Each box shows a single stimulus presentation, followed by a yes (Y) or no (N) response. When the response was negative (Y), the stimulus gets reduced in intensity until the response turns negative (N) several times in a row, indicating that the threshold got crossed. In that case, the stimulus intensity is raised again. Once the threshold is crossed again, responses will turn positive (Y) again. This triggers a reversal of stimulus intensity again. This ascending and descending pattern is repeated until the 50% Y/N threshold can be computed as an average (mean).
 :::
 
 What is the point of all that? The main idea is to move stimuli around the threshold (which could be absolute or relative) in question. If stimuli are below a threshold, a staircase technique "steps up" in stimulus intensity until the threshold is reached, then goes on a bit more to ensure that the threshold has been crossed, and then reverses direction and "steps down" until the threshold is crossed again.  
