@@ -315,10 +315,10 @@ $$ (Steven's Law)
 
 Note that depending on _a_, the resulting function will look like the (linear) Weber's Law, the (logarithmic) Fechner's Law, or it can even account for exponential curves:
 
-a<1 (compressive growth: Fechner's Law)
+a<1 (compressive growth: _Fechner's Law_)
 Sensation increases more slowly than intensity.
 
-a≈1 (linear growth: Weber's Law)
+a≈1 (linear growth: _Weber's Law_)
 Sensation tracks intensity proportionally.
 
 a>1 (expansive growth)
