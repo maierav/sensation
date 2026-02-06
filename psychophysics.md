@@ -398,3 +398,24 @@ Sensation tracks intensity proportionally.
 
 a>1 (expansive growth)
 Sensation increases faster than intensity.
+
+% STEVENS LAW
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/stevens_dark.png
+:label: fig: stevens_law
+:width: 80%
+
+**Steven's Law** is a short equation that explains psychophysical data that follows Weber's Law, Fechner's Law or exponential laws. It thus is the most simple and general rule that describes how perceptual intensity scales with stimulus intensity.
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} images/stevens.png
+:label: fig: stevens_law
+:width: 80%
+
+**Steven's Law** is a short equation that explains psychophysical data that follows Weber's Law, Fechner's Law or exponential laws. It thus is the most simple and general rule that describes how perceptual intensity scales with stimulus intensity.
+:::
