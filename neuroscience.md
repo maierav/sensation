@@ -83,6 +83,24 @@ The main parts of a neuron.[^3]
 
 ### Action Potentials
 
+Most of the time, neurons do nothing spectacular. They "rest" - at least from an electric perspective. And while they rest, they are slightly negatively charged (thanks to special molecules in their **cellular membranes** or "skin" that actively move negative ions (**anions**) from outside the neurons to their inside). As a result, neurons typically exhibit a voltage difference, or _potential_, between their insides and the outside. This negative **charge** (similar to that of a battery, just much smaller) is called a neuron's **resting potential**. It tends to be around -70mV.
+
+When neurons get **excited** (thank to stimulation or via the signals of other, connected neurons), they can become more positive in charge. We call this **depolarization** (neurons can also be actively **inhibited** by other neurons and become more negatively charged in a process called **hyperpolarization**).
+
+Once this increased positivity in electric charge crosses an all-or-none **threshold**, a neuron will become positively charged rather quickly, before rapidly returning to its resting potential. The result is a brief electric **impulse** called an **action potential**, or **spike** (since that is what it looks like on a plot of voltage over time). In other words, once neurons reach a certain level of _excitation_, they briefly take on positive charge relative to their environment and then return to being negative again. The whole process takes about 1 millisecond (ms). As a result, neurons can only fire up to ~1000 action potentials per second, or 1000 Hertz (1 kilo Hertz, or kHz).
+
+This is all that neurons can do in terms of electric signaling. They are usually at rest - think of it as 0. And sometimes, they briefly get active and "fire" an action potential - think of it as 1. Neurons can fire several action potentials in a row, of course, but since each action potential takes about 1ms, the result is a **Morse code** of sorts:  
+
+If we print a 0 for each millisecond that a neuron is at rest and a 1 for each millisecond that it fires an action potential, we can represent a neuron that inactive for 5ms and then repeatedly active for the next 5ms in the following way (where each successive digit describes the state of the neuron at that millisecond in time):
+
+    0 0 0 0 0 1 1 1 1 1
+
+If the neuron would be inactive for the first 2ms, then fire 1 action potential, and then be at rest for another 2ms, we get:
+
+    0 0 1 0 0
+
+Such **binary sequences** are common ways to represent neuronal activity measurements, and we will encounter them again during later chapters.
+
 % Neuron Signals
 :::{div}
 :class: hidden dark:block
@@ -135,7 +153,7 @@ However, the signal that the impulse represented does not stop at this point. Wh
 
 This way, neurons can do more than just pass on signals - synapses allow neurons to either pass on _presynaptic action potentials_ once they sense them as chemical signals at their dendrites, or not (in practice, what decides whether a _postsynaptic action potential_ is produced is simply **how many** chemical signals that neuron received in a certain amount of time).
 
-The fact that signals - information - moves across our brains in _both_ electrical (action potentials) and chemical (neurontransmitters) form also explains why our brains can be changed in their activity either via electric means (as is done in certain patients that have electrodes implanted in their brain) or via chemical means (such as is done when we undergo general anesthesia for surgical procedures).
+The fact that signals - information - moves across our brains in _both_ electrical (action potentials) and chemical (neurotransmitters) form also explains why our brains can be changed in their activity either via electric means (as is done in certain patients that have electrodes implanted in their brain) or via chemical means (such as is done when we undergo general anesthesia for surgical procedures).
 
 ### Neurophysiology
 
