@@ -127,6 +127,16 @@ Diagram of an action potential. Action potentials are brief (~1ms) all-or-none i
 
 ### Synapses
 
+Synapses are the spaces between neurons where the parts of neurons that deliver signals (the **axons** of **presynaptic neurons**) come close to the parts of neurons that receive these signals (the **dendrites of postsynaptic neurons**). In between these neurons, there is a tiny gap - the synaptic cleft.
+
+Does a gap imply that the electric signal (the **action potential**) that traveled down a neuron towards its axon (and ultimately, the **axon terminals**) comes to a stop? Yes. The electric impulse ends right there. It does not cross, or "jump" to other neurons - not directly. Just as would be the case for electric wires, the spatial gap electrically insulates neighboring neurons to a great degree.
+
+However, the signal that the impulse represented does not stop at this point. What happens is more interesting: The electric impulse (the action potential) of the _presynaptic neuron_ gets converted to a **chemical signal** (in the form of **neurotransmitters**). That chemical signal crosses the synapse, and, depending on the circumstances, the _postsynaptic neuron_ might translate this chemical signal back into an electrical signal (a _postsynaptic_ action potential).
+
+This way, neurons can do more than just pass on signals - synapses allow neurons to either pass on _presynaptic action potentials_ once they sense them as chemical signals at their dendrites, or not (in practice, what decides whether a _postsynaptic action potential_ is produced is simply **how many** chemical signals that neuron received in a certain amount of time).
+
+The fact that signals - information - moves across our brains in _both_ electrical (action potentials) and chemical (neurontransmitters) form also explains why our brains can be changed in their activity either via electric means (as is done in certain patients that have electrodes implanted in their brain) or via chemical means (such as is done when we undergo general anesthesia for surgical procedures).
+
 ### Neurophysiology
 
 % Neuron Signals
