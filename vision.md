@@ -101,6 +101,10 @@ As stated at the outset, all chapters that are sorted by what we commonly define
 
 This is a somewhat usual organization for a textbook on sensation and perception. More commonly, these three separate fields of study (physics/chemistry, neuroscience, and perceptual psychology) are presented as intertwined. Indeed, there are many benefits of presenting some psychophysical phenomena in the context of the physics of stimuli or neuronal connections and responses. We thus will allow for a bit of liberalism and do so occasionally as well. However, the overall goal here is to retain a certain consistent logical structure to our approach. And, in doing so, first think about the differences between the physics or chemistry of sensory stimuli and our perception of the related sensory activations - before thinking about the link between brain mechanisms and perception.  
 
+#### Spectra
+
+#### FIlters
+
 ### Optics
 
 Before we can discuss the neuroscience of vision, we need to discuss the anatomy of the eye since it functions as an apparatus of sorts that dictates what happens to the neurons. And this apparatus is largely dictated by the function of the lens. And to understand the function of the lens we need to understand the phenomenon of **refraction**.
@@ -152,6 +156,12 @@ The reason that these (most common) reflections of light are mot mirror-like is 
 When all wavelengths are scattered, we see a white objects (this is why clouds tend to look white). When we see objects as colored, only some wavelengths are scattered. The remaining wavelengths are absorbed.
 
 #### Refraction
+
+Refraction is what happens inside our lenses. Refraction is akin to transmission in that light travels through the medium that it enters and exits. However, in doing so, it also gets "bent" in that its angle changes systematically, similar to the case of reflection.
+
+An intuitive metaphor for refraction is a marching band of several rows of people walking in lockstep hitting a swamp on one side. The swamp will cause the marchers that enter it first to slow down while the rest of the band keeps marching fast. As the rest of the row of the band, and eventually the following rows enter the swamp, they all slow down respectively. The result is that the entire band takes an angle in direction of marching.
+
+Indeed, refraction is usually explained by the "density" of the material that light travels through. The denser the material, the steeper the resulting angle that light bends as it enters (and exits). This is why mirages happen - hot air is less dense than cold air, and hence light bends differently whenever we have two layers of air of different temperatures on top of each other.
 
 ## PSYCHOLOGY
 
