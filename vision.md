@@ -49,7 +49,7 @@ This is not meant to let you down. In fact, there are suggestions for satisfying
 
 So, let us begin.
 
-## OPTICS
+## PHYSICS
 
 % Vision
 :::{div}
@@ -100,6 +100,18 @@ At this point, we should have a solid set of knowledge about the physics of ligh
 As stated at the outset, all chapters that are sorted by what we commonly define our main senses will be organized as this one: We will first discuss the physics or chemistry that underlies the sensory stimuli that are associated with each sense. Then we will discuss what has been studied about the perception that each of these senses evoke using behavioral techniques, including psychophysics and verbal report. Only then will we discuss what is known about the neural mechanisms (neuroanatomy and neuronal responses) that are associated with each sense.  
 
 This is a somewhat usual organization for a textbook on sensation and perception. More commonly, these three separate fields of study (physics/chemistry, neuroscience, and perceptual psychology) are presented as intertwined. Indeed, there are many benefits of presenting some psychophysical phenomena in the context of the physics of stimuli or neuronal connections and responses. We thus will allow for a bit of liberalism and do so occasionally as well. However, the overall goal here is to retain a certain consistent logical structure to our approach. And, in doing so, first think about the differences between the physics or chemistry of sensory stimuli and our perception of the related sensory activations - before thinking about the link between brain mechanisms and perception.  
+
+### Optics
+
+Before we can discuss the neuroscience of vision, we need to discuss the anatomy of the eye since it functions as an apparatus of sorts that dictates what happens to the neurons. And this apparatus is largely dictated by the function of the lens. And to understand the function of the lens we need to understand the phenomenon of **refraction**.
+
+To put it glibly, there are only five different things (and mixtures thereof) that can happen to light as it travels through space. Refraction is one of these five things:
+
+1. Transmission
+2. Absorption
+3. Reflection
+4. Scattering
+5. Refraction
 
 ## PSYCHOLOGY
 
