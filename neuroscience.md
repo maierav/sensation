@@ -184,6 +184,8 @@ Increasingly, we are witnessing that humans receive brain implants that measure 
 
 However, there is also increased interest in using implanted electrodes to **measure** ("read") brain responses, including on the level of signal neurons. Much of this work aims towards using computers (machines) to make sense of (to decode) the activity of measured neurons. These kinds of devices are called **brain-machine interfaces**, or BMI, accordingly. BMI promise to help people with paralyses, for example by decoding neuronal activity in brain areas that plan for motion and then activate the planned motion via robotic devices (such as a robotic arm that is worn as a **prosthesis**).
 
+It thus is possible that neuroscience will soon less depend on non-invasive measures of brain activity and increasingly study human neuronal responses, such as the action potentials of large amounts of simultaneously measured neurons with **great temporal and spatial resolution**.
+
 ## NEURONAL CONNECTIVITY
 
 % Reflex
