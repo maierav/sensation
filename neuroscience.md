@@ -162,7 +162,27 @@ A sequence of spikes in response to constant stimulation (a "spike train").[^6]
 
 ### EEG / MEG
 
+EEG measures the combined electric effects (voltages) of thousands of neurons on top of our scalp. The resulting measurements are great with respect to time (**great temporal resolution**), i.e., _when_ things are happening in the brain. That is, EEG captures changes on the scale of milliseconds or less.  
+
+However, these electric signals cannot be traced back reliably to where in the brain they are coming from (due to the so-called _inverse problem_). As a result EEG is weak in telling us _where_ things are in the brain. That is, EEG has **poor spatial resolution**.
+
 ### fMRI
+
+Magnetic resonance imaging (MRI) utilizes extremely strong magnets (electro-magnets that are many orders of magnitude larger than the magnetic field of our planet) to measure tissue differences inside bodies. MRI is used routinely to test tissues all inside our bodies, including our hearts and brains. MRI scans that show tissue differences in our brains are also called **anatomical MRI**.
+
+The same machines (MRI machines) can also detect changes in blood oxygenation, blood volume, and blood flow. A combination of these signals that has become a measure of choice in neuroscience is called the _Blood Oxygen-Level Dependent_ Signal, or **BOLD**.
+
+Since neurons firing many action potentials in a short amount of time (i.e., highly excited neurons) consume a lot of energy, changes in blood oxygenation likely indicate spots inside the brain with high neuronal activity (in reality, what we tend to measure is a sort of overcompensation where blood vessels respond to neuronal activity a bit too strongly). The result is **functional MRI**, or fMRI. Same machine, just a slightly different use.
+
+fMRI is an inverse of sorts to EEG. Using ever stronger magnetic fields, fMRI can show us _where_ changes happened in the brain with microscopic resolution (brain volumes containing thousands of neurons at a time). That is fMRI has **great spatial resolution**. However, the BOLD signal takes several seconds to develop (rise and fall). As a result, fMRI has **poor temporal resolution**.
+
+### Brain-Machine Interfaces
+
+EEG, fMRI, and a wide number of related techniques (such as PET, MEG, fNIRS) have served neuroscientists to better understand human brains since they are **non-invasive**: no surgeries are required to use these techniques to measure brain activity.
+
+Increasingly, we are witnessing that humans receive brain implants that measure similar signals - even the action potentials of single neurons - directly from inside the skull. Most of these implants to date are used to **stimulate** ("write") the brain of patients. For example, electrically stimulating certain parts inside the brain (**deep-brain stimulation**) can help alleviate symptoms of Parkinson's Disease or severe forms or Major Clinical Depression.
+
+However, there is also increased interest in using implanted electrodes to **measure** ("read") brain responses, including on the level of signal neurons. Much of this work aims towards using computers (machines) to make sense of (to decode) the activity of measured neurons. These kinds of devices are called **brain-machine interfaces**, or BMI, accordingly. BMI promise to help people with paralyses, for example by decoding neuronal activity in brain areas that plan for motion and then activate the planned motion via robotic devices (such as a robotic arm that is worn as a **prosthesis**).
 
 ## NEURONAL CONNECTIVITY
 
