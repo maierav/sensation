@@ -103,7 +103,25 @@ This is a somewhat usual organization for a textbook on sensation and perception
 
 #### Spectra
 
-Light waves are sine waves.
+Light waves are best described as sine waves.
+
+This is good news. Sine waves are easy. Any sine wave is described by only three numbers:
+
+1. Frequency, or Wavelength (horizontal "peak-to-peak" in plots)
+2. Amplitude, or Magnitude (vertical "peak-to-peak" in plots)
+3. Phase (relative shift in plots)
+
+To make things even better, we can often ignore phase when it comes to sine waves in the science of perception, thus leaving us with just two numbers to describe a rather complex phenomenon, such as a light wave.
+
+Now, in practice, light consists of more than just one sine wave. In fact, light usually consists of a very large number of _combined_ sine waves.
+
+Here, too, there is good news.
+
+Mathematically, it is relatively easy to take something (a **signal**, or **time series**) consisting of many sine waves, and find out exactly what sine waves it is made out of. More than that, we can find out for such a signal (such as light) consisting of a sine wave mixture, which _frequencies_ of sine waves this mix is made out of as well as the _amplitude_ (and _phase_) of each of these frequencies. The result is what we call a **spectrum**: a representation of the data as amplitude (or phase) as a function of frequency.
+
+The mathematical process that achieves this is called a F**ourier Transform**, and the underlying mathematics is beyond our scope. But it is important to note that this transform is _reversible_: we can apply it to **component sine waves** and obtain the combined mixed (complex) signal. Or, we can start from the **complex (combined) signal** consisting of a mix of sine waves and find out all of its components.
+
+You can think of an **amplitude spectrum** returned by a Fourier transform as a cookie recipe: It tells you **what** (i.e., which frequency) to add and **how much** (i.e., amplitude) of each. A **phase spectrum** also tells us the phase of each frequency, but - as stated above - we can ignore that most of the time.
 
 #### Filters
 
