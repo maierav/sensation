@@ -105,13 +105,53 @@ This is a somewhat usual organization for a textbook on sensation and perception
 
 Before we can discuss the neuroscience of vision, we need to discuss the anatomy of the eye since it functions as an apparatus of sorts that dictates what happens to the neurons. And this apparatus is largely dictated by the function of the lens. And to understand the function of the lens we need to understand the phenomenon of **refraction**.
 
-To put it glibly, there are only five different things (and mixtures thereof) that can happen to light as it travels through space. Refraction is one of these five things:
+To put it glibly, there are only five different things (and mixtures thereof) that can happen to light as it travels through space:
 
 1. Transmission
 2. Absorption
 3. Reflection
 4. Scattering
 5. Refraction
+
+Let us discuss each of them in sequence.
+
+#### Transmission
+
+Light transmission is exactly what it sounds like: Light travels through something and comes out on the other side exactly as it was before it entered what it travels through. Light just travels along in this case, following the shortest distance.
+
+For example, light does not change as it travels through the vacuum of space. It also does not seem to change much as it travels through air, or a sheet of glass (light does, in fact, change somewhat in these cases, and we will discuss that next, but what dominates is _unchanging_ transmission).
+
+#### Absorption
+
+Some materials do something interesting when they get hit by light - they completely stop its travel. This happens by a process called absorption.
+
+You might remember from high school physics that energy cannot be destroyed in this universe - only be converted from one type to another. In fact, most light as we know it clearly starts by one form of energy being converted into light (as a form of energy): when we burn something and see the light of the fire, when we run electricity through a light bulb, or when we see the sunlight that originates from nuclear fusion on our star - in all these cases light is derived from other forms of energy.
+
+Absorption thus is not "elimination" of light, but conversion as well. Typically, materials that absorb light turn warm - because the light gets converted into **heat**.
+
+Complete absorption of light results in something being **black**. On the flip side, completely black objects tend to warm up the most when exposed to a lot of light. This is why black cars turn the hottest compared to cars of other colors when exposed to sunlight.
+
+If only some wavelengths are reflected, the effect is that we see the remaining (non-absorbed) wavelengths. That is, we see **color**. When this to occurs, we witness a mixture of absorption and another process that allows for the non-absorbed light to travel to our eyes.
+
+For example, water as it enters clear water first is mostly transmitted. In other words, if we are underwater and look around, we can still see what is around us. The reason for that is that a lot of sunlight is transmitted by water - it just enters water and keeps traveling, thus illuminated what is right below the water surface. Yet, going deeper underwater, everything starts looking more _blue_. The reason for this phenomenon is that _all other wavelengths_ (all larger wavelengths) are slightly absorbed by water, and this absorption slowly adds up as we dive deeper. Eventually, only short wavelength (blue) light remains.
+
+#### Reflection
+
+Reflection is what a mirror does. In this case, light keeps traveling without much change - except a significant change in direction. When light hits a mirroring surface, light "bounces" of that surface in a way that the incoming angle equals the angle with which it bounces off the surface.
+
+Reflection is marked by the production of mirror images exactly because of the process outlined above. What we see when looking at a mirroring surface are light rays that have bounced off from the opposing direction.
+
+There are many materials and surfaces that act like mirrors (i.e., many materials and surfaces cause reflection). What all of them have in common is that their surface is extremely _smooth_. It is the very fact that the light rays hit a smooth surface of a material that does not allow for transmission or absorption (or reflection) that explains reflection. Why? Because if the surface were not smooth, the result would be scattering - so let us discuss that next.
+
+#### Scattering
+
+Scattering describes light bouncing off a material or object without producing a mirror image. This is what describes any object or material that we can see _directly_. In order for us to see an object, its surface needs to reflect some light (thus providing reflected light rays that can enter our eyes). Yet, usually this reflected light does not take the shape of a mirror image.
+
+The reason that these (most common) reflections of light are mot mirror-like is that the reflections are _disorderly_. That is, the incoming angle of light rays leads to various outgoing angles. And the reason for this is that the surface is _not_ smooth. And a non-smooth surface means that the reflected light rays are re-directed in various angles, depending on which part of the surface they hit.
+
+When all wavelengths are scattered, we see a white objects (this is why clouds tend to look white). When we see objects as colored, only some wavelengths are scattered. The remaining wavelengths are absorbed.
+
+#### Refraction
 
 ## PSYCHOLOGY
 
