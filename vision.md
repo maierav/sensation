@@ -103,7 +103,18 @@ This is a somewhat usual organization for a textbook on sensation and perception
 
 #### Spectra
 
-#### FIlters
+Light waves are sine waves.
+
+#### Filters
+
+There are four different kinds of filters when it comes to frequencies:
+
+1. Low pass filters: let _only low frequencies_ pass
+2. High pass filters: let _only high frequencies_ pass
+3. Band-pass filters: let _**neither** low frequencies **nor** high frequencies_ pass
+4. Notch filters: let _only low **and** high frequencies_ pass
+
+We will need these concepts to better understand optics. For example, a filter that only lets low light frequencies pass (a low-pass filter for visible light) will look **red** to us. However, as we will see, the concepts of frequencies, spectra, and filter explain a lot more about visual perception, such as how we see space or details - even faces. In fact, most of our senses can be better understood from a frequency-based perspective.
 
 ### Optics
 
