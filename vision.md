@@ -181,7 +181,7 @@ But if light were a wave, we would expect to see something very differently behi
 
 :::{figure} ./images/waves_slit_dark.png
 :label: fig:wave_pattern
-:width: 65%
+:width: 55%
 
 If light were a wave, we might expect to see the above.[^6]
 :::
@@ -191,7 +191,7 @@ If light were a wave, we might expect to see the above.[^6]
 
 :::{figure} ./images/waves_slit.png
 :label: fig:wave_pattern
-:width: 65%
+:width: 55%
 
 If light were a wave, we might expect to see the above.[^6]
 :::
