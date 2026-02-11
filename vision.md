@@ -156,7 +156,7 @@ Imagine what should happen if light were made of a stream of ball-like particles
 
 :::{figure} ./images/corpuscles_dark.png
 :label: fig:corpuscles
-:width: 55%
+:width: 65%
 
 If light were made of particles (photons), we might expect to see the above.[^5]
 :::
@@ -166,7 +166,7 @@ If light were made of particles (photons), we might expect to see the above.[^5]
 
 :::{figure} ./images/corpuscles.png
 :label: fig:corpuscles
-:width: 55%
+:width: 65%
 
 If light were made of particles (photons), we might expect to see the above.[^5]
 :::
