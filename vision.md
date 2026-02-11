@@ -47,6 +47,18 @@ However, as you will see, we will not find satisfying answers to these philosoph
 
 This is not meant to let you down. In fact, there are suggestions for satisfying answers, and we will discuss them at the end. These proposals will only be comprehensible, though, _after_ we completed the full survey of the physics, anatomy, psychology, and neuroscience of the senses.
 
+You might have noticed that all chapters in this book are sorted by what we commonly define our main senses. And all of them will be organized as this one:  
+
+We will first discuss the physics or chemistry that underlies the sensory stimuli that are associated with each sense.  
+
+Then we will discuss what has been studied about the perception that each of these senses evoke using behavioral techniques, including psychophysics and verbal report.  
+
+Only then will we discuss what is known about the neural mechanisms (neuroanatomy and neuronal responses) that are associated with each sense.  
+
+This might seem like an unusual organization for a textbook on sensation and perception. More commonly, these three separate fields of study (physics/chemistry, neuroscience, and perceptual psychology) are presented as intertwined. Indeed, there are many benefits of presenting some psychophysical phenomena in the context of the physics of stimuli or neuronal connections and responses. We thus will allow for a bit of flexibility and do so occasionally as well.  
+
+However, the overall goal here is to retain a certain consistent logical structure to our approach. And, in doing so, to repeatedly appreciate the difference between the physics/chemistry of sensory stimuli on the one hand and our perception of the related sensory activations on the other hand.  
+
 So, let us begin.
 
 ## PHYSICS
@@ -76,7 +88,7 @@ Visual sensation starts with light rays entering our eyes, bending at the lens a
 
 So, when we think of _seeing_ (vision), we usually start with a process that starts with light (if we put dreams and hallucinations aside for a moment).  
 
-But what is that - light?
+But what is that - light?  
 
 ### Light
 
@@ -109,11 +121,7 @@ This is called the wave-particle duality of light. In the following, we will tou
 
 #### Wave-Particle Duality
 
-At this point, we should have a solid set of knowledge about the physics of light (optics). Needless to say, we are just scratching the surface. Light is at the center of all modern physics: The _duality_ of light waves and light particles (photons) is a central conundrum of quantum physics. At the same time, the assumption that the _speed of light_ expansion is fixed inside a vacuum is central to Einstein's _relativity_. These are all deeply fascinating (and sometimes highly technical) topics that fill up entire textbooks on their own. Luckily, almost none of that is relevant for human sight. So, we can move on from physics now, and discuss the main star of the show: human **vision**.  
-
-As stated at the outset, all chapters that are sorted by what we commonly define our main senses will be organized as this one: We will first discuss the physics or chemistry that underlies the sensory stimuli that are associated with each sense. Then we will discuss what has been studied about the perception that each of these senses evoke using behavioral techniques, including psychophysics and verbal report. Only then will we discuss what is known about the neural mechanisms (neuroanatomy and neuronal responses) that are associated with each sense.  
-
-This is a somewhat usual organization for a textbook on sensation and perception. More commonly, these three separate fields of study (physics/chemistry, neuroscience, and perceptual psychology) are presented as intertwined. Indeed, there are many benefits of presenting some psychophysical phenomena in the context of the physics of stimuli or neuronal connections and responses. We thus will allow for a bit of liberalism and do so occasionally as well. However, the overall goal here is to retain a certain consistent logical structure to our approach. And, in doing so, first think about the differences between the physics or chemistry of sensory stimuli and our perception of the related sensory activations - before thinking about the link between brain mechanisms and perception.  
+ Needless to say, we are just scratching the surface here. Light is at the center of all modern physics: The _duality_ of light waves and light particles (photons) is a central conundrum of quantum physics. At the same time, the assumption that the _speed of light_ expansion is fixed inside a vacuum is central to Einstein's _relativity_. These are all deeply fascinating (and sometimes highly technical) topics that fill up entire textbooks on their own. Luckily, almost none of that is relevant for human sight.  
 
 #### Spectra
 
