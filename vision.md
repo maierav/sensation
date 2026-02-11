@@ -33,7 +33,7 @@ Our exploration of the science of perception will cover all of our senses. Howev
 
 We will always follow the same outline for the senses that we will discuss:
 
-First, we will discuss about the stimuli that these senses detect. This implies that we will start with _physics_ and _chemistry_. Some of that physics will also require us to review certain _mathematical_ principles and laws.
+First, we will discuss the stimuli that these senses detect. This implies that we will start with _physics_ and _chemistry_. Some of that physics will also require us to review certain _mathematical_ principles and laws.
 
 Next, we will explore the _psychology_ of each sense. That is, we will briefly go over what is known from behavioral measurements about how we sense and perceive each sense in isolation or in combination with the other senses.
 
@@ -74,7 +74,9 @@ Visual sensation starts with light rays entering our eyes, bending at the lens a
 
 [^2]: [public domain source](https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0001920_Optik_%5E_Anatomie_%5E_Mensch_%5E_Auge.jpg)
 
-Vision seemingly starts with light (if we put dreams and hallucinations aside for a moment). But what is that - light?
+So, when we think of _seeing_ (vision), we usually start with a process that starts with light (if we put dreams and hallucinations aside for a moment).  
+
+But what is that - light?
 
 ### Light
 
@@ -94,6 +96,18 @@ A rainbow shows the spectrum of natural (sun)light.[^3]
 :::
 
 [^3]: [public domain image source 1](https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_Rainy_Season_in_the_Tropics_-_Google_Art_Project.jpg)
+
+Now, thinking of light as _sine waves_ with varying _wavelength_ (or _frequency_) is not the entire story.  
+
+We will also (necessarily) refer to light as if it is made of individual _particles_ called **photons**. Photons are small "balls" of light (_corpuscles_). This means that we can count how much light meets our eye by counting individual photons, for example.
+
+The problem is that sine waves are _continuous_, and not made up of individual (_discrete_) particles. This means that light has to be either one or the other - a wave or a bunch of particles. So, why will we talk about light as if it were one or the other at different times?  
+
+The answer is surprising: Modern physics tells us that it seems as if light really is either a wave or a particle at different times - it can change from being one to being the other.  
+
+This is called the wave-particle duality of light. In the following, we will touch on this topic briefly. A full grasp on this confusing phenomenon arguably can only be obtained via a mathematical formalism that goes beyond the scope of this book. Instead, our goal is merely to understand why physicists would accept such a strange notion before we move on with the realization that it is acceptable to discuss the physics of light using the "picture" of particles (photons) sometimes and the "picture" of waves, or light rays, on other occassions.
+
+#### Wave-Particle Duality
 
 At this point, we should have a solid set of knowledge about the physics of light (optics). Needless to say, we are just scratching the surface. Light is at the center of all modern physics: The _duality_ of light waves and light particles (photons) is a central conundrum of quantum physics. At the same time, the assumption that the _speed of light_ expansion is fixed inside a vacuum is central to Einstein's _relativity_. These are all deeply fascinating (and sometimes highly technical) topics that fill up entire textbooks on their own. Luckily, almost none of that is relevant for human sight. So, we can move on from physics now, and discuss the main star of the show: human **vision**.  
 
