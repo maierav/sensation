@@ -173,7 +173,19 @@ If light were made of particles (photons), we might expect to see the above.[^5]
 
 [^5]: [public domain source](https://commons.wikimedia.org/wiki/File:Two-Slit_Experiment_Particles.svg)
 
-But if light were a wave, we would expect to see something very differently behind the slits:
+But if light were a wave, we would expect to see something very differently behind the slits. The reason for that is how waves behave when they go through slits:
+
+% Wave Front
+:::{figure} ./images/interference.gif
+:label: fig:wave_pattern
+:width: 55%
+
+If light were a wave, we might expect to see the above.[^6]
+:::
+
+[^6]: [public domain source](https://commons.wikimedia.org/wiki/File:Young_experiment.gif)  
+
+The complex pattern of a single wave front splitting into two when passing two slits, and the two split-off waves interfering with each other means that we should expect a "wavy" pattern behind the double slit - very different from the two "piles" of particles we expect for photons.
 
 % Wave Pattern
 :::{div}
@@ -183,7 +195,7 @@ But if light were a wave, we would expect to see something very differently behi
 :label: fig:wave_pattern
 :width: 55%
 
-If light were a wave, we might expect to see the above.[^6]
+If light were a wave, we might expect to see the above.[^7]
 :::
 
 :::{div}
@@ -193,10 +205,10 @@ If light were a wave, we might expect to see the above.[^6]
 :label: fig:wave_pattern
 :width: 55%
 
-If light were a wave, we might expect to see the above.[^6]
+If light were a wave, we might expect to see the above.[^7]
 :::
 
-[^6]: public domain source [1](https://commons.wikimedia.org/wiki/File:Two-Slit_Experiment_Light.svg) and [2](https://commons.wikimedia.org/wiki/File:Double_slit_simulated_2.jpg)
+[^7]: public domain source [1](https://commons.wikimedia.org/wiki/File:Two-Slit_Experiment_Light.svg) and [2](https://commons.wikimedia.org/wiki/File:Double_slit_simulated_2.jpg)
 
 Needless to say, we are just scratching the surface here. Light is at the center of all modern physics: The _duality_ of light waves and light particles (photons) is a central conundrum of quantum physics. At the same time, the assumption that the _speed of light_ expansion is fixed inside a vacuum is central to Einstein's _relativity_. These are all deeply fascinating (and sometimes highly technical) topics that fill up entire textbooks on their own. Luckily, almost none of that is relevant for human sight.  
 
