@@ -127,7 +127,7 @@ This is called the wave-particle duality of light. In the following, we will tou
 
 :::{figure} ./images/double_slit_dark.png
 :label: fig:double_slit
-:width: 65%
+:width: 70%
 
 The double slit experiment consists simply of shining light on a surface with two slits in it. All light except for that passing through the slit gets blocked. The question is what one sees on the other side of the double slit (e.g., on a wall or screen that is placed behind the double slit).[^4]
 :::
@@ -137,7 +137,7 @@ The double slit experiment consists simply of shining light on a surface with tw
 
 :::{figure} ./images/double_slit.png
 :label: fig:double_slit
-:width: 65%
+:width: 70%
 
 The double slit experiment consists simply of shining light on a surface with two slits in it. All light except for that passing through the slit gets blocked. The question is what one sees on the other side of the double slit (e.g., on a wall or screen that is placed behind the double slit).[^4]
 :::
