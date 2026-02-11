@@ -105,7 +105,7 @@ The problem is that sine waves are _continuous_, and not made up of individual (
 
 The answer is surprising: Modern physics tells us that it seems as if light really is either a wave or a particle at different times - it can change from being one to being the other.  
 
-This is called the wave-particle duality of light. In the following, we will touch on this topic briefly. A full grasp on this confusing phenomenon arguably can only be obtained via a mathematical formalism that goes beyond the scope of this book. Instead, our goal is merely to understand why physicists would accept such a strange notion before we move on with the realization that it is acceptable to discuss the physics of light using the "picture" of particles (photons) sometimes and the "picture" of waves, or light rays, on other occassions.
+This is called the wave-particle duality of light. In the following, we will touch on this topic briefly. A full grasp on this confusing phenomenon arguably can only be obtained via a mathematical formalism that goes beyond the scope of this book. Instead, our goal is merely to understand why physicists would accept such a strange notion before we move on with the realization that it is acceptable to discuss the physics of light using the "picture" of particles (photons) sometimes and the "picture" of waves, or light rays, on other occasions.
 
 #### Wave-Particle Duality
 
