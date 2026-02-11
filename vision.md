@@ -121,6 +121,8 @@ This is called the wave-particle duality of light. In the following, we will tou
 
 #### Wave-Particle Duality
 
+The classic demonstration of wave acting like a wave or like a particle, depending on context is the **double-slit experiment**. It is super simple. All that is done is to shine light through two neighboring slits at the same time.
+
 % Double Slit
 :::{div}
 :class: hidden dark:block
@@ -143,6 +145,33 @@ The double slit experiment consists simply of shining light on a surface with tw
 :::
 
 [^4]: [public domain source](https://commons.wikimedia.org/wiki/File:Double-slit-empty_de.svg)
+
+This is not that interesting it seems. Except for the following:  
+
+Imagine what should happen if light were made of a stream of ball-like particles (photons).
+
+% Corpuscle
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/corpuscles_dark.png
+:label: fig:corpuscles
+:width: 75%
+
+If light were made of particles (photons), we might expect to see the above.[^5]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/corpuscles.png
+:label: fig:corpuscles
+:width: 75%
+
+If light were made of particles (photons), we might expect to see the above.[^5]
+:::
+
+[^5]: [public domain source](https://commons.wikimedia.org/wiki/File:Two-Slit_Experiment_Particles.svg)
 
 Needless to say, we are just scratching the surface here. Light is at the center of all modern physics: The _duality_ of light waves and light particles (photons) is a central conundrum of quantum physics. At the same time, the assumption that the _speed of light_ expansion is fixed inside a vacuum is central to Einstein's _relativity_. These are all deeply fascinating (and sometimes highly technical) topics that fill up entire textbooks on their own. Luckily, almost none of that is relevant for human sight.  
 
