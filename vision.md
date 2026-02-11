@@ -173,6 +173,31 @@ If light were made of particles (photons), we might expect to see the above.[^5]
 
 [^5]: [public domain source](https://commons.wikimedia.org/wiki/File:Two-Slit_Experiment_Particles.svg)
 
+But if light were a wave, we would expect to see something very differently behind the slits:
+
+% Wave Pattern
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/waves_slit_dark.png
+:label: fig:wave_pattern
+:width: 65%
+
+If light were a wave, we might expect to see the above.[^6]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/waves_slit.png
+:label: fig:wave_pattern
+:width: 65%
+
+If light were a wave, we might expect to see the above.[^6]
+:::
+
+[^6]: public domain source [1](https://commons.wikimedia.org/wiki/File:Two-Slit_Experiment_Light.svg) and [2](https://commons.wikimedia.org/wiki/File:Double_slit_simulated_2.jpg)
+
 Needless to say, we are just scratching the surface here. Light is at the center of all modern physics: The _duality_ of light waves and light particles (photons) is a central conundrum of quantum physics. At the same time, the assumption that the _speed of light_ expansion is fixed inside a vacuum is central to Einstein's _relativity_. These are all deeply fascinating (and sometimes highly technical) topics that fill up entire textbooks on their own. Luckily, almost none of that is relevant for human sight.  
 
 #### Spectra
