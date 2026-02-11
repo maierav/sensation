@@ -146,9 +146,7 @@ The double slit experiment consists simply of shining light on a surface with tw
 
 [^4]: [public domain source](https://commons.wikimedia.org/wiki/File:Double-slit-empty_de.svg)
 
-This is not that interesting it seems. Except for the following:  
-
-Imagine what should happen if light were made of a stream of ball-like particles (photons).
+This is not that interesting it seems. Except for the following: Imagine what should happen if light were made of a stream of ball-like particles (photons).
 
 % Corpuscle
 :::{div}
@@ -180,7 +178,7 @@ But if light were a wave, we would expect to see something very differently behi
 :label: fig:wave_pattern
 :width: 55%
 
-If light were a wave, we might expect to see the above.[^6]
+If a single wave front goes through two slits, the result is that it splits in half. In other words, two new wave fronts start to extend from the slits, one on each side. These waves interact (_interfere) with each other as they radiate out. The computer simulation shows how two such waves lead to such a complex pattern of interference.[^6]
 :::
 
 [^6]: [public domain source](https://commons.wikimedia.org/wiki/File:Young_experiment.gif)  
