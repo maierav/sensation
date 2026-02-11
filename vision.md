@@ -208,6 +208,18 @@ If light were a wave, we might expect to see the above.[^7]
 
 [^7]: public domain source [1](https://commons.wikimedia.org/wiki/File:Two-Slit_Experiment_Light.svg) and [2](https://commons.wikimedia.org/wiki/File:Double_slit_simulated_2.jpg)
 
+Now, what we find is... either one of the two. Depending on the circumstances.
+
+If the experiment is performed as described above, the result looks like light is a wave.
+
+But if the experiment is augmented by adding some kind of measurement device that measures whether a light particle went through one or the other slit. This might sound like it makes no sense. Why measure particles of light, if the pattern suggests that light is a wave?
+
+Well, the fascinating result is that if we _treat_ light like it is made of particles, it _behaves_ like it is made of particles.
+
+In other words, when we alter the experiment to measure single photons and which slit they went through, the resulting pattern behind the slit looks like two dots, or "piles" of particles. If we turn off the measuring device, the pattern changes and looks wavy again.
+
+Physicists are as puzzled about this observation as you might be. There are a lot of debates about how to make sense of this interesting phenomenon. But for us, it might suffice to note that there is no clear answer to whether light consists of continuous waves (light rays) or discrete particles (photons). More than that, light sometimes seems to act as if it were on or the other.
+
 Needless to say, we are just scratching the surface here. Light is at the center of all modern physics: The _duality_ of light waves and light particles (photons) is a central conundrum of quantum physics. At the same time, the assumption that the _speed of light_ expansion is fixed inside a vacuum is central to Einstein's _relativity_. These are all deeply fascinating (and sometimes highly technical) topics that fill up entire textbooks on their own. Luckily, almost none of that is relevant for human sight.  
 
 #### Spectra
@@ -228,7 +240,7 @@ Here, too, there is good news.
 
 Mathematically, it is relatively easy to take something (a **signal**, or **time series**) consisting of many sine waves, and find out exactly what sine waves it is made out of. More than that, we can find out for such a signal (such as light) consisting of a sine wave mixture, which _frequencies_ of sine waves this mix is made out of as well as the _amplitude_ (and _phase_) of each of these frequencies. The result is what we call a **spectrum**: a representation of the data as amplitude (or phase) as a function of frequency.
 
-The mathematical process that achieves this is called a F**ourier Transform**, and the underlying mathematics is beyond our scope. But it is important to note that this transform is _reversible_: we can apply it to **component sine waves** and obtain the combined mixed (complex) signal. Or, we can start from the **complex (combined) signal** consisting of a mix of sine waves and find out all of its components.
+The mathematical process that achieves this is called a **Fourier Transform**, and the underlying mathematics is beyond our scope. But it is important to note that this transform is _reversible_: we can apply it to **component sine waves** and obtain the combined mixed (complex) signal. Or, we can start from the **complex (combined) signal** consisting of a mix of sine waves and find out all of its components.
 
 You can think of an **amplitude spectrum** returned by a Fourier transform as a cookie recipe: It tells you **what** (i.e., which frequency) to add and **how much** (i.e., amplitude) of each. A **phase spectrum** also tells us the phase of each frequency, but - as stated above - we can ignore that most of the time.
 
@@ -308,7 +320,7 @@ Indeed, refraction is usually explained by the "density" of the material that li
 :::{figure} ./images/basic_optics_dark.png
 :label: fig:basic_optics
 :width: 85%
-Light can be transmitted, absorbed, reflected, scattered, or reflected.[^4]
+Light can be transmitted, absorbed, reflected, scattered, or reflected.[^8]
 
 :::
 
@@ -318,11 +330,11 @@ Light can be transmitted, absorbed, reflected, scattered, or reflected.[^4]
 :::{figure} ./images/basic_optics.png
 :label: fig:basic_optics
 :width: 85%
-Light can be transmitted, absorbed, reflected, scattered, or reflected.[^4]
+Light can be transmitted, absorbed, reflected, scattered, or reflected.[^8]
 
 :::
 
-[^4]: [public domain source](https://commons.wikimedia.org/wiki/File:Reflexion-streuung-absorbtion.svg)
+[^8]: [public domain source](https://commons.wikimedia.org/wiki/File:Reflexion-streuung-absorbtion.svg)
 
 ## PSYCHOLOGY
 
@@ -356,7 +368,7 @@ The first thing one notices when pondering the nature of _seeing_ is that one ca
 :label: fig:vision
 :width: 75%
 
-Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^5]
+Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^9]
 :::
 
 :::{div}
@@ -366,10 +378,10 @@ Visual fields (gray shade) of different animals shown along the horizontal plane
 :label: fig:vision
 :width: 75%
 
-Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^5]
+Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^9]
 :::
 
-[^5]: [reference](https://doi.org/10.1146/annurev-vision-100720-112922)
+[^9]: [reference](https://doi.org/10.1146/annurev-vision-100720-112922)
 
 The reason that we cannot see what is behind our heads is simply due to the fact that both of our eyes face to the front, of course. Interestingly, this is not the rule among animals, let alone mammals. Many animals do not suffer from this limitation. In particular, animals that frequently face predators tend to feature eyes (usually on each side of the head) that allow for seeing almost _all around them_.  
 
@@ -390,10 +402,10 @@ To keep things simple, let us think about two-dimensional space first. In other 
 :label: fig:vision
 :width: 100%
 
-White noise. By moving close to your monitor, you can fill close your entire visual field with this two-dimensional image. At that point, all you see is movement within a plane that runs parallel to your eyes.[^6]
+White noise. By moving close to your monitor, you can fill close your entire visual field with this two-dimensional image. At that point, all you see is movement within a plane that runs parallel to your eyes.[^10]
 :::
 
-[^6]: [reference](https://commons.wikimedia.org/wiki/File:White-noise.gif)
+[^10]: [reference](https://commons.wikimedia.org/wiki/File:White-noise.gif)
 
 ### Form
 
@@ -437,7 +449,7 @@ White noise. By moving close to your monitor, you can fill close your entire vis
 :label: fig: accommodation
 :width: 70%
 
-Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^7]
+Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^11]
 
 :::
 
@@ -448,11 +460,11 @@ Illustration of the process of **Accommodation**: The lens of our eyes gets defo
 :label: fig: accommodation
 :width: 70%
 
-Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^7]
+Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^11]
 
 :::
 
-[^7]: [public domain image source](https://commons.wikimedia.org/wiki/File:Anatomie_Descriptive_Et_Dissection,_Casa_de_Oswaldo_Cruz_(170725),_page_672.jpg)
+[^11]: [public domain image source](https://commons.wikimedia.org/wiki/File:Anatomie_Descriptive_Et_Dissection,_Casa_de_Oswaldo_Cruz_(170725),_page_672.jpg)
 
 ## NEUROSCIENCE
 
@@ -464,7 +476,7 @@ Illustration of the process of **Accommodation**: The lens of our eyes gets defo
 :label: fig:vision
 :width: 40%
 
-The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^8]
+The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^12]
 :::
 
 :::{div}
@@ -474,10 +486,10 @@ The primary visual pathway, colored coded by _visual field_ (not by eye). Neuron
 :label: fig:vision
 :width: 40%
 
-The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^8]
+The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^12]
 :::
 
-[^8]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray722.png)
+[^12]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray722.png)
 
 ### Optic Nerve
 
@@ -489,7 +501,7 @@ The primary visual pathway, colored coded by _visual field_ (not by eye). Neuron
 :label: fig:vision
 :width: 60%
 
-The visual nerve links the eyes to the rest of the brain.[^9]
+The visual nerve links the eyes to the rest of the brain.[^13]
 :::
 
 :::{div}
@@ -499,10 +511,10 @@ The visual nerve links the eyes to the rest of the brain.[^9]
 :label: fig:vision
 :width: 60%
 
-The visual nerve links the eyes to the rest of the brain.[^9]
+The visual nerve links the eyes to the rest of the brain.[^13]
 :::
 
-[^9]: [public domain source](https://commons.wikimedia.org/wiki/File:Lawrence_1960_9.3.png)
+[^13]: [public domain source](https://commons.wikimedia.org/wiki/File:Lawrence_1960_9.3.png)
 
 ### Optic Chiasm
 
@@ -514,7 +526,7 @@ The visual nerve links the eyes to the rest of the brain.[^9]
 :label: fig:optic chiasm
 :width: 40%
 
-The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^10]
+The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^14]
 :::
 
 :::{div}
@@ -524,10 +536,10 @@ The optic nerves of both eyes meet at an x-formed structure called the **optic c
 :label: fig:optic chiasm
 :width: 40%
 
-The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^10]
+The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^14]
 :::
 
-[^10]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray773.png)
+[^14]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray773.png)
 
 ## EYE MOVEMENTS
 
@@ -541,7 +553,7 @@ The optic nerves of both eyes meet at an x-formed structure called the **optic c
 :label: fig:eye_muscles
 :width: 70%
 
-Extraocular muscles.[^11]
+Extraocular muscles.[^15]
 :::
 
 :::{div}
@@ -551,7 +563,7 @@ Extraocular muscles.[^11]
 :label: fig:eye_muscles
 :width: 70%
 
-Extraocular muscles.[^11]
+Extraocular muscles.[^15]
 :::
 
-[^11]: [public domain source](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sobo_1911_748.png/640px-Sobo_1911_748.png)
+[^15]: [public domain source](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sobo_1911_748.png/640px-Sobo_1911_748.png)
