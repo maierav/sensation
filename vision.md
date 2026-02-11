@@ -192,6 +192,29 @@ An intuitive metaphor for refraction is a marching band of several rows of peopl
 
 Indeed, refraction is usually explained by the "density" of the material that light travels through. The denser the material, the steeper the resulting angle that light bends as it enters (and exits). This is why mirages happen - hot air is less dense than cold air, and hence light bends differently whenever we have two layers of air of different temperatures on top of each other.
 
+% Basic Optics
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/basic_optics_dark.png
+:label: fig:basic_optics
+:width: 85%
+Light can be transmitted, absorbed, reflected, scattered, or reflected.[^4]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/basic_optics.png
+:label: fig:basic_optics
+:width: 85%
+Light can be transmitted, absorbed, reflected, scattered, or reflected.[^4]
+
+:::
+
+[^4]: [public domain source](https://commons.wikimedia.org/wiki/File:Reflexion-streuung-absorbtion.svg)
+
 ## PSYCHOLOGY
 
 Sensation and perception is commonly taught by faculty in **psychology** departments. This is often, though not always, also the main home of perception researchers (many neuroscientists that study perception are housed inside Medical Schools). We thus will go with labeling this chapters as a summary of the psychology of perception (seeing, or vision, in the current case).  
@@ -224,7 +247,7 @@ The first thing one notices when pondering the nature of _seeing_ is that one ca
 :label: fig:vision
 :width: 75%
 
-Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^4]
+Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^5]
 :::
 
 :::{div}
@@ -234,10 +257,10 @@ Visual fields (gray shade) of different animals shown along the horizontal plane
 :label: fig:vision
 :width: 75%
 
-Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^4]
+Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^5]
 :::
 
-[^4]: [reference](https://doi.org/10.1146/annurev-vision-100720-112922)
+[^5]: [reference](https://doi.org/10.1146/annurev-vision-100720-112922)
 
 The reason that we cannot see what is behind our heads is simply due to the fact that both of our eyes face to the front, of course. Interestingly, this is not the rule among animals, let alone mammals. Many animals do not suffer from this limitation. In particular, animals that frequently face predators tend to feature eyes (usually on each side of the head) that allow for seeing almost _all around them_.  
 
@@ -258,10 +281,10 @@ To keep things simple, let us think about two-dimensional space first. In other 
 :label: fig:vision
 :width: 100%
 
-White noise. By moving close to your monitor, you can fill close your entire visual field with this two-dimensional image. At that point, all you see is movement within a plane that runs parallel to your eyes.[^5]
+White noise. By moving close to your monitor, you can fill close your entire visual field with this two-dimensional image. At that point, all you see is movement within a plane that runs parallel to your eyes.[^6]
 :::
 
-[^5]: [reference](https://commons.wikimedia.org/wiki/File:White-noise.gif)
+[^6]: [reference](https://commons.wikimedia.org/wiki/File:White-noise.gif)
 
 ### Form
 
@@ -305,7 +328,7 @@ White noise. By moving close to your monitor, you can fill close your entire vis
 :label: fig: accommodation
 :width: 70%
 
-Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^6]
+Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^7]
 
 :::
 
@@ -316,11 +339,11 @@ Illustration of the process of **Accommodation**: The lens of our eyes gets defo
 :label: fig: accommodation
 :width: 70%
 
-Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^6]
+Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^7]
 
 :::
 
-[^6]: [public domain image source](https://commons.wikimedia.org/wiki/File:Anatomie_Descriptive_Et_Dissection,_Casa_de_Oswaldo_Cruz_(170725),_page_672.jpg)
+[^7]: [public domain image source](https://commons.wikimedia.org/wiki/File:Anatomie_Descriptive_Et_Dissection,_Casa_de_Oswaldo_Cruz_(170725),_page_672.jpg)
 
 ## NEUROSCIENCE
 
@@ -332,7 +355,7 @@ Illustration of the process of **Accommodation**: The lens of our eyes gets defo
 :label: fig:vision
 :width: 40%
 
-The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^7]
+The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^8]
 :::
 
 :::{div}
@@ -342,10 +365,10 @@ The primary visual pathway, colored coded by _visual field_ (not by eye). Neuron
 :label: fig:vision
 :width: 40%
 
-The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^7]
+The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^8]
 :::
 
-[^7]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray722.png)
+[^8]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray722.png)
 
 ### Optic Nerve
 
@@ -357,7 +380,7 @@ The primary visual pathway, colored coded by _visual field_ (not by eye). Neuron
 :label: fig:vision
 :width: 60%
 
-The visual nerve links the eyes to the rest of the brain.[^8]
+The visual nerve links the eyes to the rest of the brain.[^9]
 :::
 
 :::{div}
@@ -367,10 +390,10 @@ The visual nerve links the eyes to the rest of the brain.[^8]
 :label: fig:vision
 :width: 60%
 
-The visual nerve links the eyes to the rest of the brain.[^8]
+The visual nerve links the eyes to the rest of the brain.[^9]
 :::
 
-[^8]: [public domain source](https://commons.wikimedia.org/wiki/File:Lawrence_1960_9.3.png)
+[^9]: [public domain source](https://commons.wikimedia.org/wiki/File:Lawrence_1960_9.3.png)
 
 ### Optic Chiasm
 
@@ -382,7 +405,7 @@ The visual nerve links the eyes to the rest of the brain.[^8]
 :label: fig:optic chiasm
 :width: 40%
 
-The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^9]
+The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^10]
 :::
 
 :::{div}
@@ -392,10 +415,10 @@ The optic nerves of both eyes meet at an x-formed structure called the **optic c
 :label: fig:optic chiasm
 :width: 40%
 
-The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^9]
+The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^10]
 :::
 
-[^9]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray773.png)
+[^10]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray773.png)
 
 ## EYE MOVEMENTS
 
@@ -409,7 +432,7 @@ The optic nerves of both eyes meet at an x-formed structure called the **optic c
 :label: fig:eye_muscles
 :width: 70%
 
-Extraocular muscles.[^10]
+Extraocular muscles.[^11]
 :::
 
 :::{div}
@@ -419,7 +442,7 @@ Extraocular muscles.[^10]
 :label: fig:eye_muscles
 :width: 70%
 
-Extraocular muscles.[^10]
+Extraocular muscles.[^11]
 :::
 
-[^10]: [public domain source](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sobo_1911_748.png/640px-Sobo_1911_748.png)
+[^11]: [public domain source](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sobo_1911_748.png/640px-Sobo_1911_748.png)
