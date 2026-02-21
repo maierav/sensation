@@ -423,7 +423,7 @@ The parent might reply "Because it is late, and you are tired."
 
 At this point, a parent might have to admit that we do not actually know why animals periodically go into rest periods. Or perhaps the parent might go on and explain that there are some ideas why we have a need to sleep. But the kid can go on asking "But why?". Usually, the parent will at some point just end this line of inquiry by saying something like "Because it is so." However, both the parent and the kid will understand that this is not satisfying.
 
-Thinkers have long realized that this is interesting. These thinkers have come to the conclusion that there seemingly are only three ways that a consistent chain of asking "But why?" leads to one of three outcomes:
+Thinkers have long realized that this is interesting. Several of these thinkers pointed out that there seemingly are only three ways that a consistent chain of asking "But why?" ends:
 
 (1) We end the inquiry by stating something that can no further be questioned (such as: "all animals need sleep"). We might call these unquestionable assumptions "dogma", or "axioms". Either way, these are foundational - yet unfounded (unsupported) - beliefs for which can no further ago. Accordingly, this starting point to knowledge from which we can build up answers to "why?" questions is called **Foundationalism**.
 
@@ -433,15 +433,15 @@ Thinkers have long realized that this is interesting. These thinkers have come t
 
 This solution may seem satisfying at first, but there is a certain absurdity that comes with the assumption that there is no starting point to knowledge. The psychologist William James explains this with a joke:  
 
-    “The old lady said that the world rests on a big turtle.
+    The old lady said that the world rests on a big turtle.
     The scientist asked what the turtle rested on.
     ‘Another turtle.’
     ‘And what does that turtle rest on?’
-    ‘You can’t fool me, young man—it’s turtles all the way down!’ ”
+    ‘You can’t fool me, young man—it’s turtles all the way down!’ 
 
-It is important to note that all three of these potential outcomes are on equal footing: There is no way to logically argue why one of them is preferable over the others. This realization is known as **Agrippa's Trilemma** (also called the Munchhausen Trilemma)[^12]. It is a dilemma, or more accurately - a trilemma, because none of these three options seem satisfying. Neither for kids, nor for adults.
+It is important to note that all three of these potential outcomes are on equal footing: There is no way to logically argue why one of them is preferable over the others. This realization is known as **Agrippa's Trilemma** (also called the Munchhausen Trilemma)[^12]. It is a dilemma, or more accurately - a trilemma - because none of these three options seem satisfying. Neither for kids, nor for adults.
 
-[^12]: Another option to escape Agrippa's Trilemma is to abandon logical coherency altogether. At that point nothing can be argued anymore. Who and how would then decide arguments?
+[^12]: Another option to escape Agrippa's Trilemma is to abandon logic altogether. At that point nothing can be argued using logic anymore. Who and how would then decide arguments?
 
  % Agrippa
 :::{div}
@@ -465,6 +465,8 @@ Agrippa's Trilemma: Repeated asking of the question "Why?" during an argument wi
 
 Agrippa's Trilemma: Repeated asking of the question "Why?" during an argument will end in one of three outcomes: Circular Reasoning, Infinite Regress, or Unfounded Belief (Dogma / Axiom).
 :::
+
+It is sometimes argued that believing that Agrippa's Trilemma is true falls into Agrippa's Trilemma itself. This seems paradoxical or self-refuting. Note, however, that Agrippa's Trilemma does not state that "nothing is true". It merely states that nothing can be _proven_ to be true without resorting to one of the three undesirable starting or end points. We thus do not _know_ for sure whether Agrippa's Trilemma is true (without making extra assumptions). But what we can do is observe how people argue. And if we do that, we do not seem to find exemptions to Agrippa's Trilemma. Each time that happens, the data in favor of Agrippa's Trilemma increases, raising its probability to be true (while never proving it to be true). We will encounter this probabilistic reasonig about knowledge and truth again when we discuss the scientific method.
 
 As we will see, mathematics seems to choose Foundationalism over the other two possibilities. And as we will see, mathematics is _indispensable_ for science (such as the science of perception), and perhaps even any attempt at gaining knowledge that satisfies reason and thereby holds up to scrutiny.  
 
