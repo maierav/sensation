@@ -113,7 +113,27 @@ But what do we mean by "radiation" or, more specifically, "light _rays_"?
 
 In simple terms, we mean "waves". In other words, rather than little _particles_ (small "balls" of light), we usually refer to something _rippling_ in a wave-like fashion whenever we speak of radiation.  
 
-And this is good news. Because waves are somewhat _simple_ when it comes to their mathematics. In particular, the mathematics of **sine waves** can be thought to boil down to just **3 numbers**, or more precisely, numeric values for most of its applications. And, even better, one of these numbers (or more precisely, numeric values) often can be ignored. This means that for much of what we need to discuss regarding light waves, two values (numbers) will be sufficient.
+And this is good news. Because waves are somewhat _simple_ when it comes to their mathematics.  
+
+The simplest type of wave, mathematically speaking, is a sine wave.  
+
+Somewhat confusingly, _a_ sine wave refers to an (infinite) amount of waves that periodically "go up and down". When we refer to just one out of this (infinite) **series** of individual waves that collectively make up a sine wave, we call that singular "up-and-down" wave a **cycle**. In other words, a single cycle is what you are left with if you "cut out" a snippet that starts either at a peak and ends at a peak (_peak-to-peak_), or starts at a trough and ends at a trough (_trough-to-trough_) - or, indeed, any other reoccuring point of a sine wave.
+
+Why the mathematics of **sine waves** seems so simple if that it can be thought to boil down to just **3 numbers**, or more precisely, numeric values for most of its applications.  
+
+Even better, one of these numbers (or more precisely, numeric values) often can be ignored. This means that for much of what we need to discuss regarding light waves, two values (numbers) will be sufficient.
+
+Loosely speaking, the first of these two numbers answers:
+
+    how small or tall is the (sine) wave?
+
+This **peak-to-trough distance** is called the **amplitude** (sometimes also referred to as **magnitude**).
+
+And the second number answers:
+
+    how rapidly or slowly changing is the (sine) wave?
+
+In other words this number describes the **peak-to-peak** or **trough-to-trough distance**. When drawn out on a piece of paper, this distance determines the _length_ of a single wave. Intuitively, this number is called the **wavelength**.  
 
 Now, thinking of light as _sine waves_ with varying _wavelength_ (or _frequency_) is not the entire story.  
 
