@@ -109,6 +109,12 @@ A rainbow shows the spectrum of natural (sun)light.[^3]
 
 [^3]: [public domain image source 1](https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_Rainy_Season_in_the_Tropics_-_Google_Art_Project.jpg)
 
+But what do we mean by "radiation" or, more specifically, "light _rays_"?
+
+In simple terms, we mean "waves". In other words, rather than little _particles_ (small "balls" of light), we usually refer to something _rippling_ in a wave-like fashion whenever we speak of radiation.  
+
+And this is good news. Because waves are somewhat _simple_ when it comes to their mathematics. In particular, the mathematics of **sine waves** can be thought to boil down to just **3 numbers**, or more precisely, numeric values for most of its applications. And, even better, one of these numbers (or more precisely, numeric values) often can be ignored. This means that for much of what we need to discuss regarding light waves, two values (numbers) will be sufficient.
+
 Now, thinking of light as _sine waves_ with varying _wavelength_ (or _frequency_) is not the entire story.  
 
 We will also (necessarily) refer to light as if it is made of individual _particles_ called **photons**. Photons are small "balls" of light (_corpuscles_). This means that we can count how much light meets our eye by counting individual photons, for example.
