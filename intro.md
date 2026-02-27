@@ -793,15 +793,16 @@ Now, you might be aware that you can take classes in logic that last a semester 
 
 What are these rules, or laws, that logic follows?
 
-The most common, or "classical" laws of logic are just 3:
+The "classical" laws of logic (going back to Aristotle) are just 3 in number:
 
     1. The law of identity
     2. The law of non-contradiction
     3. The law of the excluded middle 
 
-(1) Means that something is what it is.
-(2) Means that a statement cannot be both true and false within the same context.
-(3) Means that a statement must be either true or false.
+Roughly speaking,
+(1) means that something is what it is.
+(2) means that a statement cannot be both true and false within the same context.
+(3) means that a statement must be either true or false.
 
 Another interesting discovery in the history of logic is that the 3. law might not be needed (the result is called _intuitionistic logic_). And there are also attempts (hotly debated) about dropping one or more of the other laws [^15]. But for most applications of logic, such as in the overwhelming majority of mathematics, _classical logic_ is all and everything that is needed (which gained these three rules "the laws of thought").  
 
