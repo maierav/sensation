@@ -117,7 +117,7 @@ And this is good news. Because waves are somewhat _simple_ when it comes to thei
 
 The simplest type of wave, mathematically speaking, is a sine wave.  
 
-Somewhat confusingly, _a_ sine wave refers to an (infinite) amount of waves that periodically "go up and down". When we refer to just one out of this (infinite) **series** of individual waves that collectively make up a sine wave, we call that singular "up-and-down" wave a **cycle**. In other words, a single cycle is what you are left with if you "cut out" a snippet that starts either at a peak and ends at a peak (_peak-to-peak_), or starts at a trough and ends at a trough (_trough-to-trough_) - or, indeed, any other reoccuring point of a sine wave.
+Somewhat confusingly, _a_ sine wave refers to an (infinite) amount of waves that periodically "go up and down". When we refer to just one out of this (infinite) **series** of individual waves that collectively make up a sine wave, we call that singular "up-and-down" wave a **cycle**. In other words, a single cycle is what you are left with if you "cut out" a snippet that starts either at a peak and ends at a peak (_peak-to-peak_), or starts at a trough and ends at a trough (_trough-to-trough_) - or, indeed, any other reoccurring point of a sine wave.
 
 Why the mathematics of **sine waves** seems so simple if that it can be thought to boil down to just **3 numbers**, or more precisely, numeric values for most of its applications.  
 
@@ -134,6 +134,29 @@ And the second number answers:
     how rapidly or slowly changing is the (sine) wave?
 
 In other words this number describes the **peak-to-peak** or **trough-to-trough distance**. When drawn out on a piece of paper, this distance determines the _length_ of a single wave. Intuitively, this number is called the **wavelength**.  
+
+% Sine Waves
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/wavelength_dark.png
+:label: fig:wavelength
+:width: 85%
+
+Sine waves are well described by two numerical values: their wavelength and their amplitude.[^4]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/wavelength.png
+:label: fig:wavelength
+:width: 85%
+
+Sine waves are well described by two numerical values: their wavelength and their amplitude.[^4]
+:::
+
+[^4]: [public domain source](https://commons.wikimedia.org/wiki/File:Wave_characteristics.svg)
 
 Now, thinking of light as _sine waves_ with varying _wavelength_ (or _frequency_) is not the entire story.  
 
