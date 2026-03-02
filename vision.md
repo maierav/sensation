@@ -370,7 +370,7 @@ You can think of an **amplitude spectrum** returned by a Fourier transform as a 
 :::{div}
 :class: hidden dark:block
 
-:::{figure} ./images/amplitude_spectrum_dark.gif
+:::{figure} ./images/amplitude_spectrum_dark.png
 :label: fig:amplitude_spectrum
 :width: 95%
 
