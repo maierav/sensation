@@ -207,7 +207,7 @@ The classic demonstration of wave acting like a wave or like a particle, dependi
 :label: fig:double_slit
 :width: 75%
 
-The double slit experiment consists simply of shining light on a surface with two slits in it. All light except for that passing through the slit gets blocked. The question is what one sees on the other side of the double slit (e.g., on a wall or screen that is placed behind the double slit).[^5]
+The double slit experiment consists simply of shining light on a surface with two slits in it. All light except for that passing through the slit gets blocked. The question is what one sees on the other side of the double slit (e.g., on a wall or screen that is placed behind the double slit).[^6]
 :::
 
 :::{div}
@@ -217,10 +217,10 @@ The double slit experiment consists simply of shining light on a surface with tw
 :label: fig:double_slit
 :width: 75%
 
-The double slit experiment consists simply of shining light on a surface with two slits in it. All light except for that passing through the slit gets blocked. The question is what one sees on the other side of the double slit (e.g., on a wall or screen that is placed behind the double slit).[^5]
+The double slit experiment consists simply of shining light on a surface with two slits in it. All light except for that passing through the slit gets blocked. The question is what one sees on the other side of the double slit (e.g., on a wall or screen that is placed behind the double slit).[^6]
 :::
 
-[^5]: [public domain source](https://commons.wikimedia.org/wiki/File:Double-slit-empty_de.svg)
+[^6]: [public domain source](https://commons.wikimedia.org/wiki/File:Double-slit-empty_de.svg)
 
 This is not that interesting it seems. Except for the following: Imagine what should happen if light were made of a stream of ball-like particles (photons).
 
@@ -232,7 +232,7 @@ This is not that interesting it seems. Except for the following: Imagine what sh
 :label: fig:corpuscles
 :width: 65%
 
-If light were made of particles (photons), we might expect to see the above.[^6]
+If light were made of particles (photons), we might expect to see the above.[^7]
 :::
 
 :::{div}
@@ -242,10 +242,10 @@ If light were made of particles (photons), we might expect to see the above.[^6]
 :label: fig:corpuscles
 :width: 65%
 
-If light were made of particles (photons), we might expect to see the above.[^6]
+If light were made of particles (photons), we might expect to see the above.[^7]
 :::
 
-[^6]: [public domain source](https://commons.wikimedia.org/wiki/File:Two-Slit_Experiment_Particles.svg)
+[^7]: [public domain source](https://commons.wikimedia.org/wiki/File:Two-Slit_Experiment_Particles.svg)
 
 But if light were a wave, we would expect to see something very differently behind the slits. The reason for that is how waves behave when they go through slits:
 
@@ -254,10 +254,10 @@ But if light were a wave, we would expect to see something very differently behi
 :label: fig:wave_pattern
 :width: 55%
 
-If a single wave front goes through two slits, the result is that it splits in half. In other words, two new wave fronts start to extend from the slits, one on each side. These waves interact (_interfere) with each other as they radiate out. The computer simulation shows how two such waves lead to such a complex pattern of interference.[^7]
+If a single wave front goes through two slits, the result is that it splits in half. In other words, two new wave fronts start to extend from the slits, one on each side. These waves interact (_interfere) with each other as they radiate out. The computer simulation shows how two such waves lead to such a complex pattern of interference.[^8]
 :::
 
-[^7]: [public domain source](https://commons.wikimedia.org/wiki/File:Young_experiment.gif)  
+[^8]: [public domain source](https://commons.wikimedia.org/wiki/File:Young_experiment.gif)  
 
 The complex pattern of a single wave front splitting into two when passing two slits, and the two split-off waves interfering with each other means that we should expect a "wavy" pattern behind the double slit - very different from the two "piles" of particles we expect for photons.
 
@@ -269,7 +269,7 @@ The complex pattern of a single wave front splitting into two when passing two s
 :label: fig:wave_pattern
 :width: 55%
 
-If light were a wave, we might expect to see the above.[^8]
+If light were a wave, we might expect to see the above.[^9]
 :::
 
 :::{div}
@@ -279,10 +279,10 @@ If light were a wave, we might expect to see the above.[^8]
 :label: fig:wave_pattern
 :width: 55%
 
-If light were a wave, we might expect to see the above.[^8]
+If light were a wave, we might expect to see the above.[^9]
 :::
 
-[^8]: public domain source [1](https://commons.wikimedia.org/wiki/File:Two-Slit_Experiment_Light.svg) and [2](https://commons.wikimedia.org/wiki/File:Double_slit_simulated_2.jpg)
+[^9]: public domain source [1](https://commons.wikimedia.org/wiki/File:Two-Slit_Experiment_Light.svg) and [2](https://commons.wikimedia.org/wiki/File:Double_slit_simulated_2.jpg)
 
 Now, what we find is... either one of the two. Depending on the circumstances.
 
@@ -300,9 +300,7 @@ Needless to say, we are just scratching the surface here. Light is at the center
 
 #### Spectra
 
-Light waves are best described as sine waves.
-
-This is good news. Sine waves are easy. Any sine wave is described by only three numbers:
+As we discussed above, light _waves_ are best described as sine waves. This is good news. Sine waves are easy. We already established that any sine wave is described by only three numbers:
 
 1. Frequency, or Wavelength (horizontal "peak-to-peak" in plots)
 2. Amplitude, or Magnitude (vertical "peak-to-peak" in plots)
@@ -310,11 +308,36 @@ This is good news. Sine waves are easy. Any sine wave is described by only three
 
 To make things even better, we can often ignore phase when it comes to sine waves in the science of perception, thus leaving us with just two numbers to describe a rather complex phenomenon, such as a light wave.
 
+So, just two numbers can well describe something as complex as a (light) _wave_. This property makes it very attractive for us to discuss the physics of light by treating it as light waves or light rays (though we will also treat it as particles, or photons, on other occassions).
+
 Now, in practice, light consists of more than just one sine wave. In fact, light usually consists of a very large number of _combined_ sine waves.
 
 Here, too, there is good news.
 
 Mathematically, it is relatively easy to take something (a **signal**, or **time series**) consisting of many sine waves, and find out exactly what sine waves it is made out of. More than that, we can find out for such a signal (such as light) consisting of a sine wave mixture, which _frequencies_ of sine waves this mix is made out of as well as the _amplitude_ (and _phase_) of each of these frequencies. The result is what we call a **spectrum**: a representation of the data as amplitude (or phase) as a function of frequency.
+
+% Fourier Transform
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/Fourier_transform_dark.gif
+:label: fig:fourier_transform
+:width: 55%
+
+The **Fourier transform** is a mathematical procedure that _decomposes_ a mix of sine waves into a list of _component_ sine waves of varying frequency and amplitude. The result is an amplitude **spectrum**. The Fourier transform also provides a spectrum that lists the phase for each of these component sine waves, but we can ignore this for now.[^10]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/Fourier_transform.gif
+:label: fig:fourier_transform
+:width: 55%
+
+The **Fourier transform** is a mathematical procedure that _decomposes_ a mix of sine waves into a list of _component_ sine waves of varying frequency and amplitude. The result is an amplitude **spectrum**. The Fourier transform also provides a spectrum that lists the phase for each of these component sine waves, but we can ignore this for now.[^10]
+:::
+
+[^10]: [public domain source](https://commons.wikimedia.org/wiki/File:Fourier_transform_time_and_frequency_domains_(small).gif)
 
 The mathematical process that achieves this is called a **Fourier Transform**, and the underlying mathematics is beyond our scope. But it is important to note that this transform is _reversible_: we can apply it to **component sine waves** and obtain the combined mixed (complex) signal. Or, we can start from the **complex (combined) signal** consisting of a mix of sine waves and find out all of its components.
 
