@@ -586,6 +586,14 @@ White noise. By moving close to your monitor, you can fill close your entire vis
 
 ## ANATOMY
 
+Before we can discuss how we sense (and then perceive) light, we first need to review the basic makeup of the part of our body that does the job: our eyes.
+
+Our eyes can be thought of as large fluid-filled spheres, almost like balloons. These spheres can be further divided into the following parts:
+
+The **sclera** is a skin-like tissue that envelops much of our eyes. The sclera is the white part that we see when we look at someone's eyes.
+
+The **iris** is the colored annulus that we see surrounding the pupil. The **pupil** is the black spot at the center of someone's eye when they look directly at us. The pupil is, in fact, just an _opening_. What we really look at when we see a pupil is the back of that person's eye.
+
 % ACCOMMODATION
 :::{div}
 :class: hidden dark:block
