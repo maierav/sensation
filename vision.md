@@ -372,7 +372,7 @@ You can think of an **amplitude spectrum** returned by a Fourier transform as a 
 
 :::{figure} ./images/amplitude_spectrum_dark.gif
 :label: fig:amplitude_spectrum
-:width: 65%
+:width: 95%
 
 A spectrum tells us which frequencies and their amplitudes collectively make up a mixed signal of sine waves.[^12]
 :::
@@ -382,7 +382,7 @@ A spectrum tells us which frequencies and their amplitudes collectively make up 
 
 :::{figure} ./images/amplitude_spectrum.png
 :label: fig:amplitude_spectrum
-:width: 65%
+:width: 95%
 
 A spectrum tells us which frequencies and their amplitudes collectively make up a mixed signal of sine waves.[^12]
 :::
