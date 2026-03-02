@@ -133,7 +133,9 @@ And the second number answers:
 
     how rapidly or slowly changing is the (sine) wave?
 
-In other words this number describes the **peak-to-peak** or **trough-to-trough distance**. When drawn out on a piece of paper, this distance determines the _length_ of a single wave. Intuitively, this number is called the **wavelength**.  
+In other words this number describes the **peak-to-peak** or **trough-to-trough distance**. When drawn out on a piece of paper, this distance determines the _length_ of a single wave. Intuitively, this number is called the **wavelength**. 
+
+The _inverse_ of wavelength is called **frequency**, and the two notions are often used interchangeably. Of course, due to their inverse relationship, the higher the frequency, the lower the wavelength (and vice versa).
 
 % Sine Waves
 :::{div}
@@ -157,6 +159,31 @@ Sine waves are well described by two numerical values: their wavelength and thei
 :::
 
 [^4]: [public domain source](https://commons.wikimedia.org/wiki/File:Wave_characteristics.svg)
+
+The third number needed to fully describe a sine wave is **phase** - how much its peaks and troughs are "shifted" relative to other sine wave of the same wavelength/frequency and amplitude.
+
+% Phase
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/phase_dark.png
+:label: fig:phase
+:width: 75%
+
+Sine waves can also differ in phase (as shown here).[^5]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/phase.png
+:label: fig:phase
+:width: 75%
+
+Sine waves can also differ in phase (as shown here).[^5]
+:::
+
+[^5]: [public domain source]()
 
 Now, thinking of light as _sine waves_ with varying _wavelength_ (or _frequency_) is not the entire story.  
 
