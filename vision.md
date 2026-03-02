@@ -366,6 +366,29 @@ The mathematical process that achieves this is called a **Fourier Transform**, a
 
 You can think of an **amplitude spectrum** returned by a Fourier transform as a cookie recipe: It tells you **what** (i.e., which frequency) to add and **how much** (i.e., amplitude) of each. A **phase spectrum** also tells us the phase of each frequency, but - as stated above - we can ignore that most of the time.
 
+% Amplitude Spectrum
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/amplitude_spectrum_dark.gif
+:label: fig:amplitude_spectrum
+:width: 65%
+
+A spectrum tells us which frequencies and their amplitudes collectively make up a mixed signal of sine waves.[^12]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/amplitude_spectrum.png
+:label: fig:amplitude_spectrum
+:width: 65%
+
+A spectrum tells us which frequencies and their amplitudes collectively make up a mixed signal of sine waves.[^12]
+:::
+
+[^12]: [public domain source](https://commons.wikimedia.org/wiki/File:NM16_8.gif)
+
 #### Filters
 
 There are four different kinds of filters when it comes to frequencies:
