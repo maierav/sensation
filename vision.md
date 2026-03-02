@@ -133,7 +133,7 @@ And the second number answers:
 
     how rapidly or slowly changing is the (sine) wave?
 
-In other words this number describes the **peak-to-peak** or **trough-to-trough distance**. When drawn out on a piece of paper, this distance determines the _length_ of a single wave. Intuitively, this number is called the **wavelength**. 
+In other words this number describes the **peak-to-peak** or **trough-to-trough distance**. When drawn out on a piece of paper, this distance determines the _length_ of a single wave. Intuitively, this number is called the **wavelength**.  
 
 The _inverse_ of wavelength is called **frequency**, and the two notions are often used interchangeably. Of course, due to their inverse relationship, the higher the frequency, the lower the wavelength (and vice versa).
 
@@ -183,7 +183,7 @@ Sine waves can also differ in phase (as shown here).[^5]
 Sine waves can also differ in phase (as shown here).[^5]
 :::
 
-[^5]: [public domain source]()
+[^5]: [public domain source](https://commons.wikimedia.org/wiki/File:3_phase_rectification_2-ru.svg)
 
 Now, thinking of light as _sine waves_ with varying _wavelength_ (or _frequency_) is not the entire story.  
 
