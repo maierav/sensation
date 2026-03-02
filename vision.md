@@ -308,7 +308,30 @@ As we discussed above, light _waves_ are best described as sine waves. This is g
 
 To make things even better, we can often ignore phase when it comes to sine waves in the science of perception, thus leaving us with just two numbers to describe a rather complex phenomenon, such as a light wave.
 
-So, just two numbers can well describe something as complex as a (light) _wave_. This property makes it very attractive for us to discuss the physics of light by treating it as light waves or light rays (though we will also treat it as particles, or photons, on other occassions).
+% Amplitude vs. Frequency
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/amplitude_dark.png
+:label: fig:amplitude_vs_frequency
+:width: 55%
+
+Amplitude and frequency are just two numeric values that tell us almost everything there is to know about sine waves.[^10]
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/amplitude.png
+:label: fig:amplitude_vs_frequency
+:width: 55%
+
+Amplitude and frequency are just two numeric values that tell us almost everything there is to know about sine waves.[^10]
+:::
+
+[^10]: [public domain source](https://commons.wikimedia.org/wiki/File:SoundWaveDiagFreqAmp.png)
+
+So, just two numbers can well describe something as complex as a (light) _wave_. This property makes it very attractive for us to discuss the physics of light by treating it as light waves or light rays (though we will also treat it as particles, or photons, on other occasions).
 
 Now, in practice, light consists of more than just one sine wave. In fact, light usually consists of a very large number of _combined_ sine waves.
 
@@ -324,7 +347,7 @@ Mathematically, it is relatively easy to take something (a **signal**, or **time
 :label: fig:fourier_transform
 :width: 55%
 
-The **Fourier transform** is a mathematical procedure that _decomposes_ a mix of sine waves into a list of _component_ sine waves of varying frequency and amplitude. The result is an amplitude **spectrum**. The Fourier transform also provides a spectrum that lists the phase for each of these component sine waves, but we can ignore this for now.[^10]
+The **Fourier transform** is a mathematical procedure that _decomposes_ a mix of sine waves into a list of _component_ sine waves of varying frequency and amplitude. The result is an amplitude **spectrum**. The Fourier transform also provides a spectrum that lists the phase for each of these component sine waves, but we can ignore this for now.[^11]
 :::
 
 :::{div}
@@ -334,10 +357,10 @@ The **Fourier transform** is a mathematical procedure that _decomposes_ a mix of
 :label: fig:fourier_transform
 :width: 55%
 
-The **Fourier transform** is a mathematical procedure that _decomposes_ a mix of sine waves into a list of _component_ sine waves of varying frequency and amplitude. The result is an amplitude **spectrum**. The Fourier transform also provides a spectrum that lists the phase for each of these component sine waves, but we can ignore this for now.[^10]
+The **Fourier transform** is a mathematical procedure that _decomposes_ a mix of sine waves into a list of _component_ sine waves of varying frequency and amplitude. The result is an amplitude **spectrum**. The Fourier transform also provides a spectrum that lists the phase for each of these component sine waves, but we can ignore this for now.[^11]
 :::
 
-[^10]: [public domain source](https://commons.wikimedia.org/wiki/File:Fourier_transform_time_and_frequency_domains_(small).gif)
+[^11]: [public domain source](https://commons.wikimedia.org/wiki/File:Fourier_transform_time_and_frequency_domains_(small).gif)
 
 The mathematical process that achieves this is called a **Fourier Transform**, and the underlying mathematics is beyond our scope. But it is important to note that this transform is _reversible_: we can apply it to **component sine waves** and obtain the combined mixed (complex) signal. Or, we can start from the **complex (combined) signal** consisting of a mix of sine waves and find out all of its components.
 
