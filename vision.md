@@ -594,7 +594,7 @@ The optic nerves of both eyes meet at an x-formed structure called the **optic c
 
 ### Extraocular muscles
 
-% Eye Musckes
+% Eye Muscles
 :::{div}
 :class: hidden dark:block
 
