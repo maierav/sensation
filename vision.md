@@ -314,7 +314,7 @@ To make things even better, we can often ignore phase when it comes to sine wave
 
 :::{figure} ./images/amplitude_dark.png
 :label: fig:amplitude_vs_frequency
-:width: 65%
+:width: 45%
 
 Amplitude and frequency are just two numeric values that tell us almost everything there is to know about sine waves.[^10]
 :::
@@ -324,7 +324,7 @@ Amplitude and frequency are just two numeric values that tell us almost everythi
 
 :::{figure} ./images/amplitude.png
 :label: fig:amplitude_vs_frequency
-:width: 65%
+:width: 45%
 
 Amplitude and frequency are just two numeric values that tell us almost everything there is to know about sine waves.[^10]
 :::
