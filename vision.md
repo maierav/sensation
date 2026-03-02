@@ -141,7 +141,7 @@ In other words this number describes the **peak-to-peak** or **trough-to-trough 
 
 :::{figure} ./images/wavelength_dark.png
 :label: fig:wavelength
-:width: 85%
+:width: 65%
 
 Sine waves are well described by two numerical values: their wavelength and their amplitude.[^4]
 :::
@@ -151,7 +151,7 @@ Sine waves are well described by two numerical values: their wavelength and thei
 
 :::{figure} ./images/wavelength.png
 :label: fig:wavelength
-:width: 85%
+:width: 65%
 
 Sine waves are well described by two numerical values: their wavelength and their amplitude.[^4]
 :::
