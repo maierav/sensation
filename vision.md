@@ -180,7 +180,7 @@ The classic demonstration of wave acting like a wave or like a particle, dependi
 :label: fig:double_slit
 :width: 75%
 
-The double slit experiment consists simply of shining light on a surface with two slits in it. All light except for that passing through the slit gets blocked. The question is what one sees on the other side of the double slit (e.g., on a wall or screen that is placed behind the double slit).[^4]
+The double slit experiment consists simply of shining light on a surface with two slits in it. All light except for that passing through the slit gets blocked. The question is what one sees on the other side of the double slit (e.g., on a wall or screen that is placed behind the double slit).[^5]
 :::
 
 :::{div}
@@ -190,10 +190,10 @@ The double slit experiment consists simply of shining light on a surface with tw
 :label: fig:double_slit
 :width: 75%
 
-The double slit experiment consists simply of shining light on a surface with two slits in it. All light except for that passing through the slit gets blocked. The question is what one sees on the other side of the double slit (e.g., on a wall or screen that is placed behind the double slit).[^4]
+The double slit experiment consists simply of shining light on a surface with two slits in it. All light except for that passing through the slit gets blocked. The question is what one sees on the other side of the double slit (e.g., on a wall or screen that is placed behind the double slit).[^5]
 :::
 
-[^4]: [public domain source](https://commons.wikimedia.org/wiki/File:Double-slit-empty_de.svg)
+[^5]: [public domain source](https://commons.wikimedia.org/wiki/File:Double-slit-empty_de.svg)
 
 This is not that interesting it seems. Except for the following: Imagine what should happen if light were made of a stream of ball-like particles (photons).
 
@@ -205,7 +205,7 @@ This is not that interesting it seems. Except for the following: Imagine what sh
 :label: fig:corpuscles
 :width: 65%
 
-If light were made of particles (photons), we might expect to see the above.[^5]
+If light were made of particles (photons), we might expect to see the above.[^6]
 :::
 
 :::{div}
@@ -215,10 +215,10 @@ If light were made of particles (photons), we might expect to see the above.[^5]
 :label: fig:corpuscles
 :width: 65%
 
-If light were made of particles (photons), we might expect to see the above.[^5]
+If light were made of particles (photons), we might expect to see the above.[^6]
 :::
 
-[^5]: [public domain source](https://commons.wikimedia.org/wiki/File:Two-Slit_Experiment_Particles.svg)
+[^6]: [public domain source](https://commons.wikimedia.org/wiki/File:Two-Slit_Experiment_Particles.svg)
 
 But if light were a wave, we would expect to see something very differently behind the slits. The reason for that is how waves behave when they go through slits:
 
@@ -227,10 +227,10 @@ But if light were a wave, we would expect to see something very differently behi
 :label: fig:wave_pattern
 :width: 55%
 
-If a single wave front goes through two slits, the result is that it splits in half. In other words, two new wave fronts start to extend from the slits, one on each side. These waves interact (_interfere) with each other as they radiate out. The computer simulation shows how two such waves lead to such a complex pattern of interference.[^6]
+If a single wave front goes through two slits, the result is that it splits in half. In other words, two new wave fronts start to extend from the slits, one on each side. These waves interact (_interfere) with each other as they radiate out. The computer simulation shows how two such waves lead to such a complex pattern of interference.[^7]
 :::
 
-[^6]: [public domain source](https://commons.wikimedia.org/wiki/File:Young_experiment.gif)  
+[^7]: [public domain source](https://commons.wikimedia.org/wiki/File:Young_experiment.gif)  
 
 The complex pattern of a single wave front splitting into two when passing two slits, and the two split-off waves interfering with each other means that we should expect a "wavy" pattern behind the double slit - very different from the two "piles" of particles we expect for photons.
 
@@ -242,7 +242,7 @@ The complex pattern of a single wave front splitting into two when passing two s
 :label: fig:wave_pattern
 :width: 55%
 
-If light were a wave, we might expect to see the above.[^7]
+If light were a wave, we might expect to see the above.[^8]
 :::
 
 :::{div}
@@ -252,10 +252,10 @@ If light were a wave, we might expect to see the above.[^7]
 :label: fig:wave_pattern
 :width: 55%
 
-If light were a wave, we might expect to see the above.[^7]
+If light were a wave, we might expect to see the above.[^8]
 :::
 
-[^7]: public domain source [1](https://commons.wikimedia.org/wiki/File:Two-Slit_Experiment_Light.svg) and [2](https://commons.wikimedia.org/wiki/File:Double_slit_simulated_2.jpg)
+[^8]: public domain source [1](https://commons.wikimedia.org/wiki/File:Two-Slit_Experiment_Light.svg) and [2](https://commons.wikimedia.org/wiki/File:Double_slit_simulated_2.jpg)
 
 Now, what we find is... either one of the two. Depending on the circumstances.
 
@@ -369,7 +369,7 @@ Indeed, refraction is usually explained by the "density" of the material that li
 :::{figure} ./images/basic_optics_dark.png
 :label: fig:basic_optics
 :width: 85%
-Light can be transmitted, absorbed, reflected, scattered, or reflected.[^8]
+Light can be transmitted, absorbed, reflected, scattered, or reflected.[^9]
 
 :::
 
@@ -379,11 +379,11 @@ Light can be transmitted, absorbed, reflected, scattered, or reflected.[^8]
 :::{figure} ./images/basic_optics.png
 :label: fig:basic_optics
 :width: 85%
-Light can be transmitted, absorbed, reflected, scattered, or reflected.[^8]
+Light can be transmitted, absorbed, reflected, scattered, or reflected.[^9]
 
 :::
 
-[^8]: [public domain source](https://commons.wikimedia.org/wiki/File:Reflexion-streuung-absorbtion.svg)
+[^9]: [public domain source](https://commons.wikimedia.org/wiki/File:Reflexion-streuung-absorbtion.svg)
 
 ## PSYCHOLOGY
 
@@ -417,7 +417,7 @@ The first thing one notices when pondering the nature of _seeing_ is that one ca
 :label: fig:vision
 :width: 75%
 
-Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^9]
+Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^10]
 :::
 
 :::{div}
@@ -427,10 +427,10 @@ Visual fields (gray shade) of different animals shown along the horizontal plane
 :label: fig:vision
 :width: 75%
 
-Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^9]
+Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^10]
 :::
 
-[^9]: [reference](https://doi.org/10.1146/annurev-vision-100720-112922)
+[^10]: [reference](https://doi.org/10.1146/annurev-vision-100720-112922)
 
 The reason that we cannot see what is behind our heads is simply due to the fact that both of our eyes face to the front, of course. Interestingly, this is not the rule among animals, let alone mammals. Many animals do not suffer from this limitation. In particular, animals that frequently face predators tend to feature eyes (usually on each side of the head) that allow for seeing almost _all around them_.  
 
@@ -451,10 +451,10 @@ To keep things simple, let us think about two-dimensional space first. In other 
 :label: fig:vision
 :width: 100%
 
-White noise. By moving close to your monitor, you can fill close your entire visual field with this two-dimensional image. At that point, all you see is movement within a plane that runs parallel to your eyes.[^10]
+White noise. By moving close to your monitor, you can fill close your entire visual field with this two-dimensional image. At that point, all you see is movement within a plane that runs parallel to your eyes.[^11]
 :::
 
-[^10]: [reference](https://commons.wikimedia.org/wiki/File:White-noise.gif)
+[^11]: [reference](https://commons.wikimedia.org/wiki/File:White-noise.gif)
 
 ### Form
 
@@ -498,7 +498,7 @@ White noise. By moving close to your monitor, you can fill close your entire vis
 :label: fig: accommodation
 :width: 70%
 
-Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^11]
+Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^12]
 
 :::
 
@@ -509,11 +509,11 @@ Illustration of the process of **Accommodation**: The lens of our eyes gets defo
 :label: fig: accommodation
 :width: 70%
 
-Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^11]
+Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^12]
 
 :::
 
-[^11]: [public domain image source](https://commons.wikimedia.org/wiki/File:Anatomie_Descriptive_Et_Dissection,_Casa_de_Oswaldo_Cruz_(170725),_page_672.jpg)
+[^12]: [public domain image source](https://commons.wikimedia.org/wiki/File:Anatomie_Descriptive_Et_Dissection,_Casa_de_Oswaldo_Cruz_(170725),_page_672.jpg)
 
 ## NEUROSCIENCE
 
@@ -525,7 +525,7 @@ Illustration of the process of **Accommodation**: The lens of our eyes gets defo
 :label: fig:vision
 :width: 40%
 
-The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^12]
+The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^13]
 :::
 
 :::{div}
@@ -535,10 +535,10 @@ The primary visual pathway, colored coded by _visual field_ (not by eye). Neuron
 :label: fig:vision
 :width: 40%
 
-The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^12]
+The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^13]
 :::
 
-[^12]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray722.png)
+[^13]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray722.png)
 
 ### Optic Nerve
 
@@ -550,7 +550,7 @@ The primary visual pathway, colored coded by _visual field_ (not by eye). Neuron
 :label: fig:vision
 :width: 60%
 
-The visual nerve links the eyes to the rest of the brain.[^13]
+The visual nerve links the eyes to the rest of the brain.[^14]
 :::
 
 :::{div}
@@ -560,10 +560,10 @@ The visual nerve links the eyes to the rest of the brain.[^13]
 :label: fig:vision
 :width: 60%
 
-The visual nerve links the eyes to the rest of the brain.[^13]
+The visual nerve links the eyes to the rest of the brain.[^14]
 :::
 
-[^13]: [public domain source](https://commons.wikimedia.org/wiki/File:Lawrence_1960_9.3.png)
+[^14]: [public domain source](https://commons.wikimedia.org/wiki/File:Lawrence_1960_9.3.png)
 
 ### Optic Chiasm
 
@@ -575,7 +575,7 @@ The visual nerve links the eyes to the rest of the brain.[^13]
 :label: fig:optic chiasm
 :width: 40%
 
-The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^14]
+The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^15]
 :::
 
 :::{div}
@@ -585,10 +585,10 @@ The optic nerves of both eyes meet at an x-formed structure called the **optic c
 :label: fig:optic chiasm
 :width: 40%
 
-The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^14]
+The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^15]
 :::
 
-[^14]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray773.png)
+[^15]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray773.png)
 
 ## EYE MOVEMENTS
 
@@ -602,7 +602,7 @@ The optic nerves of both eyes meet at an x-formed structure called the **optic c
 :label: fig:eye_muscles
 :width: 70%
 
-Extraocular muscles.[^15]
+Extraocular muscles.[^16]
 :::
 
 :::{div}
@@ -612,7 +612,7 @@ Extraocular muscles.[^15]
 :label: fig:eye_muscles
 :width: 70%
 
-Extraocular muscles.[^15]
+Extraocular muscles.[^16]
 :::
 
-[^15]: [public domain source](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sobo_1911_748.png/640px-Sobo_1911_748.png)
+[^16]: [public domain source](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sobo_1911_748.png/640px-Sobo_1911_748.png)
