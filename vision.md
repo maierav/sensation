@@ -465,7 +465,7 @@ Indeed, refraction is usually explained by the "density" of the material that li
 :::{figure} ./images/basic_optics_dark.png
 :label: fig:basic_optics
 :width: 85%
-Light can be transmitted, absorbed, reflected, scattered, or reflected.[^9]
+Light can be transmitted, absorbed, reflected, scattered, or reflected.[^13]
 
 :::
 
@@ -475,11 +475,11 @@ Light can be transmitted, absorbed, reflected, scattered, or reflected.[^9]
 :::{figure} ./images/basic_optics.png
 :label: fig:basic_optics
 :width: 85%
-Light can be transmitted, absorbed, reflected, scattered, or reflected.[^9]
+Light can be transmitted, absorbed, reflected, scattered, or reflected.[^13]
 
 :::
 
-[^9]: [public domain source](https://commons.wikimedia.org/wiki/File:Reflexion-streuung-absorbtion.svg)
+[^13]: [public domain source](https://commons.wikimedia.org/wiki/File:Reflexion-streuung-absorbtion.svg)
 
 ## PSYCHOLOGY
 
@@ -513,7 +513,7 @@ The first thing one notices when pondering the nature of _seeing_ is that one ca
 :label: fig:vision
 :width: 75%
 
-Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^10]
+Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^14]
 :::
 
 :::{div}
@@ -523,10 +523,10 @@ Visual fields (gray shade) of different animals shown along the horizontal plane
 :label: fig:vision
 :width: 75%
 
-Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^10]
+Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^14]
 :::
 
-[^10]: [reference](https://doi.org/10.1146/annurev-vision-100720-112922)
+[^14]: [reference](https://doi.org/10.1146/annurev-vision-100720-112922)
 
 The reason that we cannot see what is behind our heads is simply due to the fact that both of our eyes face to the front, of course. Interestingly, this is not the rule among animals, let alone mammals. Many animals do not suffer from this limitation. In particular, animals that frequently face predators tend to feature eyes (usually on each side of the head) that allow for seeing almost _all around them_.  
 
@@ -547,10 +547,10 @@ To keep things simple, let us think about two-dimensional space first. In other 
 :label: fig:vision
 :width: 100%
 
-White noise. By moving close to your monitor, you can fill close your entire visual field with this two-dimensional image. At that point, all you see is movement within a plane that runs parallel to your eyes.[^11]
+White noise. By moving close to your monitor, you can fill close your entire visual field with this two-dimensional image. At that point, all you see is movement within a plane that runs parallel to your eyes.[^15]
 :::
 
-[^11]: [reference](https://commons.wikimedia.org/wiki/File:White-noise.gif)
+[^15]: [reference](https://commons.wikimedia.org/wiki/File:White-noise.gif)
 
 ### Form
 
@@ -594,7 +594,7 @@ White noise. By moving close to your monitor, you can fill close your entire vis
 :label: fig: accommodation
 :width: 70%
 
-Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^12]
+Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^16]
 
 :::
 
@@ -605,11 +605,11 @@ Illustration of the process of **Accommodation**: The lens of our eyes gets defo
 :label: fig: accommodation
 :width: 70%
 
-Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^12]
+Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^16]
 
 :::
 
-[^12]: [public domain image source](https://commons.wikimedia.org/wiki/File:Anatomie_Descriptive_Et_Dissection,_Casa_de_Oswaldo_Cruz_(170725),_page_672.jpg)
+[^16]: [public domain image source](https://commons.wikimedia.org/wiki/File:Anatomie_Descriptive_Et_Dissection,_Casa_de_Oswaldo_Cruz_(170725),_page_672.jpg)
 
 ## NEUROSCIENCE
 
@@ -631,10 +631,10 @@ The primary visual pathway, colored coded by _visual field_ (not by eye). Neuron
 :label: fig:vision
 :width: 40%
 
-The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^13]
+The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^17]
 :::
 
-[^13]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray722.png)
+[^17]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray722.png)
 
 ### Optic Nerve
 
@@ -646,7 +646,7 @@ The primary visual pathway, colored coded by _visual field_ (not by eye). Neuron
 :label: fig:vision
 :width: 60%
 
-The visual nerve links the eyes to the rest of the brain.[^14]
+The visual nerve links the eyes to the rest of the brain.[^18]
 :::
 
 :::{div}
@@ -656,10 +656,10 @@ The visual nerve links the eyes to the rest of the brain.[^14]
 :label: fig:vision
 :width: 60%
 
-The visual nerve links the eyes to the rest of the brain.[^14]
+The visual nerve links the eyes to the rest of the brain.[^18]
 :::
 
-[^14]: [public domain source](https://commons.wikimedia.org/wiki/File:Lawrence_1960_9.3.png)
+[^18]: [public domain source](https://commons.wikimedia.org/wiki/File:Lawrence_1960_9.3.png)
 
 ### Optic Chiasm
 
@@ -671,7 +671,7 @@ The visual nerve links the eyes to the rest of the brain.[^14]
 :label: fig:optic chiasm
 :width: 40%
 
-The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^15]
+The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^19]
 :::
 
 :::{div}
@@ -681,10 +681,10 @@ The optic nerves of both eyes meet at an x-formed structure called the **optic c
 :label: fig:optic chiasm
 :width: 40%
 
-The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^15]
+The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^19]
 :::
 
-[^15]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray773.png)
+[^19]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray773.png)
 
 ## EYE MOVEMENTS
 
@@ -698,7 +698,7 @@ The optic nerves of both eyes meet at an x-formed structure called the **optic c
 :label: fig:eye_muscles
 :width: 70%
 
-Extraocular muscles.[^16]
+Extraocular muscles.[^20]
 :::
 
 :::{div}
@@ -708,7 +708,7 @@ Extraocular muscles.[^16]
 :label: fig:eye_muscles
 :width: 70%
 
-Extraocular muscles.[^16]
+Extraocular muscles.[^20]
 :::
 
-[^16]: [public domain source](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sobo_1911_748.png/640px-Sobo_1911_748.png)
+[^20]: [public domain source](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sobo_1911_748.png/640px-Sobo_1911_748.png)
