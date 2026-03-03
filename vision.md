@@ -493,7 +493,7 @@ Specifically, our lenses are **convergent lenses** that, thanks to their materia
 
 :::{figure} ./images/focus_dark.png
 :label: fig:focus
-:width: 85%
+:width: 100%
 Our lenses refract light so that light rays of objects we look at end up in focus.[^14]
 
 :::
@@ -503,7 +503,7 @@ Our lenses refract light so that light rays of objects we look at end up in focu
 
 :::{figure} ./images/focus.png
 :label: fig:focus
-:width: 85%
+:width: 100%
 Our lenses refract light so that light rays of objects we look at end up in focus.[^14]
 
 :::
