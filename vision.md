@@ -485,7 +485,30 @@ Light can be transmitted, absorbed, reflected, scattered, or reflected.[^13]
 
 Now that we earned a solid grasp on basic optics, we can appreciate what happens when light meets our eyes. We will discuss the full anatomy of our eyes as well as the neuronal processes that occur inside our eyes when they are exposed to lights after we discussed what we know about the psychology of vision, but for now let it suffice to examine how our **lenses** bundle incoming light rays via _refraction_.
 
-Specifically, our lenses are **convergent lenses** that, thanks to their material properties and _convex_ shapes, refract light rays in a manner that ensures that what we look at appears in sharp **focus**.
+Specifically, our lenses are **convergent lenses** that, thanks to their material properties and _convex_ shapes, refract light rays in a manner that ensures that what we look at appears in sharp **focus**. An intuitive way to think about what it means to focus is that any point from which light that is either reflected or scattered ends up as a discrete point on the back of our eye rather than a large area of unsharp _blur_.
+
+% Focus
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/focus_dark.png
+:label: fig:focus
+:width: 85%
+Our lenses refract light so that light rays of objects we look at end up in focus.[^14]
+
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/focus.png
+:label: fig:focus
+:width: 85%
+Our lenses refract light so that light rays of objects we look at end up in focus.[^14]
+
+:::
+
+[^14]: [public domain source](https://commons.wikimedia.org/wiki/File:Myopia_and_lens_correction.svg)
 
 ## PSYCHOLOGY
 
