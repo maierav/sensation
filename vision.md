@@ -594,6 +594,8 @@ The **sclera** is a skin-like tissue that envelops much of our eyes. The sclera 
 
 The **iris** is the colored annulus that we see surrounding the pupil. The **pupil** is the black spot at the center of someone's eye when they look directly at us. The pupil is, in fact, just an _opening_. What we really look at when we see a pupil is the back of that person's eye.
 
+In other words, the iris is donut-shaped, and the hole at the center of that donut is what we call the pupil. Does this mean that we have an open hole in the center of our eyes? If so, why does the fluid inside not spill out? The answer is that the **lens** is a transparent cover that sits behind that hole and seals it shut. There is also a second transparent layer of tissue at the very front of the eye called the **cornea**. This means that when see a black pupil, what we actually look at is the following: a transparent cornea, transparent fluid, a transparent lens, and ultimately - the retina at the back of the eye which absorbs so much light that it is completely black.
+
 % ACCOMMODATION
 :::{div}
 :class: hidden dark:block
