@@ -542,7 +542,7 @@ The first thing one notices when pondering the nature of _seeing_ is that one ca
 :label: fig:vision
 :width: 75%
 
-Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^14]
+Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^15]
 :::
 
 :::{div}
@@ -552,10 +552,10 @@ Visual fields (gray shade) of different animals shown along the horizontal plane
 :label: fig:vision
 :width: 75%
 
-Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^14]
+Visual fields (gray shade) of different animals shown along the horizontal plane (i.e., angle around the head that is visible to these animas).[^15]
 :::
 
-[^14]: [reference](https://doi.org/10.1146/annurev-vision-100720-112922)
+[^15]: [reference](https://doi.org/10.1146/annurev-vision-100720-112922)
 
 The reason that we cannot see what is behind our heads is simply due to the fact that both of our eyes face to the front, of course. Interestingly, this is not the rule among animals, let alone mammals. Many animals do not suffer from this limitation. In particular, animals that frequently face predators tend to feature eyes (usually on each side of the head) that allow for seeing almost _all around them_.  
 
@@ -576,10 +576,10 @@ To keep things simple, let us think about two-dimensional space first. In other 
 :label: fig:vision
 :width: 100%
 
-White noise. By moving close to your monitor, you can fill close your entire visual field with this two-dimensional image. At that point, all you see is movement within a plane that runs parallel to your eyes.[^15]
+White noise. By moving close to your monitor, you can fill close your entire visual field with this two-dimensional image. At that point, all you see is movement within a plane that runs parallel to your eyes.[^16]
 :::
 
-[^15]: [reference](https://commons.wikimedia.org/wiki/File:White-noise.gif)
+[^16]: [reference](https://commons.wikimedia.org/wiki/File:White-noise.gif)
 
 ### Form
 
@@ -633,7 +633,7 @@ In other words, the iris is donut-shaped, and the hole at the center of that don
 :label: fig: eye_gross_anatomy
 :width: 70%
 
-Anatomy of the eye.[^16]
+Anatomy of the eye.[^17]
 
 :::
 
@@ -644,11 +644,11 @@ Anatomy of the eye.[^16]
 :label: fig: eye_gross_anatomy
 :width: 50%
 
-Anatomy of the eye.[^16]
+Anatomy of the eye.[^17]
 
 :::
 
-[^16]: [public domain image source](https://commons.wikimedia.org/wiki/File:Retina_(PSF).png)
+[^17]: [public domain image source](https://commons.wikimedia.org/wiki/File:Retina_(PSF).png)
 
 The lens is held in place by muscles. When these muscles constrict, the lens is pulled into an elongated shape. The change of that shape changes its _refraction_ in a way that we can **focus** on objects at varying distances. This process is called **accommodation**.
 
@@ -660,7 +660,7 @@ The lens is held in place by muscles. When these muscles constrict, the lens is 
 :label: fig: accommodation
 :width: 70%
 
-Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^17]
+Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^18]
 
 :::
 
@@ -671,11 +671,11 @@ Illustration of the process of **Accommodation**: The lens of our eyes gets defo
 :label: fig: accommodation
 :width: 70%
 
-Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^17]
+Illustration of the process of **Accommodation**: The lens of our eyes gets deformed when we focus on objects that are near or far from us, resulting in a change of diffraction that ensures that the light projection on the retina is in **focus**.[^18]
 
 :::
 
-[^17]: [public domain image source](https://commons.wikimedia.org/wiki/File:Anatomie_Descriptive_Et_Dissection,_Casa_de_Oswaldo_Cruz_(170725),_page_672.jpg)
+[^18]: [public domain image source](https://commons.wikimedia.org/wiki/File:Anatomie_Descriptive_Et_Dissection,_Casa_de_Oswaldo_Cruz_(170725),_page_672.jpg)
 
 ## NEUROSCIENCE
 
@@ -687,7 +687,7 @@ Illustration of the process of **Accommodation**: The lens of our eyes gets defo
 :label: fig:vision
 :width: 40%
 
-The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^13]
+The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^19]
 :::
 
 :::{div}
@@ -697,10 +697,10 @@ The primary visual pathway, colored coded by _visual field_ (not by eye). Neuron
 :label: fig:vision
 :width: 40%
 
-The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^18]
+The primary visual pathway, colored coded by _visual field_ (not by eye). Neurons (**retinal ganglion cells**, or RGC) from both eyes first meet at the x-shaped **optic chiasm**. Half of the fibers cross so that the fibers from each eye that correspond to the same visual hemifield are bundled. These fibers then terminate at the dorsal **lateral geniculate nucleus**, or LGN, of the thalamus. Most LGN neurons then project to the back of the cerebral cortex and arrive at the **primary visual cortex**, or V1.[^19]
 :::
 
-[^18]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray722.png)
+[^19]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray722.png)
 
 ### Optic Nerve
 
@@ -712,7 +712,7 @@ The primary visual pathway, colored coded by _visual field_ (not by eye). Neuron
 :label: fig:vision
 :width: 60%
 
-The visual nerve links the eyes to the rest of the brain.[^19]
+The visual nerve links the eyes to the rest of the brain.[^20]
 :::
 
 :::{div}
@@ -722,10 +722,10 @@ The visual nerve links the eyes to the rest of the brain.[^19]
 :label: fig:vision
 :width: 60%
 
-The visual nerve links the eyes to the rest of the brain.[^19]
+The visual nerve links the eyes to the rest of the brain.[^20]
 :::
 
-[^19]: [public domain source](https://commons.wikimedia.org/wiki/File:Lawrence_1960_9.3.png)
+[^20]: [public domain source](https://commons.wikimedia.org/wiki/File:Lawrence_1960_9.3.png)
 
 ### Optic Chiasm
 
@@ -737,7 +737,7 @@ The visual nerve links the eyes to the rest of the brain.[^19]
 :label: fig:optic chiasm
 :width: 40%
 
-The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^20]
+The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^21]
 :::
 
 :::{div}
@@ -747,10 +747,10 @@ The optic nerves of both eyes meet at an x-formed structure called the **optic c
 :label: fig:optic chiasm
 :width: 40%
 
-The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^20]
+The optic nerves of both eyes meet at an x-formed structure called the **optic chiasm**.[^21]
 :::
 
-[^20]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray773.png)
+[^21]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray773.png)
 
 ## EYE MOVEMENTS
 
@@ -764,7 +764,7 @@ The optic nerves of both eyes meet at an x-formed structure called the **optic c
 :label: fig:eye_muscles
 :width: 70%
 
-Extraocular muscles.[^21]
+Extraocular muscles.[^22]
 :::
 
 :::{div}
@@ -774,7 +774,7 @@ Extraocular muscles.[^21]
 :label: fig:eye_muscles
 :width: 70%
 
-Extraocular muscles.[^21]
+Extraocular muscles.[^22]
 :::
 
-[^21]: [public domain source](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sobo_1911_748.png/640px-Sobo_1911_748.png)
+[^22]: [public domain source](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sobo_1911_748.png/640px-Sobo_1911_748.png)
