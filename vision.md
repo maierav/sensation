@@ -631,7 +631,7 @@ In other words, the iris is donut-shaped, and the hole at the center of that don
 
 :::{figure} images/eye_gross_dark.png
 :label: fig: eye_gross_anatomy
-:width: 70%
+:width: 50%
 
 Anatomy of the eye.[^17]
 
