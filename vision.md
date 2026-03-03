@@ -391,12 +391,37 @@ A spectrum tells us which frequencies and their amplitudes collectively make up 
 
 #### Filters
 
+A filter lets some components of a mixture pass (while holding back others). We will encounter filters throughout our survey of the science of sensation and perception, but they are easiest to explain in the context of the light spectrum.
+
 There are four different kinds of filters when it comes to frequencies:
 
 1. Low pass filters: let _only low frequencies_ pass
 2. High pass filters: let _only high frequencies_ pass
 3. Band-pass filters: let _**neither** low frequencies **nor** high frequencies_ pass
 4. Notch filters: let _only low **and** high frequencies_ pass
+
+Given what we just discussed regarding sine waves and spectra, we can make sense of these four filter types by examining what they do to a wave that consists of three sine wave components of the same amplitude: a low frequency sine wave that is added to a mid-frequency sine wave, and a high frequency sine wave. When a Fourier transform is applied to this complex wave that consists of the sum of these three component sine waves, it returns a spectrum that shows each of these three component sine waves.
+
+% FFT Example
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/fft_example_dark.png
+:label: fig:fft_example
+:width: 75%
+
+Adding three sine waves of equal amplitude but varying frequency produces a complex wave.
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/fft_example.png
+:label: fig:fft_example
+:width: 75%
+
+Adding three sine waves of equal amplitude but varying frequency produces a complex wave.
+:::
 
 We will need these concepts to better understand optics. For example, a filter that only lets low light frequencies pass (a low-pass filter for visible light) will look **red** to us. However, as we will see, the concepts of frequencies, spectra, and filter explain a lot more about visual perception, such as how we see space or details - even faces. In fact, most of our senses can be better understood from a frequency-based perspective.
 
