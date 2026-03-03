@@ -423,7 +423,38 @@ Adding three sine waves of equal amplitude but varying frequency produces a comp
 Adding three sine waves of equal amplitude but varying frequency produces a complex wave.
 :::
 
-We will need these concepts to better understand optics. For example, a filter that only lets low light frequencies pass (a low-pass filter for visible light) will look **red** to us. However, as we will see, the concepts of frequencies, spectra, and filter explain a lot more about visual perception, such as how we see space or details - even faces. In fact, most of our senses can be better understood from a frequency-based perspective.
+We can use this summed wave to apply each of the three filter types on it, and observe their outcome.
+
+A low pass filter lets only the low frequencies pass. In our case, this returns the lowest frequency component sine wave of the summed signal. One way to think about what this means in practice is that low pass filters _smooth_ their input since it lets only pass what changes _slowly_ and eliminates anything that is abrupt.
+
+A high pass filter does the opposite and eliminates anything that changes slowly. The result in practice often looks more "flat" and "jagged".
+
+A band-pass filter eliminates all low frequency (slow) and high frequency (fast) components. In our case, we obtain the mid-frequency component.
+
+A notch filter does the opposite of a band-pass filter in that it eliminates mid-frequencies. In our case, we end up with a mix of the low and high frequency component sin waves. Since this is still a mix of two sine waves, it looks a bit more complex than a single sine wave. However, because we eliminated one of the three component sine waves, the resulting wave is not quite as complex as what we started out with.
+
+% Filters
+:::{div}
+:class: hidden dark:block
+
+:::{figure} ./images/filters_dark.png
+:label: fig:filters
+:width: 75%
+
+Results of applying each of the four filter types to the sum of three sine waves.
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} ./images/filters.png
+:label: fig:filters
+:width: 75%
+
+Results of applying each of the four filter types to the sum of three sine waves.
+:::
+
+Filters help us to better understand optics. For example, a filter that only lets low light frequencies pass (a low-pass filter for visible light) will look **red** to us. However, as we will see, the concepts of frequencies, spectra, and filter explain a lot more about visual perception, such as how we see space or details - even faces. In fact, most of our senses can be better understood from a frequency-based perspective.
 
 ### Optics
 
