@@ -439,7 +439,7 @@ A notch filter does the opposite of a band-pass filter in that it eliminates mid
 
 :::{figure} ./images/filters_dark.png
 :label: fig:filters
-:width: 75%
+:width: 95%
 
 Results of applying each of the four filter types to the sum of three sine waves.
 :::
@@ -449,7 +449,7 @@ Results of applying each of the four filter types to the sum of three sine waves
 
 :::{figure} ./images/filters.png
 :label: fig:filters
-:width: 75%
+:width: 95%
 
 Results of applying each of the four filter types to the sum of three sine waves.
 :::
