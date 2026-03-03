@@ -481,6 +481,12 @@ Light can be transmitted, absorbed, reflected, scattered, or reflected.[^13]
 
 [^13]: [public domain source](https://commons.wikimedia.org/wiki/File:Reflexion-streuung-absorbtion.svg)
 
+#### Focus
+
+Now that we earned a solid grasp on basic optics, we can appreciate what happens when light meets our eyes. We will discuss the full anatomy of our eyes as well as the neuronal processes that occur inside our eyes when they are exposed to lights after we discussed what we know about the psychology of vision, but for now let it suffice to examine how our **lenses** bundle incoming light rays via _refraction_.
+
+Specifically, our lenses are **convergent lenses** that, thanks to their material properties and _convex_ shapes, refract light rays in a manner that ensures that what we look at appears in sharp **focus**.
+
 ## PSYCHOLOGY
 
 Sensation and perception is commonly taught by faculty in **psychology** departments. This is often, though not always, also the main home of perception researchers (many neuroscientists that study perception are housed inside Medical Schools). We thus will go with labeling this chapters as a summary of the psychology of perception (seeing, or vision, in the current case).  
