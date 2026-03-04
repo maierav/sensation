@@ -882,6 +882,8 @@ The optic nerves of both eyes meet at an x-formed structure called the **optic c
 
 ### Lateral Geniculate Nucleus (LGN)
 
+The axons from the optic tract terminate in the middle of our brains in a structure called the **dorsal lateral geniculate nucleus of the thalamus**, or LGN (sometimes abbreviated to dLGN) for short. The LGN has been well studied. It consists of several layers of neurons that receive either inputs from one eye or the other.
+
 ### Primary Visual Cortex (V1)
 
 ## EYE MOVEMENTS
