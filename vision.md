@@ -882,7 +882,22 @@ The optic nerves of both eyes meet at an x-formed structure called the **optic c
 
 ### Lateral Geniculate Nucleus (LGN)
 
-The axons from the optic tract terminate in the middle of our brains in a structure called the **dorsal lateral geniculate nucleus of the thalamus**, or LGN (sometimes abbreviated to dLGN) for short. The LGN has been well studied. It consists of several layers of neurons that receive either inputs from one eye or the other.
+The axons from the optic tract terminate in the middle of our brains in a structure called the **dorsal lateral geniculate nucleus of the thalamus**, or LGN (sometimes abbreviated to dLGN) for short. The LGN has been well studied. It consists of several layers of neurons that receive either inputs from one eye or the other. There are six main LGN layers in total, and they roughly alternate in receiving inputs from one eye or the other (either from the eye of the same - or **ipsilateral** - eye, or from the other - or **contralateral** eye). The exact sequence is:  
+    contra - ipsi - ipsi - contra - ipsi - contra
+
+There are three types of layers in the LGN, each featuring a different type of neuron:  
+
+The **magnocellular** layers receive inputs from large retinal cells (with large receptive fields) called **parasol RGC** (or **M cells**). These neurons are most sensitive to rapid change such as flicker or motion, but poorly signal details (due to their large receptive fields).
+
+The **parvocellular** layers of the lGN receive inputs from small retinal **midget RGC** (or **P cells**). These neurons have small receptive fields and thus are best for details and high acuity.
+
+In-between the M and P layers of the LGN are **koniocellular** layers that receive inputs from **bistratified RGCs**. Their function is a bit less understood, but they are important for short wavelength (blue light) vision.
+
+The receptive fields of LGN neurons largely resemble those of RGCs. The LGN therefore is often called a **relay** and thought to mostly just pass on the information of the retina to the rest of the brain. One function of the LGN seems to be that it can "shut off" this stream of information and stop relaying the retinal signals when we enter sleep.
+
+### Optic Radiation
+
+Axons of LGN neurons "fan out" rather than forming another tightly bundled nerve. They run towards the very back of your brain, where they terminate and synapse (providing input to) your primary visual cortex.
 
 ### Primary Visual Cortex (V1)
 
