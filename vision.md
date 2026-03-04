@@ -760,6 +760,42 @@ The primary visual pathway, colored coded by _visual field_ (not by eye). Neuron
 
 ### Retina
 
+We already surveyed the anatomy of the eye as a whole and established that the key steps for vision is the bundling of light by controlling the shape of the lens in order to achieve refractive focus as well as controlling the size of the pupil's size (opening) to adapt to varying amounts of light. The overall purpose is to ensure an optimal optic image on the back of the eye - the retina.
+
+The retina is a part of the brain and consists of several types of electrically excitable nerve cells (neurons) that are organized in several layers.
+
+At the very back of the retina (the farthest away from the incoming light) are the **photoreceptors** that absorb the light that enters the eye and transform it into _action potentials_. There are two major types, named after their shapes: the **rods** and the **cones**.
+
+Rods are only functional during (very) low light conditions, such as a dark room in the middle of the night. When we use our cones, we can only see different levels of brightness - all colored objects look (shades of) gray. This type of _monochromatic_ vision is called **scotopic vision**.
+
+Most of the time we use our retinal cones to see. There are three types of cones that respond best to different wavelengths of light:  
+
+**L cones** respond best to the _long_ wavelengths of light that we usually perceive as _red_.
+
+**M cones** respond best to the _medium_ wavelengths of light that we usually perceive as _green_.
+
+**S cones** respond best to the _short_ wavelengths of light that we usually perceive as _blue_.
+
+Other wavelengths cause a mix of these cones to become active, resulting in other perceptual hues, such as yellow.
+
+The photoreceptors contain molecules that change their shape when they get hit by a photon, and it is this change in shape that ultimately causes these neurons to get electrically excited. This process is called **photoreception**.
+
+Interestingly, our photoreceptors are never fully inactive. Even in complete darkness, they are somewhat spontaneously active. As a result, we cannot actually see "complete" darkness. The spontaneous activity of our photoreceptors causes us to perceive a slight amount of grayness (called "**Eigengrau**", German for "self-gray") even when there is no light at all entering our eyes.
+
+The photoreceptors synaptically transmit their excitation to other neurons in the retina. These neurons can be divided into two types. The **bipolar cells** are the primary recipients of the signals of the photoreceptors that indicate rods or cones detecting photons. Bipolar cells align with photoreceptors in their shape, virtually forming a "vertical" line with the rods and cones. Bipolar cells either receive signals from rods or from cones, but _never both_. In other words, the bipolar cells keep the signals from rods and cones separate in that some bipolar cells are exclusive to rods and others to cones.
+
+The other type of neuron that photoreceptors transmit their signals to via their synapses are called **horizontal cells**. These neurons stretch out "horizontally" (orthogonal or perpendicular) with respect to the photoreceptors and bipolar cells. Horizontal cells connect between both photoreceptors and bipolar cells, thus laterally "spreading" the activation, or allowing for signals between neighboring photoreceptors and bipolar cells to interact (so-called **lateral interactions**).
+
+The bipolar cells in turn transmit their signals to **retinal ganglion cells**, or RGCs. In other words, light activation from photoreceptors follows a chain:
+
+rods or cones activate -> bipolar cells activate -> ganglion cells activate
+
+This chain of activation is called the **vertical pathway**. RGCs are the final step of retinal activation. Their axons exit the eyeball and project to the rest of the brain (primarily the lateral geniculate nucleus of the thalamus, which we will discuss next).
+
+There is another type of neurons in the retina called the **amacrine cells**. These neurons mirror the horizontal cells in that they stretch out horizontally between bipolar cells and retinal ganglion cells, and they connect to both. Similar to the horizontal cells, this allows for signal interactions between neighboring bipolar cells and retinal ganglion cells.
+
+The horizontal cells and amacrine cells, together, are sometimes referred to as the **horizontal pathway**. Note, however, that they are two separate layers that do not directly connect to each other. Horizontal cells only connect between photoreceptors and bipolar cells. And amacrine cells only connect to bipolar cells and retinal ganglion cells (RGCs).
+
 ### Optic Nerve
 
 % Visual Nerve in Pathway
