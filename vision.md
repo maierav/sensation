@@ -845,6 +845,14 @@ The visual nerve links the eyes to the rest of the brain.[^20]
 
 ### Optic Chiasm
 
+The two optic nerves meet - and cross - a short distance behind the eyes in an X-shaped structure called the **optic chiasm**. The axons do not end at this location, they merely divide into two separate bundles called the **optic tract** (an extension of the optic nerve).
+
+Importantly, the axons do not just cross so that the left eye projects to the right half of the brain or vice versa. Instead, they split the RGCs from _each_ eye in half so that the left retina of _both_ eyes (corresponding to what is located to the right of your nose due to the flipping of the image by the lens) projects to the left part of the brain. Likewise, the right halves of your retinas send their signals (corresponding to what you see to the left of your nose) to the right part of your brain.
+
+The result of this peculiar splitting of retinal information by the optic chiasm is that the left half of your brain only "sees" what is to the right of your nose and the right half of your brain only "sees" what is to the left of your nose.
+
+The two halves (**hemispheres**) of your brain are heavily interconnected, thus sharing the information between them. But in some patients (**split brain** patients), the two hemispheres are largely separated. These patients can only verbally describe what they see to their right since only the left hemisphere contains an area for language production. Yet, they can draw what is shown to their right using their left hand, which is controlled by their right hemisphere. A striking finding form studying these patients is that they cannot verbally explain _why_ their left hand can draw something. After all, the speaking part of their brains did not see what the right half saw.
+
 % Optic Chiasm
 :::{div}
 :class: hidden dark:block
