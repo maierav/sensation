@@ -901,6 +901,10 @@ Axons of LGN neurons "fan out" rather than forming another tightly bundled nerve
 
 ### Primary Visual Cortex (V1)
 
+The primary visual cortex is also referred to as **V1**, **striate cortex**, or **area 17**. All steps of neuronal processing (by the retina and the LGN) we have discussed so far leads up to V1 receiving the bulk of their signals. V1 is part of the **cerebral cortex**, which is the main part of the brain that we currently believe supports conscious vision (in concert with the rest of the brain). There are many more parts of the cerebral cortex involved in vision, and we will discuss those next, but all of these areas mostly receive information about retinal signals from V1. In other words, V1 is the main "gatekeeper" and a "bottleneck" of sorts for our cerebral cortex to produce perception. Accordingly, damage to V1 results in loss of conscious visual perception (**cortical blindness**) - though some unconscious visual function remains.
+
+V1 has been studied extensively by neuroscientists, culminating in a (1981) Nobel Prize. As a result, we know a lot about V1. However, whether V1 _directly_ supports conscious perception is still debated. Some scientists argue that it merely provides the rest of cortex with the information from the eyes. Indeed, patients that lost V1 report that they still have visual experiences when they dream at night.
+
 ## EYE MOVEMENTS
 
 ### Extraocular muscles
