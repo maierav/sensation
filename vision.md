@@ -758,6 +758,8 @@ The primary visual pathway, colored coded by _visual field_ (not by eye). Neuron
 
 [^19]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray722.png)
 
+### Retina
+
 ### Optic Nerve
 
 % Visual Nerve in Pathway
@@ -807,6 +809,10 @@ The optic nerves of both eyes meet at an x-formed structure called the **optic c
 :::
 
 [^21]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray773.png)
+
+### Lateral Geniculate Nucleus (LGN)
+
+### Primary Visual Cortex (V1)
 
 ## EYE MOVEMENTS
 
