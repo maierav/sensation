@@ -768,7 +768,7 @@ At the very back of the retina (the farthest away from the incoming light) are t
 
 Rods are only functional during (very) low light conditions, such as a dark room in the middle of the night. When we use our cones, we can only see different levels of brightness - all colored objects look (shades of) gray. This type of _monochromatic_ vision is called **scotopic vision**.
 
-Most of the time we use our retinal cones to see. There are three types of cones that respond best to different wavelengths of light:  
+Most of the time we use our retinal cones to see (called **phototopic vision**, which leads to color perception). There are three types of cones that respond best to different wavelengths of light:  
 
 **L cones** respond best to the _long_ wavelengths of light that we usually perceive as _red_.
 
