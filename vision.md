@@ -818,7 +818,7 @@ We cannot see our blindspots since the blindspot in one eye corresponds to an ar
 
 ### Optic Nerve
 
-The bundle of RGC axons that laves the eye is called the **optic nerve**. Each eye's optic nerve contains about one million axons. Each axon transmit information about a single receptive field, and thus only a small spot of your entire visual field. Damage to some of these axons thus laves to a small localized loss of sight, or additional blindspots, called a **scotoma**. Humans are not able to recover form such damage.
+The bundle of RGC axons that laves the eye is called the **optic nerve**. Each eye's optic nerve contains about one million axons. Each axon transmit information about a single receptive field, and thus only a small spot of your entire visual field. Damage to some of these axons thus laves to a small localized loss of sight, or additional blindspots, called a **scotoma**. Humans are not able to recover form such damage. Such localized blindness is permanent.
 
 % Visual Nerve in Pathway
 :::{div}
