@@ -796,6 +796,26 @@ There is another type of neurons in the retina called the **amacrine cells**. Th
 
 The horizontal cells and amacrine cells, together, are sometimes referred to as the **horizontal pathway**. Note, however, that they are two separate layers that do not directly connect to each other. Horizontal cells only connect between photoreceptors and bipolar cells. And amacrine cells only connect to bipolar cells and retinal ganglion cells (RGCs).
 
+What is the function of this retinal circuitry? Why do the photoreceptors not just send their signals to the brain directly?
+
+One clue is that RGCs respond to light in a more sophisticated way, which is believed to arise from the lateral interactions. Specifically, RGC's tend to respond to _more than just one rod or just one cone_, but a smal set of neighboring photoreceptors. The result is what we call a **receptive field** - a small area of the retina receiving light. Due to the optics of the eye, each receptive field corresponds to a small spot of your _visual field_.
+
+More than that, RGC receptive fields are not just small sensitive to small spots of light. Instead, they contain two parts: a central spot (the **center**) and a surrounding annulus, or ring (the **surround**). The center and the surround of these receptive fields tend to have exact opposite preferences for light:
+
+So called **on-center** RGCs get most active (they "turn on") when light hits the center of their receptive field. However, their peak activity is reached when the light _only_ falls into their center, and there is no light in their surround.
+
+A second set of RGCs (so-called **off-center** RGCs) does the opposite: They are most excited when light falls into their surround while there is no light inside their center.
+
+The result of RGCs responding in this way is interesting: The output of the retina is most pronounced when light is distributed _locally_ rather than wide areas of the area receiving the same amount of light or no light at all. That is, the signals that the retina sends the rest of the brain emphasize parts of the optic image where light areas meet dark areas and thus create local **contrast**.
+
+One way to appreciate this phenomenon is that the brain is most interested in **differences**. All light or all dark is less exciting than transition between light and dark. Indeed, we will see that this general notion pertains too much of neuronal responses in our brains more generally. Put glibly, our brains are easily "bored" whenever there is "more of the same". What excites our brain most is when or where something **changes**.
+
+There is a direct consequence of this that can be dangerous: Under some circumstances we can perceive this over-emphasis of RGCs. The resulting visual illusion is called **Mach Bands** (after the discoverer Ernst Mach). These are bands are illusory stripes that occur along transitions between dark and bright parts of images. In daily live, this illusion frequently occurs when looking at X-Ray images and cause radiologists or dentists to misinterpret and thus misdiagnose these images.
+
+The axons of the RGCs bundle up and exit the eye at the **optic disk**, which is named after its white round appearance when looking at someone's retina with a medical device called a **fundus scope** (also called an **opthalmoscope**) or a **fundus camera**. There are no photoreceptors on top of the optic disk, thus causing us to have **blindspot** in each eye.  
+
+We cannot see our blindspots since the blindspot in one eye corresponds to an area of the retina that does have photoreceptors in the other eye. So, one eye covers the blindspot of the other eye. Even with just one eye open, we cannot see the blindspot in that eye thanks to our brain **filling-in** that spot by interpolating the image that surrounds it. Any visual objects that fall _only_ inside of the blindspot get replaced by seeing whatever is nearby and thereby disappear from view (without leaving a dark or black area).
+
 ### Optic Nerve
 
 % Visual Nerve in Pathway
