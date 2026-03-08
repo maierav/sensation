@@ -1012,6 +1012,20 @@ The primary visual cortex is also referred to as **V1**, **striate cortex**, or 
 
 V1 has been studied extensively by neuroscientists, culminating in a (1981) Nobel Prize. As a result, we know a lot about V1. However, whether V1 _directly_ supports conscious perception is still debated. Some scientists argue that it merely provides the rest of cortex with the information from the eyes. Indeed, patients that lost V1 report that they still have visual experiences when they dream at night.
 
+### Secondary Visual Cortex (V2)
+
+V2 neighbors V1, and receives most of its outputs. It thus tends to be thought of as a second "step", or "stage" of visual processing by the brain.
+
+V2 is anatomically quite distinct from V1, and much is known about its neuronal "architecture". However, it nonetheless resembles V1 in most major ways: V2 has six layers of neurons. V2 has cortical columns. V2 features a retinotopic map and cortical magnification. V2 neurons respond similar to V1 neurons in that they respond to small linear receptive fields (though V2 neurons tend to respond slightly later than V1 neurons to visual stimulation; and V2 receptive fields are slightly more expansive - larger - than their V1 counterparts). So, is there something unique about V2?
+
+The answer is yes. And what has been found is interesting:
+
+V2 neurons differ from V1 neurons in that they can respond _according to Gestalt rules_. In particular, V2 neurons respond differently to one and the same bright-dark edge inside their receptive fields, depending on _context_. This response property has been termed **border ownership** since it seems to provide the basis for which edges we perceive to be part of ("owned by") a shape, or Gestalt grouping.
+
+V2 neurons with border-ownership respond to the parts of incomplete shapes (the gaps in shapes) that we perceive as "closed" (thanks to the Gestalt rule of _closure_) as if there were no gap. This V2 property could explain why we see these shapes as a whole despite there being a gap. This is remarkable. So far, we have only encountered neuronal responses to visual stimuli that reflect the _physical stimulation_ rather than our _perception_. Neurons in the retina, the LGN, and in V1 seem to largely respond to the exact light patterns in our eyes - even when our perception deviates (i.e., when we see completed shapes despite there being gaps). These V2 neurons were some of the first neurons found by scientists whose responses more closely reflect what we _see_ (a completion rather than a gap).
+
+There is ongoing debate whether similar neurons in the LGN and V1 that respond according to our perception rather than physical stimulation (whenever the two deviate, such as during illusions). Indeed, the evidence is increasing that is the case for some V1 (and even LGN) neurons under some circumstances. However, we seem to find a _larger_ proportion, or fraction, of V2 neurons whose responses more readily deviate from the image in our eyes and instead reflect our experience. An interesting question, then, is whether this proportion increases as we examine the ensuing steps of visual processing in areas V3, V4, and so on.
+
 ## EYE MOVEMENTS
 
 ### Extraocular muscles
