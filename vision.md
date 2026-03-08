@@ -750,7 +750,7 @@ This effect does not happen when we mix light itself, of course. In this case, t
 
 #### Color Anomalies
 
-Some people are born with one or more dysfunctional cone type. This is known colloquially as **color blindness**, though it comes at varying degrees and thus would more accurately be called "color weakness".
+Some people are born with one or more dysfunctional cone type. This is known colloquially as **color blindness**, though it comes at varying degrees and thus would more accurately be called "color weakness". Of note, people with color weakness still see (many) colors. In fact, it can be challenging to detect color weakness since it only affects a small set of color mixes.
 
 Since there are three different types of cones, there also are three different kinds of color weakness (one for each cone). There also is a rare color weakness where it is the rods rather than one of the cone types that does not function normally.
 
