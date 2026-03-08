@@ -705,6 +705,8 @@ When the M cones are maximally excited (using their preferred long wavelength) i
 
 When the S cones are maximally excited (using their preferred long wavelength) in isolation, we see blue. In other words, short wavelength light tends to be perceived as blue. S cones are thus also sometimes casually referred to as "blue cones".
 
+In other words, most humans sense the light spectrum via three "peaks", or measurement points. The rest is sensed as a mix of these three values (i.e., a mix of each of the three cones being excited to a varying degree each). Scientists call this **trichromacy**, which stands for the fact that there are three (_tri_) "primary" colors (_chroma_) that our eyes dedicate a single photoreceptor to.
+
 Now, let us revisit yellow. There is a single wavelength of light that falls in-between the M and L cone, and thus excited both of them. This single wavelength we perceive as yellow. You can probably see now what happens when we excite both the M and L cones using green and red light: they _also_ both get excited. As a result, we see yellow in either case. Our brains, only receiving what the eye tells it about the pattern (the relative) activation, or excitation, of cones simply cannot tell the difference. The resulting situation that there are _different_ combinations of light waves that we all perceive as the _same_ color is called a **metamer**. A metamer is one and the same color that we perceive for different light wave combinations.
 
 #### Color Space
@@ -755,6 +757,10 @@ Some people are born with one or more dysfunctional cone type. This is known col
 Since there are three different types of cones, there also are three different kinds of color weakness (one for each cone). There also is a rare color weakness where it is the rods rather than one of the cone types that does not function normally.
 
 The most common case of color weakness rests on a dysfunctional, or lacking, M cone, and is sometimes referred to as **red-green blindness** since a lacking M cone (while retaining a functional L cone) will result in an ability to see all the gradations of colors that fall in-between red and green. The gene that is responsible for this form of color weakness is located on the X chromosome. Someone with two chromosomes (XX) has a built-in redundancy - if one of the X chromosomes contains a damaged gene for M cones, the other X chromosome might contain a functional copy. People with XY chromosomes are thus more likely to be born color weak.
+
+Color weakness affects ~5% of the population and thus should be kept in mind when using color for communication. Rather than just differentiating visual information by color, it is helpful to also use different levels of brightness so that anyone can see as separate what is meant to be shown as separate.
+
+Interestingly, there is also some evidence that some people might see _more_ colors than the rest of us. Having to X chromosomes can lead to having two versions of M cones, each best responding to a different medium wavelength. The result is **tetrachromatic** vision (_tetra_ stands for four). These individuals are exceedingly rare, and there is heavy debate in the literature whether these people can indeed see more colors than other humans, with evidence leaning in both directions (partly because there have not been that many studies).
 
 ### Motion
 
