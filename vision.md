@@ -711,7 +711,30 @@ Now, let us revisit yellow. There is a single wavelength of light that falls in-
 
 Another confusing observation that arises after appreciating what we just discussed (that we see color not by telling wavelengths apart by frequency, but how they differentially activate one or more of our three cone types) is why we can arrange color in a _circle_. After all, the spectrum of light results in a _line_ that stretches from low to high frequency.
 
-Scientists long were baffled by this fact.
+Scientists long were baffled by this fact. Why does blue (one side of the linear light spectrum) "wrap around" and meet red (the other end of the linear light spectrum) in a circle by purple acting as a "bridge" of sorts between them?
+
+The main clue for this phenomenon is even more baffling: The reason that we can orient the colors we can see in a continuous round disk or circle is that we can mix some colors (e.g., using color lights or paints), but not others. In particular, we can mix red and yellow to create orange. We can also mix red and blue to create purple. Or we can mix blue and yellow to create green, and so on. We can even easily envision these color mixes. When someone says "a greenish blue", most of us can see a sort of teal in our imagination.
+
+However, there are some "forbidden" color mixes that we cannot even imagine. These are:
+    a blueish yellow (or yellowish blue)
+and
+    a greenish red (or reddish green)
+
+No matter how hard we try, we cannot imagine that these colors could even exist. And when we attempt to mix these colors in practice, such as using paint, we indeed end up with colors that do not match those descriptions:
+
+Mixing blue and yellow light results in _white_ light (not a blueish yellow).
+
+Mixing red and green light results in _yellow_ light (not a greenish red).
+
+When we mix paint, the result is even more disappointing:
+
+Mixing blue and yellow paint results in _brown_.
+
+Mixing red and green paint results in _brown_.
+
+We will discuss in a moment why paint mixing differs from mixing light (the explanation is rather simple). For now, it is just important to note that there are two pairs of colors that cannot be mixed the other colors in that they do not result in a mix that readily reveal to us what they are made out of.
+
+This interesting phenomenon is the basis of the notion of "unmixable" **opponent colors** (red vs. green, and blue vs. yellow). And it is the very fact that these colors can, in fact have to, be placed _opposite_ to each other (since there is no clear mix that provides a gradual _transition_ between these pairs) that we end up with the color circle: The color circle comes about by placing green opposite to red and blue opposite to yellow. Any other color then can be placed by transitioning between these four "poles".
 
 #### Color Anomalies
 
