@@ -709,6 +709,10 @@ Now, let us revisit yellow. There is a single wavelength of light that falls in-
 
 #### Color Space
 
+Another confusing observation that arises after appreciating what we just discussed (that we see color not by telling wavelengths apart by frequency, but how they differentially activate one or more of our three cone types) is why we can arrange color in a _circle_. After all, the spectrum of light results in a _line_ that stretches from low to high frequency.
+
+Scientists long were baffled by this fact.
+
 #### Color Anomalies
 
 ### Motion
