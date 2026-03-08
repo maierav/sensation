@@ -637,11 +637,33 @@ White noise. By moving close to your monitor, you can fill close your entire vis
 
 [^16]: [reference](https://commons.wikimedia.org/wiki/File:White-noise.gif)
 
-### Form
-
 #### Gestalt
 
+Early psychological research on visual perception revealed something astounding: There is a class of visual illusions that we cannot escape falling for. Even once we understand that what we see is illusory, the illusion largely persists.
+
+A large group of these visual illusions all seemingly do the same: they force us to see **groupings** of individual elements - we see a _whole_ rather than just _individual elements_ or _parts_.
+
+Careful consideration reveals that we can identify a small set of **rules** that govern how we group these image elements (usually single lines, or dots) into groups. These rules have been named after the branch of psychology that studies these rules: **Gestalt psychology**. Many students have heard about this school of psychology using the phrase "the sum is greater than its parts", though one could argue that the visual groupings we perceive are really just a sum. Gestalt psychology is also often taught as a branch of psychology that dominated research more than a hundred years ago. However, Gestalt psychology is more than just a fad. There are many Gestalt psychologists actively working today. Studying when and how we group visual elements is an ongoing, active research line with many practical implications, such graphical design (in particular iconographic logos for companies, or websites).
+
+A brief list of well-identified **Gestalt rules** comprises:
+
+**Closure** - our tendency to complete geometric shapes, even if some of their elements are interrupted (and only the image background is shown at that location). Rather than seeing an isolated set of lines, we tend to perceive a shape that is _partially obstructed_. This tendency to _infer_ occlusion when we see incomplete visual objects is also called **amodal completion**. Arguably, this is a useful thing to do for our brains since it allows us to identify what might be partly hidden, such as a predator lurking behind dense brushes. Indeed, amodal completion can be demonstrated to be used by newborn chicks right after they hatch from their eggs, suggesting that, at least in these birds, the tendency of the brain to complete partial geometric shapes is inborn (innate).
+
+Another such rule is **symmetry**. Whenever we see an abstract set of lines form a symmetric pattern, we tend to group it into a shape.
+
+**Common fate** groups image elements whenever they move in unison.
+
+**Similarity** groups image elements that look the same, such as red dots among black dots.
+
+**Good continuation** is a Gestalt rule that explains how we see crossing patterns of lines to continue whenever they cross (rather than seeing them end at their junction).
+
+**Simplicity** is the tendency to see the lowest amount of shapes whenever they are put in proximity. Rather than seeing three individual lines, we see triangles, for example.
+
+There are many more Gestalt rules, but this list should give you an idea of how a small set of basic (possibly innate) rules that seem "hardwired" into our brains compels us to see shapes and simple objects rather than isolated parts whenever we open our eyes. Most of the time, these shapes and objects relate to distinctions that are behaviorally useful, such as distinguishing what might be in the foreground or background when objects are partially obstructed (recall that the image in our eyes is just a flat, two-dimensional "photograph" of the three-dimensional world). It is only when we create artificial situations, where we seem to apply these Gestalt rules stubbornly despite the fact that alternative interpretations of the resulting patterns and shapes are conceivable (thus creating an "illusion"), that we realize that they are seemingly always applied. Illusions, then, arise by misapplying heuristic rules that help us interpret the images in our eyes to (rare) situations where they fall short.
+
 #### Multistability
+
+An interesting situation arises whenever we create sensory stimulation that puts two or more alternative image interpretations (such as Gestalt rules) _in conflict_. That is, we can create (usually artificial) images that can be interpreted (give rise to) one set of shapes due to one Gestalt rule and a different grouping due to another Gestalt rule. In this case, your brain does something remarkable: you see _both_ possible interpretations, but only _one at a time_. That is, perception (randomly) goes back and forth between these two (or more) possible image interpretations. The result is that your perception dynamically changes while the image in your eye is static and unchanging. These illusions are called **bistable**, when they perceptually alternate between two possible interpretations, or **multistable** when there are three or more ways of seeing the image over time.
 
 ### Depth
 
