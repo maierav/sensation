@@ -687,6 +687,26 @@ However, note how closing one eye only minimally changes what we see. If stereop
 
 ### Color
 
+Color can be the most confusing part of learning about vision. The reason for that is that color is arguably the most _subjective_ part of our vision. We have already learned that visible light does not consist of different colors, but different _wavelengths_. The main difference is that we see a limited set of colors that can be grouped into larger sets, such as red, yellow, green, and blue. Orange, for example can be thought of as a _shade_ of red, or a _mix_ of red and yellow. Likewise, purple seems like a mix of red and blue (a reddish blue, or blueish red). In contrast, wavelengths simply just differ in frequency - there are no "special" frequencies, or "grouped" frequencies. There are, of course, mixtures of light wavelengths (frequencies), but some of the colors that we perceive as a mix, such as orange or purple occur when see light of a single frequency.
+
+In the same vein, we understand that some animals can see parts of the light spectrum that is invisible to us. Bees and some birds, for example can see ultraviolet (UV) light that we are blind to. Do these animals see _colors_ that we cannot see?
+
+Another peculiar fact is that, if we look at the _full spectrum_ of light, such as a **rainbow** (which arises when light is split into its frequency components by small rain drops acting as a _prism_), we cannot make out certain colors such as pink or brown. In other words, some of the colors we see are not just one wavelength of light. Some, but not all, combinations of light wavelengths give rise to entirely distinct colors. On the flip side, we can see yellow as part of the rainbow, demonstrating that there is a single wavelength that we tend to experience as yellow. But we can also see yellow when we use a red and a green light and mix their light rays. In other words, we also see yellow for a mix of two wavelengths, none of which corresponds to, or even overlaps with the wavelength of light that we (also) see as yellow.
+
+Lastly, visual illusions teach us that we can see the same wavelengths of light as _different_ colors, depending on context. A white piece of paper looks white to us, for example, even if we sit in a room that is only illuminated by a light source that emits orange rather than white light, such as a fireplace or an incandescent light bulb.
+
+All the above can be readily explained by _how_ we see color.
+
+Recall that we have three different kinds of photoreceptors (cones) that we use for color vision. Each of these cones best responds to just one wavelength. This creates a simple mapping for some colors and our color vision:  
+
+When the L cones are maximally excited (using their preferred long wavelength) in isolation, we see red. In other words, long wavelength light tends to be perceived as red. L cones are thus also sometimes casually referred to as "red cones".
+
+When the M cones are maximally excited (using their preferred long wavelength) in isolation, we see green. In other words, medium wavelength light tends to be perceived as green. M cones are thus also sometimes casually referred to as "green cones".
+
+When the S cones are maximally excited (using their preferred long wavelength) in isolation, we see blue. In other words, short wavelength light tends to be perceived as blue. S cones are thus also sometimes casually referred to as "blue cones".
+
+Now, let us revisit yellow. There is a single wavelength of light that falls in-between the M and L cone, and thus excited both of them. This single wavelength we perceive as yellow. You can probably see now what happens when we excite both the M and L cones using green and red light: they _also_ both get excited. As a result, we see yellow in either case. Our brains, only receiving what the eye tells it about the pattern (the relative) activation, or excitation, of cones simply cannot tell the difference. The resulting situation that there are _different_ combinations of light waves that we all perceive as the _same_ color is called a **metamer**. A metamer is one and the same color that we perceive for different light wave combinations.
+
 #### Color Space
 
 #### Color Anomalies
