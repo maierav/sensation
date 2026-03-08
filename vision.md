@@ -736,6 +736,18 @@ We will discuss in a moment why paint mixing differs from mixing light (the expl
 
 This interesting phenomenon is the basis of the notion of "unmixable" **opponent colors** (red vs. green, and blue vs. yellow). And it is the very fact that these colors can, in fact have to, be placed _opposite_ to each other (since there is no clear mix that provides a gradual _transition_ between these pairs) that we end up with the color circle: The color circle comes about by placing green opposite to red and blue opposite to yellow. Any other color then can be placed by transitioning between these four "poles".
 
+How can this be explained?
+
+The answer lies in how our brains process the signals from the three cones: Red and green cone activation is processed _uniquely_ by our brains. That is, rather than simply processing red and green cone activation as a _mix_, the brain _unites_ red and green excitation into a new color (yellow). In the same vein, the brain treats blue cone activation uniquely if it co-occurs with red _and_ green cone activation. As a result, blue and yellow are also to "opposing" colors.
+
+The actual neuronal circuitry that causes this unique treatment of these four opposing colors is indeed based on an "opposing" mechanism, part of which has been identified to occur at the first stage of neuronal processing that occurs where the signals of the eye arrive in the brain (the lateral geniculate nucleus). We will return to this mechanism once we discuss this structure.
+
+Lastly, why does mixing paint result in different colors than mixing light (such as when placing two differently colored filters on two separate flashlights and shining them onto the same spot)?
+
+The answer is that paint _absorbs_ light and only scatters the wavelengths that have not been absorbed. Red paint, for example, absorbs all wavelengths of light other than the long wavelengths that we perceive as red. When me mix more and more differently colored paints together, we thus end up with a paint mix that absorbs more and more wavelengths (resulting in brown, and eventually black - when all wavelengths get absorbed): Mixing red, green, and blue paint, for example will end up absorbing virtually all wavelengths since each of the wavelengths that one of these paints scatters when used in isolation is now absorbed by another pain in the mix.
+
+This effect does not happen when we mix light itself, of course. In this case, the light that is scattered of the surface that we project on simply contains more and more different wavelengths, thus more and more approaching white light (which contains all wavelengths that we can see).
+
 #### Color Anomalies
 
 ### Motion
