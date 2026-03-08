@@ -667,7 +667,13 @@ An interesting situation arises whenever we create sensory stimulation that puts
 
 ### Depth
 
+Each eye collects the image formed by light rays on a flat, two-dimensional _surface_ (the retina). As a result, our brains only receive information about the visual world in the form of a flat image, similar to a painting, or photograph. So, how come we see in 3D? How are we able to see what is close to us or further away?
+
+This, too, happens by our brains applying a simple set of rules, similar to the Gestalt rules compel us to see patterns and shapes. And similar to the Gestalt rules, we can "trick" our brains to misapply these rules to force visual illusions.
+
 #### Depth Cues
+
+Let us discuss the rules that the brain applies to assume if an object is close to us or further away, one by one. In reality, these rules are often applied in combination.
 
 #### Stereopsis
 
