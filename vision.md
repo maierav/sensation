@@ -750,6 +750,12 @@ This effect does not happen when we mix light itself, of course. In this case, t
 
 #### Color Anomalies
 
+Some people are born with one or more dysfunctional cone type. This is known colloquially as **color blindness**, though it comes at varying degrees and thus would more accurately be called "color weakness".
+
+Since there are three different types of cones, there also are three different kinds of color weakness (one for each cone). There also is a rare color weakness where it is the rods rather than one of the cone types that does not function normally.
+
+The most common case of color weakness rests on a dysfunctional, or lacking, M cone, and is sometimes referred to as **red-green blindness** since a lacking M cone (while retaining a functional L cone) will result in an ability to see all the gradations of colors that fall in-between red and green. The gene that is responsible for this form of color weakness is located on the X chromosome. Someone with two chromosomes (XX) has a built-in redundancy - if one of the X chromosomes contains a damaged gene for M cones, the other X chromosome might contain a functional copy. People with XY chromosomes are thus more likely to be born color weak.
+
 ### Motion
 
 #### Akinetopsia
