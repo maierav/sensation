@@ -45,9 +45,9 @@ Which will lead us to natural science. And at the end of this book, all that sci
 
 **Let's get started!**
 
-The first intuition about perception that we will attack is that perception is just an interface, or a window, onto the world. Another way to put this idea is that "we see (hear, smell etc.) the world around us".
+The first intuition we will attack is that perception is just an interface, or a window, onto the world. Another way to put this idea is that "we see (hear, smell etc.) the world around us".
 
-The problem with that idea is that sometimes what we see (hear, smell etc.) is not the world around us. In fact, this happens most nights when we dream. And, of course, we can daydream as well.
+The problem with that idea is that sometimes what we see (hear, smell etc.) is not the world around us. This happens most nights when we dream.
 
 Visual illusions are another curiosity-driving demonstration that what we see (hear, smell etc.) is not necessarily the world around us. For example, under some circumstances you can see motion despite nothing in your view moving.
 
