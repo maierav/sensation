@@ -3,11 +3,15 @@
 This Jupyter book provides an open source, opinionated [^1], principled, and structured broad strokes introduction to the (neuro)science of sensation and perception. Select scholarly references are provided for additional self-study [^2].  
 
 :::{note}
-In contrast to our everyday use of the word, "perception" in a scientific context is less concerned about how our viewpoints, or perspectives on certain matters **differ**.
+"Perception" is sometimes used as a replacement for _opinion_. That is, we sometimes refer to different _thoughts_ on certain matters (such as a disputed political topic) as "views", "perspectives", or "perception".
 
-That is, what we mean by "perception" is not individual _opinions_ on what might be the case.
+However, "perception" in a scientific context is less concerned about how our experiences **_differ_**.
 
-In a way, it is the exact opposite: the science of perception is concerned with _what we (and our brains) have **in common** when we see, hear, or smell something_.  
+In a way, the exact opposite is the case:
+
+The science of perception is most interested in _what we (and our brains) have **in common** when we see, hear, or smell something_.  
+
+And it turns out that our perception seems to be much more alike than unique to individuals.
 :::
 
 [^1]: Rather than presenting all views with equal weight, we will only mention dissenting views in passing. The overarching didactic goal is to lay out a coherent narrative rather than a taxonomy of viewpoints. Presenting knowledge in isolated pieces risks a learner not to see the forest for the trees. Or to put it with T.S. Eliot: we do not want to find ourselves distracted from distraction by distraction. The hope is that this approach prioritizes **holistic understanding** - grasping the _gist_ - (a common or unifying _structure_) over **fractured knowledge**. The underlying motivation is to give the idea of **scientific unity** (i.e. the idea that reality and/or our understanding of reality can form a unified whole) a chance before resorting to **scientific pluralism** (i.e., the idea that there are many equally valid explanations). Necessarily, this approach comes at the cost of favoring some views over others. The task that remains after studying this book thus is to fill that void by venturing beyond this introductory text and explore the full landscape of ideas.  
