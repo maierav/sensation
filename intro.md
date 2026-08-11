@@ -32,7 +32,7 @@ The didactic goal of this book of this book is to inspire a perpetual cycle that
 
 We will start with a few interesting demonstrations. Hopefully they will kindle your **curiosity** to learn more. The actual goal is to evoke **doubt** about common **intuitions** regarding the relationship between the _subjective_ (mind-dependent) world of our perception and the _objective_ (mind-independent) world that guide our lives.
 
-In fact, in what comes next you might lose faith in what you thought you know. About anything.
+In fact, in what comes next you might lose faith in what you thought you knew. About anything.
 
 We then will try to defeat this extreme skepticism.
 
