@@ -892,7 +892,7 @@ Plate 43 from Francisco Goya's (1746–1828) 'Los Caprichos': **The sleep of rea
 :class: dropdown
 If you are interested in learning more about logic, here is a free open textbook:
 
-[Matthew Knachel: What is Logic?](https://press.rebus.community/intro-to-phil-logic/chapter/chapter-1/)
+[Matthew Knachel: What is Logic?](https://press.rebus.community/intro-to-phil-logic/front-matter/introduction/)
 :::
 
 ### Prediction and Explanation
