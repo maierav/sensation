@@ -1,6 +1,6 @@
 # SENSATION AND PERCEPTION
 
-This textbook provides an open source, opinionated[^1], broad strokes introduction to the (neuro)science of sensation and perception. Select scholarly references are provided for additional self-study[^2].  
+This textbook provides an open source, broad strokes introduction to the (neuro)science of sensation and perception[^1]. Select scholarly references are listed throughout for additional self-study[^2].  
 
 :::{note}
 "Perception" is sometimes equated with _opinions_. That is, we sometimes refer to different _thoughts_ (such as on a political topic) as "views", "perspectives", or "perception".
