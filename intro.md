@@ -43,6 +43,16 @@ Which will lead us to natural science. And at the end of this book, all that sci
      The end of all our exploring will be to arrive where we started.
      And know the place for the first time.  
 
+Let's get started!
+
+The first intuition about perception that we will attack is that perception is just an interface, or a window, onto the world. Another way to put this idea is that "we see (hear, smell etc.) the world around us".
+
+The problem with that idea is that sometimes what we see (hear, smell etc.) is not the world around us. In fact, this happens most nights when we dream. And, of course, we can daydream as well.
+
+Visual illusions are another curiosity-driving demonstration that what we see (hear, smell etc.) is not necessarily the world around us. For example, under some circumstances you can see motion despite nothing in your view moving.
+
+Take a brief look at the animation below. Then, read the figure legend for instructions.
+
 % Motion Aftereffect Illusion
 :::{figure} ./images/spiral.gif
 :label: fig:MAE
