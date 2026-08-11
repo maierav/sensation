@@ -176,7 +176,7 @@ Are these associations helpful for someone to understand what redness looks like
 
 At the core of the problem is something that philosophers have aimed to pinpoint with the question:
 
-    **"What is it like?"**
+    "What is it like?"
 
 When we struggle to explain a blind person what we _experience_ when we see or dream red, what we really struggle with is to describe _what it is like_ to experience red.  
 
