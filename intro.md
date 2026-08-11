@@ -11,7 +11,7 @@ In a way, the exact opposite is the case:
 
 The science of perception is most interested in _what we (and our brains) have **in common** when we see, hear, or smell something_.  
 
-And it turns out that our perception seems to be much more alike than unique to individuals.
+It turns out that our perception seems to be much more alike than unique to individuals.
 :::
 
 [^1]: Rather than presenting all views with equal weight, we will only mention dissenting views in passing. The overarching didactic goal is to lay out a coherent narrative rather than a taxonomy of viewpoints. Presenting knowledge in isolated pieces risks a learner not to see the forest for the trees. Or to put it with T.S. Eliot: we do not want to find ourselves distracted from distraction by distraction. The hope is that this approach prioritizes **holistic understanding** - grasping the _gist_ - (a common or unifying _structure_) over **fractured knowledge**. The underlying motivation is to give the idea of **scientific unity** (i.e. the idea that reality and/or our understanding of reality can form a unified whole) a chance before resorting to **scientific pluralism** (i.e., the idea that there are many equally valid explanations). Necessarily, this approach comes at the cost of favoring some views over others. The task that remains after studying this book thus is to fill that void by venturing beyond this introductory text and explore the full landscape of ideas.  
