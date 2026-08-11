@@ -773,6 +773,13 @@ WHICH OF THESE IDEAS BEST DESCRIBE YOUR OWN VIEW? WHY DO YOU DISMISS THE OTHER V
 
 For the purpose of this course, we will adopt a somewhat neutral dualistic stance. That is, we will base our knowledge about the world on the natural sciences such as physics, chemistry, and biology. At the same time, we will treat perception as a real phenomenon that goes beyond its behavioral or functional corollaries. At the end of the semester, we will re-examine this view, and discuss how what we learned can also be applied to other views. As we will see, the scientific knowledge that we will gain will end up as largely compatible with _most_, if not all, of these views. At the same time, you will have learned new facts and logical insights that pose challenges to each of these views, thus making it even more interesting to ponder about their validity.
 
+:::{seealso} Click Me! 👈
+:class: dropdown
+If you are interested in learning more about philosophy of mind, here is a free open textbook:
+
+[BHeather Salazar and Christina Hendricks: Philosophy of Mind](https://press.rebus.community/intro-to-phil-of-mind/front-matter/introduction/)
+:::
+
 ---
 
 ## SCIENCE
