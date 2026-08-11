@@ -28,6 +28,8 @@ Throughout the book, pop-up boxes (such as the one above) aim at providing momen
 :width: 85%
 
 The didactic goal of this book of this book is to inspire a perpetual cycle that alternates between reading and thinking.
+
+[public domain source](https://commons.wikimedia.org/wiki/File:Samuel_Johnson_meme.jpg)
 :::
 
 We will start with a few interesting demonstrations. Hopefully they will kindle your **curiosity** to learn more. The actual goal is to evoke **doubt** about common **intuitions** regarding the relationship between the _subjective_ (mind-dependent) world of our perception and the _objective_ (mind-independent) world that guide our lives.
