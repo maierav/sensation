@@ -43,7 +43,7 @@ Which will lead us to natural science. And at the end of this book, all that sci
      The end of all our exploring will be to arrive where we started.
      And know the place for the first time.  
 
-Let's get started!
+**Let's get started!**
 
 The first intuition about perception that we will attack is that perception is just an interface, or a window, onto the world. Another way to put this idea is that "we see (hear, smell etc.) the world around us".
 
@@ -69,11 +69,11 @@ This illusion that induces perception even when looking at steady objects and th
 
 [^3]: [public domain source](https://commons.wikimedia.org/wiki/File:MagicSpiral.gif)
 
-This exercise will also involve taking on a bit of formal _logic_ and _mathematics_ before investigating if the tools of science can be applied to perception. This will be an important foundation for us since exploring conscious experience might seem or sound woo-woo at times. But the entire goal here is to stick to the _science_ of perception. We thus need to find convincing arguments that we can explore conscious experience with precision, rigor, and lawful, structured thought and measurement.  
+If our perception is not the same as "the world around us", then what is it?
 
-We then will review the _psychology_ and _neurobiology_ of sensation and perception, which provides the bulk of our modern knowledge about perception.  
+Answering this question will involve taking on a bit of formal _logic_ and _mathematics_ before investigating if the tools of science can be applied to perception. This will be an important foundation for us since exploring conscious experience might seem or sound woo-woo at times. But the entire goal here is to stick to the _science_ of perception. We thus need to find convincing arguments that we can explore conscious experience with precision, rigor, and lawful, structured thought and measurement.  
 
-Much of this course is focused on vision (seeing), but we will also review our other modalities (senses).  
+We then will review the _psychology_ and _neurobiology_ of sensation and perception, which provides the bulk of our modern knowledge about perception. Much of this course is focused on vision (seeing), but we will also review our other modalities (senses).  
 
 Lastly, we will return to logic, philosophy, and mathematics and explore whether everything we have learned can be synthesized into a coherent view that merges the philosophy, psychology, and neuroscience of perception.  
 
