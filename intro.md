@@ -1,6 +1,6 @@
 # SENSATION AND PERCEPTION
 
-This Jupyter book provides an open source, opinionated[^1], principled, and structured broad strokes introduction to the (neuro)science of sensation and perception. Select scholarly references are provided for additional self-study[^2].  
+This open textbook provides an open source, opinionated[^1], principled, and structured broad strokes introduction to the (neuro)science of sensation and perception. Select scholarly references are provided for additional self-study[^2].  
 
 :::{note}
 "Perception" is sometimes equated with _opinions_. That is, we sometimes refer to different _thoughts_ (such as on a political topic) as "views", "perspectives", or "perception".
