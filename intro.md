@@ -16,7 +16,7 @@ The science of perception is most interested in _what we (and our brains) **have
 
 [^2]: Books on expert topics often go out of print and/or are expensive. Websites sometimes get abandoned go offline. In an attempt to provide free resources with some hope of permanence, we will largely limit external links to documents that have been associated with a Digital Object Identifier, or DOI. Exceptions are made for public domain sources and scholarly or academic websites that have an established history of maintenance.
 
-Throughout the book, pop-up boxes aim at providing moments for pause and reflection. In other words, this book is not just meant to be read, but to be interacted with.  
+Throughout the book, pop-up boxes (such as the one above) aim at providing moments for pause and reflection. In other words, this book is not just meant to be read, but to be interacted with.  
 
 > The use, not the reading, of books makes us wise.  
 >
