@@ -3,7 +3,7 @@
 This Jupyter book provides an open source, opinionated [^1], principled, and structured broad strokes introduction to the (neuro)science of sensation and perception. Select scholarly references are provided for additional self-study [^2].  
 
 :::{note}
-"Perception" is sometimes used as a replacement for _opinion_. That is, we sometimes refer to different _thoughts_ on certain matters (such as a disputed political topic) as "views", "perspectives", or "perception".
+"Perception" is sometimes used as a replacement word for _opinions_. That is, we sometimes refer to different _thoughts_ on certain matters (such as a disputed political topic) as "views", "perspectives", or "perception".
 
 However, "perception" in a scientific context is less concerned about thoughts or **_differences_**.
 
