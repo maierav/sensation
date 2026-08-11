@@ -68,17 +68,19 @@ Much of this course is focused on vision (seeing), but we will also review our o
 Lastly, we will return to logic, philosophy, and mathematics and explore whether everything we have learned can be synthesized into a coherent view that merges the philosophy, psychology, and neuroscience of perception.  
 
 :::{hint}
-It is likely that you will find some of this book frustrating at times.
+You might find reading this book frustrating at times.
 
-You might ask yourself at some point: _why so much philosophy?_, _why so much mathematics_, or _why so much about vision?_, for example.
+You might ask yourself: _why so much philosophy?_, _why so much mathematics_, or _why so much about vision?_, for example.
 
-The answer to these questions will only become apparent at the _end_ of the book.
+Keep reading. The answer to these questions will only become apparent at the _end_ of the book.
 
-Once you have learned all the material, you will see how these "disciplines" are really not as separate as they might seem, especially when it comes to the topic of _perception_.
+Once you have finished reading, you will see how these "disciplines" are really not as separate as they might seem, especially when it comes to the topic of _perception_.
 
-As you will see eventually, one could argue that _all_ we will be doing _is_ philosophy (in fact, this is how many eminent scientists of past generations would have seen things).
+As you will see, one could argue that _all_ we will be doing _is_ philosophy (in fact, this is how many eminent scientists of past generations would have seen things).
 
-One could also argue that all of it _ends in_ mathematics. Or that _all of that_ finds its basis in perception.  
+One could also argue that all of it _ends in_ mathematics.
+
+Or that _all of that_ finds its basis in perception.  
 :::
 
 Try to keep this, at this point likely puzzling, notion in mind as we carefully and slowly unveil the bigger picture. It will not be immediately obvious. And if we rush, we risk losing noting the connections between these areas of intellectual work that are frequently taught as entirely separate areas of thought. Your goal probably is to learn about what humanity has found out about the (neuro)science of perception, but there is deeper insight looming: After everything you learn about what we currently know about the (neuro)science of perception, we will have to revisit our worldview _as a whole_. Much of how we have grown up to think about ourselves, the world around us, and the relationship between the two, faces challenges when considering what perception is and how it comes about.  
