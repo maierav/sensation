@@ -68,11 +68,11 @@ Much of this course is focused on vision (seeing), but we will also review our o
 Lastly, we will return to logic, philosophy, and mathematics and explore whether everything we have learned can be synthesized into a coherent view that merges the philosophy, psychology, and neuroscience of perception.  
 
 :::{hint}
-You might find reading this book frustrating at times.
+You might find this book frustrating at times.
 
 You might ask yourself: _why so much philosophy?_, _why so much mathematics_, or _why so much about vision?_, for example.
 
-Keep reading. The answer to these questions will only become apparent at the _end_ of the book.
+Keep reading. The answer to these questions will become apparent at the _end_ of the book.
 
 Once you have finished reading, you will see how these "disciplines" are really not as separate as they might seem, especially when it comes to the topic of _perception_.
 
