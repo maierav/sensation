@@ -508,6 +508,13 @@ S. Shapiro
 
 We hence will aim to start with a foundationalist stance. That is, we will start with a few statements that are hopefully agreeable as non-questionable starting points. We will earmark them as "preliminary", however. That is, once we arrived at deeper insight we might want to come back to these foundational beliefs and examine whether we still agree with the assumptions that we started from.
 
+:::{seealso} Click Me! 👈
+:class: dropdown
+If you are interested in learning more about epistemology, here is a free open textbook:
+
+[Brian C. Barnett & Christina Hendricks: Epistemology](https://press.rebus.community/intro-to-phil-epistemology/front-matter/introduction-to-the-book/)
+:::
+
 #### Preliminary Definitions
 
 _Sensation_  
