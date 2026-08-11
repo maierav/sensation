@@ -777,7 +777,7 @@ For the purpose of this course, we will adopt a somewhat neutral dualistic stanc
 :class: dropdown
 If you are interested in learning more about philosophy of mind, here is a free open textbook:
 
-[BHeather Salazar and Christina Hendricks: Philosophy of Mind](https://press.rebus.community/intro-to-phil-of-mind/front-matter/introduction/)
+[Heather Salazar & Christina Hendricks: Philosophy of Mind](https://press.rebus.community/intro-to-phil-of-mind/front-matter/introduction/)
 :::
 
 ---
