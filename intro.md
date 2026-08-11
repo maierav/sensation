@@ -59,7 +59,7 @@ This illusion that induces perception even when looking at steady objects and th
 
 [^3]: [public domain source](https://commons.wikimedia.org/wiki/File:MagicSpiral.gif)
 
-This exercise will also involve taking on a bit of formal _[logic](https://press.rebus.community/intro-to-phil-logic/chapter/chapter-1/)_ and _mathematics_ before investigating if the tools of science can be applied to perception. This will be an important foundation for us since exploring conscious experience might seem or sound woo-woo at times. But the entire goal here is to stick to the _science_ of perception. We thus need to find convincing arguments that we can explore conscious experience with precision, rigor, and lawful, structured thought and measurement.  
+This exercise will also involve taking on a bit of formal _logic_ and _mathematics_ before investigating if the tools of science can be applied to perception. This will be an important foundation for us since exploring conscious experience might seem or sound woo-woo at times. But the entire goal here is to stick to the _science_ of perception. We thus need to find convincing arguments that we can explore conscious experience with precision, rigor, and lawful, structured thought and measurement.  
 
 We then will review the _psychology_ and _neurobiology_ of sensation and perception, which provides the bulk of our modern knowledge about perception.  
 
@@ -887,6 +887,13 @@ Plate 43 from Francisco Goya's (1746–1828) 'Los Caprichos': **The sleep of rea
 :::
 
 [^16]: [public domain source](https://commons.wikimedia.org/wiki/File:Plate_43_from_%27Los_Caprichos%27-_The_sleep_of_reason_produces_monsters_(El_sue%C3%B1o_de_la_razon_produce_monstruos)_MET_DT652.jpg)
+
+:::{seealso} Click Me! 👈
+:class: dropdown
+If you are interested in learning more about logic, here is a free open textbook:
+
+[Matthew Knachel: What is Logic?](https://press.rebus.community/intro-to-phil-logic/chapter/chapter-1/)
+:::
 
 ### Prediction and Explanation
 
