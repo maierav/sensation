@@ -147,9 +147,7 @@ _"I lie upon my sofa. If I close my right eye, the picture represented in the ac
 
 [^6]: [E. Mach: _Beiträge zur Analyse der Empfindungen_ (1886)](https://archive.org/details/b2229448x)
 
-All these occasions remind us that perception is neither what we believe to be (physical, objective, mind-independent) reality, nor is it just a reflection of it. And yet, most of the time, we act as if what we perceive _is_ reality (and that is well advised). For now, just keep in mind that perception is more than just sensing the world, and that this fact is somewhat intriguing.  
-
-Interested? Then, let us get started!
+All these occasions remind us that perception is neither what we believe to be (physical, objective, mind-independent) reality, nor is it just a reflection of it. And yet, most of the time, we act as if what we perceive _is_ reality (and that is well advised). For now, just keep in mind that perception is more than just sensing the world, and that this fact is somewhat intriguing.
 
 :::{tip}
 :class: dropdown
