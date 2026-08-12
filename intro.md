@@ -32,6 +32,8 @@ The didactic goal of this book of this book is to inspire a perpetual cycle that
 [public domain source](https://commons.wikimedia.org/wiki/File:Samuel_Johnson_meme.jpg)
 :::
 
+**Now that we have all that out of the way:**
+
 We will start with a few interesting demonstrations. Hopefully they will kindle your **curiosity** to learn more. The actual goal is to evoke **doubt** about common **intuitions** regarding the relationship between the _subjective_ (mind-dependent) world of our perception and the _objective_ (mind-independent) world that guide our lives.
 
 In fact, in what comes next you might lose faith in what you thought you knew. About anything.
@@ -68,6 +70,10 @@ This illusion that induces perception even when looking at steady objects and th
 :::
 
 [^3]: [public domain source](https://commons.wikimedia.org/wiki/File:MagicSpiral.gif)
+
+OK. So, you can sometimes see motion even if nothing moves in the real world.
+
+This is entertaining for a moment, but it also implies that our perception does not always "mirror" or "reflect" or "represent" what is out there in the world. We all know that, of course, but we tend to forget about that. We tend to think of our perception "as the world" rather than something more akin to a movie screen through which we receive information about the world.
 
 **If our perception is not the same as "the world around us", then what is it?**
 
