@@ -101,7 +101,9 @@ One could also argue that all of it _ends in_ mathematics.
 Or, that _all of that_ finds its basis in perception.  
 :::
 
-Try to keep this, at this point likely puzzling, notion in mind as we carefully and slowly unveil the bigger picture. It will not be immediately obvious. And if we rush, we risk losing noting the connections between these areas of intellectual work that are frequently taught as entirely separate areas of thought. Your goal probably is to learn about what humanity has found out about the (neuro)science of perception, but there is deeper insight looming: After everything you learn about what we currently know about the (neuro)science of perception, we will have to revisit our worldview _as a whole_. Much of how we have grown up to think about ourselves, the world around us, and the relationship between the two, faces challenges when considering what perception is and how it comes about.  
+Try to keep this, at this point likely puzzling, notion in mind as we carefully and slowly unveil the bigger picture. It will not be immediately obvious. And if we rush, we risk losing noting the connections between these areas of intellectual work that are frequently taught as entirely separate areas of thought.
+
+Your goal probably is to learn about what humanity has found out about the (neuro)science of perception, but there is deeper insight looming: After everything you learn about what we currently know about the (neuro)science of perception, we will have to revisit our worldview _as a whole_. Much of how we have grown up to think about ourselves, the world around us, and the relationship between the two, faces challenges when considering more deeply what perception is and how it comes about.  
 
 % Parallax Illusion
 :::{figure} ./images/3D.gif
