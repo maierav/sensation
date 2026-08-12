@@ -75,6 +75,8 @@ OK. So, you can sometimes see motion even if nothing moves in the real world.
 
 This is entertaining for a moment, but it also implies that our perception does not always "mirror" or "reflect" or "represent" what is out there in the world. We all know that, of course, but we tend to forget about that. We tend to think of our perception "as the world" rather than something more akin to a movie screen through which we receive information about the world.
 
+To many people, visual illusions suggest that perception might be more akin to a "lens" through which we see the world. And that lens distorts and has smudges. And since we always wear and wore that lens, we become unaware of it. A bit like a fish spending their whole life inside water probably won't realize that they are constantly surrounded by water. But the issue actually goes deeper than that:
+
 **If our perception is not the same as "the world around us", then what is it?**
 
 Answering this question will involve taking on a bit of formal _logic_ and _mathematics_ before investigating if the tools of science can be applied to perception. This will be an important foundation for us since exploring conscious experience might seem or sound woo-woo at times. But the entire goal here is to stick to the _science_ of perception. We thus need to find convincing arguments that we can explore conscious experience with precision, rigor, and lawful, structured thought and measurement.  
