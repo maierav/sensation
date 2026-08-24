@@ -21,18 +21,34 @@ Mid-line section of a human brain.[^1]
 
 [^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray720.png)
 
-Before we examine each of our senses in isolation, we first need to briefly review the common denominator - the basic physiological function of the brain.  
+Before we examine each of our senses in isolation, we first need to briefly review the common denominator - the basic physiological function of the brain. To keep things simple, we will largely equate "the brain" with the _forebrain_ of vertebrates. Roughly speaking, the forebrain are all those parts of the central nervous system that sit above, or in front of, the spinal cord and brain stem. If you find all that a bit too technical and confusing, do not worry. This definition of what we mean by "brain" matches what most people would point to, or think of, when they use the word "brain".
 
 :::{seealso} Click Me! 👈
 :class: dropdown
-If you are interested, here is a peer-reviewed summary an eminent neuroscientist wrote on "the brain":
+If you are interested, here is a peer-reviewed summary an eminent neuroscientist wrote on the "brain":
 
 [Valentino Braitenberg: Brain](http://www.scholarpedia.org/article/Brain)
 :::
 
-The goal is to introduce anyone to the foundations of how neuroscientists currently think about brain function. The focus will be on **neurophysiology**, which is mostly interested in the biological and biochechemical action that underlies brain activity. That is, we will review neuronal _communication_, or _interaction_.  
+As another simplification, we will treat (and most of the rest of the nervous system) as a **neuronal network**. And by that we mean that we will focus on what **neurons** do (including to each other) before, during, and after we sense or perceive something. That is, we largely ignore the blood supply and many other cell types that make up the brain, even is these cells and systems might do more than just keep neurons alive and functional.
 
-Neuronal **activation** is only half of the story when it comes to understanding the link between sensation, perception and the brain. We will also need to briefly examine neuronal **connectivity**. After all, if we isolate each neuron of interest in a dish, and observe the same patterns of neuronal activation for each of these isolated neurons, we would not expect perception to arise. It is only because neurons form a _causal network_ that the brain does more than host individual, isolated ON/OFF switches.  
+:::{seealso} Click Me! 👈
+:class: dropdown
+If you are interested, here is a peer-reviewed summary an eminent neuroscientist wrote on the "neuron":
+
+[Rodolfo Llinas: Neuron](http://www.scholarpedia.org/article/Neuron)
+:::
+
+Our main goal is to introduce anyone to the foundations of how neuroscientists currently think about brain function. The focus will be on **neurophysiology**, which is mostly interested in the biological and biochechemical action that underlies brain activity. That is, we will review neuronal _communication_, or _interaction_.  
+
+Neuronal **activation** is only half of the story when it comes to understanding the link between sensation, perception and the brain. We will also need to briefly examine neuronal **connectivity**, which is the realm of **neuroanatomy**. After all, if we isolate each neuron of interest in a dish, and observe the same patterns of neuronal activation for each of these isolated neurons, we would not expect perception to arise. It is only because neurons form a _causal network_ that the brain does more than host individual, isolated ON/OFF switches.  
+
+:::{seealso} Click Me! 👈
+:class: dropdown
+If you are interested, here is a peer-reviewed summary an eminent neuroscientist wrote on "neuroanatomy":
+
+[Almut Schüz: Neuroanatomy](http://www.scholarpedia.org/article/Neuroanatomy)
+:::
 
 If you already have basic training in systems neuroscience, you can probably skip this chapter since we will merely go over the very basics of neuronal function and neuroanatomy. However, you might want to browse through this page to ensure that we are not covering anything that you might want a quick refresher for. You might also want to check out the end of this chapter, where we briefly discuss the difference between the _computational_ metaphor of brain function and _information processing_ since this distinction is not usually taught, or made explicit, in neuroscience courses.  
 
