@@ -3,7 +3,7 @@
 This textbook provides an open source, broad strokes introduction to the (neuro)science of sensation and perception[^1]. A single author's writing has the possible benefit of overall coherence. That is, this book aims to present data and ideas in harmony rather than an encyclopedic mosaic of potentially conflicting worldviews. Such harmony can only be achieved by dismissing valid ideas that do not fit inside, or even challenge, the overall story. In other words, single-authored books come at the risk of impartiality. To mitigate this concern, select scholarly references by additional authors are listed throughout for additional self-study[^2].  
 
 :::{note}
-"Perception" is sometimes equated with _opinions_. That is, we sometimes refer to different _thoughts_ (such as on a political topic) as "views", "perspectives", or "perception".
+"Perception" is sometimes equated with _opinions_. That is, we sometimes refer to different _thoughts_ (such as on a current event) as "views", "perspectives", or "perception".
 
 However, "perception" in a scientific context is less concerned about thoughts or **_differences_**.
 
