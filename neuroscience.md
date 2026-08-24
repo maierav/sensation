@@ -25,7 +25,7 @@ Before we examine each of our senses in isolation, we first need to briefly revi
 
 :::{seealso} Click Me! 👈
 :class: dropdown
-If you are interested, here is a peer-reviewed summary an eminent neuroscientist wrote on the "brain":
+If you are interested, here is a peer-reviewed summary an eminent neuroscientist wrote:
 
 [Valentino Braitenberg: Brain](http://www.scholarpedia.org/article/Brain)
 :::
@@ -34,7 +34,7 @@ As another simplification, we will treat (and most of the rest of the nervous sy
 
 :::{seealso} Click Me! 👈
 :class: dropdown
-If you are interested, here is a peer-reviewed summary an eminent neuroscientist wrote on the "neuron":
+If you are interested, here is a peer-reviewed summary an eminent neuroscientist wrote:
 
 [Rodolfo Llinas: Neuron](http://www.scholarpedia.org/article/Neuron)
 :::
@@ -45,7 +45,7 @@ Neuronal **activation** is only half of the story when it comes to understanding
 
 :::{seealso} Click Me! 👈
 :class: dropdown
-If you are interested, here is a peer-reviewed summary an eminent neuroscientist wrote on "neuroanatomy":
+If you are interested, here is a peer-reviewed summary an eminent neuroscientist wrote:
 
 [Almut Schüz: Neuroanatomy](http://www.scholarpedia.org/article/Neuroanatomy)
 :::
