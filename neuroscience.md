@@ -21,7 +21,7 @@ Mid-line section of a human brain.[^1]
 
 [^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Gray720.png)
 
-Before we examine each of our senses in isolation, we first need to briefly review the common denominator - the basic physiological function of the brain. 
+Before we examine each of our senses in isolation, we first need to briefly review the common denominator - the basic physiological function of the brain.  
 
 :::{seealso} Click Me! 👈
 :class: dropdown
