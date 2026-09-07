@@ -77,7 +77,7 @@ This is entertaining for a moment, but it also implies that our perception does 
 
 To many people, visual illusions suggest that perception might be more akin to a "lens" through which we see the world. And that lens distorts and has smudges. And since we always wear and wore that lens, we become unaware of it. A bit like a fish spending their whole life inside water probably won't realize that they are constantly surrounded by water. But the issue actually goes deeper than that:
 
-**If our perception is not the same as "the world around us", then what is it?**
+**If our perception is not the same as "the world around us", then what is it? What is made out of?**
 
 Answering this question will involve taking on a bit of formal _logic_ and _mathematics_ before investigating if the tools of science can be applied to perception. This will be an important foundation for us since exploring conscious experience might seem or sound woo-woo at times. But the entire goal here is to stick to the _science_ of perception. We thus need to find convincing arguments that we can explore conscious experience with precision, rigor, and lawful, structured thought and measurement.  
 
