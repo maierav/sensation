@@ -260,7 +260,13 @@ Lastly, and this may take a moment of reflection, in this sense perception is mo
 
 We will return to this insight again since it can take repeated struggle with this insight for the realization to set in. It is nonetheless essential to appreciate this _fundamental_ character of experience to fully grasp what the science of perception is about, why it can lead to confusion and puzzlement, and also to appreciate how we may be able to resolve some of these vexing conundrums, these apparent mysteries that we started out with.  
 
-There are also quite practical implications that are important to note for psychologist and cognitive scientists in order not to end up in confusion (which you can sometimes spot even in the expert literature). For example, perception in our context is not the thought that might arise when we perceive something. That is, perception is not _recognition_. Perception is how things appear to us, not the ideas or thoughts that follow that appearance.
+There are also quite practical implications that are important to note for psychologist and cognitive scientists in order not to end up in confusion (which you can sometimes spot even in the expert literature). For example, perception in our context is not the thought that might arise when we perceive something.  
+
+That is, **perception is more than noticing** (_recognition_).  
+
+Perception is how things appear to us (e.g., black moving shapes), not the ideas or thoughts that follow that appearance (e.g., "this is a crow"). In order for us to notice something, we first need to perceive it.  
+
+You first need to see something before you can recognize what it is.
 
 % Perception vs. Recognition
 :::{div}
