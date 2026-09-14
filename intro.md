@@ -262,9 +262,9 @@ We will return to this insight again since it can take repeated struggle with th
 
 There are also quite practical implications that are important to note for psychologist and cognitive scientists in order not to end up in confusion (which you can sometimes spot even in the expert literature). For example, perception in our context is not the thought that might arise when we perceive something.  
 
-That is, **perception is more than noticing** (_recognition_).  
+That is, **perception is more than noticing, recognizing, or knowing** (_recognition_).  
 
-Perception is how things appear to us (e.g., black moving shapes), not the ideas or thoughts that follow that appearance (e.g., "this is a crow"). In order for us to notice something, we first need to perceive it.  
+Perception is how things appear to us (let's say, black moving shapes), not the ideas or thoughts that follow that appearance (e.g., "this is a crow"). In order for us to notice something, we first need to perceive it.
 
 You first need to see something before you can recognize what it is.
 
@@ -295,7 +295,34 @@ Perception is what you see before you _think_ about _what_ you see. Recognition 
 
 It can be challenging to rid oneself of everyday notions of the word perception when studying the subject. After all, when we perceive something like a simplistic doodle, say of a flock of birds, we do both - see the lines on paper, and we can have the immediate experience of recognizing what the doodle shows. These two processes often get expressed with the same words, such as when we say "I see you drew birds". But what we really _see_ is **not** birds. We _see_ lines. We _think_ "birds", but we all know that birds do not just look like scribbled lines.  
 
-What we mean by "perception", then is what we see (just lines in this case). And this can take effort to recognize since we are so used to "doing more" than just reflecting on what we _actually see_. Without taking it for granted, just because it is so automatic ("given"), natural and familiar to us. Realizing this conception of "perception" is a bit like a fish realizing that they are surrounded by water, and always have been.
+What we mean by "perception", then is what we _see_ (just lines in this case), not what we _think_.
+
+This can take effort to recognize since we are so used to "doing more" than just reflecting on what we _actually see_. Without taking it for granted, just because it is so automatic ("given"), natural and familiar to us. Realizing this conception of "perception" is a bit like a fish realizing that they are surrounded by water, and always have been.
+
+% Seeing vs. Noticing
+:::{div}
+:class: hidden dark:block
+
+:::{figure} images/popout_amnesia_dark.gif
+:label: fig: seeing vs. noticing
+:width: 90%
+
+Follow the instructions of the above animation before reading on.
+:::
+
+:::{div}
+:class: dark:hidden
+
+:::{figure} images/popout_amnesia.gif
+:label: fig: seeing vs. noticing
+:width: 90%
+
+Follow the instructions of the above animation before reading on.
+:::
+
+We seem to experience (perceive) a lot more things than we notice, recognize, and know. For example, there is often much more in our field of view at any moment in time than we can name or report right after.
+
+Yet, experiments, such as the one illustrated by the animation above, suggest that this is _not an illusory feeling of richness_. We do seem to see these things indeed. We just do not notice and thus cannot report all of them.
 
 ### Privacy
 
