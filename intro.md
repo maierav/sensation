@@ -770,7 +770,13 @@ Many thinkers that followed Plato have thought deeply about this issue. However,
 
 ###### MONISM
 
-One possible solution is that there really is only one thing. That is, the assumption that we had that there is a world and our perception of the world is wrong. This leaves only two options: All is the world (i.e., there is no perception), or all is perception (there is no world).
+One possible solution is that there really is only one thing. That is, the assumption that there is a world and our perception of the world is wrong.
+
+This leaves only two options:
+
+(1) All is the physical world (i.e., there is no conscious experience/perception), or
+
+(2) All is conscious experience/perception (there is no physical world).
 
 The actual ideas are a bit more complex, but they do not deviate far from the sentence above. The technical terms we use for these ideas are:
 
@@ -785,9 +791,11 @@ The opposing view is:
 
 ###### DUALISM
 
-Another possible solution is that there really are two different things: a world and our perception. But there are some disagreements on what exactly makes them different.
+Another possible solution is that there really are two different things: a physical, material world and our conscious perception. But there are some disagreements on what exactly makes them different.
 
 >SUBSTANCE DUALISM: This view, often credited to René Descartes, even though it can be found in many (older) cultures around the world is that your perception is real, yet "immaterial". And that the world is "material", or physical. Proponents of this view try to explain why and how these two domains are linked, such as how (material) brain damage or intoxication can alter (immaterial) perception. On this view, (immaterial) perception might also be able to affect the (material) world.
+
+If the physical world and our conscious perception are substantially different things, we are left with the need to explain _how they relate_. That is, we need to come up with an explanation of _if and how_ a change in the physical world (such as your brain) can elicit a change in our perception. And just based on logic, there are not that many options. We can assume that perception and physics can affect each other, or interact (**Interactionism**). On the contrary, we can assume that none has an effect on the other, yet often or always seem to go hand in hand, as if they were evolving in parallel (**Parellelism**). Lastly, we can assume that the causal effect goes only one way: Either physics alone comes with causal power and only physics can affect perception and not the other way around (**Epiphenomenalism**). Or, only perception has causal power and physics is really just shaped by our perception (**Mental Causation**; arguably not a view that many would defend).
 
 There is also:
 
