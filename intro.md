@@ -830,7 +830,21 @@ A simplified logical space of possible views regarding conscious perception and 
 WHICH OF THESE IDEAS BEST DESCRIBE YOUR OWN VIEW? WHY DO YOU DISMISS THE OTHER VIEWS?
 :::
 
-For the purpose of this course, we will adopt a somewhat neutral dualistic stance. That is, we will base our knowledge about the world on the natural sciences such as physics, chemistry, and biology. At the same time, we will treat perception as a real phenomenon that goes beyond its behavioral or functional corollaries. At the end of the semester, we will re-examine this view, and discuss how what we learned can also be applied to other views. As we will see, the scientific knowledge that we will gain will end up as largely compatible with _most_, if not all, of these views. At the same time, you will have learned new facts and logical insights that pose challenges to each of these views, thus making it even more interesting to ponder about their validity.
+You might wonder why you need to know all this. Why care? What does this really have to do with our brains and perception?
+
+One reason for discussing these various views is to note that they are (in the extremes that we presented them in) logically exclusive. That is, it seems impossible for there being only a material world (see: MATERIALISM) and also for your experience of love being real. Love is not material, after all.
+
+Likewise, if the only thing that can affect and change physical things in the objective physical world are objective, physical objects (see: EPIPHENOMENALISM), then our conscious experience and thought should not be able to change anything in the real world. You might experience your thoughts, such as "I will blink now" change something physical, such as your eye blinking. But this all may be fully explained by neurons in your brain performing all the underlying computations in a fully deterministic fashion. Your thought is a product of these neurons changing, not the other way around.
+
+It is important to detect such inconsistencies, especially in science where we aim to uncover inconsistent beliefs (since the object of our study, nature, seemingly is never inconsistent). And to do so, requires a moment of appreciation for these rivaling views that philosophers have worked out for us. Again, not to just decide on a favorite view among them based on personal preference. But to avoid believing two or more of these conflicting ideas at once.
+
+Indeed, [a 2026 survey](https://doi.org/10.1073/pnas.2610776123) of 2,657 neuroscientists revealed that while 64% of the scientists endorsed reductive physicalism (see: EPIPHENOMENALISM), only 17.5% rejected the idea of "free will" in that humans can change physical objects by sheer thought (see: INTERACTIONISM).
+
+There are indeed philosophical considerations that allow for modified views that resolve such apparent contradictions. However, this survey did not indicate that the scientists were aware of all that.
+
+For the purpose of this course, we will adopt a somewhat ontologically neutral but epistemically dualistic stance. That is, we will base our knowledge about the world on the natural sciences such as physics, chemistry, and biology and assume that only physical things can affect other physical things ("causal closure of the physical universe"). At the same time, we will treat subjective experience (perception) as a real phenomenon that goes beyond its behavioral or functional corollaries. At the end of the semester, we will re-examine this view, and discuss how what we learned can also be applied to other views.
+
+As we will see, the scientific knowledge that we will gain will end up largely compatible with _most_, if not all, of the rivaling views. At the same time, you will have learned new facts and logical insights that pose challenges to each of these views, thus making it even more interesting to ponder about their validity.
 
 :::{seealso} Click Me! 👈
 :class: dropdown
