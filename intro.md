@@ -838,7 +838,7 @@ Likewise, if the only thing that can affect and change physical things in the ob
 
 It is important to detect such inconsistencies, especially in science where we aim to uncover inconsistent beliefs (since the object of our study, nature, seemingly is never inconsistent). And to do so, requires a moment of appreciation for these rivaling views that philosophers have worked out for us. Again, not to just decide on a favorite view among them based on personal preference. But to avoid believing two or more of these conflicting ideas at once.
 
-Indeed, [a 2026 survey](https://doi.org/10.1073/pnas.2610776123) of 2,657 neuroscientists revealed that while 64% of the scientists endorsed reductive physicalism (see: EPIPHENOMENALISM), only 17.5% rejected the idea of "free will" in that humans can change physical objects by sheer thought (see: INTERACTIONISM).
+Indeed, [a 2026 survey](https://doi.org/10.1073/pnas.2610776123) of 2,657 neuroscientists revealed that while 64% of the scientists endorsed reductive physicalism (see: EPIPHENOMENALISM), only 17.5% rejected the idea that humans can change physical objects by sheer thought (see: INTERACTIONISM).
 
 There are indeed philosophical considerations that allow for modified views that resolve such apparent contradictions. However, this survey did not indicate that the scientists were aware of all that.
 
