@@ -840,7 +840,7 @@ It is important to detect such inconsistencies, especially in science where we a
 
 Indeed, [a 2026 survey](https://doi.org/10.1073/pnas.2610776123) of 2,657 neuroscientists revealed that while 64% of the scientists endorsed reductive physicalism (see: EPIPHENOMENALISM), only 17.5% rejected the idea that humans can change physical objects by sheer thought (see: INTERACTIONISM).
 
-There are indeed philosophical considerations that allow for modified views that resolve such apparent contradictions. However, this survey did not indicate that the scientists were aware of all that.
+There are several [philosophical attempts to resolve this apparent contradiction](https://plato.stanford.edu/entries/freewill/), and it is possible that these scientists ascribe to these more sophisticated philosophical views. However, it is also possible that even experts can "hold mutually inconsistent beliefs without fully integrating them at a reflective level", as the authors of that study put it. Appreciation of the above scheme can preempt similar states of confusion.
 
 For the purpose of this course, we will adopt a somewhat ontologically neutral but epistemically dualistic stance. That is, we will base our knowledge about the world on the natural sciences such as physics, chemistry, and biology and assume that only physical things can affect other physical things ("causal closure of the physical universe"). At the same time, we will treat subjective experience (perception) as a real phenomenon that goes beyond its behavioral or functional corollaries. At the end of the semester, we will re-examine this view, and discuss how what we learned can also be applied to other views.
 
